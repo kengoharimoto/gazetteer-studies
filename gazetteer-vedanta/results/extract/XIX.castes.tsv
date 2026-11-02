@@ -1,0 +1,148 @@
+vol	class	caste	population	pop_source_name	labels_all	labels_guru
+XIX	Census Details	Age				
+XIX	Census Details	Marriage				
+XIX	Houses	Occupation				
+XIX	Movements	GOMMTJIHTIES				
+XIX	BrAhmans	Oujardtis				
+XIX	BrAhmans	Kdnvs				
+XIX	BrAhmans	Karhddds				
+XIX		BaIhmans			VAISHNAV:2,SHAIVA:1,SMARTA:1,BHAGVAT:1	VAISHNAV:1
+XIX		Kdsts				
+XIX		KonJcanastJts				
+XIX	BrAhmans	Mdrwdris				
+XIX	BrAhmans	PaUJids				
+XIX	BrAhmans	Savdslids				
+XIX		Bbaemans				
+XIX		Shenvis				
+XIX		Tirguls				
+XIX		Wbitees				
+XIX		Writbes				
+XIX		Kdyasth Prdblius				
+XIX		Pdtdne Prabhus				
+XIX		Tradbes				
+XIX		Oujardt Vdnis				
+XIX	Jains	Komtis			LINGAYAT:1	
+XIX		Tbasebs				
+XIX		Lingdyat Vdnia			LINGAYAT:1	
+XIX		Tbadees				
+XIX		Mardtha Vdnis			VAISHNAV:1	
+XIX		Mdrvidr Vdnis			LINGAYAT:1	LINGAYAT:1
+XIX	Traders	Mdrwdr Vdnis				
+XIX	Traders	TdmboUs				
+XIX		Tdmholis				
+XIX	Husbandmen	Teadeks				
+XIX	Husbandmen	Tdmbolis				
+XIX	Husbandmen	Kunbis	583569	Kunbis		
+XIX	Husbandmen	Kunhis				
+XIX		Husbandmen Kunbis				
+XIX		HcrSBANDMEN				
+XIX		Husbandmen'				
+XIX		MardtAds				
+XIX	Husbandmen	Mardthds				
+XIX		HuSBANDMBir				
+XIX		Cbaitsmbn				
+XIX		Belddrs				
+XIX		Buruds				
+XIX		Belda'rs				
+XIX		Cbaftsmbn				
+XIX		Okcmblidra				
+XIX		Cbaitsubn				
+XIX		Ohisddis				
+XIX		Kanjdris				
+XIX		Ckaitsmen				
+XIX		Ckaftsmbn				
+XIX		Kdranjkari				
+XIX		Kdsdrs				
+XIX		Koshtis			LINGAYAT:1	
+XIX	Craftsmen	Lohdrs				
+XIX	Craftsmen	Londris				
+XIX	Craftsmen	Otdris				
+XIX		Ckaftsmek				
+XIX		Pdtharvats				
+XIX		CEAFTSMElf				
+XIX	Craftsmen	Patvekars			LINGAYAT:1	LINGAYAT:1
+XIX	Craftsmen	Bangdris				
+XIX		Crattsmen				
+XIX		Ckaftsmen				
+XIX		Shimpis				
+XIX		Sonars				
+XIX		SutrU's				
+XIX		Tdia			VAISHNAV:1,SHAIVA:1	
+XIX	Musicians	CEArTSMBtf				
+XIX	Musicians	TelU			LINGAYAT:2	
+XIX	Musicians	VadArs				
+XIX	Musicians	Ohadtii				
+XIX	Musicians	Ghadsis				
+XIX	Musicians	Chtravs				
+XIX	Musicians	Ouravs				
+XIX	Musicians	Guravs				
+XIX	Musicians	HolAri				
+XIX	Musicians	Holdrs				
+XIX	Musicians	Sbevants				
+XIX	Musicians	Nhdvis				
+XIX	Musicians	Parits				
+XIX	Fishers	Shephbkds				
+XIX	Fishers	Oavlis				
+XIX	Fishers	Bhois				
+XIX		FiSHEKS				
+XIX		KoHs				
+XIX		Laboubess				
+XIX		Laboubbbs				
+XIX		PardeahU			SMARTA:1	
+XIX		Thdkur				
+XIX		Labottbebs				
+XIX		Thdhurs				
+XIX		UlfSBTTLED Tribes				
+XIX		KaiJcddis				
+XIX		Rdmoahis			LINGAYAT:1	LINGAYAT:1
+XIX		Unsettled Tbibbs				
+XIX		Edmoshis				
+XIX		Defkessed Classes				
+XIX		Bhangis				
+XIX		Sdtdra Dtpressid Classes				
+XIX		Dbpebsseb Classes				
+XIX		Mors				
+XIX	Depressed Classes	Mhdrs				
+XIX	Beggars	Depeessbd Classes			MAHANUBHAV:3,SHAIVA:1	MAHANUBHAV:3,SHAIVA:1
+XIX	Beggars	Mlidrs				
+XIX	Beggars	Bhdti			VAISHNAV:1	VAISHNAV:1
+XIX	Beggars	Ohitrakathis				
+XIX	Beggars	Qondhlis				
+XIX	Beggars	Gopdls				
+XIX		Beggabs			MAHANUBHAV:1	
+XIX		Gosdns				
+XIX		Jangams			LINGAYAT:2,MAHANUBHAV:2,NATH:1	NATH:1,LINGAYAT:1,MAHANUBHAV:1
+XIX	Beggars	MdnWidvs			MAHANUBHAV:1	MAHANUBHAV:1
+XIX		Beoqabs				
+XIX		Uchlds				
+XIX		Vaidus			LINGAYAT:1	LINGAYAT:1
+XIX	MUSALMANS	Ydsudevs				
+XIX		MusalmIns	36712	Musalma'ns		
+XIX	MusalmAns	Special Communities				
+XIX	MusalmAns	Atdrs				
+XIX	MusalmAns	Manydrs				
+XIX		MfsalmAns				
+XIX	MusalmAns	Mdhdwate				
+XIX	MusalmAns	Outside Communities				
+XIX	MusalmAns	Bohords				
+XIX	MusalmAns	Mehmans				
+XIX	MusalmAns	Mukris				
+XIX	MusalmAns	Odi Kasdbs				
+XIX		MuSALuiNS				
+XIX	MusalmAns	Dhobis				
+XIX	MusalmAns	Dhondphoddi				
+XIX	MusalmAns	Oavandh				
+XIX		MJJ3AIMASS				
+XIX		Oavandis				
+XIX		Gdrudis or Maddris				
+XIX		MtjsalmAns				
+XIX		Jhdrd8				
+XIX		Mdrwdr Rangdria				
+XIX	MUSALMANS	Patvegars				
+XIX	MUSALMANS	Pinjdris				
+XIX	MUSALMANS	Sihalgars				
+XIX	MUSALMANS	TdmbcUSt crowd				
+XIX	Christians	MUSALMAHS				
+XIX	Christians	Tdmbats				
+XIX	Christians	PAesis				
+XIX		?			SHAIVA:1	

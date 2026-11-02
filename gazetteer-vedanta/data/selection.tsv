@@ -1,0 +1,23 @@
+vol	district	year	primary	backup	note
+II	Surat and Broach	1877	in.gov.ignca.17317	dli.ministry.13326	Gujarat
+III	Kaira and Panch Mahals	1879	in.gov.ignca.17319	dli.ernet.106190	Gujarat
+IV	Ahmedabad	1879	dli.ministry.08145	in.ernet.dli.2015.73271	Gujarat
+V	Cutch, Palanpur, Mahi Kantha	1880	in.ernet.dli.2015.106191	in.gov.ignca.17323	Gujarat
+VI	Rewa Kantha, Narukot, Cambay, Surat States	1880	cu31924070623545	in.gov.ignca.17325	Gujarat
+VII	Baroda	1883	in.ernet.dli.2015.280090	in.gov.ignca.17327	Gujarat
+VIII	Kathiawar	1884	in.ernet.dli.2015.281422		Gujarat
+IX-1	Gujarat Population: Hindus	1901	in.ernet.dli.2015.113147	in.ernet.dli.2015.281420	Gujarat; caste accounts for all Gujarat
+X	Ratnagiri and Savantvadi	1880	cu31924070623578	dli.csl.3335	Konkan
+XI	Kolaba and Janjira	1883	b29353397_0011	in.ernet.dli.2015.281424	Konkan
+XII	Khandesh	1880	b29353397_0012	cu31924070623594	Deccan
+XIII-1	Thana pt 1	1882	dli.ministry.08142	dli.csl.3307	Konkan
+XV-1	Kanara pt 1	1883	in.ernet.dli.2015.106198	in.ernet.dli.2015.280091	Karnatak; 280091 download failed twice (SSL)
+XVI	Nasik	1883	b29353397_0016	cu31924070623651	Deccan
+XVII	Ahmadnagar	1884	wbsl.17015	india.history.resource.89706	Deccan; dli.ministry.13320 (earlier backup) is in fact Nasik vol XVI
+XVIII-1	Poona pt 1	1885	dli.ministry.08151	wbsl.19792	Deccan; wbsl.19792 is partial (780k chars)
+XIX	Satara	1885	cu31924070623701	in.ernet.dli.2015.281426	Deccan
+XX	Sholapur	1884	cu31924070623719	in.ernet.dli.2015.281427	Deccan
+XXI	Belgaum	1884	cu31924070623727	wbsl.17016	Karnatak
+XXII	Dharwar	1884	wbsl.15453	dli.csl.3218	Karnatak
+XXIII	Bijapur	1884	cu31924070623743	dli.ernet.11430	Karnatak
+XXIV	Kolhapur	1886	wbsl.16117	in.ernet.dli.2015.511663	Deccan; backup has no usable OCR

@@ -1,0 +1,134 @@
+vol	district	region	census	hindu_total	group	coded_pop	share_pct	n_castes	n_without_pop	n_part	castes
+V	Cutch	Gujarat	1872	369184	Jain	58971	16.0	2	0	0	Osval Vani =47472; Gujar Osval Vani =11499
+V	Cutch	Gujarat	1872	369184	Vallabha	24299	6.6	5	1	0	Pokarna Brahman =2321; Girnara Brahman =787; Modh Vani =1191; Vani Soni (no fig.); Bhatia =20000
+V	Cutch	Gujarat	1872	369184	Shaiva (unspecified)	20518	5.6	9	1	1	Saraswat Brahman =5431; Audich Brahman =2945; Parajia Brahman =2138; Modh Brahman (Trivedi) (no fig.) [part]; Shrimali Brahman =870; Nandvana Brahman =350; Sompura Brahman =17; Brahma-Kshatri =3890; Atit/Gosain =4877
+V	Cutch	Gujarat	1872	369184	Vaishnava (unspecified)	12314	3.3	6	1	0	Aboti Brahman =391; Vayda Vani =358; Sorathia Vani =161; Meshri Vani =805; Bhansali =10599; Desaval Vani (no fig.)
+V	Cutch	Gujarat	1872	369184	Ramanandi/Bairagi	8216	2.2	2	1	1	Modh Brahman (Chaturvedi) (no fig.) [part]; Chakalia Kumbhar =8216
+V	Cutch	Gujarat	1872	369184	Mixed (several sects named)	7978	2.2	8	1	0	Sachora Brahman =878; Vedant Brahman =440; Kandolia Brahman =26; Kayasth =380; Jhalora Vani =97; Shrimali Vani =5745; Jadeja Rajput (no fig.); Patni Soni =412
+V	Cutch	Gujarat	1872	369184	Svaminarayan	1237	0.3	1	0	0	Mochi =1237
+V	Cutch	Gujarat	1872	369184	Ramanuja/Shrivaishnava	0		1	1	0	Lohana (no fig.)
+V	Cutch	Gujarat	1872	369184	Nath	0		2	2	0	Kanphata (Dhoramnath) (no fig.); Kanphata (Kanthadnath) (no fig.)
+VIII	Kathiawar	Gujarat	1881	2038799	Vaishnava (unspecified)	55000	2.7	7	6	0	Gugli Brahman (no fig.); Aboti (no fig.); Kandolia (no fig.); Modh Vania (no fig.); Lohana =55000; Kunbi (Anjna) (no fig.); Vairagi (no fig.)
+VIII	Kathiawar	Gujarat	1881	2038799	Svaminarayan	23000	1.1	1	0	0	Mochi =23000
+VIII	Kathiawar	Gujarat	1881	2038799	Mixed (several sects named)	16500	0.8	5	4	2	Mankhetria Brahman (no fig.); Koli (no fig.) [part]; Kunbi (Leva/Kadva) (no fig.); Vania Soni [part] =16500; Suthar (no fig.)
+VIII	Kathiawar	Gujarat	1881	2038799	Shaiva (unspecified)	3100	0.2	3	2	0	Sarasvat =3100; Modh (no fig.); Atit/Gosai (no fig.)
+VIII	Kathiawar	Gujarat	1881	2038799	Vallabha	20	0.0	1	0	0	Gosain Maharaj =20
+VIII	Kathiawar	Gujarat	1881	2038799	Nath	0		1	1	0	Kanphata (no fig.)
+IX-1	Gujarat (all)	Gujarat	1891	9887810	Mixed (several sects named)	5437670	55.0	35	6	7	Rajput =498063; Vaghela Rajput (no fig.) [part]; Brahma-Kshatri =2509; Kayastha (Mathur) (no fig.); Mevada Vania =4339; Porvad Vania =45093; Ummad Vania =8044; Nima Vania (Visa) [part] =2347; Lohana =11133; Kunbi/Kanbi =1410422; Kunbi (Anjana) =31488; Kachhia =27861; Mali =21163; Sathvara =52173; Bhavsar =29258; Darji =86216; Ghanchi =51231; Gola =22000; Chunara =10626; Kansara =14128; Luhar =107639; Mochi =64999; Sompura Salat =6459; Soni =69282; Suthar =123948; Bhat =53875; Gandharp =152; Dhobi (no fig.); Hajam =178881; Koli [part] =2276033; Bhoi (no fig.) [part]; Rabari [part] =215064; Bhangia (no fig.) [part]; Dheda (no fig.) [part]; Tirgar =13244
+IX-1	Gujarat (all)	Gujarat	1891	9887810	Vaishnava (unspecified)	316087	3.2	8	1	1	Aboti =5183; Girnara (no fig.); Gugli =3088; Shevak =251; Nima Vania (Dasa) [part] =2347; Chhipa/Calender =3836; Khatri =52972; Kumbhar =248410
+IX-1	Gujarat (all)	Gujarat	1891	9887810	Jain	212756	2.2	1	0	1	Shrimali Vania (Visa) [part] =212756
+IX-1	Gujarat (all)	Gujarat	1891	9887810	Ramanandi/Bairagi	128474	1.3	1	0	1	Bharvad [part] =128474
+IX-1	Gujarat (all)	Gujarat	1891	9887810	Vallabha	101906	1.0	14	3	1	Rundhval [part] =526; Kayastha (Valmik) (no fig.); Kayastha (Bhatnagar) (no fig.); Desaval Vania =17411; Didu Vania =803; Gujjar Vania =2045; Harsola Vania =1275; Lad Vania =18519; Modh Vania =34947; Nandora Vania =151; Nagar Vania =13511; Rayakval Vania =47; Sorathiya Vania =12671; Bhatia (no fig.)
+IX-1	Gujarat (all)	Gujarat	1891	9887810	Shaiva (unspecified)	57136	0.6	3	0	0	Anavala =40334; Charan =3913; Targala/Bhavaya =12889
+IX-1	Gujarat (all)	Gujarat	1891	9887810	Other named guru	17812	0.2	2	1	0	Patelia (no fig.); Sagar =17812
+IX-1	Gujarat (all)	Gujarat	1891	9887810	Smarta (Shankaracharya)	0		2	2	0	Deshastha/Dakhani (Deccan Brahmans in Gujarat) (no fig.); Jethva Rajput (no fig.)
+IX-1	Gujarat (all)	Gujarat	1891	9887810	Svaminarayan	0		1	1	1	Parmar Rajput (Muli) (no fig.) [part]
+X	Ratnagiri	Konkan	1872	941049	Smarta (Shankaracharya)	13669	1.5	4	3	2	Chitpavan/Konkanastha (no fig.); Shenvi/Saraswat [part] =13669; Shenvi/Saraswat (no fig.) [part]; Drávid Brahmans (Deshastha/Karhada/Chitpavan/Devrukha) (no fig.)
+X	Ratnagiri	Konkan	1872	941049	Vaishnava (unspecified)	13669	1.5	2	1	2	Shenvi/Saraswat [part] =13669; Shenvi/Saraswat (Vaishnav) (no fig.) [part]
+X	Ratnagiri	Konkan	1872	941049	Shaiva (unspecified)	9600	1.0	1	0	0	Vani =9600
+X	Ratnagiri	Konkan	1872	941049	None stated	1277	0.1	1	0	0	Javal Brahman =1277
+X	Ratnagiri	Konkan	1872	941049	Jain	1051	0.1	1	0	0	Jain =1051
+X	Ratnagiri	Konkan	1872	941049	Lingayat	508	0.1	3	2	1	Lingayat (no fig.); Gurav (Lingayat) (no fig.) [part]; Lingayat =508
+X	Ratnagiri	Konkan	1872	941049	Vallabha	0		1	1	1	Gujar Vani (no fig.) [part]
+XI	Kolaba	Konkan	1881	361281	Mixed (several sects named)	44191	12.2	2	1	1	Agri =44191; Shrimali Vani (no fig.) [part]
+XI	Kolaba	Konkan	1881	361281	Smarta (Shankaracharya)	8337	2.3	2	1	0	Chitpavan/Konkanastha =8337; Maratha Vani (no fig.)
+XI	Kolaba	Konkan	1881	361281	Vaishnava (unspecified)	4182	1.2	3	2	0	Kayasth Prabhu =4182; Kapol Vani (no fig.); Marwar Vani (no fig.)
+XI	Kolaba	Konkan	1881	361281	Shaiva (unspecified)	60	0.0	1	0	0	Patane Prabhu =60
+XI	Kolaba	Konkan	1881	361281	Lingayat	0		2	2	0	Lingayat Vani (no fig.); Lingayat (no fig.)
+XII	Khandesh	Deccan	1872	948279	Mixed (several sects named)	500	0.1	4	3	0	Khandesh Vani (no fig.); Marvad Vani (no fig.); Vaishya Sonar =500; Shimpi (no fig.)
+XII	Khandesh	Deccan	1872	948279	Lingayat	500	0.1	2	1	1	Lingayat Vani =500; Koshti (no fig.) [part]
+XII	Khandesh	Deccan	1872	948279	Vallabha	0		1	1	0	Gujarat Vani (no fig.)
+XII	Khandesh	Deccan	1872	948279	Vaishnava (unspecified)	0		1	1	1	Khandesh Vani (Ladsakka?) (no fig.) [part]
+XII	Khandesh	Deccan	1872	948279	Other named guru	0		2	2	1	Ahir Lohar (no fig.); Vanjari (no fig.) [part]
+XII	Khandesh	Deccan	1872	948279	Mahanubhav	0		1	1	0	Manbhav (no fig.)
+XII	Khandesh	Deccan	1872	948279	Nath	0		1	1	0	Kanphata (no fig.)
+XIII-1	Thana	Konkan	1872	765886	Vaishnava (unspecified)	186408	24.3	5	1	0	Yajurvedi Madhyandin =357; Porvad Vani (no fig.); Bhansali =449; Bari =2458; Kunbi =183144
+XIII-1	Thana	Konkan	1872	765886	Lingayat	72777	9.5	2	0	1	Jangam =165; Koli (Mahadev) [part] =72612
+XIII-1	Thana	Konkan	1872	765886	Smarta (Shankaracharya)	13215	1.7	9	1	2	Apastamba Hiranyakeshi =669; Chitpavan/Konkanastha =8722; Devrukha =899; Karhada [part] =585; Nagar =32; Saraswat =21; Patane Prabhu =85; Mangela (no fig.); Pardeshi [part] =2202
+XIII-1	Thana	Konkan	1872	765886	Mixed (several sects named)	9760	1.3	8	0	0	Audich =561; Deshastha =1006; Tarodhan (OCR) =80; Kayasth Prabhu =5125; Kamathi =728; Tambat =487; Akarmashe =861; Gosavi =912
+XIII-1	Thana	Konkan	1872	765886	Vallabha	0		1	1	0	Lad Vani (no fig.)
+XV-1	Kanara	Karnatak	1881	382997	Smarta (Shankaracharya)	148023	38.6	63	2	4	Havig =39710; Chitpavan/Konkanastha =854; Deshastha (Smarta) (no fig.) [part]; Karhada =555; Kot Brahman =389; Saklapuri =96; Andhra Brahman =100; Shenvi/Saraswat =8799; Kushasthali (Saraswat) =1131; Kudaldeskar =324; Bavkule(?) Vani =3332; Kannad Vani =527; Bandekar Vani =477; Narvekar Vani =322; Lad Vani =272; Pednekar Vani =102; Komti =261; Konger/Rachevar =18; Ghadi =1124; Patali/Sthanik =81; Arer (Kanarese Maratha) =17461; Konkan Kunbi [part] =14812; Konkan Maratha =7814; Sherogar =3070; Sudir =1209; Hanbar =795; Satarkar =489; Are Maratha =263; Habbu =234; Shilangi =94; Tigla =21; Kasar =130; Gudigar =380; Jingar =30; Shimpi =628; Kumbhar (Kannad) =1500; Kumbhar (Konkani) =600; Bogar =15; Patsuli =170; Ganig =1971; Mitgavdi =100; Padamsali =136; Komarpaik [part] =8743; Chaudri =156; Ambig =3000; Kharvi (Khande) =800; Kharvi (Konkan) =5700; Fagi =250; Haller Vajantri =1732; Mang =742; Kalavant (Kannad) [part] =250; Madival (Kannad) =3000; Madival (Konkani) =2000; Kelasi (Kannad) =700; Kelasi (Konkani) =500; Kelasi (Telugu) =100; Bandi =4500; Devli =3200; Golak (no fig.); Kathkari =140; Kasai =50; Gosavi =200; Chuchalvadi =1864
+XV-1	Kanara	Karnatak	1881	382997	Other named guru	50677	13.2	4	0	0	Rajput =344; Badige =6560; Lohar =834; Halepaik =42939
+XV-1	Kanara	Karnatak	1881	382997	Madhva	19021	5.0	4	1	2	Deshastha (Madhva) (no fig.) [part]; Shivalli =5; Sasashtkar (Konkani Saraswat) =8858; Sonar [part] =10158
+XV-1	Kanara	Karnatak	1881	382997	Ramanuja/Shrivaishnava	5345	1.4	5	0	0	Telugu Banjig =457; Aigal =92; Bhoi =1150; Chetri =646; Vaddar =3000
+XV-1	Kanara	Karnatak	1881	382997	Lingayat	5117	1.3	7	0	0	Mallav =1917; Banjig =1082; Sudar =499; Nonbar =113; Gaundi =90; Bangar =192; Kabher =1224
+XV-1	Kanara	Karnatak	1881	382997	Vaishnava (unspecified)	4689	1.2	6	1	0	Bardeskar =657; Pednekar (Saraswat) =102; Aksali =200; Golak Sonar (no fig.); Moger =3500; Dasa =230
+XV-1	Kanara	Karnatak	1881	382997	Jain	1711	0.4	3	0	0	Gujarat Vani =37; Marwari Vani =21; Jain =1653
+XV-1	Kanara	Karnatak	1881	382997	Vallabha	171	0.0	2	0	0	Bhatia =112; Lohana =59
+XV-1	Kanara	Karnatak	1881	382997	Mixed (several sects named)	0		1	1	0	Karnatak Brahman (no fig.)
+XVI	Nasik	Deccan	1872	693335	Other named guru	81098	11.7	3	1	0	Shenvi/Saraswat (no fig.); Mhar =71666; Chambhar =9432
+XVI	Nasik	Deccan	1872	693335	Mixed (several sects named)	10875	1.6	3	0	0	Shimpi =7386; Patharvat =499; Gosavi =2990
+XVI	Nasik	Deccan	1872	693335	Shaiva (unspecified)	1947	0.3	2	0	0	Gurav =1561; Burud =386
+XVI	Nasik	Deccan	1872	693335	Mahanubhav	919	0.1	1	0	0	Manbhav =919
+XVI	Nasik	Deccan	1872	693335	Nath	637	0.1	2	1	0	Raval (no fig.); Ramoshi =637
+XVI	Nasik	Deccan	1872	693335	Lingayat	382	0.1	1	0	0	Jangam =382
+XVI	Nasik	Deccan	1872	693335	Smarta (Shankaracharya)	0		1	1	0	Dravid Brahman (no fig.)
+XVII	Ahmadnagar	Deccan	1881	706557	Mixed (several sects named)	366396	51.9	7	1	2	Deshastha =27249; Marwari Brahman =971; Shenvi/Saraswat =131; Kunbi Vani (Maratha traders) [part] =1445; Kunbi [part] =304000; Mali =32600; Mang (no fig.)
+XVII	Ahmadnagar	Deccan	1881	706557	Lingayat	14775	2.1	5	2	3	Sansari Jangam (no fig.); Koshti (no fig.) [part]; Lingayat Burud =385; Gavli [part] =872; Chambhar [part] =13518
+XVII	Ahmadnagar	Deccan	1881	706557	Smarta (Shankaracharya)	9277	1.3	11	0	0	Karhada =186; Devrukha =7; Gujarati Brahman =89; Tirgul =194; Bhadbhunja =19; Saltangar =251; Sonar =8139; Ghadshi =75; Bhorpi =109; Pangul =65; Handmill maker =143
+XVII	Ahmadnagar	Deccan	1881	706557	Vaishnava (unspecified)	8040	1.1	2	0	0	Shimpi (Namdev) =834; Teli =7206
+XVII	Ahmadnagar	Deccan	1881	706557	Shaiva (unspecified)	3193	0.5	2	0	0	Meshri Marwari Vani =561; Gurav =2632
+XVII	Ahmadnagar	Deccan	1881	706557	Ramanandi/Bairagi	3027	0.4	1	0	0	Kasar =3027
+XVII	Ahmadnagar	Deccan	1881	706557	Nath	895	0.1	1	0	1	Bhoi [part] =895
+XVII	Ahmadnagar	Deccan	1881	706557	Mahanubhav	778	0.1	1	0	0	Manbhav (Mahanubhav) =778
+XVII	Ahmadnagar	Deccan	1881	706557	Other named guru	431	0.1	2	0	0	Gavandi/Patharvat =416; Mochi =15
+XVII	Ahmadnagar	Deccan	1881	706557	None stated	0		1	1	0	Koli (Mahadev) (no fig.)
+XVIII-1	Poona	Deccan	1881	846781	Mixed (several sects named)	437230	51.6	8	1	1	Deshastha =32749; Vidur =100; Agarwal Vani =121; Gujarat Vani =3844; Kunbi =400000; Bhavsar =307; Ottari =109; Nhavi (Tailang) (no fig.) [part]
+XVIII-1	Poona	Deccan	1881	846781	Shaiva (unspecified)	98271	11.6	7	0	0	Komti =429; Gurav =5958; Mhar =74553; Mang =13620; Pangul =88; Sarvade Joshi =1623; Uchlia =2000
+XVIII-1	Poona	Deccan	1881	846781	Lingayat	11457	1.4	9	1	2	Bangar =33; Lingayat =6361; Kachari =65; Nirali [part] =162; Sangar =809; Gavli =2006; Ramoshi (no fig.) [part]; Dhor =1104; Jangam =917
+XVIII-1	Poona	Deccan	1881	846781	Smarta (Shankaracharya)	10024	1.2	9	1	1	Chitpavan/Konkanastha (no fig.); Dravid Brahman =37; Karhada =236; Marwari Brahman =200; Shenvi/Saraswat [part] =445; Tailang Brahman =100; Bhadbhunja =217; Lakheri =79; Teli =8710
+XVIII-1	Poona	Deccan	1881	846781	Vaishnava (unspecified)	6639	0.8	5	0	1	Shenvi/Saraswat (Bhagvat subdivisions) [part] =445; Kayasth Prabhu =830; Gaundi =3847; Jingar =650; Lodhi =867
+XVIII-1	Poona	Deccan	1881	846781	Nath	3982	0.5	3	0	0	Raul =377; Bhoi =3477; Kanphate Gosavi =128
+XVIII-1	Poona	Deccan	1881	846781	Other named guru	2713	0.3	1	0	0	Koshti =2713
+XIX	Satara	Deccan	1881	1024597	Other named guru	704393	68.7	8	0	0	Kunbi =583569; Mali =24539; Beldar =715; Patvekar =146; Parit =7640; Mhar =87675; Bhutya =58; Vasudev =51
+XIX	Satara	Deccan	1881	1024597	Lingayat	23897	2.3	4	0	0	Lingayat Vani =17255; Sangar =2837; Jangam =3796; Vaidu =9
+XIX	Satara	Deccan	1881	1024597	None stated	8359	0.8	1	0	0	Chitpavan/Konkanastha =8359
+XIX	Satara	Deccan	1881	1024597	Mixed (several sects named)	3241	0.3	3	0	0	Tirgul =319; Marwari Vani =275; Gosavi =2647
+XIX	Satara	Deccan	1881	1024597	Smarta (Shankaracharya)	1190	0.1	1	0	0	Pardeshi =1190
+XIX	Satara	Deccan	1881	1024597	Vaishnava (unspecified)	447	0.0	1	0	0	Bhat =447
+XIX	Satara	Deccan	1881	1024597	Madhva	187	0.0	1	0	0	Savasha =187
+XIX	Satara	Deccan	1881	1024597	Vallabha	179	0.0	1	0	0	Gujarat Vani =179
+XIX	Satara	Deccan	1881	1024597	Shaiva (unspecified)	133	0.0	1	0	0	Dravid Brahman =133
+XIX	Satara	Deccan	1881	1024597	Mahanubhav	80	0.0	1	0	0	Manbhav =80
+XX	Sholapur	Deccan	1881	537635	Vaishnava (unspecified)	44143	8.2	2	0	0	Bhatia =143; Mhar =44000
+XX	Sholapur	Deccan	1881	537635	Lingayat	39533	7.4	5	0	3	Lingayat Vani =21308; Koshti [part] =10658; Gavli [part] =1681; Dhor (Lingayat) [part] =2058; Jangam =3828
+XX	Sholapur	Deccan	1881	537635	Mixed (several sects named)	28300	5.3	9	1	0	Deshastha =23360; Devrukha =8; Chitpavan/Konkanastha =1627; Shenvi/Saraswat =165; Tirgul (no fig.); Vidur =280; Gavandi =812; Lakheri =50; Gosavi =1998
+XX	Sholapur	Deccan	1881	537635	Nath	8233	1.5	2	0	0	Baul =529; Koli =7704
+XX	Sholapur	Deccan	1881	537635	Shaiva (unspecified)	3839	0.7	2	0	0	Pardeshi =3295; Bhat/Thakur =544
+XX	Sholapur	Deccan	1881	537635	Smarta (Shankaracharya)	2799	0.5	3	0	0	Telang Brahman =56; Komti =2295; Jingar (Arya Somvanshi Kshatri) =448
+XX	Sholapur	Deccan	1881	537635	Ramanandi/Bairagi	279	0.1	1	0	0	Kanauj Brahman =279
+XX	Sholapur	Deccan	1881	537635	Ramanuja/Shrivaishnava	14	0.0	1	0	0	Ramanuja Brahman =14
+XXI	Belgaum	Karnatak	1881	791277	Lingayat	247344	31.3	6	0	2	Tilari (Adi Banajiga) =5570; Kumbhar [part] =4000; Lingayat =236950; Gavli =550; Chalvadi [part] =107; Batnoshi =167
+XXI	Belgaum	Karnatak	1881	791277	Other named guru	95111	12.0	5	0	2	Kunbi [part] =42650; Uppar =8550; Bhoi [part] =1267; Gosavi =904; Holaya/Mhar =41740
+XXI	Belgaum	Karnatak	1881	791277	Smarta (Shankaracharya)	58831	7.4	7	0	2	Kayastha Prabhu =98; Bandekar =1287; Narvekar =2102; Kunbi [part] =42650; Rajput =2697; Panchal [part] =9920; Otari =77
+XXI	Belgaum	Karnatak	1881	791277	Mixed (several sects named)	22643	2.9	8	2	1	Shenvi/Saraswat =1958; Gujarat Vani (no fig.); Marwari Vani =50; Radi =6290; Ghaniger =5718; Hatkar =3547; Jadar (no fig.); Nhavi (Lingayat) [part] =5080
+XXI	Belgaum	Karnatak	1881	791277	Vallabha	70	0.0	1	0	0	Bhatia =70
+XXII	Dharwar	Karnatak	1881	779875	Lingayat	229610	29.4	21	2	3	Lingayat Vani (Banjig) =21787; Lokabaliki Lingayat =2752; Shilvant =1071; Haslar =36; Kudavakaligar =7694; Malavar =224; Radder [part] =21529; Paknak Radder (no fig.); Sadar =43422; Hugar (Lingayat flower-sellers) =1700; Ilgeru =1250; Kumbhar =2650; Naglik =2200; Shiv Shimpi (Lingayat tailor) (no fig.) [part]; Lingayat Ganiga =22600; Devang =5700; Hirekurvinavaru =70; Kurubar =87800; Mathpati =36; Parit [part] =6869; Mochigar =220
+XXII	Dharwar	Karnatak	1881	779875	Other named guru	69185	8.9	9	1	2	Sarvaria =15; Lad (South Gujarat Vani) =1476; Dasar [part] =640; Rajput =3450; Badiga =2000; Gavandi =6000; Namdev Shimpi (no fig.) [part]; Kurvinsheti =1350; Bedar =54254
+XXII	Dharwar	Karnatak	1881	779875	Smarta (Shankaracharya)	58998	7.6	10	1	0	Deshastha (Smarta Bhagvat) (no fig.); Karhada =239; Chitpavan/Konkanastha =1449; Telugu Brahman (Tailanga) =250; Tirgul =276; Sanyasi =1; Komti =8238; Maratha =44085; Jingar =400; Khatri =4060
+XXII	Dharwar	Karnatak	1881	779875	Jain	10526	1.3	1	0	0	Jain =10526
+XXII	Dharwar	Karnatak	1881	779875	Ramanuja/Shrivaishnava	1767	0.2	4	0	0	Shrivaishnav =13; Telugu Banjigar =1352; Halepaik =122; Helavar =280
+XXII	Dharwar	Karnatak	1881	779875	Mixed (several sects named)	1753	0.2	2	0	0	Kanva =1323; Shenvi/Saraswat =430
+XXII	Dharwar	Karnatak	1881	779875	Vaishnava (unspecified)	184	0.0	1	0	0	Telugu Oshnamaru =184
+XXII	Dharwar	Karnatak	1881	779875	Madhva	84	0.0	2	1	0	Deshastha (Madhva) (no fig.); Savvase =84
+XXII	Dharwar	Karnatak	1881	779875	Nath	22	0.0	1	0	0	Shivajogi =22
+XXIII	Bijapur	Karnatak	1881	570776	Lingayat	243254	42.6	8	1	4	Raddi (Paknak) (no fig.) [part]; Lingayat =220000; Koshti (Lingayat) =8010; Kuruvinshetti =2446; Kumbhar (Lingayat) [part] =5429; Nadig (Nhavi) [part] =6926; Chalvadi =92; Gavli [part] =351
+XXIII	Bijapur	Karnatak	1881	570776	Other named guru	33345	5.8	8	0	2	Panchal =6122; Agarval =20; Shetiyar =36; Gavandi [part] =7466; Shimpi =5045; Medar =283; Gurav =1622; Hatkar (Kulachara) [part] =12751
+XXIII	Bijapur	Karnatak	1881	570776	Smarta (Shankaracharya)	16924	3.0	4	1	0	Deshastha (Smarta) (no fig.); Tirgul =18; Maratha =15877; Patvegar =1029
+XXIII	Bijapur	Karnatak	1881	570776	Mixed (several sects named)	4389	0.8	2	0	0	Sali =1174; Parit =3215
+XXIII	Bijapur	Karnatak	1881	570776	Vallabha	354	0.1	1	0	0	Gujarat Vani =354
+XXIII	Bijapur	Karnatak	1881	570776	Vaishnava (unspecified)	297	0.1	2	0	0	Marwari Vani =235; Oshtam (Telugu) =62
+XXIII	Bijapur	Karnatak	1881	570776	Madhva	0		2	2	0	Deshastha (Madhva Bhagvat) (no fig.); Deshastha (Savashe) (no fig.)
+XXIII	Bijapur	Karnatak	1881	570776	Ramanuja/Shrivaishnava	0		1	1	1	Raddi (Namad) (no fig.) [part]
+XXIV	Kolhapur	Deccan	1881	715400	Lingayat	75212	10.5	1	0	0	Lingayat =75212
+XXIV	Kolhapur	Deccan	1881	715400	Other named guru	65314	9.1	1	0	0	Mhar =65314
+XXIV	Kolhapur	Deccan	1881	715400	Jain	46732	6.5	1	0	0	Jain =46732
+XXIV	Kolhapur	Deccan	1881	715400	Smarta (Shankaracharya)	26455	3.7	4	0	0	Deshastha =18116; Chitpavan/Konkanastha =4106; Karhada =3659; Raddi =574
+XXIV	Kolhapur	Deccan	1881	715400	Vaishnava (unspecified)	5772	0.8	2	0	0	Shimpi =5666; Bairagi =106
+XXIV	Kolhapur	Deccan	1881	715400	Shaiva (unspecified)	1796	0.3	1	0	0	Gosavi =1796
+XXIV	Kolhapur	Deccan	1881	715400	Nath	1114	0.2	1	0	0	Davri =1114
+XXIV	Kolhapur	Deccan	1881	715400	Madhva	361	0.1	2	0	0	Madhva Brahman =300; Savasha =61
+XXIV	Kolhapur	Deccan	1881	715400	Mixed (several sects named)	98	0.0	1	0	0	Marwari Vani =98
+VII					Vaishnava (unspecified)	21456		4	2	0	Mochi (no fig.); Ghanchi (no fig.); Galiar =176; Bhat =21280
+VII					Mixed (several sects named)	15533		4	1	0	Nagar Vania =4686; Kunbi (no fig.); Mali =4619; Bhavaya =6228
+VII					Shaiva (unspecified)	9854		1	0	0	Kachhia =9854

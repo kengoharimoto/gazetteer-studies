@@ -1,0 +1,15 @@
+vol	district	region	census	hindu_total	asserted	asserted_pct	with_mixed	with_mixed_pct	with_nominal	with_nominal_pct	n_asserted	mixed_or_part_castes	nominal_castes	smarta_castes_without_figure
+IX-1	Gujarat (all)	Gujarat	1891	9887810	0	0.0	0	0.0	0	0.0	0			Deshastha/Dakhani (Deccan Brahmans in Gujarat); Jethva Rajput
+X	Ratnagiri	Konkan	1872	941049	0	0.0	13669	1.5	13669	1.5	0	Shenvi/Saraswat 13669		Chitpavan/Konkanastha; Shenvi/Saraswat; Drávid Brahmans (Deshastha/Karhada/Chitpavan/Devrukha)
+XI	Kolaba	Konkan	1881	361281	8337	2.3	8337	2.3	52528	14.5	1		Agri 44191	Maratha Vani
+XIII-1	Thana	Konkan	1872	765886	10428	1.4	21496	2.8	21496	2.8	6	Audich 561; Deshastha 1006; Karhada 585; Kayasth Prabhu 5125; Kamathi 728; Akarmashe 861; Pardeshi 2202		Mangela
+XV-1	Kanara	Karnatak	1881	382997	124218	32.4	148023	38.6	148023	38.6	58	Konkan Kunbi 14812; Komarpaik 8743; Kalavant (Kannad) 250		Deshastha (Smarta); Karnatak Brahman; Golak
+XVI	Nasik	Deccan	1872	693335	0	0.0	0	0.0	0	0.0	0			Dravid Brahman
+XVII	Ahmadnagar	Deccan	1881	706557	9277	1.3	37628	5.3	341628	48.4	11	Deshastha 27249; Marwari Brahman 971; Shenvi/Saraswat 131	Kunbi 304000	Mang
+XVIII-1	Poona	Deccan	1881	846781	9579	1.1	42873	5.1	442873	52.3	7	Deshastha 32749; Shenvi/Saraswat 445; Vidur 100	Kunbi 400000	Chitpavan/Konkanastha
+XIX	Satara	Deccan	1881	1024597	1190	0.1	1509	0.1	1509	0.1	1	Tirgul 319		
+XX	Sholapur	Deccan	1881	537635	2799	0.5	27951	5.2	27951	5.2	3	Deshastha 23360; Chitpavan/Konkanastha 1627; Shenvi/Saraswat 165		
+XXI	Belgaum	Karnatak	1881	791277	6261	0.8	60789	7.7	60789	7.7	5	Shenvi/Saraswat 1958; Kunbi 42650; Panchal 9920		
+XXII	Dharwar	Karnatak	1881	779875	58998	7.6	60751	7.8	60751	7.8	9	Kanva 1323; Shenvi/Saraswat 430		Deshastha (Smarta Bhagvat)
+XXIII	Bijapur	Karnatak	1881	570776	16924	3.0	16924	3.0	16924	3.0	3			Deshastha (Smarta)
+XXIV	Kolhapur	Deccan	1881	715400	26455	3.7	26455	3.7	26455	3.7	4			
