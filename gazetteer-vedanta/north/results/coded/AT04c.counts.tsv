@@ -1,0 +1,5 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT04c	Mainpuri	1872	Jogi	JOGI	1,362	district	556	Jogi, 1,362	low	District "other castes" table is OCR-interleaved in three columns; Jogi value 1,362 appears to belong to Jogi
+AT04c	Mainpuri	1872	Goshain	GOSAIN		district	556	Goshain, ... ot;9	low	Count unreadable in OCR ("ot;9"); left blank
+AT04c	Mainpuri	1872	Bairagi	BAIRAGI		district	556	Bairagi, flV	low	Count unreadable in OCR; left blank
+AT04c	Mainpuri	1872	Pakir [Fakir]	FAKIR		district	556	Pakir, 1-0	low	Count unreadable in OCR; left blank

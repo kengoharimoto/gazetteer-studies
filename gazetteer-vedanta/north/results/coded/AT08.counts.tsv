@@ -1,0 +1,16 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT08	Muttra	1881	Gosdin / Gosain	GOSAIN	262	district	81	the Go- sins appear as numbering but 262 in the census of 1881	high	Caste table "Caste, in 1881, females": 262 total, 123 females. Atkinson explains the low figure by the vague use of "Gosain" for any devotee
+AT08	Muttra		religious classes, such as Gosains, mendicants (settlement report)	ALL_ASCETICS	16012	district	81	are stated in the settlement report to number 16,012	medium	Figure from the settlement report (year not given), footnote: "As against 17,498 in 1872"
+AT08	Muttra	1872	religious classes (Gosains, mendicants)	ALL_ASCETICS	17498	district	81	As against 17,498 in 1872	medium	Footnote to the 16,012 figure; 1872 census
+AT08	Muttra	1881	Devotees (unspecified castes)	ALL_ASCETICS	13983	district	82	Devotees tes .. | Mendicancy .., one a4 one 13,983	high	In list of "unspecified" castes from vernacular census lists
+AT08	Muttra	1881	Bairdgis	BAIRAGI	9812	district	83	Of the total number 9,812 are classed as Bairdgis (3,997 females)	high	Of the "devotees"; 3,997 females
+AT08	Muttra	1881	Jogis	JOGI	3627	district	83	and 3,627 as Jogis (1,714 females)	high	1,714 females
+AT08	Allahabad	1881	Gosain (Devotee)	GOSAIN	1931	district	42	Gosain «.» | Devotee oe tos ots ee 1,931	high	Table of principal Hindu castes, printed census returns of 1881
+AT08	Fatehpur	1881	Gosiin (ascetic sect)	GOSAIN	940	district	39	Gosiin (ascetic sect) es 940 455	high	940 total, 455 females; table of other castes, census 1881
+AT08	Fatehpur	1881	Bairaégi	BAIRAGI	199	district	45	Bairaégi ace Vv. ase “ 199 60	high	Vernacular-list census of devotees; 60 females; classified Vishnuite
+AT08	Fatehpur	1881	Vaishnao	BAIRAGI	224	district	45	Vaishnao see oe | Ve bea vee 224 126	medium	Vaishnava ascetics (126 females); coded BAIRAGI per instructions (Vaishnava ascetics)
+AT08	Fatehpur	1881	Jogi	JOGI	945	district	45	Jogi "ase ow | S. one 945 473,	high	473 females; classified Sivaite
+AT08	Fatehpur	1881	Fakir	FAKIR	19	district	45	Fakir ove sS.¥. eee 19 1	medium	1 female
+AT08	Fatehpur	1881	Aghori	OTHER	12	district	45	* Aghori vee Sh. -_ 12 5	medium	Shakta
+AT08	Fatehpur	1881	Nanakshahi	UDASI	8	district	45	Nanakshéhi_. ... oe | Sikh oe . 8	low	Sikh; count partly garbled
+AT08	Fatehpur	1881	Devotees (total of sects list)	ALL_ASCETICS	1421	district	45	Tot.l se 1,421 | 676	high	Total of "devotees and religious mendicants" list; 676 females; also Devotees (mendicancy) 1,421 in the unspecified-castes table

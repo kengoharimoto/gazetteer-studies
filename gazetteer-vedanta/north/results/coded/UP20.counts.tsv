@@ -1,0 +1,4 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP20	Allahabad		Faqirs of various denominations	FAKIR	7968	district		Faqirs of various denominations, 7,968	medium	listed among Musalman castes (Nais, Kunjras...); year not printed
+UP20	Allahabad	1906	Bairagis and others in the camps of the fagirs	ALL_ASCETICS	60000	fair	70	At the last Kumbh there were 60,000 Bairagis and others in the camps of the fagirs	high	Kumbh Magh Mela at Allahabad 1906; "Bairagis" used loosely; of these 30,000 joined the processions
+UP20	Allahabad	1906	joined the processions	ALL_ASCETICS	30000	fair	70	of whom 30,000 joined the processions	high	subset of the 60,000 at the 1906 Kumbh

@@ -1,0 +1,11 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT12	Garhwal	1872	Goshdins	GOSAIN	1125	district	272	The census papers show 1,125 Goshdins and 1,063 Jogis in 1872	high	Dasnami Goshains
+AT12	Garhwal	1872	Jogis	JOGI	1063	district	272	The census papers show 1,125 Goshdins and 1,063 Jogis in 1872	high	
+AT12	Garhwal	1881	Goshdins and Jogis (total)	ALL_ASCETICS	2620	district	272	1,063 Jogis in 1872 and a total of.2,620 in 1881	low	Ambiguous: probably Goshains+Jogis combined in 1881; text only says a total of 2,620
+AT12	Kumaon	1872	Goshdins	GOSAIN	8860	district	430	8,860 were recorded under this name in 1872 and 2,940 in 1881	high	Kumaon district
+AT12	Kumaon	1881	Goshdins	GOSAIN	2940	district	430	8,860 were recorded under this name in 1872 and 2,940 in 1881	high	Large fall from 1872 as printed; possible different classification
+AT12	Tarai		Goshdins	GOSAIN	2050	district	430	in Kumaon and 2,050 in the Tarfi	medium	Census year not stated (sentence follows 1872/1881 figures)
+AT12	Kumaon	1872	Bairagis (Ramanandi etc. subdivisions)	BAIRAGI	233	district	431	233 were recorded in 1872	medium	Attached to the Bairagi sentence about Ramanandi, Radhaballabhi, Nimanandi, Ramanuja; sentence also follows the Sanyasi remark, so attribution is inferred
+AT12	Kumaon	1872	Jogis	JOGI	1726	district	431	The census of 1872 record 1,726 Jogis, chiefly belonging to the Kénphata and Binakénphata sections	high	
+AT12	Jaunsar-Bawar (Dehra Dun)	1879	Jogis	JOGI	444	tahsil	352	444 Jogis and 30 Gosains	high	Jaunsar-Bawar subdivision; detailed figures of the census of 1879 are cited just above
+AT12	Jaunsar-Bawar (Dehra Dun)	1879	Gosains	GOSAIN	30	tahsil	352	444 Jogis and 30 Gosains	high	Jaunsar-Bawar subdivision; census of 1879

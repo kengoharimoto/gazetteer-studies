@@ -1,0 +1,6 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP44	Bara Banki	1901	Satnamis	OTHER	19786	district	l.3618	The number of followers in Bara Banki was 19,786	high	Satnami sect founded in the district; not Dasnami
+UP44	Bara Banki	1901	Ramanandis	BAIRAGI	5.5	district	l.3601	there were 5.5 per cent. Ramanandis	medium	percentage of Hindus, not headcount
+UP44	Bara Banki	1901	Nanakshahis	UDASI	1.6	district	l.3602	1.6 per cent. Nanakshahis	medium	percentage of Hindus, not headcount
+UP44	Bara Banki	1901	Saivites	OTHER	2.3	district	l.3600	The Saivites are comparatively few, amounting to only 2.3 per cent.	medium	percentage of Hindus; Vaishnavites 10.7%, Kabirpanthis 1%
+UP44	Bara Banki	1901	Faqirs	FAKIR	5000	district	l.4028	Five castes have over 5,000, but less than 10,000, representatives. These are the Kalwars, Lohars, Sonars, Faqirs and Bhats.	low	bounded 5,000-10,000; listed with Hindu castes

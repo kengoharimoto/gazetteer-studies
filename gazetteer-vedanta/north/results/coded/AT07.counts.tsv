@@ -1,0 +1,10 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT07	Farukhabad	1872	Bairagi	BAIRAGI	761	district	7	Bairagi oe | f + 76l	low	Farukhabad "other castes" list (1872 census); OCR damaged ("f + 76l"), read as 761
+AT07	Farukhabad	1872	Fakir	FAKIR	173	district	7	Fakir cliiastasd: 173	medium	Same table
+AT07	Farukhabad	1872	Goseín [Gosain]	GOSAIN	500	district	7	Goséin os ioe ak 500	medium	Same table
+AT07	Farukhabad	1872	Jogi	JOGI	186	district	7	Jogi ioe 186	medium	Same table
+AT07	Farukhabad	1872	Udasi	UDASI	3	district	7	Udi on 3 | 3	low	Same table; "Udi" read as Udasi, 3
+AT07	Farukhabad	1872	Sadh	SADHU_UNSPEC	1,751	district	7	Sédh a | \ 1,751	medium	Same table
+AT07	Farukhabad	1881	Gosain	GOSAIN	791	district	194	Gosain ace 791	medium	Appendix I (additional statistics), 1881 census, total population; Bairagi/Jogi not printed in the excerpt checked
+AT07	Agra		Gosdin (proprietors)	GOSAIN	131	district	537	Gosdin .. ees 131 3,578	high	Number of PROPRIETORS (not persons) with area 3,578 acres; revenue/settlement statement, year not stated
+AT07	Agra		Bairagi (proprietors)	BAIRAGI	181	district	537	Bairagi ... te 181 3,562	high	Number of PROPRIETORS with area 3,562 acres

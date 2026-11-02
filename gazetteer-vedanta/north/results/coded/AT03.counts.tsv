@@ -1,0 +1,19 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT03	Bulandshahr	1872	Bairagi	BAIRAGI	2,215	district	48	Bairagi, see 2,215	medium	Census of 1872 "other castes" table; OCR column alignment mixed
+AT03	Bulandshahr	1872	Fakir	FAKIR	83	district	48	Fakir, oes 83	medium	Same table
+AT03	Bulandshahr	1872	Goshain	GOSAIN	4,408	district	48	Goshain, ase 4,408	medium	Same table
+AT03	Bulandshahr	1872	Jogi	JOGI	6,777	district	48	Jogi, wes 6,777	medium	Same table
+AT03	Meerut	1872	Bairagi	BAIRAGI	3,913	district	260	Bairagi, ... oes ves 3,913	medium	"Other castes" table at the recent census (year inferred 1872)
+AT03	Meerut	1872	Fakir	FAKIR	904	district	260	Fakir, on oe os 904	medium	Same table
+AT03	Meerut	1872	Goshain	GOSAIN	5,326	district	260	Goshiin, ... one tee 5,326	medium	Same table
+AT03	Meerut	1872	Jogi	JOGI	11,292	district	260	Jogi, sue on ow =: 1:1, 292	low	OCR reads "1:1, 292"; probably 11,292
+AT03	Meerut	1872	Sadh	SADHU_UNSPEC	407	district	260	Sédh, Sve see - 407	medium	Same table
+AT03	Meerut	1872	Jogi	JOGI	1,525	parganah	352	Jogi (1,525)	high	Bagpat parganah
+AT03	Meerut	1872	Jogi	JOGI	2,116	tahsil	416	Jogi (2,116)	high	Muradnagar tahsil; Goshain and Bairagi given only as 100-1,000
+AT03	Muzaffarnagar	1872	Bairagi	BAIRAGI	620	district	504	Bairigi, vee 620	medium	"Other castes" table; year inferred 1872
+AT03	Muzaffarnagar	1872	Fakir	FAKIR	636	district	504	Fakir, aa 636	medium	Same table
+AT03	Muzaffarnagar	1872	Goshain	GOSAIN	1,193	district	504	Goshain, tee 1,193	medium	Same table
+AT03	Muzaffarnagar	1872	Jogi	JOGI	9,059	district	504	Jogi, ‘ane 9,059	medium	Same table
+AT03	Muzaffarnagar	1872	Jogi	JOGI	618	parganah	667	Jogi (618)	high	Charthawal parganah
+AT03	Muzaffarnagar	1872	Jogi	JOGI	1,326	parganah	693	Jogi (1,326)	high	Parganah of Budhana tahsil (name garbled in OCR)
+AT03	Muzaffarnagar	1872	Jogi	JOGI	1,171	parganah	731	Jogi (1,171)	high	Shamli parganah

@@ -1,0 +1,5 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP37	Hardoi	1901	Faqirs	FAKIR	2000	district	l.3784	next to these come Bhangis, Malis, Sonars, Bhals, Lunias, Faqirs, Nats, and Halwais, the total being over 2,000 in each case	low	lower bound 'over 2,000'; listed among Hindu castes
+UP37	Hardoi	1901	Saivites	OTHER	16000	district	l.3487	only 16,000 persons were Saivites and little more than 8,000 Vaishnavites	medium	sectarian return, not ascetics; Vaishnavites ~8,000 (second row)
+UP37	Hardoi	1901	Vaishnavites	OTHER	8000	district	l.3487	little more than 8,000 Vaishnavites	low	sectarian return, not ascetics; approximate 'little more than'
+UP37	Hardoi	1901	Mendicants not in religious orders	SADHU_UNSPEC	5565	tahsil	l.9930	the number of persons dependent on mendicancy, not in connection with any religious order, being returned as 5,565	medium	Tahsil beggars; explicitly NOT in religious orders

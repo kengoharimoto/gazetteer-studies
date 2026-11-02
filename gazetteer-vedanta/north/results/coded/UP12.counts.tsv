@@ -1,0 +1,4 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP12	Bijnor		Mendicants	ALL_ASCETICS	9187	district	~	There is an extraordinary number of beggars, no fewer than 9,187 persons being returned as mendicants.	medium	Occupation return (religion unspecified; mendicants generally); no Goshain/Bairagi/Jogi counts
+UP12	Bijnor		Faqirs	FAKIR	4295	tahsil	~	Telia with 5,664, Bohnas with 4,634, Faqirs with 4,295,	medium	Dhampur tahsil, Musalman castes; year not printed
+UP12	Bijnor		Faqirs	FAKIR	6000	district	~	The other castes exceeding 6,000 in numbers are Nais, Tagas, Ahirs and Faqirs	low	Threshold only ('exceeding 6,000'), possibly Najibabad/Bijnor tahsil, not an exact count

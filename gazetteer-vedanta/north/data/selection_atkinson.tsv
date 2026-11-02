@@ -1,0 +1,23 @@
+vol	district	year	primary	backup	note
+AT01	Bundelkhand (Banda, Hamirpur, Jhansi, Jalaun)	1874	india.history.resource.107166	wbsl.16789	Atkinson vol I
+AT02	Meerut division pt 1	1875	india.history.resource.107167	wbsl.16472	Atkinson vol II
+AT03	Meerut division pt 2	1876	india.history.resource.89506	wbsl.15501	Atkinson vol III
+AT04a	Etawah	1876	dli.ernet.523548		Atkinson vol IV offprint (catalogue year 1890)
+AT04b	Etah	1876	dli.ernet.523547		Atkinson vol IV offprint (catalogue year 1933)
+AT04c	Mainpuri	1876	dli.ernet.523339		Atkinson vol IV offprint
+AT05	Rohilkhand division	1879	india.history.resource.107125	wbsl.19224	Atkinson vol V
+AT06	vol VI	1881	india.history.resource.107126	in.ernet.dli.2015.62847	Atkinson vol VI
+AT07	Farukhabad and Agra	1884	india.history.resource.111252	wbsl.15711	Atkinson vol VII
+AT08	Muttra, Allahabad, Fatehpur	1884	india.history.resource.107170	wbsl.15506	Atkinson vol VIII
+AT09	Shahjahanpur, Moradabad	1883	india.history.resource.107169	wbsl.21304	Atkinson vol IX
+AT10	Himalayan districts I	1882	india.history.resource.117682	wbsl.15575	Atkinson vol X
+AT11	Himalayan districts II	1884	india.history.resource.107696	wbsl.15712	Atkinson vol XI
+AT12	Himalayan districts III	1886	wbsl.19297		Atkinson vol XII
+AT13	Azamgarh, Ghazipur, Ballia	1883	india.history.resource.107165	wbsl.16041	Atkinson vol XIII
+AT14	Benares, Mirzapur, Jaunpur	1884	india.history.resource.107123	in.ernet.dli.2015.523321	Atkinson vol XIV
+ATcu1	unidentified	1874	cu31924023947736		Cornell, identify
+ATcu2	unidentified	1874	cu31924023947744		Cornell, identify
+ATcu3	unidentified	1874	cu31924023947751		Cornell, identify
+OU1	Oudh A–G	1877	wbsl.18393	in.ernet.dli.2015.95420	Gazetteer of the Province of Oudh vol I
+OU2	Oudh H–M	1877	wbsl.16127	dli.csl.3098	Gazetteer of the Province of Oudh vol II
+OU3	Oudh N–Z	1878	wbsl.15715	in.ernet.dli.2015.55978	Gazetteer of the Province of Oudh vol III

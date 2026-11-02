@@ -1,0 +1,9 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP39	Fyzabad	1901	Atits	DASNAMI	1847	district	l.3475	The Atits numbered 1,847 persons	high	Atit = Gosain-type caste (text: 'closely resemble the Sannyasi, Faqirs'); found in Tanda and Bikapur tahsils; Gorakhpur, Basti, Ghazipur have far more; many also in Bara Banki
+UP39	Fyzabad	1901	Faqirs (Musalman)	FAKIR	5000	district	l.3597	Of the other Musalman castes, Faqirs, Darzis and Nais or Hajjams had over 5,000 members apiece	medium	lower bound 'over 5,000'; Muslim faqirs
+UP39	Fyzabad	1901	Ramanandis	BAIRAGI	5.5	district	l.3132	No more than 7.7 per cent. were returned as Vaishnavites and 5.5 per cent. as Ramanandis.	high	percentage of Hindu population, not a headcount; Bairagis said to be included in Vaishnavites; Vaishnavites 7.7%
+UP39	Fyzabad	1901	Vaishnavites	OTHER	7.7	district	l.3132	No more than 7.7 per cent. were returned as Vaishnavites	high	percentage of Hindus, not headcount
+UP39	Fyzabad	1901	Digambari Bairagis (resident brethren)	BAIRAGI	15	town	l.3183	the number of resident brethren is limited to fifteen	medium	Ajodhya; max resident number
+UP39	Fyzabad	1901	Nirbani Bairagis (resident disciples receiving rations)	BAIRAGI	250	town	l.3213	They are very numerous, but there are not more than 250 resident disciples who obtain daily rations.	medium	Ajodhya, Hanuman Garhi; 'not more than'
+UP39	Fyzabad	1901	Khaki Bairagis	BAIRAGI	180	town	l.3236	The order numbers 180 persons, of whom 650 are resident and the rest itinerant.	low	OCR/printing inconsistency (180 total vs 650 resident); Ajodhya
+UP39	Fyzabad	1901	Mahanirbani Bairagis	BAIRAGI	25	town	l.3263	There are twenty-five brethren, the majority of whom are itinerant mendicants.	medium	Ajodhya

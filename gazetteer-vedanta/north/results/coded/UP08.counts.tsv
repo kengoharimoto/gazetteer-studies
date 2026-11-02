@@ -1,0 +1,6 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP08	Agra	1901	Faqirs	FAKIR	6582	district		Faqirs, 6,582	medium	Musalman castes section; Hindu Gosain/Bairagi counts not given in text; year inferred (last census)
+UP08	Agra		Faqirs and Sonars (over 5,000 each)	FAKIR	5000	district	79	Faqirs and Sonars, ol whom over 5,000 persons were enumerated in each case	low	Hindu castes section; a lower bound only (over 5,000); Faqirs here separate from the Musalman 6,582
+UP08	Agra	1901	Ramanandis	BAIRAGI	71000	district	86	Ramanandis with over 71,000 representatives	medium	sect returns under Vaishnavites; lower bound ("over")
+UP08	Agra	1901	Gorakhpanthis	JOGI		district	86	the remainder being chiefly Gorakhpanthis	low	no number; Saivites mainly Lingaits, remainder chiefly Gorakhpanthis
+UP08	Agra		Bairagis and Goshains (share of proprietary area)	GOSAIN	1.44	district	86	Bairagis and Goshains 1*44 per cent, in Fatehabad, Bah and Itimadpur	medium	value is percent of district area owned, combined with Bairagis (not persons)

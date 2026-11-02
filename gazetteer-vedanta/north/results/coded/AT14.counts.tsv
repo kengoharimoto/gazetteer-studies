@@ -1,0 +1,21 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT14	Benares	1881	Atith	GOSAIN	17	district	44	Atith die: sue oe | Sivaite, Shékta, Vishnuite ... 17 8	medium	Devotee list; separate Gosain caste figure missing in OCR table
+AT14	Benares	1881	Bairégi	BAIRAGI	650	district	44	Bairégi . ese - ea | Vishhuite we ie 650	medium	
+AT14	Benares	1881	Jogi	JOGI	159	district	44	Jogt ase ake ane | Sivaite shins eae bee 159	medium	
+AT14	Benares	1881	Sannyasi	SANNYASI	15	district	44	Sannyast tee a. | Sivaite, Vishnuite eis 15 9	medium	
+AT14	Benares	1881	Udasi (Sikh)	UDASI	97	district	44	Ddést nee 400 oe ‘Sikh w. oe vee . 9T i. 17	medium	Name garbled; Sikh classification
+AT14	Benares	1881	Nanakshahi	UDASI	10	district	44	Nénakséhi toe ye | tikh eer 10	medium	
+AT14	Benares	1881	Devotees (total)	ALL_ASCETICS	1096	district	44	Total ...| 1,096 | 435	high	
+AT14	Benares (city)		Goséin	GOSAIN	1391	town	127	Barhai om =» 629 | Goséin ee 1,391 | Lohdr vs 4)472	medium	City principal-castes list; year not stated (population given for 1853, 1865, 1872, 1881)
+AT14	Mirzapur	1881	Goshéin	GOSAIN	4244	district	~66	Goshéin aes ass 4,244, 1,726	high	Other castes (1881)
+AT14	Mirzapur	1881	Atith	GOSAIN	103	district	72	Atith — we ove «| 8&., Sh, V. ‘ 103 33	medium	Devotee list
+AT14	Mirzapur	1881	Goséin (devotee list)	GOSAIN	1	district	72	Goséin 19e eet ase 8., Vv. see eee son 1	low	
+AT14	Mirzapur	1881	Dandi	DANDI	2	district	72	Dandi on eee ee | Wey So aes a oe 2 we	low	Figure read from garbled row
+AT14	Mirzapur	1881	Bairégi	BAIRAGI	217	district	72	Bairégt oe oon one . vee : oe on 217 91	medium	
+AT14	Mirzapur	1881	Jogi	JOGI	20	district	72	Jog i eee eee aes 8, eee see ry 20 v4	medium	
+AT14	Mirzapur	1881	Sadhu	SADHU_UNSPEC	79	district	72	Sadhu ass see Pe ee sas aed : 79 39	medium	
+AT14	Mirzapur	1881	Devotees (total)	ALL_ASCETICS	500	district	72	Total oe]. 500 187	medium	Sannyasi row figure unreadable in OCR
+AT14	Jaunpur	1881	Gosain	GOSAIN	4201	district	43	Gos#in .... tee | Devotee a tae tee 4,201 © 1,855	high	Principal castes 1881; occupation printed as Devotee
+AT14	Jaunpur	1881	Bairagi	BAIRAGI	133	district	44	133 (52 females) were returned as Bairdgis, and 22 (10 females) as Jogis	high	
+AT14	Jaunpur	1881	Jogi	JOGI	22	district	44	133 (52 females) were returned as Bairdgis, and 22 (10 females) as Jogis	high	
+AT14	Jaunpur	1881	Devotee	ALL_ASCETICS	186	district	43	Nevotee .., eee ww. | Mendicant ooo : see “ee 186	medium	From the unspecified-castes list

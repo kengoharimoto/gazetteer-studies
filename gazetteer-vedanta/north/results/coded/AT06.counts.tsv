@@ -1,0 +1,13 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT06	Cawnpore		Goshain	GOSAIN	1810	district	65	Goshain vee oe 1,810	medium	In table of "other castes" of the census (year not printed in the table; probably 1872)
+AT06	Gorakhpur	1872	Atit	OTHER	4535	district	357	Atit wee we §64,535	low	Atit = Gorakhpur term for householder Daśanāmī Atiths; group_std OTHER chosen (not Gosain proper) but text p.358 says Atiths form a subdivision of Gosains. OCR prints 64,535 but the leading "6" appears to be dot-leader noise (cf. Halwai "62,305", Chai "68,786"); the table sum fits 4,535
+AT06	Gorakhpur	1872	Gosfin	GOSAIN	749	district	357	Gosfin eee 749	medium	Table of "other (Hindu) castes" (1,492,093 souls)
+AT06	Gorakhpur	1872	Bairagi	BAIRAGI	3132	district	357	Bairagi oes «. 3,132	high	same table
+AT06	Gorakhpur	1872	Jogi	JOGI	95	district	357	Jogi <a ve «=O: 95	low	Number badly printed in OCR; may be 695 or 95
+AT06	Gorakhpur	1872	Fakir	FAKIR	1144	district	357	Fakir ... oe 1144	low	OCR; may be 144
+AT06	Gorakhpur	1872	Sadh or Sadhu	SADHU_UNSPEC	1719	district	357	Sadh or Sadhu ew §=1,719	medium	Sadh = Satnami-type sect, not Daśanāmī
+AT06	Gorakhpur	1872	Aghori	OTHER	237	district	356	Aghori .. see 237	medium	Aghori counted with Atit/Gosain in same table
+AT06	Gorakhpur	1872	Bairagi (parganah Salempur)	BAIRAGI	2252	tahsil	~529	Kurmi (5,458), Kayath (4,168), Bairdgi (2,252), Barhai	medium	parganah Salempur (seat of Paikauli Bairagi math); parganah figure; year from the parganah census statistics (1872)
+AT06	Basti	1872	Atith (religious sectary)	OTHER	8214	district	623	Atith (religious sectary) 06 sae ats we = 8,214	high	Atith = householder Daśanāmī (Basti text p.654: nominal sub-division of Dasnamis). group_std OTHER used because no GOSAIN label; treat as DASNAMI-Atith. Year 1872 inferred from the census table
+AT06	Basti	1872	Bairagi (religious mendicant)	BAIRAGI	2250	district	623	Bairagi (religious mendicant) se Manone ue ve = 2,250	high	same table; lists also Aghori 44
+AT06	Basti	1872	Atit (Bansi parganah)	OTHER	1069	tahsil	733	Kumbar (6,447), Atit (1,069), Chai (4,225)	medium	parganah Bansi; Daśanāmī Atith; year from parganah census statistics

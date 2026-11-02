@@ -1,0 +1,5 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP48	Mirzapur	1901	Faqirs	FAKIR	2656	district		Faqirs, 2,656	medium	Musalman castes list; no Gosain/Bairagi count; year inferred (last census 1901)
+UP48	Mirzapur	1901	Gosains (proprietary area)	GOSAIN	44784	district		They are followed by Gosains who hold 44,784 acres, chiefly in Chaurasi and Upraudh	high	value is acres owned, not persons
+UP48	Mirzapur	1901	Gosains (Chaurasi tappa)	GOSAIN	16816	tahsil		Gosains, 16,816 acres	high	acres in tappa Chaurasi
+UP48	Mirzapur	1901	Saivites: Lingaits and Pasupats	OTHER		district		The majority of the Saivites are Lingaits and Pasupats	low	no count; Vaishnavites mostly Ramanandis

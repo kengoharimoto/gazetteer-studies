@@ -1,0 +1,16 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT04b	Etah	1872	Bairilgl [Bairagi]	BAIRAGI	93	district	43	Bairilgl 93	low	Heavily damaged OCR of the 1872 caste table; value read from the column
+AT04b	Etah	1872	Fakir	FAKIR	3,130	district	43	Fakir ... 3,130	low	Same table; OCR damaged
+AT04b	Etah	1872	Gob ham [Goshain]	GOSAIN	3,961	district	43	Gob ham ... 3,961	low	Same table; name OCR-garbled, identified by position between Fakir and Jogi
+AT04b	Etah	1872	Jogl [Jogi]	JOGI	11,048	district	43	Jogl ... 11,048	low	Same table; OCR damaged
+AT04b	Etah	1872	Goshain	GOSAIN	141	parganah	125	GosliAin (141)	high	Azamnagar parganah
+AT04b	Etah	1872	Jogi	JOGI	117	parganah	125	Jogi (11.7)	medium	Azamnagar parganah; OCR "11.7" read as 117
+AT04b	Etah	1872	Goshain	GOSAIN	463	parganah	145	GodnUn (463)	medium	Eta-Sakit parganah; name OCR-garbled
+AT04b	Etah	1872	Jogi	JOGI	427	parganah	145	Jogi (427)	high	Eta-Sakit parganah
+AT04b	Etah	1872	Goshain	GOSAIN	125	parganah	150	Goshdin (125)	high	Faizpur Badariya parganah
+AT04b	Etah	1872	Goshain	GOSAIN	367	parganah	160	Goshdin (367)	high	Marahra parganah
+AT04b	Etah	1872	Jogi	JOGI	236	parganah	160	Jogi (236)	high	Marahra parganah
+AT04b	Etah	1872	Bairagi	BAIRAGI	156	parganah	160	Bairdgi (156)	high	Marahra parganah
+AT04b	Etah	1872	Goshain	GOSAIN	102	parganah	~ocr:25157	Gosliuin (102)	medium	Nidhpur parganah; OCR spelling garbled
+AT04b	Etah	1872	Goshain	GOSAIN	102	parganah	~ocr:28353	Gosh&in (102)	medium	Sirhpura parganah
+AT04b	Etah	1872	Goshain	GOSAIN	117	parganah	~ocr:30319	Go-didm (ll7)	low	Soron parganah; name and number OCR-garbled

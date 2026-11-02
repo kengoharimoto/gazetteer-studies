@@ -1,0 +1,7 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP07	Muttra		Faqirs	ALL_ASCETICS	18272	district	~113	Faqirs, who come next on the list with 18,272 persons, include Bairagis, Gosains and Jogis.	high	Hindu caste table; census year not printed ('last census' elsewhere); no split for Bairagi/Jogi
+UP07	Muttra		Gosains	GOSAIN	803	district	~113	It is not unnatural to - find a large number of Hindu ascetics in the sacred land of Braj, but Gosains only number 803.	high	Text says the term means any devotee, celibate or not, and chiefly the temple-owning Gosains of Brindaban/Gokul (Radhavallabhis, Vallabhacharyas): predominantly Vaishnava, NOT clearly Dasnami. Use with caution
+UP07	Muttra		Ramanandis	BAIRAGI	49509	district	~100	Of the whole number of Vaishuavites at last census 49,509 Were returned as Ramanandis	high	Sect adherents (religion table), not only ascetics
+UP07	Muttra		Nanakshahis	UDASI	1560	district	~100	The numerically strongest of these sects are the Nanakshahis, numbering 1,560; Namdeo- panthis, 398; Dadupantfiis, 130; Raidasis, 19	high	Sub-sects of Ramanandis per the text
+UP07	Muttra		Nimbarak Vaishnavas	OTHER	14503	district	~98	The Nimbarak Vaishnavas were returned at 14,503 in number at the last census.	high	Sect adherents; solitary ascetics of the groves mostly Nimbarak
+UP07	Muttra		Gosains (acres owned)	GOSAIN	9109	district	~118	Gosains, 9,109 acres, nearly all in Muttra	high	Acres of land owned, not persons; mostly Vaishnava temple-owning Gosains likely but not stated

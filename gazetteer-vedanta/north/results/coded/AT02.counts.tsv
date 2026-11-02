@@ -1,0 +1,16 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT02	Saharanpur	1872	Bairagi	BAIRAGI	1,171	district	182	Bairagi Pers 1,171	medium	"Other castes" table; year inferred (Aligarh table on p.396 states 1872); OCR column alignment mixed
+AT02	Saharanpur	1872	Goshain	GOSAIN	1,611	district	182	Goshain sxe 1,611	medium	Same table
+AT02	Saharanpur	1872	Jogi	JOGI	8,751	district	182	Jogi oon 8,751	medium	Same table
+AT02	Saharanpur	1872	Udasi	UDASI	135	district	182	Udasi vee 135	medium	Same table
+AT02	Saharanpur	1872	Sanidsi	SANNYASI		district	182	Sanidsi wee 7 16	low	Count unreadable ("7 16", perhaps 716 or 16); left blank
+AT02	Saharanpur	1872	Fakir	FAKIR	487	district	182	Fakir see 487	medium	Same table
+AT02	Saharanpur	1872	Sadh	SADHU_UNSPEC	279	district	182	Sadh vee 279	medium	Same table
+AT02	Saharanpur	1872	Charandasi	OTHER	6	district	182	( harandasi eos 6	low	Charandasi (Vaishnava sub-sect); OCR damaged
+AT02	Saharanpur	1872	Fakir (Musalman)	FAKIR	348	district	197 (Musalman section)	There are also Fakirs (348)	medium	Musalman fakirs listed among Muhammadan groups
+AT02	Saharanpur	1872	Jogis	JOGI	657	parganah	282	Julahas, Jogis (657)	medium	Parganah-level; parganah name not resolved (see page 282, Faizabad-Bahat area?)
+AT02	Saharanpur	1872	Jogis	JOGI	543	parganah	333	Jogis (543)	medium	Parganah-level; parganah name not resolved
+AT02	Aligarh	1872	Bairdgi	BAIRAGI		district	396	Bairdgi eee 5,0	low	Number truncated in the OCR at the page edge (5,0.. visible); left blank
+AT02	Aligarh	1872	Goshdin	GOSAIN		district	396	Goshdin a 2,75	low	Number truncated in the OCR (2,75. visible); left blank
+AT02	Aligarh	1872	Jogi	JOGI		district	396	Jogi oo 5,09	low	Number truncated in the OCR (5,09. visible); left blank
+AT02	Aligarh	1872	Fakir	FAKIR		district	396	Fakir See	low	Number lost in OCR

@@ -1,0 +1,3 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP17	Fatehpur		Faqirs of different sects	FAKIR	5154	district		Faqirs of different sects with 5,154	medium	Musalman castes list; census year not printed
+UP17	Fatehpur		mendicants	ALL_ASCETICS	9000	district		The last number over 9,000 persons	low	occupation class "without regular occupation... mendicants"; "over 9,000", lower bound; more common than most districts except Allahabad and Cawnpore

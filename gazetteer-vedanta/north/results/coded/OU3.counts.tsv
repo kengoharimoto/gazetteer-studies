@@ -1,0 +1,7 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+OU3	Sitapur	1869	Goshains (label illegible in OCR, inferred)	GOSAIN	4040	district	Sitapur dist. art. p.372	anil éhi eee eee eee eee eee 4,040	low	"Under ""Religious professions""; label garbled (""anil éhi""); text afterwards refers to ""some (of the Goshains) in possession of land as zamindars"", so inferred Goshains. Check page image. Census year not printed in the passage; 1869 Oudh census inferred."
+OU3	Sitapur	1869	Nanakshahis, Jogis and others	OTHER	8505	district	Sitapur dist. art. p.372	anakshahis Jogis and others	medium	Combined row for Nanakshahis (Udasi), Jogis and others; cannot split. Census year not printed in the passage; 1869 Oudh census inferred.
+OU3	Gonda	1869	Nanakshahi fakir (proprietors, Paharapur)	UDASI	8	tahsil	Paharapur pargana entry	Nanakshébi fagir ce ose TO 8	low	"Villages of 198 owned by tribe (OCR figure ""8""); pargana-level."
+OU3	Gonda	1869	Goshain (proprietors, Paharapur)	GOSAIN	2	tahsil	Paharapur pargana entry	Goshéin ote eee o0e eee 2	low	Villages owned; pargana-level.
+OU3	Gonda	1869	Bairagi faqir (proprietors, Paharapur)	BAIRAGI	1	tahsil	Paharapur pargana entry	Bairégi faqir oe Tr) aco I	low	Villages owned; pargana-level.
+OU3	Rae Bareli	1869	Nanak Shahi faqir (proprietors, Salon)	UDASI	1	tahsil	Salon pargana entry	Fagir Nanak Shahi, st ves 0 h	low	"Mufrad (individual) villages; OCR value ""h"" read as 1; of 266 villages."

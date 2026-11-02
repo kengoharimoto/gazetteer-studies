@@ -1,0 +1,11 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT05	Budaun	1872	Bairdgi, or pilgrim	BAIRAGI	782	district	46	Bairdgi, or pilgrim one 782	medium	Item in "other castes" list (Budaun notice); year not printed beside the list, taken from the 1872 census used throughout; Gosain entry not legible in the OCR of this table
+AT05	Budaun	1872	Fakir	FAKIR	13	district	46	Fakir 13	low	Brace "religious celibates" groups Fakir and Sadh; OCR layout garbled
+AT05	Budaun	1872	Sadh	SADHU_UNSPEC	4	district	46	S&dh 4	low	Sadh is a monotheistic sect (Atkinson vol VI p.73), not Daśanāmī; OCR garbled
+AT05	Bareilly	1872	Goséin	GOSAIN	6169	district	581	Goséin eos vee oe =: 6,169	medium	Table of "other castes" of the census return; year inferred (Atkinson uses 1872 census); text elsewhere says Vaishnava Gosains commoner than Shaiva here
+AT05	Bareilly	1872	Bairigi	BAIRAGI	1472	district	581	Bairigi tee iss we = «1,472	medium	same table
+AT05	Bareilly	1872	Jogi	JOGI	667	district	581	Jogi ao62 ae see ive 667	medium	same table
+AT05	Bareilly	1872	Fakir	FAKIR	549	district	581	Fakir | ass oes Se 549.	medium	same table; text says fakirs of this district are all Hindus
+AT05	Bareilly	1872	Sadh or Sadhu	SADHU_UNSPEC	398	district	582	Sadh or Sadhu vas 398	medium	same table
+AT05	Bareilly	1872	Saniési	SANNYASI		district	582	Saniési	low	Row present in the table but the number was lost in the OCR; count blank
+AT05	Bareilly	1872	Gosain	GOSAIN	1343	town	~767	Bhangi or Khakrob (2,160), Gosain (1,343), Kisén (10,180)	medium	parganah-level figure in a list of "most numerous other castes" (parganah Karor, Bareilly, by position in text; check page); census year not stated, 1872 assumed

@@ -1,0 +1,11 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+OU2	Hardoi	1869	Goshain (proprietors of villages)	GOSAIN	4	district	Hardoi dist. art. p.33	Goshain en = ies sos ane 4	low	Table of distribution of landed property by caste (total 1,961); count of estates/villages, not persons. OCR line garbled.
+OU2	Kheri	1869	Goshain (religious mendicants)	GOSAIN	4049	district	Kheri dist. art. caste table	Goshain ns oon 4,049	medium	"Caste table, heading ""Religious mendicants"" (Hindu); persons. Census year not printed in the passage; 1869 Oudh census inferred."
+OU2	Kheri	1869	Faqirs	FAKIR	4291	district	Kheri dist. art. caste table	Faqf{ra «on ave 4,291	medium	"Same table under religious mendicants; OCR ""Faqf{ra""; Hindu/Muslim not distinguished. Census year not printed in the passage; 1869 Oudh census inferred."
+OU2	Kheri	1869	Goshain (village proprietors)	GOSAIN	7	district	Kheri dist. art. p.215	Goshfia ry) eon 7	low	Villages owned by caste (total 1,689); not persons.
+OU2	Kheri	1869	Nanakshahi (village proprietors)	UDASI	14	district	Kheri dist. art. p.215	Nanakeli hi ont ons 14	low	"OCR ""Nanakeli hi""; villages owned (total 1,689); not persons."
+OU2	Kheri	1869	Bairagi (village proprietors)	BAIRAGI	3	district	Kheri dist. art. p.215	Dairagi Ks ve 3	low	"OCR ""Dairagi""; villages owned; not persons."
+OU2	Kheri	1869	Goshain (proprietors, Kheri pargana)	GOSAIN	1	tahsil	Kheri pargana entry	Goshain gee bbe sae 1	low	Of 161 villages in Kheri proper pargana owned by castes; pargana-level, village count.
+OU2	Gonda	1869	Goshain (proprietors, Mahadewa pargana)	GOSAIN	2	tahsil	Mahadewa pargana entry	Goshain ion eae 2	low	Of 311 villages/coparcenary estates by tribe; pargana-level; not persons.
+OU2	Gonda	1869	Bairagi (proprietors, Mahadewa pargana)	BAIRAGI	4	tahsil	Mahadewa pargana entry	Rajragi ove tee 4	low	"OCR ""Rajragi"" read as Bairagi; pargana-level; not persons."
+OU2	Fyzabad	1869	Nanakshahi (Hindus of Jalaluddinnagar)	UDASI	1995	town	Jalaluddinnagar entry	Windus Nanakshshi ey ies soe	low	Village population table by sect (Shaivi, Shakti, Vaishnavi, Nanakshahi); the number 1.995 is poorly OCRd and may be a total; doubtful.

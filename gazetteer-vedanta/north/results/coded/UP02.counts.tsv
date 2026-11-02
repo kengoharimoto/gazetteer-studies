@@ -1,0 +1,7 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP02	Saharanpur		Faqirs	ALL_ASCETICS	13925	district	110	The Faqirs, 13,925 souls in all, comprise a somewhat mixed multitude	high	Hindu caste table; census year not printed in passage (1901 presumably); mostly Roorkee tahsil near Hardwar
+UP02	Saharanpur		Jogis	JOGI	9377	district	110	as many as 9,377 were described as Jogis, and these -are scattered throughout the district	high	subset of the 13,925 Faqirs
+UP02	Saharanpur		Goshains	GOSAIN	1733	district	110	They included 1,733 Goshains, 1,513 Bairagis, 533	high	subset of the 13,925 Faqirs; mainly Roorkee tahsil/Hardwar
+UP02	Saharanpur		Bairagis	BAIRAGI	1513	district	110	They included 1,733 Goshains, 1,513 Bairagis, 533 Sadhus and several others such as Sannyasis, Udasis and	high	subset of the 13,925 Faqirs
+UP02	Saharanpur		Sadhus	SADHU_UNSPEC	533	district	110	533 Sadhus and several others such as Sannyasis, Udasis and unspecified ascetics.	high	Sannyasis and Udasis mentioned without numbers
+UP02	Saharanpur		Faqirs (Musalman)	FAKIR	13882	district	110	Of the Faqirs, who numbered 13,882, nothing need be said	medium	In the Musalman castes list; mostly Faqirs merely, some Sains and Jogis. Almost the same number as the Hindu Faqirs: may be a duplicate or the same figure given in another recension; doubtful

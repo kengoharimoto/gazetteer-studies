@@ -1,0 +1,22 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT09	Shahjahanpur	1881	Gosdin (ascetic sect)	GOSAIN	2616	district	80	Gosdin (ascetic sect) .. 2,616 1,192	high	2,616 total, 1,192 females; table of other castes, census 1881
+AT09	Shahjahanpur	1881	Bairagi	BAIRAGI	1520	district	83	Bairagi ee a weer |: Mar seve eae aes 1,520 672	high	672 females; list of devotees and mendicants by sect, 1881
+AT09	Shahjahanpur	1881	Jogi	JOGI	895	district	83	Jogi _ se : oon | Se tee tee ee + 895 158	medium	Sivaite; female figure unclear (158)
+AT09	Shahjahanpur	1881	Ramanandi	BAIRAGI	15	district	83	Rémanandi os oe vee | Ve ace vee ee 15 3	medium	3 females
+AT09	Shahjahanpur	1881	Nanakshahi	UDASI	86	district	83	Nanakshahi evs des ww | Sikh ee ase |: 86 Ww	medium	Sikh; female count garbled
+AT09	Shahjahanpur	1881	Udasi	UDASI	2	district	83	Udasi Kean “ss ww | Sikh we Se0 2 1	medium	1 female
+AT09	Shahjahanpur	1881	Sannyasi	SANNYASI	4	district	83	Sannyasi eee ese eee vV.S. eee try} 4 Nil.	medium	Classified Vishnuite/Sivaite (V.S.), no females
+AT09	Shahjahanpur	1881	Parnamhansa (Paramhansa)	DASNAMI	4	district	83	Parnamhansa? ae as en ie. Eee sia re 4 Nil.	low	Paramahamsa; classification not legible
+AT09	Shahjahanpur	1881	Vaishnao	BAIRAGI	19	district	83	Vaishnéio ove ove vee Voce vee eee 19 4	medium	Vaishnava ascetics; 4 females
+AT09	Moradabad	1881	Goséin	GOSAIN	3849	district	42	Goséin .., eae $,849 1,674	medium	3,849 total (OCR "$,849"), 1,674 females; table of other castes, 1881
+AT09	Moradabad	1881	Bairdgi	BAIRAGI	1222	district	43	Bairdgi wee ee oe | V. ove i 222 7	low	OCR "i 222"; sum of the list (total 8,297) implies 1,222 rather than 222
+AT09	Moradabad	1881	Jogi	JOGI	2402	district	43	Jogi see me we] S. eee ee 2,402 1,188	high	1,188 females
+AT09	Moradabad	1881	Nanakshahi	UDASI	355	district	43	Ndénakshahi ie vee we | Sikhs 3 oes 355 130	high	130 females
+AT09	Moradabad	1881	Sanvyisi	SANNYASI	8	district	43	Sanvyisi see tee we | VAS. tes sas 8 2	medium	2 females
+AT09	Moradabad	1881	Udasi	UDASI	7	district	43	Udési soe nee ow | Sikhs oes eos 7 Nil.	medium	
+AT09	Moradabad	1881	Vaishnao	BAIRAGI	4115	district	43	Vaishniio ove we w | Ve 00 ove 4,115 1,924	medium	Vaishnava ascetics; probably includes Bishnoi/Vaishnava sectaries, see p.~38; 1,924 females
+AT09	Moradabad	1881	Devotees and religious mendicants (total)	ALL_ASCETICS	8297	district	43	Total ea v. 79261 aa 8,297	low	OCR garbled (7,926? / 8,297)
+AT09	Rampur	1881	Gosain (Devotee)	GOSAIN	2582	district	92	Gosain ee «» | Devotee... ae 2,582 1,044	high	1,044 females; table of other castes, 1881
+AT09	Rampur	1881	Jogis	JOGI	513	district	93	513 (238 females) as Jog{s	high	238 females
+AT09	Rampur	1881	Sadhus	SADHU_UNSPEC	14	district	93	and 14 (4 females) as Saidhus	high	
+AT09	Rampur	1881	Devotees and religious mendicants (total)	ALL_ASCETICS	535	district	93	making a total of 535 (242 fe- males)	high	Includes 8 Brahmacharis; the unspecified-castes table prints "Devotee 835" (OCR)

@@ -51,4 +51,6 @@ in vol. IX pt 1 (1901, province-wide, not by district).
   state gazetteers (Poona 1954, Dharwar 1959 on IA) and check the 1881–1901 Bombay census reports.
 - Madras Presidency: done with Thurston (1909) and the 1871/1891 census, because the Madras
   manuals and gazetteers lack caste-level sect statements. Report: `madras/README.md`.
-- Not started: Bengal, the United Provinces, Punjab, the Central Provinces.
+- North (United Provinces, NWP & Oudh): Daśanāmīs, 1869–1911 (Atkinson, Oudh gazetteer, Nevill, census 1891).
+  Report: `north/README.md`.
+- Not started: Bengal, Punjab, the Central Provinces.

@@ -1,0 +1,10 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP40	Gonda	1901	Faqirs (incl. Goshains)	FAKIR	14409	district	l.4062	The other principal castes include Faqirs, 14,409, a higher figure than elsewhere in Oudh	high	Text: 'Among the Faqirs are included the Goshains' (l.3881): the Faqir total contains Goshains; no separate Goshain count
+UP40	Gonda	1901	Goshains (listed among numerous castes)	GOSAIN		tahsil	l.10978	other numerous castes are Kumhars, Pasis, Goshains, Banias, Luniyas, Dhobis, and Barhais	low	Gonda tahsil; no figure given (count blank; listed as numerous caste)
+UP40	Gonda	1901	Faqirs	FAKIR	11233	tahsil	l.14006	Julahas, 11,737 ; Faqirs, 11,233, and Pathans, 9,650	medium	Utraula tahsil (heading at l.13868); census year inferred from 'last census'
+UP40	Gonda	1901	Mendicants (religious order excluded)	SADHU_UNSPEC	16547	tahsil	l.14020	no fewer than 16,547 persons derived a living from mendicancy, and this figure was exclusive of those connected with any religious order	medium	Utraula tahsil; explicitly excludes members of religious orders
+UP40	Gonda	1901	Mendicants and prisoners etc. (independent of occupation)	SADHU_UNSPEC	26288	district	l.4146	amounting in all to 26,288, a figure which is only exceeded in Meerut	low	class lumps pensioners, prisoners and mendicants; especially Utraula
+UP40	Gonda	1901	Goshains (Gonda pargana, resident)	GOSAIN	200	town	l.11490	some 200 Goshains and 128 Musalmans	medium	Mahadewa village population (660); Gaureshwar Mahadeo temple descended from Gorkhi Gir Goshain
+UP40	Gonda	1901	Goshain-owned villages	GOSAIN	34	district	l.4247	Goshains own 34 villages, Nanakshahis 20, which form a single estate, and Bairagis twelve.	high	villages owned (landholding, not headcount); Bairagis 12 villages, Nanakshahis 20 villages
+UP40	Gonda	1901	Bairagi-owned villages	BAIRAGI	12	district	l.4248	Bairagis twelve	high	villages owned
+UP40	Gonda	1901	Nanakshahi-owned villages	UDASI	20	district	l.4247	Nanakshahis 20, which form a single estate	high	villages owned (Mahant Har Charan Das estate)

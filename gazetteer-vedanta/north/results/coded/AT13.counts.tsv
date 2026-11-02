@@ -1,0 +1,30 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT13	Azamgarh	1881	Goshdins (principal Hindu castes)	GOSAIN	2186	district	84	does not include the 2,186 Goshdins who were returned among the	high	Listed among principal Hindu castes; female column garbled in OCR (814?)
+AT13	Azamgarh	1881	Atit	GOSAIN	3456	district	86	Atit we A w. | 5. Sh. V..., : 3,456 1,612	high	Devotee list; OCR 8,456 in the following text confirmed by the 1872-1881 comparison as 3,456
+AT13	Azamgarh	1872	Atits	GOSAIN	3091	district	86	of. whom 3,091 were Atjts	high	Of 5,583 in religious castes or orders in 1872 (Reid)
+AT13	Azamgarh	1872	religious castes or orders	ALL_ASCETICS	5583	district	86	the total number belonging to ‘religious castes or orders’ in 1872 was 5,583	high	
+AT13	Azamgarh	1881	Bairagi	BAIRAGI	316	district	86	Bairagi ,., . aes . a 316 125	high	
+AT13	Azamgarh	1881	Ramanandi	BAIRAGI	25	district	86	Raémanandi sie ae Ws wes vee 25 10	high	
+AT13	Azamgarh	1881	Sannyasi	SANNYASI	12	district	86	Fannyael... ee we fT SLV. oe sue 12 6	medium	OCR garbled name
+AT13	Azamgarh	1881	Paramhans	OTHER	8	district	86	Paramhans ase we tS. see oes 8 t	medium	Paramhans listed as Saiva sect
+AT13	Azamgarh	1881	Nanakshahi	UDASI	14	district	86	Nénakshéhi. eee ww. | Sikh es aes 14 6:	high	
+AT13	Azamgarh	1881	Aghori	OTHER	2191	district	86	Aghori ow. aes oes ; 2,191 1,046	medium	Large figure; list rows do not sum exactly to the printed total 6,217
+AT13	Azamgarh	1881	Sidha	SADHU_UNSPEC	36	district	86	Sidhd ,. - an vee | BT. ae a 36 ir	low	
+AT13	Azamgarh	1881	Unspecified devotees	SADHU_UNSPEC	188	district	86	Unspecified ee ee oes 188 78.	medium	
+AT13	Azamgarh	1881	Devotees (total)	ALL_ASCETICS	6217	district	86	which shows 6,217 devotees and religious mendicants	high	Excludes the 2,186 Goshains; with them 8,403
+AT13	Azamgarh	1881	Devotees plus Goshains	ALL_ASCETICS	8403	district	86	we get 8,403 persons who in theory have re- nounced the bondage. of caste	high	
+AT13	Ghazipur	1881	Goséin (devotee list)	GOSAIN	22	district	48	Goséin Ss. V. vee 22 6	medium	Devotee list; Gosain caste row in principal-castes table has no figure in OCR
+AT13	Ghazipur	1881	Bairégi	BAIRAGI	1562	district	48	Bairégi see a | Ve asi ee ast 1,562 “680	high	
+AT13	Ghazipur	1881	Jogi	JOGI	236	district	48	ogt a nee FBS . ‘ tos 236 ne	medium	OCR garbled name; Jogi inferred from position in the list
+AT13	Ghazipur	1881	Sannyasi	SANNYASI	37	district	48	Sannyési ae .18.V as sa 37 6	medium	
+AT13	Ghazipur	1881	Nanakshahi	UDASI	100	district	48	Naénakshéhi w | Sikh one si ive 100 24	high	
+AT13	Ghazipur	1881	Devotees (total)	ALL_ASCETICS	2131	district	46	Devotee (vide infra) see | Mendicant + oe dee one 2,131	high	The list itself prints a total of 2,183; component rows sum to 2,131
+AT13	Ballia	1881	Atith	GOSAIN	2532	district	~35	Atith ws we | S. Sh. Ve aad ic ae be BS 2,532	low	OCR garbled; listed rows do not reach the printed total 6,170, so the Atith figure may be misread
+AT13	Ballia	1881	Bairégi	BAIRAGI	535	district	~35	Bairégi oe Vv. aes wee wee 535 193	high	
+AT13	Ballia	1881	Sannydsi	SANNYASI	46	district	~35	Sannydsi s+ wa | SV, sis eee tes 46 ?	medium	
+AT13	Ballia	1881	Udasi	UDASI	6	district	~35	Udasi os ew | Sikh. ove ooo sds 6 L	medium	
+AT13	Ballia	1881	Nanakshahi	UDASI	60	district	~35	Nénakshahi vee | Sih. <0 eee Se Pe Tt) 60	medium	
+AT13	Ballia	1881	Raimanandi	BAIRAGI	27	district	~35	Raimévandi ia | Vi cee ee $8 a 27 4	medium	
+AT13	Ballia	1881	Aghori	OTHER	68	district	~35	Aghort we | Sh. we Per os ai 68 36	medium	
+AT13	Ballia	1881	Devotees (total)	ALL_ASCETICS	6170	district	~35	Total - 6,170 2,910	high	
+AT13	Ballia (parganah Bhadaon)	1881	Atiths	GOSAIN	256	tahsil	96	and Atiths, 256	high	Parganah Bhadaon (Rasra tahsil); parganah scope

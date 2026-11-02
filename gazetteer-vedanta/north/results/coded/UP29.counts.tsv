@@ -1,0 +1,6 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP29	Azamgarh		Atits	GOSAIN	2000	district	89	Next to them come Atits, Baris, Dharkars, Halwais, Kamkars and Bhats, their numbers exceeding 2,000 in each case	medium	lower bound; "Atits are a religious sect rather than a caste... synonymous with Sanyyasi"; year not printed
+UP29	Azamgarh	1901	Faqirs or religious mendicants	FAKIR	7727	district	94	In 1901 there wrere 7,727 Faqirs or religious mendicants in Azamgarh	high	Musalman section
+UP29	Azamgarh	1901	Jogis	JOGI	899	district	94	899 Jogis, 125 Sains and Kamkalis, who are all Muhammadan ascetics	high	text classes them as Muhammadan ascetics similar to Faqirs
+UP29	Azamgarh	1901	Sains and Kamkalis	OTHER	125	district	94	125 Sains and Kamkalis	low	"Sains and Kamkalis" given as 125 jointly; Muhammadan ascetics
+UP29	Azamgarh	1901	Saivites (mostly Alakhnamis)	OTHER	1313	district		there were only 1,313 Saivites in the district, the bulk of whom were Alakhnaniis	medium	sect returns; Alakhnamis are not Dasnami per text; Nanakshahis the strongest Vaishnavite sect (no number)

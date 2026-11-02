@@ -1,0 +1,5 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP46	Etah	1901	Ramanandis	BAIRAGI	9992	district	Ch. III People	It counted 9,992 adherents, or 1'05 per cent, of the Hindus.	high	Sect from which Nanak Shahi, Kabir Panthi sprang; sect returns.
+UP46	Etah	1901	Followers of Nanak Shah	UDASI	14432	district	Ch. III People	14,432, or less than 2 per cent., were fol- lowers of Nanak Shah	high	
+UP46	Etah	1901	Fakirs (castes with over 2,000)	FAKIR	5680	district	Ch. III People	Fakirs (5,680)	medium	Caste returns; Hindu/Muslim not specified.
+UP46	Etah	1901	Lay mendicants (Jalesar tahsil occupation)	SADHU_UNSPEC	1913	tahsil	Jalesar tahsil	excluding 1,913 lay mendicants and 721 priests	medium	Occupation table, Jalesar tahsil; 721 priests.

@@ -1,0 +1,5 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+UP11	Bareilly		Musalman Faqirs	FAKIR	13850	district	~	Little need bo said of the Musalman Faqirs, save that they are unusually numorous, having at the last census a total of 13,850 persons.	high	Musalman faqirs only (Madaris, Ashiqan, Qadirias, Langre Qalandars, Benawas, Jogis, Jalalis); strongest in Baheri tahsil. Hindu Goshains/Bairagis not counted in the text
+UP11	Bareilly		Faqirs (tahsil)	FAKIR	4335	tahsil	~	Banjaras with 7,202, Pathans with 6,682, Faqirs with 4,335, Behnas with 4,183	medium	Baheri tahsil (OCR 'Batari Tahsil'); Musalman castes
+UP11	Bareilly		Faqirs (tahsil)	FAKIR	2073	tahsil	~	4,682 were Pathans, 3,749 Julahas and 2,073 Faqirs	medium	Nawabganj tahsil; Musalman
+UP11	Bareilly		Goshains (percentage of land)	GOSAIN	1.21	tahsil	~	Banias with 8-07, Ahirs with 6-72, Khattris with 2-59 and Goshains with 1-21 per cent.	high	Faridpur tahsil/pargana: 1.21 per cent of land area at recent settlement (a percentage, not a head-count)

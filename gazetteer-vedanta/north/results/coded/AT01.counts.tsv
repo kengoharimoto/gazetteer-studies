@@ -1,0 +1,9 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+AT01	Jhansi	1872	Gorsin [Gosain]	GOSAIN	526	district	266	[Gorsin iss 526	medium	Jhansi caste list "other castes" (ranked list with Baniyas); year inferred from the 1872 census cited on same page; OCR reads Gorsin = Gosain
+AT01	Jhansi	1872	Buiragh [Bairagi]	BAIRAGI		district	266	Buiragh a7	low	Count unreadable in OCR (printed as "a7", possibly 87 or 37); left blank
+AT01	Jhansi	1872	Jogi	JOGI	3,026	district	266	[Jogi oe 3,026	medium	Same table; OCR column alignment is slightly uncertain
+AT01	Lalitpur	1872	Bairégi	BAIRAGI	280	district	331	Bairégi 280	medium	Table of "other castes" according to the census of 1872 (heading LALATPUR); OCR column alignment mixed
+AT01	Lalitpur	1872	Gosdin	GOSAIN	192	district	331	Gosdin ... 192	medium	Same table
+AT01	Lalitpur	1872	Jogi	JOGI	261	district	331	dogi- w 261	medium	Same table
+AT01	Lalitpur	1872	Saniydsi	SANNYASI		district	331	Saniydsi... tog	low	Count unreadable in OCR ("tog", perhaps 109 or 108); left blank
+AT01	Hamirpur		Gosdin, Joshi	GOSAIN		district	160	Gosdin, Joshi, 0°6	low	Printed as a percentage of the population (0.6%), Gosain and Joshi combined; census year not stated on the page; not a head-count
