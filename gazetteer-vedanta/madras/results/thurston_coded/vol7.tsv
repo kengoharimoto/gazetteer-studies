@@ -1,0 +1,25 @@
+vol	entry	caste_std	line	language_region	districts_named	affiliation	pitha	scope	quote	confidence	note
+7	Tambala	Tambala	217	Telugu	Godavari	SHAIVA_UNSPEC		caste	Most of them are Saivites, and a few are Lingayats.	high	Temple priests; legend that Sankaracharya appointed Tamil Brahmans to serve Saiva shrines.
+7	Tambala	Tambala	217	Telugu		SMARTA		part	The Smarta Brahmans officiate as their priests at birth, marriage, and death ceremonies.	low	Priests only are Smarta; caste itself Saivite.
+7	Tambiran	Pandaram (Tambiran managers)	231	Tamil	Tanjore (Tiruvadudurai); South Arcot (Mailam)	SAIVA_MATH	Tiruvavaduturai; Mailam	part	The name for Pandaram managers of temples, e.g., at Tiruvadudurai in Tanjore and Mailam in South Arcot.	medium	Cross-reference to Pandaram (vol 6).
+7	Telaga	Telaga	457	Telugu		VAISHNAV_UNSPEC		caste	The Telagas are Vaishnavites, and have Brahmans for their priests.	high	Brahman guru, branded at his hands.
+7	Telli	Telli (Oriya oil-pressers)	567	Oriya		VAISHNAV_UNSPEC		caste	Most of the Tellis are Paramarthos, and follow the Chaitanya form of Vaishnavism	high	
+7	Telli	Telli (Oriya oil-pressers)	568	Oriya		SMARTA		part	but some are Smartas, and all worship Takuranis (village deities).	medium	No maṭha.
+7	Tigala	Tigala / Tamil Smarta Brahmans in Mysore	927	Kanarese	Mysore	SMARTA		general	the Canarese Madhva Brahmans speak of Tamil Smarta Brahmans as Tigalaru.	low	Naming only: Kanarese Madhvas call Tamil Smartas Tigalaru. Tigala caste itself (Palli emigrants) has no sect here.
+7	Todupuzha Vellala	Todupuzha Vellala (Tenkanchi, Kumbakonam)	4974	Malayalam	Travancore (Todupuzha)	SHAIVA_UNSPEC		caste	Both sections are Saivites, in the sense that they abstain from flesh and fish.	low	Kumbakonam Vellalas have an 'Annamala matam' as a temple/institution; headman in Periyakulam, Madura.
+7	Togata	Togata	5025	Telugu	Cuddapah	VAISHNAV_UNSPEC		caste	They are generally Vaishnavites, wear the sacred thread, and have for their priests Vaishnava Brahmans or Satanis.	high	
+7	Toreya	Toreya	5357	Kanarese	Coimbatore; Salem	MIXED		caste	The bridegroom makes a namam (Vaishnavite sect mark), or places vibhuti (sacred ashes) on the twelve posts of the pandal	low	Inferred from rites; no explicit sect stated.
+7	Tottiyan	Tottiyan	5498	Telugu	Madura	VAISHNAV_UNSPEC	Kodangi Nayakkan (caste gurus)	caste	Most of them are Vaishnavites, some of whom employ Brahman priests, but the majority of them are guided by gurus of their own, called Kodangi Nayakkan.	high	
+7	Traivarnika	Komati (Traivarnika section)	5838	Telugu	Vizagapatam	RAMANUJA		part	followers of the Ramanuja faith	medium	Vizagapatam Manual quoted.
+7	Tsakala	Tsakala (caste beggar Mailari)	5968	Telugu		LINGAYAT		part	He is said to be a Lingayat.	low	Only the caste beggar.
+7	Unni	Unni (Ambalavasi)	6654	Malayalam		SMARTA		caste	The Unnis are all Smartas, but a partiality for Bhadrakali is manifested by the Tiyattunnis and Brahmanis.	medium	Social matters supervised by Nambutiris. No maṭha. Note: 'Smartas' here is a sect/caste label.
+7	Uppara	Uppara (Uppiliyan)	6748	Telugu		MIXED		caste	They profess to be Saivites and Vaishnavites, but practically worship village deities	medium	Vaishnava Brahman gurus brand the Vaishnavites.
+7	Valluvan	Valluvan	8966	Tamil	Tanjore	MIXED		caste	The Valluvans include in their ranks both Vaishnavites and Saivites.	high	Priests in some places Vellala Pandarams; majority of Saivites wear the lingam.
+7	Vani	Vani (Bandekar)	9141	Konkani		SMARTA	Kumbakonam	caste	Their spiritual guru is the head of the Kumbakonam math.	high	Stuart quotation; said to have come from Goa; 'Vaisya Brahmans'. Kumbakonam math presumably the Śaṅkara (Kāmakoṭi) seat, but the text does not specify.
+7	Vaniyan	Vaniyan	9215			SHAIVA_UNSPEC		caste	They are Saivites. They have their own priests, who are called Panditars.	medium	Context mentions Konkanis; region unclear.
+7	Vannan	Vannan	9254	Tamil		MIXED		caste	They profess to be Saivites in the southern districts, and Vaishnavites in the north.	high	
+7	Variyar	Variyar (Ambalavasi)	9523	Malayalam		SHAIVA_UNSPEC		caste	The Variyars are to Saivite temples what the Pisharatis are to Vaishnavite temples.	high	
+7	Vellala	Vellala	10941	Tamil		MIXED		caste	Each division contains both Vaishnavites and Saivites	high	Pandarams, Thambirans owning matams belong to the Sozhia section; no pitha named.
+7	Vipravinodi	Vipravinodi	11847	Telugu		LINGAYAT		caste	They are Lingayats, and are called Vipravinodi because they perform acrobatic feats before Vipras, or Brahmans.	high	
+7	Viramushti	Viramushti	11872	Telugu	Vizagapatam	LINGAYAT	Basavanna Mandiram (legendary)	caste	They are Lingayats, but do not, as a rule, wear the lingam	high	Attached to Saivite temples; legendary Lingayat mutt Basavanna Mandiram.
+7	Yanadi	Yanadi	12381	Telugu		MIXED		caste	The Yanadis, like Hindus, wear sect marks, and are even divided into Vaishnavites and Saivites.	medium	

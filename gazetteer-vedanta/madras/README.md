@@ -1,0 +1,121 @@
+# Madras Presidency: Śaṅkara's following (Thurston 1909 + census 1871/1891)
+
+Part of `../` (the Bombay study). Bombay used the district gazetteers' caste accounts; the Madras manuals
+(1869–87) and gazetteers (1904–18) do not give caste-level sect statements, so Madras uses two other sources
+(chosen by the user, option 1 + 2 of the earlier scouting note):
+
+1. **Thurston and Rangachari, *Castes and Tribes of Southern India* (1909, 7 vols)**, the caste-by-caste
+   source the Madras gazetteers themselves refer to. Text: Project Gutenberg (`data/thurston/`). Split into
+   2,265 entries, 332 with sect/guru cues (`scripts/thurston_entries.py` → `results/thurston/packets/`), coded
+   by entry (`data/CODING_INSTRUCTIONS_THURSTON.md` → `results/thurston_coded/vol1–7.tsv`, 246 rows, every quote
+   verbatim; 25/25 spot-check found in the text).
+2. **Census of the Madras Presidency, 1871 (Cornish) and 1891 (Stuart)**, `data/census/`. District
+   Śaiva:Vaiṣṇava ratios at both dates: `data/census/sect_ratios_1871_1891.tsv`.
+
+The district manuals and gazetteers (`data/selection.tsv`, OCR in `data/ia_ocr/`) were downloaded and
+surveyed but not coded; see §4.
+
+## 1. The census: the Smārtas are inside "Śaiva"
+
+- 1871: "the present arrangement classes the Sri Vishnavas and Mādhwās as 'Vishnavaites', and the Smārtas as
+  'Sivaites'" (1871 report, Brahmans). 1891: "Smārta … is used in this presidency to denote a Brāhman of the
+  Śaiva sect, a follower of Sankarāchārī" (¶121).
+- So the 1871 **Śaivite Brahmans are the Smārta Brahmans: 717,774, or 65.5% of all Brahmans** (Vaiṣṇava
+  Brahmans 365,952, 33.4%). Brahmans were 3.7% of Hindus, so Smārta Brahmans were **≈2.4% of the Hindu
+  population**. They were the majority of Brahmans in every district except Ganjam, Bellary and Chingleput.
+- Below the Brahmans the labels mean little. "To a large majority of Hindus sect has very little meaning.
+  Thus the Paraiyans call themselves Saivites, but they know next to nothing of the tenets of Saivism" (1891
+  ¶119). The 1871 artisan castes are 85% "Śaivite" because they worship Kāmākṣiyamma, Kālī or village deities.
+- The district series (Śaiva:Vaiṣṇava) runs from Vaiṣṇava in the Telugu north (Ganjam 1:10) to Śaiva in the
+  Tamil south (Tanjore 7:1) and Malabar (67:1 in 1871, 100:1 in 1891).
+- Changes between 1871 and 1891 noted by the 1891 report:
+  - Kistna moved from 6:7 to 1:2 ("Vaishnavism has made a great advance").
+  - North Arcot moved from 9:10 to 104:100 (Śaivism "has made considerable progress").
+  - South Canara moved from 2:1 to 7:1 (perhaps classification).
+- These figures measure Śaiva vs Vaiṣṇava, mostly non-Brahmin. They do not measure Śaṅkara's following.
+
+## 2. Thurston: who is tied to a Śaṅkara seat
+
+41 rows are coded SMARTA. They fall into two quite different groups:
+
+**(a) The west coast and Kanarese belt: a seat is named, and it reaches non-Brahmin castes.** Śṛṅgeri is named
+for:
+
+- Kharvis (Konkani fishermen, Kundapur): "All are Saivites, and disciples of the Sringeri mutt".
+- Marāṭhās and Servegāras of South Canara.
+- Ares (Marathi husbandmen; South Canara, Bellary, Anantapur).
+- Chaptegāras (Konkani carpenters), whose "fines … paid to the Sringeri math".
+- Gāṇigas. Here Śṛṅgeri is "a Smarta (Saivite) mutt … at several places, such as Tanjore and Kumbakonam".
+- Tulu Brahmans in general, and the Smārta Marakas of Mysore.
+
+Other Smārta seats in the same belt:
+
+- Havik Brahmans under Rāmacandrapura, and the dissenting Saklapuris under their own maṭha.
+- Konkani Vānis under "the head of the Kumbakonam math" (the seat is not specified).
+- In Bellary, the 1888 visit of the Śṛṅgeri Svāmi led to a dispute with the Liṅgāyats over guru processions
+  (Liṅgāyat entry).
+
+**(b) The Tamil country: Smārta is a Brahman sub-caste label with no named seat.** Thurston lists the Tamil
+Smārta divisions (Vaḍama, Bṛhaccaraṇam, Vāttima, Aṣṭasahasram, Kesigal, Choliya, Sanketi, Prathamaśākhī and
+others) but names **no maṭha for any of them**: no Kumbakoṇam, Kāñcī or Śivagaṅgā.
+
+- The only maṭha remark in the Tamil Smārta section is negative: the Dīkṣitars of Chidambaram do not accept any
+  Śaṅkarācārya, and Gurukkals "do not regard themselves as disciples of Sankaracharya".
+- The Tamil non-Brahmin castes, where a guru is named, look to non-Brahmin Śaiva maṭhas (Tiruvāvaḍuturai,
+  Mailam, Kumbakoṇam's Umayorubhāgam), to Sātāni and Dāsari gurus, or to Śrīvaiṣṇava houses:
+  - Vaḍagalai: Ahobilam, now at Narasimhapuram near Kumbakoṇam, and Parakāla.
+  - Teṅgalai: Vānamāmalai, Śrīperumbudūr, Tirukkōyilūr.
+- In Malabar, "Smarta" is mostly the Nambūtiri caste judge (*smārtavicāram*, not coded). The few sectarian uses
+  are Unnis "all Smartas", Nāyar "Smartas converted to the tenets of Sankaracharya", and the tradition of the
+  three Trichur maṭhas founded by Nambūtiri disciples of Śaṅkara.
+
+Seats named across the 246 rows: Śṛṅgeri 8; Sātāni gurus 6; Parakāla 2; Vyāsarāya 2; Tiruvāvaḍuturai/Mailam 2;
+every other seat once (Ahobilam, Vānamāmalai, Śrīperumbudūr, Tirukkōyilūr, Uttarādi, Udupi, Sumatīndra,
+Rāmacandrapura, Saklapuri, Kumbakoṇam, Ujjani, …). Puṣpagiri and Virūpākṣa are never named.
+
+## 3. Findings in relation to Bombay
+
+1. **Śṛṅgeri's jurisdiction over non-Brahmin castes is a west-coast and Kanarese phenomenon in both
+   presidencies.** Bombay's Kanara (32–39% of Hindus; Konkan Kuṇbīs won over in 1881) and Madras's South Canara
+   (Kharvis, Marāṭhās, Servegāras, Ares, Chaptegāras) form one belt. Away from it the following is a Brahman
+   matter: the Marathi Deccan in Bombay, the Tamil country in Madras.
+2. **The form of the tie is the same: jurisdiction and dues.** Fines are paid to the maṭha (Chaptegāras), caste
+   disputes go to it, and an agent collects. In Bombay the Śaṅkarācārya is the final court of caste disputes.
+3. **Tamil Smārtas: many Brahmans, no visible seat in the colonial sources.** Smārta Brahmans are about 2.4% of
+   Madras Hindus in 1871, the majority of Brahmans in most districts, yet neither Thurston nor the gazetteers tie
+   them to Kumbakoṇam or Śṛṅgeri. The only Kumbakoṇam Śaṅkara maṭha in the sources is the Tanjore gazetteer's
+   (1906) "Brahman Smarta math of Sankaracharya at Kumbakonam", listed beside the non-Brahmin Śaiva maṭhas of
+   Dharmapuram and Tiruvāvaḍuturai, and Thurston's Gāṇiga note placing *Śṛṅgeri* branches at Tanjore and
+   Kumbakoṇam. Whether this silence reflects the informants or the institutions is a question for other
+   sources (maṭha records, Tamil and Sanskrit literature, inam registers).
+4. **Change over time.**
+   - In Madras the census shows movement in the Śaiva/Vaiṣṇava balance between 1871 and 1891 (Kistna, North
+     Arcot), but not in Śaṅkara's following as such.
+   - The direct evidence of change is still Bombay's Kanara (1881).
+   - Thurston's 1888 Bellary episode (Śṛṅgeri Svāmi vs Liṅgāyats) shows Śṛṅgeri touring and asserting
+     precedence in the same years.
+
+## 4. Not done / possible next steps
+
+- **District counts of Smārta Brahmans.** These need the 1871 table volume (not found on IA) or the 1891 caste
+  tables, where Brahman sub-divisions (Vaḍama, Bṛhaccaraṇam, Smārta, Teṅgalai, Vaḍagalai …) are tabulated by
+  district (`data/census/india.history.resource.52257.txt`). The OCR tables there are badly scrambled.
+- **Maṭha presence from the manuals and gazetteers (option 4).** Inams, villages and tours of Śṛṅgeri,
+  Kumbakoṇam, Puṣpagiri, Virūpākṣa and Śivagaṅgā could be collected from the "Places" chapters; the OCR is
+  downloaded.
+- **Missing volumes.** The North Arcot gazetteer (1905) failed to download; the Chingleput gazetteer is a
+  fragment on IA.
+- **Weak rows to review.** The weaker SMARTA rows (Tambala, Tigala, Sastri, Prathamaśākhī, the Dīkṣitars) are
+  marked `low` in `results/thurston_coded/`.
+
+## Files
+
+| file | content |
+|---|---|
+| `data/thurston/vol1–7.txt` | Thurston, Gutenberg text |
+| `results/thurston/entries.tsv`, `packets/` | entry index; cue-sentence packets |
+| `results/thurston_coded/vol1–7.tsv` | coded rows (246) |
+| `data/census/sect_ratios_1871_1891.tsv` | district Śaiva:Vaiṣṇava ratios |
+| `data/census/*.txt` | census report OCR (1871, 1891 report and tables) |
+| `data/selection.tsv`, `data/ia_ocr/` | manuals and gazetteers (surveyed, not coded) |
+| `scripts/thurston_entries.py` | entry splitter |

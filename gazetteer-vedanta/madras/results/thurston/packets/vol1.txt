@@ -1,0 +1,790 @@
+### Vadari  [vol 1, line 1613, 11449 chars]
+  They are doubtless Oddes or Wudder navvies, who have migrated from their home in the Telugu country.
+* TABLE A. ========================================================================== | | | Length cm. | Breadth cm. | Index. |Index |No.| Caste or |==============+==============+==============|80 and | | Tribe. | Av.|Max.|Min.| Av.|Max.|Min.| Av.|Max.|Min.|over. ====+===+=============+====+====+====+====+====+====+====+====+====+====== | 40|Badaga, | | | | | | | | | | | | Nilgiris |18.9|20.2|18. |13.6|14.5|12.8|71.7|77.5|66.1| 0 M. | 18|Kanikar |18.8|19.5|18.2|13.6|14.2|13. |72.5|76.1|68.1| 0 M. | 40|Mappilla, | | | | | | | | | | | | Muhammadan |18.9|20. |18. |13.7|14.6|13. |72.8|78.5|68. | 0 J. | 23|Kadir |18.4|19.4|17.2|13.4|13.8|12.5|72.9|80. |69. | 1 M. | 40|Tiyan |18.9|20.3|17.8|13.7|14.9|12.6|73. |80.3|68.5| 1 Tam.|40 |Palli |18.6|19.6|17.4|13.6|14.6|12.1|73. |80. |64.4| 1 Tam.|40 |Irula |18.5|19.6|17. |13.5|14.4|12.8|73.1|78.6|68.4| 0 |82 |Toda, | | | | | | | | | | | | Nilgiris |19.4|20.4|18.2|14.2|15.2|13.3|73.3|81.3|68.7| 1 J. |20 |Kaanikar |18.5|19.4|17.8|13.6|14.2|13. |73.4|78.9|69.1| 0 Tam.|29 |Ambattan |18.6|19.2|18. |13.7|14.6|12.5|73.4|76.9|67.2| 0 J. |25 |Mala Vedan |18.5|19.6|17.4|13.6|14.6|13. |73.4|80.9|68.8| 1 Tam.|40 |Paraiyan |18.6|19.7|17. |13.7|14.5|13. |73.6|78.3|64.8| 0 M. |25 |Cheruman |18.3|19.3|17.1|13.5|14.2|12.3|73.9|80.1|67.7| 1 M. |25 |Paniyan |18.4|19.3|17.5|13.6|14.9|13. |74. |81.1|69.4| 1 Tam.|40 |Agamudaiyan |18.8|20. |17.8|13.9|14.6|12.8|74. |80.9|66.7| 1 |25 |Kota, | | | | | | | | | | | | Nilgiris |19.2|20.2|18.3|14.2|15.1|13.4|74.1|79.1|69.9| 0 Tam.|40 |Vellala |18.6|19.6|17.7|13.8|14.6|13.1|74.1|81.1|67.9| 2 Tam.|20 |Smarta | | | | | | | | | | | | Brahman |18. |19.2|17.8|14. |14.8|13. |74.2|80.4|67.8| 1 Tam.|50 |Malaiyali |18.3|19.3|17. |13.6|14.4|12.8|74.3|82.8|61. | 2 J. |40 |Chenchu |18.2|19.6|17.2|13.5|14.4|12.4|74.3|80.5|64.3| 1 M. |40 |Nayar |18.7|19.8|17.4|13.9|15. |13.2|74.4|81.9|70.4| 1 Tam.|25 |Pattar | | | | | | | | | | | | Brahman |18.8|20.3|17.2|14. |15.1|13.1|74.5|81.4|69.1| 2 Tam.|23 |Malasar |18.2|19.2|17.3|13.5|14.4|12.4|74.5|80. |70. | 1 J. |57 |Urali |18.2|19.3|17.2|13.5|14.4|12.8|74.6|81.9|69.8| 1 Tam.|50 |Chakkiliyan |18.6|19.8|17.6|13.9|15.2|13. |74.9|80.9|70.4| 1 J. |20 |Sholaga |18.2|19.4|17.2|13.6|14.6|12.2|74.9|79.3|67.8| 0 Tel.|30 |Madiga, | | | | | | | | | | | | Adoni |18.6|20.2|17. |13.9|14.6|13. |75. |82.2|71.3| 2 Tam.|40 |Kammalan |18.4|19.7|17.3|13.7|14.7|13.1|75. |81.5|68.4| 5 M. |40 |Mukkuvan |19. |20.4|17.6|14.2|15.2|13.4|75.1|83.5|68.6| 2 Tam.|40 |Sheik | | | | | | | | | | | | Muhammadan |18.3|20. |16.7|13.8|14.5|12.8|75.6|81.6|71.5| 2 C. |50 |Dayare | | | | | | | | | | | | Muhammadan |18.5|19.7|17. |14. |15. |13. |75.6|83.3|68.5| 8 Tam.|40 |Saiyad | | | | | | | | | | | | Muhammadan |18.5|19.6|17.2|14. |15. |13.1|75.6|84.9|68.2| 2 J. |26 |Paliyan |17.8|18.6|17.1|13.5|14. |13. |75.7|79.1|72.8| 0 J. |25 |Irula |18. |19.1|17. |13.7|14.3|13.1|75.8|80.9|70.8| 1 Tam.|50 |Pallan |18.3|19.6|17.2|13.9|14.9|12.6|75.9|87. |70.1| 6 Tam.|42 |Idaiyan |18.3|19. |16.8|14. |14.6|13.2|76. |81.9|71.3| 5 Tam.|40 |Pathan | | | | | | | | | | | | Muhammadan |18.5|19.6|17.2|14.2|15.2|13.3|76.2|83.1|71.1| 2 M. |24 |Pulayan |18.3|19.3|17. |13.9|15. |13. |76.3|83. |72.3| 5 J. |22 |Kurumba |17.9|18.7|16.9|13.7|14.5|13. |76.4|83.3|71.8| 2 Tel.|40 |Madiga, | | | | | | | | | | | | Hospet |18.3|20. |17.2|14. |15.4|13. |76.5|83.3|68. | 8 C. |50 |Sedan |18.4|19.4|17. |14.1|14.8|13.2|76.6|82.6|72.6| 7 C. |40 |Toreya |18.3|19.2|17.2|14.1|15.2|13. |76.6|86.4|70.2| 5 Mar.|24 |Desastha | | | | | | | | | | | | Brahman |18.7|20.2|18. |14.4|15.2|13.2|77. |83.4|71. | 4 Tel.|30 |Mala |18.4|19.8|16.8|14.2|14.8|13.4|77.1|85.9|70.3| 6 Tel.|60 |Bestha |18.4|19.4|16.6|14.2|15.6|13.2|77.1|85.1|70.5| 11 C. |50 |Kuruba, | | | | | | | | | | | | Mysore |18.1|19.4|17.2|14. |15. |12.8|77.3|83.9|70.3| 9 Tel.|40 |Odde |18.2|20.4|17.2|14.1|15.2|13.4|77.3|83.1|70.1| 10 Tel.|60 |Golla |18.2|19.6|16.4|14.1|15.1|13.2|77.5|89.3|70.1| 12 C. |40 |Dasa | | | | | | | | | | | | Banajiga |18.6|19.8|17.3|14.4|15.6|13.4|77.8|85.5|72. | 11 Tel.|25 |Komati, | | | | | | | | | | | | Adoni |18.2|19.4|17. |14.3|15.2|13.3|77.9|88.2|72.2| 8 C. |40 |Okkiliyan, | | | | | | | | | | | | Coimbatore |18.2|19.4|17. |14.2|15.2|13.2|77.9|88.2|71.7| 9 C. |50 |Boya |18. |19.2|16.8|14. |15.2|13. |77.9|89.2|70.5| 14 Tu. |40 |Bant |18.5|20. |17. |14.4|16.6|13.1|78. |91.2|70.8| 12 Tel.|49 |Kapu |18.2|19.8|16.8|14.2|15.6|13.2|78. |87.6|71.6| 16 Tel.|39 |Tota | | | | | | | | | | Tel.|39 | Balija |18.1|19. |17. |14.1|15. |13. |78. |86. |73.3| 10 C. |60 |Madhva | | | | | | | | | | | | Brahman |18.4|19.8|16.6|14.3|15.2|13.2|78. |88.5|68. | 18 C. |40 |Bedar, | | | | | | | | | | | | Hospet |18.4|20. |16.8|14.3|15.2|13.2|78.1|85.3|70.8| 13 Tel.|38 |Uppara |18. |19. |16.2|14. |15.2|13.2|78.1|87.8|71.7| 9 C. |25 |Linga | | | | | | | | | | | | Banajiga, | | | | | | | | | | | | Sandur |18.2|19.4|16.6|14.2|15. |13.4|78.3|87.9|73.7| 7 C. |60 |Karnataka | | | | | | | | | | | | Smarta | | | | | | | | | | | | Brahman |18.5|20.7|17. |14.4|15.8|13.4|78.4|89.5|69.8| 19 Tel.|30 |Padma | | | | | | | | | | | | Sale |17.8|19.|16.5|14.1|15.1|13.2|78.7 |86.2|72.8| 10 C. |50 |Kuruba, | | | | | | | | | | | | Hospet |18.1|19.6|17. |14.2|15.4|13.4|78.9|88.4|72.9| 19 Tel.|50 |Telugu | | | | | | | | | | | | Banajiga |18.4|19.2|16.6|14.5|15.4|13.2|79. |89.5|71.9| 18 C. |50 |Panchala |18.3|19.4|17.2|14.4|15.6|13. |79. |89.5|71.3| 23 C. |50 |Holeya |17.9|19.6|16.6|14.1|15.2|13.2|79.1|87.4|70. | 20 C. |25 |Bedar, | | | | | | | | | | | | Adoni |18.1|19.2|17. |14.4|15. |13.6|79.4|85.9|74.1| 12 Mar.|30 |Rangari |18.1|19.8|16.8|14.5|15.4|13.8|79.8|92.2|70.7| 14 Tel.|25 |Togata |17.7|19. |16.2|14.2|14.8|13.6|80. |88.1|73.7| 13 Tu. |50 |Billava |18.2|20.6|16.4|14.6|15.6|13.2|80.1|91.5|71. | 28 C. |30 |Linga | | | | | | | | | | | | Banajiga, | | | | | | | | | | | | Adoni |18.1|19.4|16.7|14.4|15.2|13.6|80.1|87.4|74.1| 14 C. |50 |Hebbar | | | | | | | | | | | | Brahman |18.4|19.6|17.2|14.7|16.4|13.4|80.1|92.1|72.8| 21 C. |50 |Mandya | | | | | | | | | | | | Brahman |18.5|20.2|16.6|14.8|15.8|13.4|80.2|88.2|69.8| 31 Tu. |30 |Shivalli | | | | | | | | | | | | Brahman |18.5|19.6|16.8|14.9|16.2|13.6|80.4|96.4|72.3| 17 C. |20 |Ganiga |18. |19.1|16.6|14.4|15.2|14. |80.5|86.7|74.5| 11 C. |20 |Devanga |18. |19.6|17. |14.5|15.5|13.6|80.8|87.1|74.7| 10 Tel.|25 |Komati |17.6|18.8|16.4|14.3|14.8|13.4|81. |87.1|74.5| 16 C. |50 |Vakkaliga, | | | | | | | | | | | | Mysore |17.7|19.5|15.8|14.5|15.7|13.2|81.7|93.8|72.5| 27 Mar.|30 |Suka | | | | | | | | | | | | Sale |17.7|18.8|16.6|14.5|15. |13.4|81.8|88.2|76.1| 22 Mar.|30 |Sukun | | | | | | | | | | | | Sale |17.6|19. |16. |14.4|15.4|13.6|82.2|90. |73.9| 21 ========================================================================== TABLE B. ====+===+============================+=================+================= | | | Stature cm. | Nasal Index. == |No.| Caste or Tribe. +=====+=====+=====+=====+=====+===== | | | Av. | Max.|Min. | Av. | Max.|Min. ====+===+============================+=====+=====+=====+=====+=====+===== M. |40 |Nayar |165.2|179. |152.2| 71.1| 78.7|54.4 C. |50 |Hebbar Brahman |163.2|174.4|150.8| 71.2| 87.2|55.4 C. |60 |Karnataka Smarta Brahman |164.2|176. |150.6| 71.5| 91.5|61.1 C. |50 |Dayare Muhammadan |166.4|181.8|150. | 71.5| 82.6|59.3 Mar.|60 |Madhva Brahman |163.3|176.2|151.8| 72. | 93.2|58.8 Tu. |40 |Bant |165.7|179.2|155.8| 72.2| 86.1|61.6 Tam.|40 |Sheik Muhammadan |164.6|174.8|153.8| 72.4| 87. |60.
+  Tam.|29 |Ambattan |165.7|173.2|153.2| 72.4| 84.3|57.9 Tu. |50 |Billava |163.2|175.8|149.4| 72.6| 92.8|60.
+
+### Abhisheka  [vol 1, line 1841, 119 chars]
+* Abhisheka.--Abhisheka Pandarams are those who are made to pass through some ceremonies in connection with Saiva Agama. 
+
+### Adapadava (man of the wallet)  [vol 1, line 1874, 136 chars]
+* Adapadava (man of the wallet).--A name, referring to the dressing-bag which barbers carry, applied to Lingayat barbers in South Canara. 
+
+### Adikal (slaves or servants)  [vol 1, line 1910, 1460 chars]
+  Adikal (slaves or servants).--Included among the Ambalavasis.
+* It is recorded, in the Travancore Census Report, 1901, that "tradition states that Sankaracharya, to test the fidelity of certain Brahmins to the established ordinances of caste, went to a liquor-shop, and drank some stimulants.
+  Not recognising that the obligations, from which adepts like Sankara were free, were none the less binding on the proletariat, the Brahmins that accompanied the sage made this an excuse for their drinking too.
+
+### Adisaivar  [vol 1, line 1936, 625 chars]
+  Adisaivar.--Recorded, in the Madras Census Report, 1901, as "a sub-caste of Vellala.
+* They are singers of Devara hymns in Saiva temples."
+* The name indicates those who have been Saivites from the beginning, as opposed to recent Saivites.
+* Adisaivas are Saivites, who have survived the absorbing influence of the Lingayat sect.
+* Saivites who profess the Lingayat doctrines are known as Virasaivas.
+* Some Pandarams, who belong to the Sozhia sub-division of the Vellalas, regularly recite Tamil verses from Thevaram and Tiruvachagam in Saivite temples.
+  This being their profession, they are also called Oduvar (readers or reciters). 
+
+### Agamudaiyan  [vol 1, line 1972, 18551 chars]
+  The corpse is carried to the burning or burial-ground on a bier or palanquin.
+* As the Agamudaiyans are Saivites, Pandarams assist at the funeral ceremonies.
+  On the second or third day after death, the son and others go to the spot where the corpse was buried or burnt, and offer food, etc., to the deceased.
+  Presents are then given to Brahmans, and, after the death pollution has been removed by sprinkling with holy water (punyaham), a feast is given to the relatives.
+* The Agamudaiyans worship various minor deities, such as Aiyanar, Pidari, and Karupannaswami. 
+
+### Agasa  [vol 1, line 2308, 2774 chars]
+  The Agasas are Vishnuvaits, and pray to Vishnu, Pattalamma, and the Saktis.
+* Their gurus (religious preceptors) are Satanis.
+  A unique custom is attached to the washerman's office.
+  Some Maratha washermen call themselves Dandu (army) Agasa.
+* The insigne of the washermen at Conjeeveram is a pot, such as that in which clothes are boiled. 
+
+### Aiya  [vol 1, line 2376, 894 chars]
+* Aiya.--Aiya or Ayya, meaning father, is the title of many classes, which include Dasari, Devanga, Golla, Idiga, Jangam, Konda Dora, Komati, Koppala Velama, Linga Balija, Mangala, Muka Dora, Paidi, Satani, Servegara, and Tambala.
+  It is further a title of the Patnulkarans, who claim to be Brahmans, and a sub-division of the Tamil Pallans.
+
+### Alia  [vol 1, line 2528, 1425 chars]
+  Infant marriage is the rule, and, if a girl does not secure a husband before she reaches maturity, she goes through a mock marriage ceremony, in which the bridegroom is represented by a brass vessel or an arrow.
+* Like many other Oriya castes, the Aliyas follow the Chaitanya form of Vaishnavism, and also worship various Takuranis (village deities). 
+
+### Alvar  [vol 1, line 2563, 220 chars]
+  Alvar is a synonym of Garuda, the winged vehicle of Vishnu.
+* Alvar Dasari occurs as a sub-division of Valluvans, which claims descent from Tiruppan Alvar, one of the Vaishnava saints. 
+
+### Ambalakkaran  [vol 1, line 2572, 6179 chars]
+  It seems likely that all of them are descended from one common parent stock.
+* Ambalakkarans claim to be descended from Kannappa Nayanar, one of the sixty-three Saivite saints, who was a Vedan or hunter by caste.
+  In Tanjore the Valaiyans declare themselves to have a similar origin, and in that district Ambalakkaran and Muttiriyan seem to be synonymous with Valaiyan.
+
+### Ambattan  [vol 1, line 2767, 16628 chars]
+  And, on ordinary occasions of death, they lead the son or person who is entitled to light the funeral pyre, with a brass pot in their hands, round the corpse, and indicate with a burning cinder the place to which the light must be applied.
+* As a community the Ambattans are divided into Saivites and Vaishnavites.
+* Members of the latter section, who have been branded by their Brahman guru with the chank and chakram, abstain from animal food, and intoxicating drinks.
+  Intermarriage between the two sections is allowed, and commonly practised.
+
+### Anderaut  [vol 1, line 3145, 166 chars]
+  Probably a form of Ande Kuruba.
+* Raut is frequently a title of headmen among Lingayats. 
+
+### Andi  [vol 1, line 3149, 4436 chars]
+  But persons of other than the priestly and religious classes were expected to work for their living, and were not entitled to relief in these institutions.
+* Begging among such people--unless, as in the case of the Pandarams and Andis, a religious flavour attaches to it--is still considered disreputable.
+  The percentage of beggars in the Tamil districts to the total population is .97, or more than twice what it is in the Telugu country, while in Malabar it is as low as .09.
+  Andis are Tamil beggars.
+* They are really inferior to Pandarams, but the two terms are in practice often indiscriminately applied to the same class of people.
+* Pandarams are usually Vellalas by caste, but Andis are recruited from all classes of Sudras, and they consequently have various sub-divisions, which are named after the caste to which the members of each originally belonged, such as the Jangam Andis, meaning beggars of the Jangam caste, and the Jogi Andis, that is, Andis of the Jogi caste.
+  They also have occupational and other divisions, such as the Kovil Andis, meaning those who do service in temples, and the Mudavandis or the lame beggars.
+  Among the Tinnevelly Andis, the sister of the bridegroom ties the tali (marriage badge) round the bride's neck, which is not usual."
+* In the Madras Census Report, 1891, the Andis are summed up as "beggars who profess the Saiva faith.
+  They may be found in all the Tamil districts, begging from door to door, beating a small gong with a stick.
+  The etymology of Uppandi is difficult, but it is improbable that it has any connection with uppu, salt.
+* In the Tanjore Manual, it is noted that "in its ordinary acceptation the word Andi means houseless beggars, and is applied to those who profess the Saiva faith.
+  They go out every morning, begging for alms of uncooked rice, singing ballads or hymns.
+
+### Anjuttan (men of the five hundred)  [vol 1, line 3241, 309 chars]
+  In the Gazetteer of Malabar, it appears as a sub-division of Mannans, who are closely akin to the Velans.
+* The equivalent Anjuttilkar occurs as a synonym for Tenkanchi Vellalas in Travancore. 
+
+### Anna (brother)  [vol 1, line 3247, 139 chars]
+* Anna (brother).--The title of numerous classes, e.g., Dasari, Gavara, Golla, Konda Dora, Koppala Velama, Mangala, Mila, Paidi, and Segidi. 
+
+### Anuppan  [vol 1, line 3272, 2685 chars]
+  The most important sub-division is Allikulam (lily clan).
+* Some of them are Saivites, and others Vaishnavites.
+* Brahmans are employed as priests by the Vaishnavites, but not by the Saivites.
+  Remarriage of widows is practised, but a woman divorced for adultery cannot remarry during the life-time of her husband."
+  They are divided into six territorial groups called Medus, which are named after three villages in this district, and three in Tinnevelly.
+* Over each of these is a headman called the Periyadanakkaran, and the three former are also subject to a Guru who lives at Sirupalai near Madura.
+  These three are divided again into eighteen kilais or branches, each of which intermarries only with certain of the others.
+
+### Aradhya  [vol 1, line 3325, 5541 chars]
+  Hayavadana Rao.
+* The Aradhyas are a sect of Brahmans found mainly in the four northern districts of the Madras Presidency, and to a smaller extent in the Cuddapah and Kurnool districts.
+  A few are also found in the Mysore State.
+  They differ in almost every important respect from other Brahmans.
+* Basava, the founder of the Lingayat religion, was born in a family of Brahmans, who, with others round about them, were apparently the first converts to his religion.
+  According to Mr.
+  P.
+* Brown, [64] they were "in all probability his personal friends; he persuaded them to lay aside their name, and call themselves Aradhya or Reverend.' They revere the four Aradhyas, visionary personages of the Lingayat creed, of whom very little is known.
+  At all social and religious functions, birth, marriage, initiation and funerals, four vases of water are solemnly placed in their name, and then invoked to preside over them.
+  A Sanskrit poem, called Siddhanta Sikhamani, represents Revanaradhya as a human manifestation of one of the ministers of Siva.
+* As might be expected, the members of this sect are staunch Saivites.
+  They wear both the Brahminical sacred thread, and the linga suspended from another thread.
+  In this connection, the following story is narrated by Colonel Wilks.
+* [65] "Poornia, the present minister of Mysore, relates an incident of a Lingayat friend of his, who had unhappily lost his portable God, and came to take a last farewell.
+* The Indians, like more enlightened nations, readily laugh at the absurdities of every sect but their own, and Poornia gave him better counsel.
+* It is a part of the ceremonial preceding the sacrifice of the individual that the principal persons of the sect should assemble on the bank of some holy stream, and, placing in a basket the lingam images of the whole assembly, purify them in the sacred waters.
+  The destined victim in conformity to the advice of his friend, suddenly seized the basket, and overturned its contents into the rapid Caveri.
+  They do not accept offerings distributed in temples as other Brahmans do, because they have already been offered to the God, and cannot therefore be offered again to the lingam.
+* Unlike other Lingayats, Aradhyas believe in the Vedas, to which they give allegorical interpretations.
+  They are fond of reading Sanskrit, and a few have been well-known Telugu poets.
+
+### Arasu or Rajpinde  [vol 1, line 3443, 1073 chars]
+  They are employed chiefly under Government and in agriculture, most of the former being engaged in the palace at Mysore.
+* Rajpindes are both Vishnavites and Sivites, and their priests are both Brahmans and Lingayat Waders."
+  In the Madras Census Report, 1891, Arasu (= Raja or king) is given as a sub-division of the Tamil Pallis and Paraiyans.
+
+### Are  [vol 1, line 3489, 2443 chars]
+  The true Ares are husbandmen of Maratha origin.
+* They wear the sacred thread, have Brahmans as their priests, and give allegiance to the head of the Sringeri Mutt.
+  Marriage of girls takes place either before or after puberty, and the remarriage of widows is not allowed.
+  A husband may divorce his wife for adultery, but a wife cannot divorce her husband.
+* When the guilt of a woman is proved, and the sanction of the Guru obtained, the husband performs the act of divorce by cutting a pumpkin in two at a place where three ways meet.
+  The use of animal food is allowed, but intoxicating liquors are forbidden."
+
+### Asari  [vol 1, line 3638, 949 chars]
+  At the census, 1901, some Sayakkarans (Tamil dyers) returned Asari as a title.
+* In a Government office, a short time ago, the head clerk, a Brahman named Rangachari, altered the spelling of the name of a Kammalan from Velayudachari to Velayudasari in the office books, on the ground that the former looked Brahmanical. 
+
+### Ashtakshari (eight syllables)  [vol 1, line 3655, 272 chars]
+* Ashtakshari (eight syllables).--A sub-division of Satanis, who believe in the efficacy of the eight syllables om-na-mo-na-ra-ya-na-ya in ensuring eternal bliss.
+  The name ashtabhukkulu, or those who eat the eight greedily, also occurs as a sub-division of the same people. 
+
+### Badaga  [vol 1, line 3722, 107242 chars]
+  "When this flitting took place there is little to show.
+* It must have occurred after the foundation of the Lingayat creed in the latter half of the twelfth century, as many of the Badagas are Lingayats by faith, and sometime before the end of the sixteenth century, since in 1602 the Catholic priests from the west coast found them settled on the south of the plateau, and observing much the same relations with the Todas as subsist to this day.
+  The present state of our knowledge does not enable us to fix more nearly the date of the migration.
+  It is known that the two forms of r, for example, had dropped out of use prior to the time of the grammarian Kesiraja, who lived in the thirteenth century, and that the word betta (a hill), which the Badagas use in place of the modern bettu, is found in the thirteenth century work Sabdamanidarpana."
+* It is recorded, in the Gazetteer of the Nilgiris, that "Nellialam, about eight miles north-west of Devala as the crow flies, is the residence of the Nellialam Arasu (Urs), who has been recognised as the janmi (landlord) of a considerable area in the Munanad amsam, but is in reality a Canarese-speaking Lingayat of Canarese extraction, who follows the ordinary Hindu law of inheritance, and is not a native of the Wynad or of Malabar.
+  Family tradition, though now somewhat misty, says that in the beginning two brothers named Sadasiva Raja Urs and Bhujanga Raja Urs moved (at some date and for some reason not stated) from Ummattur (in the present Chamarajnagar taluk of Mysore), and settled at Malaikota, the old fort near Kalhatti.
+  Toreya Low caste.
+* "Udayas are Lingayats in religion, and carry the Sivalinga--the Siva image--tied round their necks.
+  They claim to be superior to all the other Badagas, and are regarded as such.
+* They are priests to all the Badagas of the Lingayat class, and are strict vegetarians.
+  They do not intermarry with any of the other high caste Badaga sects.
+  Udaya was, and is the title assumed by the Maisur Rajas, and those Badagas, by being thus designated as a caste, claim superior blood in their veins."
+* The Lingayat Badagas are commonly called Lingakutti.
+  "Next in rank come the Haruvas.
+  He is the village servant, carries the corpses to the burning-ground, conveys the news of a death from village to village, is the first to get shaved when a death occurs, and is sent along with a woman when she is going to visit her mother or mother-in-law at a distance from her own home.
+* "The Udayas, Adhikaris and Kanakas are Lingayats in religion, and the other three, the Haruvas, Badagas, and Toreyas are Saivites."
+  Of the six divisions referred to, the Udayas and Toreyas are endogamous, but intermarriage is permissible between the other four.
+  A declaration on oath settles the matter at issue, and the parties agree to abide by it.
+* It is the duty of the Parpattikaran to make arrangements for such events as the Heththeswami, Devve and Bairaganni festivals, and the buffalo sacrificing festival at Konakkore.
+  The Parpattikaran takes part in the purification of excommunicated members of the tribe, when they are received back into it, for example, on release from prison.
+  This he must eat off a plate made of Argvreia, or plantain leaves.
+* Besides the hagottu within the house, the Badagas have, at certain places, separate dairy-houses near a temple dedicated to Heththeswami, of which the one at Bairaganni (or Berganni) appears to be the most important.
+  The dairy pujari is here, like the Toda palol, a celibate.
+  Only the pujari, and Badagas who have prepared themselves by fasting and ablution, are allowed to go on the bund to offer puja, which is done by breaking cocoanuts, and offering rice, flowers, and fruits.
+* The woman told the man in his dream to build a temple at Bairaganni, which is now the chief temple of Heththeswami."
+* Concerning the initiation of a Lingayat Badaga into his religion, which takes place at about his thirteenth birthday, Mr.
+  Natesa Sastri writes as follows.
+  "The priest conducts this ceremony, and the elder relations of the family have only to arrange for the performance of it.
+* The priests belong to the Udaya sect.
+  They live in their own villages, and are specially sent for, and come to the boy's village for the occasion.
+  After the investiture, the novices are taught a prayer, which is not a stereotyped formula, but varies with the priest and village.
+* Like other Lingayats, the Udayas respect the Jangam, but do not employ the Jangama thirtham (water used for washing the Jangam's feet) for bathing their lingams.
+  In Udaya villages there is no special menstrual hut (holagudi).
+  The other agricultural ceremony is called Devve habba or tenai (Setaria italica), and is usually celebrated in June or July, always on a Monday.
+* It is apparently performed in honour of the two gods Mahalingaswami and Hiriya Udaya, to whom a group of villages will have temples dedicated.
+* For example, the Badagas in the neighbourhood of Kotagiri have their Hiriya Udaya temple at Tandanad, and Mahalingaswami temple at Kannermukku.
+  This Devve festival, which should on no account be pronounced duvve, which means burning-ground, is celebrated at one place, whither the Badagas from other villages proceed, to take part in it.
+* About midday, some Badagas and the temple pujari go from the temple of Hiriya Udaya to that of Mahalingaswami.
+  The procession is usually headed by a Kurumba, who scatters fragments of tud bark and wood as he goes on his way.
+* The pujari takes with him the materials necessary for doing puja, and, after worshipping Mahalingaswami, the party return to the Hiriya Udaya temple, where milk and cooked rice are offered to the various gods within the temple precincts.
+  On the following day, all assemble at the temple, and a Kurumba brings a few sheaves of Setaria italica, and ties them to a stone set up at the main entrance.
+  This ceremonial, performed by women of the Madhave sept, is called Mandedhanda.
+* As soon as the Devve festival is concluded, the reaping of the crop commences, and a measure or two of grain from the crop gathered on the first day, called nisal, is set apart for the Mahalingaswami temple.
+* The most important gods of the Badagas are Heththeswami, Mahalingaswami, Hiriya Udaya, Madeswara, Mankali, Jadeswami, and Nilgiri Rangaswami.
+* And at the present day, some Badagas proceed to the plains, to worship at the Saivite temple at Karamadai in Coimbatore, or at Nanjangod in Mysore.
+* The festival in honour of Heththeswami is celebrated in the month of January at Baireganni.
+  It is sometimes called ermathohabba, as, with it, ploughing operations cease.
+  Daily, throughout the festival, the Badagas collect near the temple, and indulge in music and songs.
+* Until the last day, they are not permitted to set eyes on the god Heththeswami.
+  On the morning of the last day, the pujari, accompanied by all the Badagas, takes the newly woven cloths to a stream, in which they are washed.
+  All prostrate themselves before it, and make offerings of money.
+* Fruits and other things are then offered to Heththeswami and some recite the following prayer.
+  "May all good acts be remembered, and all bad ones be forgotten.
+  The buffaloes are never killed, but remain as the property of the temple.
+* The pujari calls the representatives of one village, and tells them what Hetheswami says to him, e.g., 'This year you will have good [or bad] crops; cholera or small-pox, good [or bad] rain, etc.' As the people present their offerings, they prostrate themselves, kneeling down and touching the ground with their foreheads, and the pujari gives them some flowers, which they wear in their hair.
+  The people and the pujari play on the kombu [horn], and ring bells while the offerings are being made.
+  After the offerings have finished, all the men dance, in two companies, in front of the temple, one shouting 'How-ko, How-ko,' and the other 'Is-holi.' The dance was taught them by the Todas, and the words are Toda."
+* In connection with the Jadeswami festival the ceremony of walking through fire [burning embers] is carried out at Melur, Tangalu, Mainele, Jakkanare, Tenad, and Nidugala.
+  At Melur and Tangalu, the temples belong to the Haruvas, who carry out all the details of ceremony.
+  In an account of the fire-walking ceremony, in 1902, it is noted that "the Badagas strongly repudiate the insinuation of preparing their feet to face the fire ordeal.
+* It is done to propitiate Jeddayswami, to whom vows are invoked, in token of which they grow one twist or plait of hair, which is treasured for years, and finally cut off as an offering to Jeddayswami.
+  Numbers of Chettis were catering to the crowd, offering their wares, bangles, gay-coloured handkerchiefs, as well as edibles.
+  "When they first began to perform the ceremony fifty or sixty years ago, they were afraid to walk over the fire.
+* Then the stone image of Mahalinga Swami turned into a snake, and made a hole through the temple wall.
+  It came out, and crawled over the fire, and then went back to the temple.
+  "It takes place on the Monday after the March new moon, just before the cultivation season begins, and is attended by Badagas from all over Merkunad.
+* The inhabitants of certain villages (six in number), who are supposed to be the descendants of an early Badaga named Guruvajja, have first, however, to signify through their Gottukars, or headmen, that the festival may take place; and the Gottukars choose three, five, or seven men to walk through the fire.
+  On the day appointed, the fire is lit by certain Badaga priests and a Kurumba.
+  All then proceed to dance round the car to the music of the Kota band, near male relations removing their turban or woollen night cap, as a mark of respect, during the first three revolutions.
+* Most of the male dancers are dressed up in gaudy petticoats and smart turbans.
+  "No woman,"
+
+### Badhoyi  [vol 1, line 5504, 5631 chars]
+  By the grace of the god Vasudeva, I give to thee the bridegroom.
+* The Badhoyis are Paramarthos, and follow the Chaitanya form of Vaishnavism.
+  They further worship various village deities.
+
+### Bagata  [vol 1, line 5607, 4093 chars]
+  It is noted, in the Census Report, 1901, that, at a wedding, the bridegroom is struck by his brother-in-law, who is then presented with a pair of new cloths.
+* The Bagatas are both Vaishnavites and Saivites, and the former get themselves branded on the arm by a Vaishnava guru, who lives in the Godavari district.
+* The Vaishnavites burn their dead, and the Saivites bury them in the customary sitting attitude.
+* Satanis officiate for the former, and Jangams for the latter.
+  Both sections perform the chinna and pedda rozu (big and little day) death ceremonies.
+
+### Bairagi  [vol 1, line 5685, 4449 chars]
+  According to common tradition, the schism of Ramanand originated in resentment of an affront offered him by his fellow disciples, and sanctioned by his teacher.
+* It is said that he had spent some time in travelling through various parts of India, after which he returned to the math, or residence of his superior.
+* His brethren objected to him that in the course of his peregrinations it was impossible he could have observed that privacy in his meals, which is a vital observance of the Ramanuja sect; and, as Raghavanand admitted the validity of the objection, Ramanand was condemned to feed in a place apart from the rest of the disciples.
+  He was highly incensed at the order, and retired from the society altogether, establishing a schism of his own.
+  The Bairagis are sometimes called Bavaji or Sadhu.
+* The Bairagis are Vaishnavites, and bear the Tengalai Vaishnava mark (namam), made with sandal-paste or gopi, on the forehead.
+* Bairagis with a Vadagalai mark are very rare.
+  The Bairagis wear necklaces of tulsi (Ocimum sanctum) beads or lotus (Nelumbium speciosum) seeds.
+  C.
+* Oman [90] that "a most elaborate ritual has been laid down for the guidance of Bairagis in the daily routine of the indispensable business and duties of life, prescribing in minute detail how, for example, the ascetic should wash, bathe, sit down, perform pranayam (stoppage or regulation of respiration), purify his body, purge his mind, meditate on Vishnu, repeat the Gayatri (hymn) as composed for the special use of members of the sect, worship Rama, Sita, Lakshman, Bharata, and Satringah, together with Rama's bows and arrows, and, lastly, the monkey god Hanuman."
+* The Bairagis have a guru or priest, whom they call Mahant.
+  Some visit the celebrated temple near Tirupati and pay their respects to the Mahant thereof. 
+
+### Balija  [vol 1, line 5783, 19869 chars]
+  At Tirupati, a number of Balija families are engaged in the red sanders wood (Pterocarpus santalinus), carving industry.
+* Figures of swamis (deities), mythological figures, elephants, and miniature temple cars with flying cherubs and winged horses, are most abundantly carved: but domestic utensils in the shape of chembus, kinnis, cups, plates, etc., are turned on the lathe.
+  Large vessels are sometimes made of the wood of vepi or achamaram (Hardwickia binata), which resembles red sanders wood, but is more liable to crack.
+* The carved figures are sold to pilgrims and others who visit Tirupati, and are also taken to Conjeeveram, Madura, and other places, at times when important temple festivals are celebrated.
+  Vessels made of red sanders wood carry no pollution, and can be used by women during the menstrual period, and taken back to the house without any purification ceremony.
+  Even at the present day, the Oddes and others refer their disputes to the Desayi, and not to their own caste headman.
+* In former times there were three principal Desayis, who had their head-quarters at Conjeeveram, Cuddalore, and Walajapet.
+  The head Desayi possesses a biruthu (insigne of office) in the form of a large brass ladle with a bell attached to it.
+  The Balijas, Mr.
+* Stuart writes, [95] "employ Brahmans and Satanis as their priests.
+  The chief object of their worship is Gauri, their caste deity.
+  By some the sight of a Gazula Balija with his pile of bangles on his back is considered a good omen.
+* In recent years, a scare has arisen in connection with an insect, which is said to take up its abode in imported German glass bangles, which compete with the indigenous industry of the Gazulas.
+* The insect is believed to lie low in the bangle till it is purchased, when it comes out and nips the wearer, after warning her to get her affairs in order before succumbing.
+* A specimen of a broken bangle, from which the insect is stated to have burst forth and stung a girl in the wrist, was sent to me.
+* But the insect was not forthcoming.
+  Gandavallu, or Gundapodi vandlu.
+  With other sections, a white cloth dyed with turmeric is de rigeur.
+* Balija, it may be noted, is, in the North Arcot Manual, returned as a division of Dasaris and Idigas.
+  The better classes of Medaras (cane-splitters and mat-makers) are also taking to calling themselves Balijas, and assume the title Chetti.
+
+### Bana (big pot)  [vol 1, line 6154, 292 chars]
+  Bana is the Telugu name for the pot which they use for boiling the clothes in.
+* Banajiga (vanik, tradesman).--Canarese traders, many of whom are Lingayats.
+  See Linga Balija. 
+
+### Bant  [vol 1, line 6214, 43302 chars]
+  Most of the Bants are Hindus by religion, and rank as Sudras, but about ten thousand of them are Jains.
+* Probably they originally assumed Jainism as a fashionable addition to the ancestral demon worship, to which they all still adhere, whether they profess to be Vaishnavites, Saivites, or Jains.
+  It is probable that, during the political supremacy of the Jains, a much larger proportion of the Bants professed adherence to that religion than now-a-days.
+
+### Bavuri  [vol 1, line 7003, 9428 chars]
+  "According to one story,"
+* Risley writes, [111] "they were degraded for attempting to steal food from the banquet of the gods; another professes to trace them back to a mythical ancestor named Bahak Rishi (the bearer of burdens), and tells how, while returning from a marriage procession, they sold the palanquin they had been hired to carry, got drunk on the proceeds, and assaulted their guru (religious preceptor), who cursed them for the sacrilege, and condemned them to rank thenceforward among the lowest castes of the community."
+  The Bavuris are apparently divided into two endogamous sections, viz., Dulia and Khandi.
+  On the twelfth day, food is offered on twelve leaves.
+* The Bavuris do not worship Jagannathaswami, or other of the higher deities, but reverence their ancestors and the village goddesses or Takuranis.
+  Like other Oriya classes, the Bavuris name their children on the twenty-first day.
+
+### Bedar or Boya  [vol 1, line 7151, 49505 chars]
+  Other differences are that the Uru women wear ravikkais or tight-fitting bodices, while the Myasas tuck them under their waist-string.
+* Both divisions eat beef, and both have a hereditary headman called the ejaman, and hereditary Dasaris who act as their priests."
+  In the Madras Census Report, 1901, it is stated that the two main divisions of Boyas are called also Pedda (big) and Chinna (small) respectively, and, according to another account, the caste has four endogamous sections, Pedda, Chinna, Sadaru, and Myasa.
+* Sadaru is the name of a sub-division of Lingayats, found mainly in the Bellary and Anantapur districts, where they are largely engaged in cultivation.
+* Some Bedars who live amidst those Lingayats call themselves Sadaru.
+  According to the Manual of the North Arcot district, the Boyas are a "Telugu hunting caste, chiefly found above the ghats.
+  And some Bedars, at the time of the Mohurram festival, wear a thread across the chest like Muhammadans, and may not enter their houses till they have washed themselves.
+* According to the Mysore Census Report, 1901, the chief deity of the Bedars is "Tirupati Venkataramanaswami worshipped locally under the name of Tirumaladevaru, but offerings and sacrifices are also made to Mariamma.
+* Their guru is known as Tirumalatatacharya, who is also a head of the Srivaishnava Brahmans.
+  The Uru Boyas employ Brahmans and Jangams as priests."
+  They were apparently converted by Jangams, but not to the fullest extent.
+* The guru is the head of the Ujjani Lingayat matt (religious institution) in the Kudligi taluk of Bellary.
+  They do not wear the lingam.
+  "They worship both Siva and Vishnu, and also different gods in different localities.
+* In the North Arcot district, they worship Tirupatiswami.
+  In Kurnool, it is Kanya Devudu.
+  Cocoanuts, rice, and dal (Cajanus indicus) form the offerings of the Boyas.
+* The women, on the occasion of the Nagalasauthi or snake festival, worship the Nagala swami by fasting, and pouring milk into the holes of 'white-ant' hills.
+  By this, a double object is fulfilled.
+  At Hospet the Bedars have two buildings called chavadis, built by subscription among members of their community, which they use as a meeting place, and whereat caste councils are held.
+* At Sandur the Uru Bedars submit their disputes to their guru, a Srivaishnava Brahman, for settlement.
+* If a case ends in a verdict of guilty against an accused person, he is fined, and purified by the guru with thirtham (holy water).
+* In the absence of the guru, a caste headman, called Kattaintivadu, sends a Dasari, who may or may not be a Bedar, who holds office under the guru, to invite the castemen and the Samaya, who represents the guru in his absence, to attend a caste meeting.
+  The Samayas are the pujaris at Hanuman and other shrines, and perform the branding ceremony, called chakrankitam.
+* The Myasa Bedars have no guru, but, instead of him, pujaris belonging to their own caste, who are in charge of the affairs of certain groups of families.
+  Their caste messenger is called Dalavai.
+  Joti, light.
+* Namala, the Vaishnavite namam.
+  Nagellu, plough.
+  A feast, called thuppathuta or ghi (clarified butter) feast, is held, towards which the bridegroom's parents contribute rice, cocoanuts, betel leaves and nuts, and make a present of five bodices (ravike).
+* At the conclusion of the feast, all assemble beneath the marriage pandal (booth), and betel is distributed in a recognised order of precedence, commencing with the guru and the god.
+  On the following morning four big pots, smeared with turmeric and chunam (lime) are placed in four corners, so as to have a square space (irani square) between them.
+  Those who have been branded carry their gods, represented by the cylindrical bamboo basket and stick already referred to, to a stream, wash them therein, and do worship.
+* On their return home, the food is offered to their gods, and served first to the Dasari, and then to the others, who must not eat till they have received permission from the Dasari.
+  When a Myasa Bedar, who has been branded, dies his basket and stick are thrown into the grave with the corpse.
+
+### Begara  [vol 1, line 8012, 93 chars]
+* Begara.--Begara or Byagara is said to be a synonym applied by Canarese Lingayats to Holeyas. 
+
+### Beri Chetti  [vol 1, line 8100, 10719 chars]
+  A.
+* Stuart, [124] states that "Kaveripuram near Kumbakonam was formerly the town in which the caste principally resided.
+  The king of the country attempted to obtain a Beri Chetti maiden in marriage, but was refused, and he therefore persecuted them, and drove them out of his dominions, forbidding interchange of meals between them and any other caste whatever--a prohibition which is still in force."
+  [126] "In the time of the Cholas, they erected a water-pandal, and Komatis claimed the right to use it, which was at once denied.
+* The king attempted to solve the question by reference to inscriptions in the Kamakshiamma temple at Conjeeveram, but without success.
+  He then proposed that the rivals should submit to the ordeal of carrying water in an unbaked pot.
+  When questioned as to his reason for so doing, he explained that it was to call the king's attention to the dispute, and restored the animals to life.
+* The king then referred both parties to Conjeeveram, where a sasanam (copper-plate grant) was believed to exist.
+  To procure this document, the decapitation of twelve human beings was necessary, and the Viramushti sacrificed his twelve children.
+  Some Beri Chettis, Mr.
+* Stuart writes, "worship Siva, and some Vishnu, and a few are Lingayats, who do not marry into families with a different worship.
+  They bury, while the others burn their dead.
+
+### Bestha  [vol 1, line 8276, 7284 chars]
+  The Parigirti section trace their descent from Sutudu, the famous expounder of the Mahabharata.
+* Besthas employ Brahmans and Satanis (or Jangams, if Saivites) for their domestic ceremonies, and imitate the Brahman customs, prohibiting widow remarriage, and worshipping Siva and Vishnu as well as the village deities.
+  The Maddi sub-caste is said to be called so, because they dye cotton with the bark of the maddi tree (Morinda citrifolia)."
+  The term Suta also applies to the offspring of a Kshatriya by a Brahman, but it seems more probable that the Besthas gained the name from their superiority in the culinary art, suta also meaning cook.
+* They are divided into Telugu Besthas and Parigirti Besthas, the difference between them being chiefly one of religious observance, the former being in the habit of getting themselves branded on the shoulders with the Vaishnavite emblems--chank and chakram--and the latter never undergoing this ceremony.
+* It is a rule with them to employ Dasaris as the messengers of a death, and Tsakalas, as those of a birth, or of the fact that a girl has reached womanhood.
+  Their chief object of worship is Hanuman, the monkey god, a picture or figure of whom they always have in their houses for domestic worship."
+* In connection with the names Parigirti or Pakirithi which have been recorded as divisions of the Besthas, it may be observed that, in some parts of the Telugu country, the term Pakirithi is used as a substitute for Vaishnava.
+* This word has become converted into Parigirti or Parikithi, denoting that the Besthas are Vaishnavites, as opposed to Saivites.
+  Some Besthas, when questioned as to the origin of their caste, said that they had no purandam to help them.
+  Writing in 1563, Barras states [132] that "there are men who carry the umbrella so dexterously to ward off the sun that, although their master trots on his horse, the sun does not touch any part of his body and such men are called Boi."
+* The insigne of the Besthas, as recorded at Conjeeveram, is a net.
+  [133] 
+
+### Bhatrazu  [vol 1, line 8442, 11302 chars]
+  Bhatrazus nevertheless do not all wear the sacred thread now-a-days, or recite the gayatri.
+* [135] They employ Brahman priests for their marriages, but Jangams and Satanis for funerals, and in all these ceremonies they follow the lower or Puranic instead of the higher Vedic ritual.
+  Widow marriage is strictly forbidden, but yet they eat fish, mutton and pork, though not beef.
+  At marriages, the bridal couple sit on the dais on a plank of juvvi (Ficus Tsiela) wood.
+* They have the Telugu Janappans as their disciples, and are the only non-Brahman caste, except Jangams and Pandarams, which performs the duties of guru or religious instructor.
+* The badge of the Bhatrazus at Conjeeveram is a silver stick.
+  [137] In the Madras Census Report, 1901, Bhato, Kani Razu, Kannaji Bhat and Padiga Raju appear as synonyms, and Annaji Bhat as a sub-caste of Bhatrazus.
+
+### Bhondari  [vol 1, line 8633, 12854 chars]
+  The hereditary headman of the caste is called Behara, and he is assisted by a Bhollobaya.
+* Most of the Bhondaris follow the form of Vaishnavism inculcated by Chaithyana, and known as Paramartho matham.
+  They wear as a necklace a string of tulsi (Ocimum sanctum) beads, without which they will not worship or take their food.
+  A piece of hollow bamboo open at both ends, or other grain measure, is given to him, with which he measures rice or other grain seven times.
+* He then throws the measure behind him between his legs, and, entering the house, puts a sect mark on his forehead with the aid of a broken looking-glass, which must be thrown away.
+  Ghi (clarified butter) and meat may not be eaten by those under death pollution till the eleventh day, when a feast is held.
+
+### Boda Dasari (bald-headed mendicant)  [vol 1, line 9314, 65 chars]
+* Boda Dasari (bald-headed mendicant).--An exogamous sept of Jogi. 
+
+### Bolasi  [vol 1, line 9380, 1004 chars]
+  Marriage is infant, and, if a girl does not secure a husband before she reaches maturity, she goes through a form of marriage with an arrow or a grinding stone.
+* The Bolasis are Vaishnavites, and observe the Paramartho or Chaitanya form thereof.
+  The caste titles are Podhano, Nayako, Daso, Mahanti, Patro, Sahu, Jenna, and Konhoro.
+
+### Bondili  [vol 1, line 9421, 1940 chars]
+  They claim to be Rajputs, but appear to have degenerated.
+* The Sivaites of this sect are said to bury their dead, while the Vishnavaites burn.
+  In the Kadri taluk of Cuddapah all are said to bury.
+
+### Bonthuk  [vol 1, line 9462, 6869 chars]
+  By Telugu people they are called Chenchu or Bontha Chenchu, though they have no connection with the Chenchus who inhabit the hills in Kurnool, and other parts of the Telugu country.
+* The Bonthuks, however, like the Chenchus, claim Ahobila Narasimha as their tribal deity.
+  The Bonthuks speak the Oriya language, and they have a Mongoloid type of features, such as are possessed by the Savaras of Ganjam and Vizagapatam.
+
+### Bosantiya  [vol 1, line 9574, 2583 chars]
+  The caste titles are Bissoyi and Nahako.
+* Most of the Bosantiyas are Saivites, but a few follow the Paramartho form of Vaishnavism.
+  They also worship various Takuranis (village deities), such as Kotaru and Chondi.
+
+### Brahman  [vol 1, line 9722, 158693 chars]
+  The Tulu-speaking Shivalli Brahmans are included among the Carnatakas; the Pattar and Nambutiri Brahmans (see Nambutiri) among the Dravidas proper.
+* From a religious point of view, the Brahmans are either Saivites or Vaishnavites.
+* The Saivites are either Saivites proper, or Smarthas.
+* The Smarthas believe that the soul of man is only a portion of the infinite spirit (atman), and that it is capable of becoming absorbed into the atman.
+  They recognise the Trimurtis, Brahma, Vishnu, and Siva as separate gods, but only as equal manifestations of the supreme spirit, and that, in the end, these are to be absorbed into the infinite spirit, and so disappear.
+  Saivas, on the other hand, do not recognise the Trimurtis, and believe only in one god, Siva, who is self-existent, and not liable to lose his personality.
+* Of Vaishnavites there are three kinds, viz., those who are the followers of Chaitanya, Ramanuja, and Madhvacharya.
+* Like the Smarthas, the Vaishnavites recognise Brahma, Vishnu, and Siva, but Vishnu is supposed to be the chief god, to whom the others are subordinate.
+* "Vaishnavas,"
+  Monier Williams writes, [155] "are believers in the one personal god Vishnu, not only as the preserver, but as above every other god, including Siva.
+* It should be noted, too, that both Saivites and Vaishnavas agree in attributing an essential form of qualities to the Supreme Being.
+  Their one god, in fact, exists in an eternal body, which is antecedent to his earthly incarnations, and survives all such incarnations."
+* He adds that "it cannot be doubted that one great conservative element of Hinduism is the many sidedness of Vaishnavism.
+* For Vaishnavism is, like Buddhism, the most tolerant of systems.
+  It is always ready to accommodate itself to other creeds, and delights in appropriating to itself the religious idea of all the nations of the world.
+  It admits of every form of internal development.
+* It has no organised hierarchy under one supreme head, but it may have any number of separate associations under separate leaders, who are ever banding themselves together for the extension of spiritual supremacy over ever increasing masses of population."
+  The Oriya Brahmans, who follow the creed of Chaitanya, are called Paramarthos, and are confined to the Ganjam district.
+* There is no objection to intermarriage between Smartha and Paramartho Oriya Brahmans.
+* Sri Vaishnavas (who put on the namam as a sectarian mark) and Madhvas are exclusive as regards intermarriage, but the Madhvas have no objection to taking meals with, and at the houses of Smarthas, whereas Sri Vaishnavas object to doing so.
+  According to the Sutras, a Brahman has to go through the following samskaras (rites):-- 1.
+  At the present day, however, the barber is called in, and shaves the head, leaving one lock or more according to local custom.
+* The Upanayana, or leading a boy to his guru or spiritual teacher, is essentially a ceremony of initiation.
+  From an orthodox point of view, this ceremony should be performed before the age of eight years, but in practice it is deferred even up to the age of seventeen.
+  After this, the Abyudayam, or invocation of ancestors, is gone through.
+* The boy sits in front of the sacred fire, and his father, or some other person, sits by his side, to help him in the ceremonial and act the part of guru.
+  He places over the boy's head blades of dharbha grass so that the tips are towards the east, south, west, and north.
+  Mayst thou become holy and glorious."
+* The boy seats himself next to the guru, and close to the sacred fire, and repeats the following:--"I have come near the spiritual teacher, my Acharya.
+  May the teacher and myself become prosperous.
+  May I also complete my Vedic studies properly, and let me be blessed with a married life after the study."
+* The guru sprinkles water over the boy three times, and, taking hold of his hand, says:--"Agni, Soman, Savitha, Sarasvati, Pusha, Aryaman, Amsuhu, Bagadevata, and Mitra have seized thy hand.
+  They have taken you over to them, and you have become friends."
+  The thread is composed of three threads of cotton secured together in one spot by a sacred knot of peculiar construction, called Brahma Grandhi.
+* The knot in the sacred thread worn by Vaishnava Brahmans is called Vishnu Grandhi, and that in the thread of Smarthas Rudra Grandhi.
+  In the preparation of the thread, cotton sold in the bazaar may not be used; the bolls ought to be secured direct from the plant.
+  This consists in offering oblations of ghi, and giving presents of money to a few Brahmans.
+* The bridegroom is helped throughout the Vratam ceremonies by a spiritual teacher or guru, who is usually his father or a near relation.
+* The guru sprinkles water over the bridegroom's body, and tells him to go on with kandarishi tharpanam (offerings of water, gingelly, and rice, as an oblation to Rishis).
+  A small copper or silver vessel is placed on a leaf to the north-east of the sacred fire, and is made to represent Varuna.
+  This is called Paradesa Pravesam (going to a foreign place), or Kasiyatra (pilgrimage to Benares).
+* It is a remnant of the Snathakarma rite, whereat a Brahmachari, or student, leaves his spiritual teacher's house at the close of his studies, performs a ceremony of ablution, and becomes an initiated householder or Snathaka.
+  The bridegroom carries with him an umbrella, a fan, and a bundle containing some rice, cocoanut, and areca-nut.
+  The bridal couple must belong to different gotras.
+* The bridegroom next says that he is about to commence the worship of Visvaksena if he is a Vaishnavite, or Ganapathi if he is a Saivite, for the successful termination of the marriage ceremonies.
+  The Ankurarpana (seed-pan) ceremony is then proceeded with.
+  A small quantity of turmeric paste, reddened by the addition of chunam, is mixed with ghi, and smeared over the shoulders of the pair, and a mark is made on their foreheads.
+* This is called Pachchai Kalyanam, and is peculiar to Tamil Brahmans, both Smarthas and Vaishnavas.
+  Amongst Tamil Brahmans, prominence is given to the maternal uncles on the fourth day.
+  The real bridegroom is addressed as if he was the syce (groom) or gumastha (clerk) of the pseudo-bridegroom, and is sometimes treated as a thief, and judgment passed on him by the latter.
+* Among Sri Vaishnavas, after the Pachchai smearing ceremony, the bridal couple roll a cocoanut to and fro across the dais, and the assembled Brahmans chant stanzas in Tamil composed by a Vaishnava lady named Andal, an avatar of Lakshmi, who dedicated herself to Vishnu.
+  In these stanzas, she narrates to her attendants the dream, in which she went through the marriage ceremony after her dedication to the god.
+  Monier Williams writes, [160] "of commemorative obsequies is regarded in the light of a positive and peremptory obligation.
+* It is the simple discharge of a solemn debt to one's forefathers, a debt consisting not only in reverential homage, but in the performance of acts necessary to their support, happiness, and progress onwards in the spiritual world.
+  A man's deceased relatives, for at least three generations, are among his cherished divinities, and must be honoured by daily offerings and adoration, or a nemesis of some kind is certain to overtake his living family.
+  Some ashes from the sacred fire are mixed with ghi, and a mark is made on the foreheads of those who are under pollution, to remove it.
+* During the period of pollution, a Sri Vaishnava will have only a white mark without the red streak on his forehead; a Madhva will not have the black dot; and Smarthas avoid having marks altogether.
+  The tenth day ceremony is called Dasaham.
+  The madi or silk cloth should be worn until the close of the morning ceremonies and meal.
+* The man next puts the marks which are characteristic of his sect on the forehead and body, and performs the Sandhya service.
+  This is very important, and is binding on all Brahmans after the Upanayanam ceremony, though a large number are not particular in observing it.
+  May the earth thus purified make us pure.
+* May the waters purify my spiritual preceptor, and may the Veda (as taught by the purified preceptor) purify me.
+  Whatever leavings of another's food, and whatever impure things I may have eaten, whatever I may have received as gift from the unworthy, may the waters destroy all that sin and purify me.
+  Oh!
+* Gayatri, thou art the source of all spiritual strength.
+  Thou art the power that drivest away the evil inclinations which are mine enemies.
+  Some families keep their gods in a small almirah (chest).
+* Smarthas use in their domestic worship five stones, viz.:-- 1.
+  Salagrama, representing Vishnu. 2.
+  A piece of pebble or crystal, to represent the sun.
+* Smarthas commence their worship by invoking the aid of Vigneswara (Ganesha).
+  Then, placing a vessel (kalasa) filled with water, they utter the following prayer.
+  These great beings attained to the heaven, where the Gods, the ancient Sadhyas, reside."
+* Some Smarthas, e.g., the Brahacharnams, are more Saivite than other sections of Tamil-speaking Brahmans.
+  During worship, they wear round the neck rudraksha (Elæocarpus Ganitrus) beads, and place on their head a lingam made thereof.
+  A bead with six lobes is said to be very good, and one with two lobes, called Gauri Sankara rudraksha, is specially valued.
+* Dikshitar Brahmans, and Pandaram priests of the higher order, wear a two-lobed bead mounted in gold.
+  In a manuscript entitled Rudrakshopanishad, it is stated that a good rudraksha bead, when rubbed with water, should colour the water yellow.
+* The Madhvas worship in the same way as Smarthas, but the objects of worship are the salagrama stone, and images of Hanuman and Adi Sesha.
+  Food offered to Adi Sesha, Lakshmi, and Hanuman, is not eaten, but thrown away.
+* The Madhvas attach great importance to their spiritual guru, who is first worshipped by a worshipper.
+* Some keep a brindavanam, representing the grave of their guru, along with a salagrama stone, which is worshipped at the close of the Devata puja.
+* Sri Vaishnavas keep for domestic worship only salagrama stones.
+* Like the Madhvas, they are scrupulous as to the worship of their gurus (acharyas), without whose intervention they believe that they cannot obtain beatitude.
+* Hence Sri Vaishnavites insist upon the Samasrayanam ceremony.
+* After the Sandhya service and Brahma yagna, the guru is worshipped.
+* All orthodox Vaishnavas keep with them a silk cloth bearing the impressions of the feet of their Acharya, an abhayastha or impression of the hand of Vishnu in sandal paste, a few necklaces of silk thread (pavitram), and a bit of the bark of the tamarind tree growing at the temple at Alvartirunagiri in the Tinnevelly district.
+  The worshipper puts on his head the silk cloth, and round his neck the silk necklaces, and, if available, a necklace of Nelumbium (sacred lotus) seeds.
+  The food is served on platters made of the leaves of the banyan (Ficus bengalensis), Butea frondosa, Bauhinia, or plantain.
+* Amongst Smarthas and Madhvas, various vegetable preparations are served first, and rice last, whereas, amongst the Sri Vaishnavas, especially Vadagalais, rice is served first.
+  Before commencing to eat, a little water (tirtham), in which a salagrama stone has been bathed, is poured into the palms of those who are about to partake of the meal.
+  If, on the other hand, the rice measures the same, or--dreadful omen--has even become less, then let the house be rid of it as early as possible.
+* If no purchaser can be found, make a virtue of necessity, and send it as a present to the nearest temple or mutt (religious institution), where the Gurus know how to appease the wrath of the Deity with daily offerings of fruits and flowers.
+  A salagram will never bring any luck if its possession is acquired by fraud or force.
+  Day writes, [168] "is not in secular use as a musical instrument, but is found in every temple, and is sounded during religious ceremonials, in processions, and before the shrines of Hindu deities.
+* In Southern India, the sankhu is employed in the ministration of a class of temple servers called Dasari.
+  No tune, so to speak, can of course be played upon it, but still the tone is capable of much modulation by the lips, and its clear mellow notes are not without a certain charm.
+  As Brahmans take part only in the worship of Siva and Vishnu, temples dedicated to these gods are largely frequented by them.
+* The duties connected with the actual worship of the idol are carried out by Gurukkals in Siva temples, and by Pancharatra or Vaikhanasa Archakas in Vishnu temples.
+  The cooking of the food for the daily offering is done by Brahmans called Parcharakas.
+  At the time of worship, some Brahmans, called Adhyapakas, recite the Vedas.
+* Some stanzas from Thiruvaimozhi or Thevaram are also repeated, the former by Brahmans at Vishnu temples, and the latter by Pandarams (Oduvar) at Siva temples.
+  In a typical temple there are usually two idols, one of stone (mula vigraha) and the other of metal (utsava vigraha).
+  The mula vigraha is permanently fixed within the inner shrine or garbagraha, and the utsava vigraha is intended to be carried in procession.
+* The mula vigrahas of Vishnu temples are generally in human form, either in a standing posture, or, as in the case of Ranganatha, Padmanabha, and Govindarajaswami, in a reclining posture, on Adisesha.
+  Ordinarily, three idols constitute the mula vigraha.
+  In all the larger temples, there is a separate building in the temple precincts dedicated to Lakshmi, and within the garbagraha thereof, called thayar or nachiyar sannadhi, is a mula vigraha of Lakshmi.
+* There may also be one or more shrines dedicated to the Alvars (Vaishnava saints) and the Acharyas--Desikar and Manavala Mahamunigal.
+* The sect mark is put on the faces of the mula and utsava vigrahas.
+  The mula vigraha in Siva temples is a lingam (phallic emblem).
+  The utsava vigraha is in the human forms of Siva and Parvathi.
+* In all important Saivite temples, Parvathi is housed in a separate building, as Lakshmi is in Vishnu temples.
+  Vigneswara, Subramanya, and the important Nayanmars also have separate shrines in the temple precincts.
+  The Brahmans do not entirely ignore the worship of the lower deities, such as Mariamma, Muneswara, Kodamanitaya, etc.
+* At Udipi in South Canara, the centre of the Madhva cult, where Madhva preached his Dvaitic philosophy, and where there are several mutts presided over by celibate priests, the Brahmans often make a vow to the Bhuthas (devils) of the Paravas and Nalkes.
+* Quite recently, we saw an orthodox Shivalli Brahman, employed under the priest of one of the Udipi mutts, celebrating the nema (festival) of a bhutha named Panjurli, in fulfilment of a vow made when his son was ill.
+  The Nalke devil-dancers were sent for, and the dance took place in the courtyard of the Brahman's house.
+  They are divided into the following sections:-- I.
+* Smartha.
+  (a) Vadama.
+  (k) Prathamasaki.
+* (l) Gurukkal.
+  II.
+* Vaishnava.
+  A.
+* Vadagalai (northerners).
+* (a) Sri Vaishnava.
+  (b) Vaikhanasa.
+  Thengalai (southerners).
+* (a) Sri Vaishnava.
+  (b) Vaikhanasa.
+  I.
+* Smartha--(a) Vadama.--The Vadamas claim to be superior to the other classes, but will dine with all the sections, except Gurukkals and Prathamasakis, and, in some places, will even eat with Prathamasakis.
+  The sub-divisions among the Vadamas are:-- 1.
+  Thummagunta Dravida.
+* All these are Smarthas, who use as their sect mark either the urdhvapundram (straight mark made with sandal paste) or the circular mark, and rarely the cross lines.
+  They worship both Siva and Vishnu, and generally read Puranas about Vishnu.
+* Some Vadamas use the Vaishnava namam as their sect mark, and are called Kiththunamakkarar.
+* They follow the Smartha customs in every way.
+* There is a common saying "Vadamam muththi Vaishnavam," i.e., a Vadama ripens into a Vaishnava.
+  This is literally true.
+* Some Vadama families, who put on the urdhvapundram mark, and follow the Smartha customs, observe pollution whenever a death occurs in certain Sri Vaishnava families.
+* This is because the Sri Vaishnavas are Vadamas recently converted into Vaishnava families.
+  (b) Kesigal.--The Kesigals, or Hiranyakesikal (men of the silvery hair), as they are sometimes called, closely resemble the Vadamas, but are an exclusive endogamous unit, and highly conservative and orthodox.
+  It is noted, in the Gazetteer of the Tanjore district, that they "are peculiar in all having one common Sutram called the Sathyashada after a common ancestor."
+* (c) Brahacharnam (the great sect).--The Brahacharnams are more Saivite, and more orthodox than the Vadamas.
+* They put on vibhuti (sacred ashes) and sandal paste horizontal lines as their sect mark.
+* The sub division Sathyamangalam Brahacharnam seems, however, to be an exception, as some members thereof put on the Vaishnavite sect mark at all times, or at least during the month of Purattasi, which is considered sacred to the god Venkataramana of Tirupati.
+  The more orthodox Brahacharnams wear a single rudraksha bead, or a necklace of beads, and some make lingams out of these beads, which they put on the head during worship.
+  (e) Ashtasahasram (eight thousand).--This class is considered to be inferior to the Brahacharnams and Vadamas.
+* The members thereof are, like the Brahacharnams, more Saivite than the Vadamas.
+  The females are said to wear their cloth very elegantly, and with the lower border reaching so low as to cover the ankles.
+  These periodical meetings take place in the Deva Sabha.
+* A lamp from Nataraja's shrine is brought, and placed there by a Pandaram, and (to avoid even the appearance of any deviation from the principle of the absolute equality of all Dikshitars in the management of the temple) this man acts as president of the meeting, and proposals are made impersonally through him."
+* As a class the Dikshitars are haughty, and refuse to acknowledge any of the Sankarachariars as their priests, because they are almost equal to the god Siva, who is one of them.
+* If a Sankarachariar comes to the temple, he is not allowed to take sacred ashes direct from the cup, as is done at other temples to show respect to the Sanyasi.
+  The Dikshitars are mostly Yejur Vedis, though a few are followers of the Rig Veda.
+  There are amongst them none who have received either Sanskrit or Tamil education.
+* The Archakas perform pujas by turn, and, as the Archakaship is to be conferred at a certain age by anointment by a guru, infant marriage does not obtain among them to such an extent as among the Dikshitars of Chidambaram.
+* They eat with the other Smartha Brahmans, but do not intermarry.
+  They count about 300 in number, including women and children.
+  Another proverb is to the effect that "the kudumi (hair tuft) on the head of a Sholiar does not shake without sufficient reason," i.e., it is a sign that he is bent upon doing some mischief.
+* (h) Mukkani.--The Mukkanis are Smarthas confined to the Cochin and Travancore States.
+  (i) Kaniyalar.--Concerning the Kaniyalars, Mr.
+* Ramachendrier writes as follows:--"Kanialars form a separate class of Smartha Brahmins, and they live in the district of Tinnevelly and some parts of Trichinopoly.
+* They do not intermarry with any other class of Smartha Brahmins, but eat with them.
+* A large number of them, though Smarthas by birth, wear a mark on their forehead like Vyshnava Brahmins, and serve as cooks and menial servants in the big temple at Srirangam.
+  Their women adopt the Vyshnava women's style of wearing cloths, and to all appearance they would pass for Vyshnava women.
+  Theirs seems to have been among the earliest immigrations into Mysore from the neighbouring Tamil country.
+* It is said that some 700 years ago, about 1,000 families of Smartha Brahmans emigrated from the vicinity of Kanchi (Conjeeveram), induced doubtless by contemporary politics.
+  They set out in two batches towards Mysore.
+  The Prathamasakis are found among all the linguistic sections.
+* Among Smarthas, Andhras, and Vaishnavas, they are regarded as inferior.
+  Carnataka Prathamasakis are, on the other hand, not considered inferior by the other sections of Carnatakas.
+  As the Sun is always in motion sitting in his car, the Vedas could not be learnt without mistakes and peculiar sounds.
+* When he came to his Guru Vaisampayanar, Yagnavalkiar was cursed to become a Chandala.
+  The curse was subsequently modified, as the Sun interceded on behalf of Yagnavalkiar.
+* (l) Gurukkal.--The Gurukkals are all followers of the Bodhayana Sutras.
+  They are temple priests, and other Brahmans regard them as inferior, and will not eat with them.
+* Even in temples, the Gurukkals sprinkle water over the food when it is offered to the god, but do not touch the food.
+  They may not live in the same quarters with other Brahmans.
+* No agraharam (Brahman quarter) will ever contain a Gurukkal's house.
+* There should, strictly speaking, be at least a lane separating the houses of the Gurukkals from those of other Brahmans.
+  This is, however, not rigidly observed at the present day.
+* For example, at Shiyali, Gurukkals and other Brahmans live in the same street.
+* There are among the Gurukkals the following sub-divisions:-- 1.
+  Tiruvalangad. 2.
+* Conjeeveram. 3.
+  Tirukkazhukunram.
+* The Tiruvalangad Gurukkals mark their bodies with vibhuti (sacred ashes) in sixteen places, viz., head, face, neck, chest, navel, knees, two sides of the abdomen, back and hands (three places on each hand).
+  The other two sub-divisions mark themselves in eight places, viz., head, face, neck, chest, knees and hands.
+* Gurukkals who wish to become priests have to go through several stages of initiation called Dikshai (see Pandaram).
+* Gurukkals are Saivites to a greater extent than the Smarthas, and do not regard themselves as disciples of Sankaracharya.
+* Those who are orthodox, and are temple priests, should not see the corpses of Pandarams and other non-Brahman castes.
+  The sight of such a corpse is supposed to heap sin on them, and pollute them, so that they are unfit for temple worship.
+  II.
+* Vaishnava.--The Vaishnavas, or Sri Vaishnavas, as they are sometimes called to distinguish them from the Madhvas, who are also called Vaishnavas, are all converts from Smarthas, though they profess to constitute a distinct section.
+* Some are converts from Telugu Smarthas, and are called Andhra Vaishnavas.
+* These do not mix with other Tamil-speaking Vaishnavas, and retain some of the Telugu customs.
+* There are two distinct groups of Sri Vaishnavas--the Vadagalais (northerners) and Thengalais (southerners), who are easily distinguished by the marks on their foreheads.
+* The Vadagalais put on a U-shaped mark, and the Thengalais a Y-shaped mark.
+  The white mark is made with a kind of kaolin called tiruman, and turmeric rendered red by means of alkali is used for the central streak.
+  The turmeric, as applied by the more orthodox, is of a yellow instead of red colour.
+* Orthodox Sri Vaishnavas are very exclusive, and hold that they co-existed as a separate caste of Brahmans with the Smarthas.
+* But it was only after Ramanuja's teaching that the Vaishnavas seceded from the Smarthas, and the ranks were swollen by frequent additions from amongst the Vadamas.
+* There are some families of Vaishnavas which observe pollution when there is a death in certain Smartha families, which belong to the same gotra.
+* Vaishnavas of some places, e.g., Valavanur, Savalai, and Perangiyur, in the South Arcot district, are considered low by the orthodox sections of Vaishnavas, because they are recent converts to Vaishnavism.
+* A good example of Smarthas becoming Vaishnavas is afforded by the Thummagunta Dravidas, some of whom have become Vaishnavas, but still take girls in marriage from Smartha families, but do not give their daughters in marriage to Smarthas.
+* All Vaishnavas are expected to undergo a ceremony of initiation into Vaishnavism after the Upanayanam ceremony.
+  At the time of initiation, they are branded with the marks of the chakram and sankha (chank) on the right and left shoulders respectively.
+  The Vaikhanasas and Pancharatras regard the branding as unnecessary.
+* The ceremony of initiation (samasrayanam) is usually performed by the head of a mutt.
+  Sometimes, however, it is carried out by an elderly member of the family of the candidate.
+  Such families go by the name of Swayam Acharya Purushas (those who have their own men as Acharyas).
+* For Vadagalais there are two mutts.
+* Of these, the Ahobila mutt was formerly at Tiruvallur, but its head-quarters has been transferred to Narasimhapuram near Kumbakonam.
+* The Parakalaswami mutt is in the Mysore Province.
+* For Thengalais there are three mutts, at Vanamamalai and Sriperumbudur in Chingleput, and Tirukoilur in South Arcot.
+* These are called respectively the Tothadri, Ethirajajhir, and Emberumanar mutts.
+* There are various points of difference between Vadagalais and Thengalais, which sometimes lead to bitter quarrels in connection with temple worship.
+* During the procession of the god at temple festivals, both Vadagalais and Thengalais go before and after the god, repeating Sanskrit Vedas and Tamil Prapandhams respectively.
+* Before commencing these, certain slokas are recited, in one of which the Vadagalais use the expression Ramanuja daya patram, and the Thengalais the expression Srisailesa daya patram, and a quarrel ensues in consequence.
+  The main differences between the two sections are summarised as follows in the Mysore Census Report, 1891:--"The tenets which form the bone of contention between the Tengales and Vadagales are stated to number 18, and seem to cluster round a few cardinal items of controversy:-- 1.
+  Whether there is any graduated moksham attainable by the good and blessed, according to their multifarious merits; 4.
+* Whether prapatti, or unconditional surrender of the soul to god, should be performed once for all, or after every act of spiritual rebellion; 5.
+  Whether it (prapatti) is open to all, or is prescribed only for those specially prepared and apprenticed; 6.
+  Whether karma (works, rituals, etc.) should or not be bodily and wholly abandoned by those who have adopted prapatti."
+* The points of difference between Vadagalais and Thengalais are thus described by Mr.
+  V.
+  Narasimmiyengar [173]:--"The Tengale schismatists deny to Lakshmi, the consort of Vishnu, any participation in creation, and reduce her to the position of a creature; omit to ring the bell when worshipping their idols; salute each other and their gods only once; make use of highly abstruse Tamil verses in room of Sanskrit mantras and prayers; modify the sraddha ceremony materially, and do not shave their widows.
+* The principal texts cited by the Tengale Sri Vaishnavas in support of the immunity of their widows from the rite of tonsure are the following:-- Widows should avoid, even when in affliction and danger, shaving, eating of sweets, betel nut, flowers, sexual intercourse, conversation with men, and jewels (Sandilyah).
+  A woman, whether unmarried or widowed, who shaves her hair, will go to the hell called Rauravam.
+  If she should shave, she will assuredly go to hell.
+* A Vaishnava widow should never shave her head.
+  If she do so through ignorance, her face should not be looked at (Vridd'ha Manuh in Khagesvara Samhita).
+  If any one observe a Brahmachari beggar with his kachche (cloth passed between the legs, and tucked in behind), a householder without it, and a widow without hair on her head, he should at once plunge into water with his clothes (Ananta Samhita).
+* It is considered highly meritorious for Vaishnava widows to wear their hair, as long as they remain in this world (Hayagriva Samhita)."
+* In a note on the two sects of the Vaishnavas in the Madras Presidency, the Rev.
+  C.
+  E.
+* Kennet writes as follows [174]:--"While both the sects acknowledge the Sanskrit books to be authoritative, the Vadagalai uses them to a greater extent than the Thengalai.
+* The former also recognises and acknowledges the female energy as well as the male, though not in the gross and sensual form in which it is worshipped among the Saivas, but as being the feminine aspect of deity, and representing the grace and merciful care of Providence; while the Tenkalai excludes its agency in general, and, inconsistently enough, allows it co-operation in the final salvation of a human soul.
+  But the most curious difference between the two schools is that relating to human salvation itself, and is a reproduction in Indian minds of the European controversy between Calvinists and Arminians.
+* For the adherents of the Vadakalais strongly insist on the concomitancy of the human will for securing salvation, whereas those of the Tenkalai maintain the irresistability of divine grace in human salvation.
+  The arguments from analogy used by the two parties respectively are, however, peculiarly Indian in character.
+  As the cub clings to its mother, so man seeks divine aid, and clings to his God.
+* The doctrine of the Vadakalais.
+  "Like the cat and her kitten.
+  The stronger carrying and protecting the weaker; used to illustrate the free grace of God.
+* The doctrine of the Tenkalais.
+  "Leaving the speculative differences between these two sects, I have now to mention the practical one which divides them, and which has been, and continues to be, the principal cause of the fierce contentions and long-drawn law suits between them.
+  And this relates to the exact mode of making the sectarian mark on the forehead.
+* While both sects wear a representation of Vishnu's trident, composed of red or yellow for the middle line or prong of the trident, and of white earth for those on each side, the followers of the Vadakalai draw the middle line only down to the bridge of the nose, but those of the Tenkalai draw it over the bridge a little way down the nose itself.
+* Each party maintain that their mode of making the mark is the right one, and the only means of effecting a settlement of the dispute is to ascertain how the idol itself is marked, whether as favouring the Vadakalai or Tenkalai.
+  But this has been found hitherto impossible, I am told, for instance at Conjeveram itself, the head-quarters of these disputes, owing to the unreliable and contradictory character of the evidence produced in the Courts."
+  Though both the Hebbar and Mandya Brahmans speak Tamil, some details peculiar to Carnatakas are included in the marriage ceremonial.
+* The Vaishnava Sholiars are considered somewhat low in the social scale.
+* Intermarriage takes place between Smartha and Vaishnavite Sholiars.
+  The Vaikhanasas and Pancharatras are temple priests (archakas).
+  Both use as their title Dikshitar.
+* Sometimes they are called Nambi, but this term is more used to denote Satani temple servants.
+  Reference may here be made to the Pattar Brahmans, who are Tamil Brahmans, who have settled in Malabar.
+  Though at present a small body in Malabar, they seem to have once flourished in considerable numbers.
+* In the case of large exogamous but high-caste communities like the Kshatriyas of Malabar, Brahmin husbands were naturally in great requisition, and when, owing to their high spiritual ideals, the Brahmins of Malabar were either Grihasthas or Snatakas (bachelor Sanyasins dedicating their life to study, and to the performance of orthodox rites), the supply was probably unequal to the demand.
+  The scarcity was presumably added to when the differences between the Kolattunat Royal Family and the Brahmins of the Perinchellur gramam became so pronounced as to necessitate the importing of Canarese and Tulu Brahmins for priestly services at their homes and temples.
+  Telugu Brahman women wear their cloth without passing it between the legs, and the free end of the skirt is brought over the left shoulder.
+* The sect mark consists of three horizontal streaks of sacred ashes on the forehead, or a single streak of sandal paste (gandham).
+  In the middle of the streak is a circular black spot (akshintalu or akshintalu bottu).
+
+### Asvadhapradakshinam  [vol 1, line 12573, 49139 chars]
+  Thummagunta Dravida.
+* All these sections are endogamous, and will eat together, except the Tambalas, who correspond to the Gurukkals among the Tamil Brahmans.
+  Vaidikis are supposed to be superior to Niyogis.
+  When a Nandavariki Brahman goes to a Devanga temple, he is treated with much respect, and the Devanga priest gives up his place to the Nandavariki for the time being.
+* The Nandavariki Brahmans are, in fact, gurus or priests to the Devengas.
+  A special feature of the Telugu Brahmans is that, like the Telugu non-Brahman classes, they have house names or intiperulu, of which the following are examples:--Kota (fort), Lanka (island), Puchcha (Citrullus Colocynthis), Chintha (tamarind), Kaki (crow).
+  IV.
+* Carnataka.--The sub-divisions of the Carnatakas or Canarese-speaking Brahmans are as follows:-- A.--Smartha. 1.
+  Aruvaththuvokkalu. 2.
+  Maraka.
+* B.--Madhva. 1.
+  Aruvela. 2.
+  The Carnatakas very closely resemble the Andhras in their ceremonial observances, and, like them, attach much importance to vratams.
+* The Madhva Carnatakas are recent converts from Carnataka or Andhra Smarthas.
+* The Pennaththurars are supposed to be Tamil Brahmans converted into Madhvas.
+  They retain some of the customs peculiar to the Tamil Brahmans.
+  The marriage badge, for example, is the Tamil tali and not the bottu.
+* Intermarriages between Smarthas and Madhvas of the same section are common.
+* Madhvas, excepting the very orthodox, will take food with both Carnataka and Andhra Smarthas.
+  The Marakas are thus described by Mr.
+  They worship the Hindu triad, but are chiefly Vishnuvites, and wear the trident mark on their foreheads.
+* They call themselves Hale Kannadiga or Hale Karnataka, the name Marka [176] being considered as one of reproach, on which account also many have doubtless returned themselves as Brahmans of one or other sect.
+* They are said to be descendants of some disciples of Sankaracharya, the original guru of Sringeri, and the following legend is related of the cause of their expulsion from the Brahman caste to which their ancestors belonged.
+* One day Sankaracharya, wishing to test his disciples, drank some toddy in their presence, and the latter, thinking it could be no sin to follow their master's example, indulged freely in the same beverage.
+* Soon after, when passing a butcher's shop, Sankaracharya asked for alms; the butcher had nothing but meat to give, which the guru and his disciples ate.
+  According to the Hindu shastras, red-hot iron alone can purify a person who has eaten flesh and drunk toddy.
+* Sankaracharya went to a blacksmith's furnace, and begged from him some red-hot iron, which he swallowed and was purified.
+  The disciples were unable to imitate their master in the matter of the red-hot iron, and besought him to forgive their presumption in having dared to imitate him in partaking of forbidden food.
+* Sankaracharya refused to give absolution, and cursed them as unfit to associate with the six sects of Brahmans.
+* The caste is making a strong effort to be readmitted among Brahmans, and some have recently become disciples of Parakalaswami.
+  Their chief occupations are agriculture, and Government service as shanbogs or village accountants."
+  Since the census of 1871, the Hale Kannadigas have been strenuously struggling to get themselves classified among the Brahmans.
+* About 25 years ago, the Sringeri Math issued on behalf of the Smarta portion of the people a Srimukh (papal bull) acknowledging them to be Brahmans.
+* A similar pronouncement was also obtained from the Parakal Math at Mysore about three years later on behalf of the Srivaishnavas among them.
+  And the Local Government directed, a little after the census of 1881, that they should be entered as Brahmans in the Government accounts."
+* The Madhva Brahmans commence the marriage ceremony by asking the ancestors of the bridal couple to bless them, and be present throughout the performance of the rites.
+  To represent the ancestors, a ravike (bodice) and dhotra (man's cloth) are tied to a stick, which is placed near the box containing the salagrama stone and household gods.
+  But in practice he only steals the vessel, and the other articles are claimed by his people on their return home.
+* Branding for religious purposes is confined to Sri Vaishnavas and Madhvas.
+* Sri Vaishnava Brahmans are expected to undergo this ordeal at least once during their life-time, whereas Madhva Brahmans have to submit to it as often as they visit their guru (head of a mutt).
+* Of men of other castes, those who become followers of a Vaishnava or Madhva Acharya (guru) or mutt, are expected to present themselves before the guru for the purpose of being branded.
+  But the ceremony is optional, and not compulsory as in the case of the Brahmans.
+* Among Sri Vaishnavites, the privilege of branding is confined to the elder members of a family, Sanyasis (ascetics), and the heads of the various mutts.
+  All individuals, male and female, must be branded, after the Upanayanam ceremony in the case of males, and after marriage in the case of females.
+* The disciples, after a purificatory bath and worship of their gods, proceed to the residence of the Acharya or to the mutt, where they are initiated into their religion, and branded with the chakra on the right shoulder and chank on the left.
+  The initiation consists in imparting to the disciple, in a very low tone, the Mula Mantram, the word Namonarayanaya, the sacred syllable Om, and a few mantrams from the Brahma Rahasyam (secrets about god).
+  Even close relations, if orthodox, will refuse to take food prepared or touched by the uninitiated.
+* Concerning Madhvas, Monier Williams writes as follows [177]: "They firmly believe that it is a duty of Vaishnavas to carry throughout life a memorial of their god on their persons, and that such a lasting outward and visible sign of his presence helps them to obtain salvation through him. 'On his right armlet the Brahman wears the discus, on his left the conch shell.' When I was at Tanjore, I found that one of the successors of Madhva had recently arrived on his branding visitation.
+  He was engaged throughout the entire day in stamping his disciples, and receiving fees from all according to their means."
+* Madhvas have four mutts to which they repair for the branding ceremony, viz., Vayasaraya, Sumathendra and Mulabagal in Mysore, and Uttaraja in South Canara.
+* The followers of the Uttaraja mutt are branded in five places in the case of adult males, and boys after the thread investiture.
+  The situations and emblems selected are the chakra on the right upper arm, right side of the chest, and above the navel; the chank on the left shoulder and left side of the chest.
+  In the case of widows, the marks are impressed on the shoulders as in the case of males.
+* The disciples of the three other mutts are generally branded with the chakra on the right upper arm, and chank on the left.
+* As the branding is supposed to remove sins committed during the interval, they get it done every time they see their guru.
+* There is with Madhvas no restriction as to the age at which the ceremony should be performed.
+* Even a new-born babe, after the pollution period of ten days, must receive the mark of the chakra, if the guru should turn up.
+  Boys before the upanayanam, and girls before marriage, are branded with the chakra on the abdomen just above the navel.
+  The copper or brass branding instruments (mudras) are not heated to a very high temperature, but sufficient to singe the skin, and leave a deep black mark in the case of adults, and a light mark in that of young people and babies.
+* In some cases, disciples, who are afraid of being hurt, bribe the person who heats the instruments; but, as a rule, the guru regulates the temperature so as to suit the individual.
+  If, for example, the disciple is a strong, well-built man, the instruments are well heated, and, if he is a weakling, they are allowed to cool somewhat before their application.
+  If the operator has to deal with babies, he presses the instrument against a wet rag before applying it to the infant's skin.
+* Some Matathipathis (head priests of the mutt) are, it is said, inclined to be vindictive, and to make a very hot application of the instruments, if the disciple has not paid the fee (gurukanika) to his satisfaction.
+* The fee is not fixed in the case of Sri Vaishnavas, whereas Madhvas are expected to pay from one to three months' income for being branded.
+  Failure to pay is punished with excommunication on some pretext or other.
+  The area of skin branded generally peels off within a week, leaving a pale mark of the mudra, which either disappears in a few months, or persists throughout life.
+* Madhvas should stamp mudras with gopi paste (white kaolin) daily on various parts of the body.
+  The names of these mudras are chakra, chank or sankha, gatha (the weapon of war used by Bhima, one of the Pandavas), padma (lotus), and Narayana.
+  Some regard the chakra mudra as sufficient on occasions of emergency.
+* The god Hanuman (the monkey god) is specially reverenced by Madhvas, who call him Mukyapranadevaru (the chief god).
+  V.
+  Notably may be mentioned Shivalli or Udipi, Kota and Koteshwar, which have given names to the divisions of Tulu Brahmins of which these villages are respectively the head-quarters.
+* When the Brahmins were introduced by Mayur Varma they are said to have been followers of Bhattacharya, but they soon adopted the tenets of the great Malayalam Vedantic teacher Sankaracharya, who is ordinarily believed to have been born at Cranganore in Malabar in the last quarter of the eighth century, that is, soon after the arrival of the Brahmins on the west coast.
+* Sankaracharya is known as the preacher of the Advaita (non-dual) philosophy, which, stated briefly, is that all living beings are one with the supreme spirit, and absorption may finally be obtained by the constant renunciation of material in favour of spiritual pleasure.
+  This philosophy, however, was not sufficient for the common multitude, and his system included, for weaker minds, the contemplation of the first cause through a multitude of inferior deities, and, as various manifestations of Siva and his consort Parvati, he found a place for all the most important of the demons worshipped by the early Dravidians whom the Brahmins found on the West Coast, thus facilitating the spread of Hinduism throughout all classes.
+* That the conversion of the Bants and Billavas, and other classes, took place at a very early date may be inferred from the fact that, though the great bulk of the Tulu Brahmins of South Canara adopted the teaching of the Vaishnavite reformer Madhavacharya, who lived in the thirteenth century, most of the non-Brahmin Hindus in the district class themselves as Shaivites to this day.
+* Sankaracharya founded the Sringeri Matha in Mysore near the borders of the Udipi taluk, the guru of which is the spiritual head of such of the Tulu Brahmins of South Canara as have remained Smarthas or adherents of the teaching of Sankaracharya.
+  Madhavacharya is believed to have been born about 1199 A.D. at Kalianpur, a few miles from Udipi.
+* He propounded the Dvaita or dual philosophy, repudiating the doctrine of oneness and final absorption held by ordinary Vaishnavites as well as by the followers of Sankaracharya.
+  The attainment of a place in the highest heaven is to be secured, according to Madhavacharya's teaching, not only by the renunciation of material pleasure, but by the practice of virtue in thought, word and deed.
+  The moral code of Madhavacharya is a high one, and his teaching is held by some--not ordinary Hindus of course--to have been affected by the existence of the community of Christians at Kalianpur mentioned by Cosmos Indico Pleustes in the seventh century.
+* Madhavacharya placed the worship of Vishnu above that of Siva, but there is little bitterness between Vaishnavites and Shaivites in South Canara, and there are temples in which both are worshipped under the name of Shankara Narayana.
+  He denied that the spirits worshipped by the early Dravidians were manifestations of Siva's consort, but he accorded sanction to their worship as supernatural beings of a lower order.
+  "Shivalli Brahmins.
+* The Tulu-speaking Brahmins of the present day are almost all followers of Madhavacharya, though a few remain Smarthas, and a certain number follow what is known as the Bhagavat Sampradayam, and hold that equal honour is due to both Vishnu and Siva.
+  They are now generally called Shivalli Brahmins, their head-quarters being at Udipi or Shivalli, a few miles from Madhavacharya's birth-place.
+  In it he also placed one of the three salagrams presented to him by the sage Veda Vyasa.
+* Besides the temple at Udipi, he established eight Mathas or sacred houses, each presided over by a sanyasi or swami.
+* [Their names are Sodhe, Krishnapur, Sirur, Kanur, Pejavar, Adamar, Palamar, and Puththige.] These exist to this day, and each swami in turn presides over the temple of Krishna for a period of two years, and spends the intervening fourteen years touring through Canara and the adjacent parts of Mysore, levying contributions from the faithful for his next two years of office, which are very heavy, as he has to defray not only the expenses of public worship and of the temple and Matha establishments, but must also feed every Brahmin who comes to the place.
+  The following description of a Matha visited by Mr.
+  All things needful were here gathered together.
+* Outside sat pilgrims, poor devotees, and beggars waiting for the daily dole, and villagers were continually arriving with grain, vegetables, etc.' The periodical change of the swami presiding over the temple of Krishna is the occasion of a great festival known as the Pariyaya, when Udipi is filled to overflowing by a large concourse of Madhvas, not only from the district but from more distant parts, especially from the Mysore territory.
+  [A very imposing object in the temple grounds, at the time of my visit in 1907, was an enormous stack of fire-wood for temple purposes.] The following is a description [180] of a festival at the Udipi Krishna temple witnessed by Mr.
+  After this, the image was placed in a gorgeous silver-plated beaked palanquin, and borne solemnly outside the temple to the great idol car that stood dressed up and adorned with an infinity of tinsel, flags, streamers and flower wreaths.
+* On this it was lifted, and placed in a jewel shrine amidst a storm of applause and clapping of hands--these seem the only occasions when Hindus do clap hands--and then, with all the company of Brahmins headed by the swamis marching in front, followed by flambeaus and wild music, the car was slowly hauled by thousands of votaries round the square which was illuminated by three lines of lights, ascending at intervals into pyramids.
+  A pause was made half-way, when there was a grand display of rockets, fire fountains and wheels, and two lines of camphor and oiled cotton laid along the middle of the road were kindled and flamed up brilliantly.
+  Ane, elephant.
+* "These names were obtained from one of the eight swamis or gurus of the Udipi math, and according to him they have no totemistic force at the present day.
+  Girls must be married before maturity, and the ordinary age now-a-days is between five and eleven.
+  "Havika, Haviga, or Haiga Brahmins are the descendants of the section of the Brahmins brought in by Mayur Varma, who settled within the tract known as Haiga, which comprised the southern part of North Canara and the extreme northern part of South Canara.
+* They did not, like the Shivallis, adopt the teaching of Madhavacharya, but remained followers of Sankaracharya, and they now speak Canarese, though their religious and family records are written in old Tulu-Malayalam character.
+  Though originally of the same stock, a distinction has arisen between them and the Shivalli Brahmins, and they do not intermarry, though they may eat together.
+  Some Havik Brahmins in the Malayalam portion of the Kasaragod taluk have, like the Shivallis in the same locality, adopted the language and customs of the Malayali Brahmins.
+* "Kota Brahmins, so called from a village in the northern part of the Udipi taluk, are, like the Haviks, Smarthas or followers of Sankaracharya, and now speak Canarese, but the breach between them and the Shivallis is not so wide, as intermarriages occasionally take place.
+  In the Coondapoor taluk and the northern part of the Udipi taluk, the Kotas occupy a place in the community corresponding to that taken by the Shivallis throughout the rest of the district.
+* "Saklapuris, of whom there are a few in the district, are what may be called a dissenting sect of Havikas who, a few years ago, renounced their allegiance to the Ramchandrapura matha in favour of one at Saklapuri near the boundary between North and South Canara.
+  Like the Havikas, they speak Canarese.
+  The marriage tali or bottu is dispensed with by Oriya Brahmans, who, at marriages, attach great importance to the panigrahanam (grasping the bride's hand) and saptapadi (seven steps).
+* The Oriya Brahmans are both Smarthas and Vaishnavas who are generally Paramarthos or followers of Chaitanya.
+  The god Jagannatha of Puri is reverenced by them, and they usually carry about with them some of the prasadham (food offered to the god) from Puri.
+  For example, Prabhu is a sept, and Krishna Prabhu the name of an individual.
+* A large majority of the Konkani Brahmans are Madhvas, and their god is Venkataramana of Tirupati, to whom their temples in South Canara are dedicated.
+  Other Brahmans do not go to the Konkani temples, though non-Brahmans do so.
+  Judged from their well-built physique, handsome features and fair complexion, they appear to belong ethnically to the Aryan stock.
+* The community take their name from their Guru Sarasvata.
+  Trihotrapura, the modern Tirhut in Behar, is claimed as the original home of the community.
+  The Brahman emigrants are called Konkanis from the fact of their having emigrated from Konkan.
+* In the earliest times, they are supposed to have been Saivites, but at present they are staunch Vaishnavites, being followers of Madhavacharya.
+  They are never regarded as on a par with the other Brahmans of Southern India.
+  The Nambudris are, however, allowed access even to the interior of the sacred shrine.
+* All caste disputes are referred to their high priest, the Swamiyar of Kasi Mutt, who resides at Mancheswaram or Basroor.
+  He is held in great veneration by the community, and his decisions in matters religious and social are final.
+  In conclusion, brief mention may be made of several other immigrant classes.
+* Of these, the Desasthas are Marathi-speaking Brahmans, who have adopted some of the customs of the Smartha and Madhva Carnatakas, with whom intermarriage is permitted.
+  A special feature of the marriage ceremonies of the Desasthas is the worship of Ambabhavani or Tuljabhavani, with the assistance of Gondala musicians, who sing songs in praise of the deity.
+
+### Budubudike  [vol 1, line 13411, 4671 chars]
+  But, in whatever corner of the province he may be, as the Dusserah approaches, he turns his face towards Vellore in the North Arcot district, where the annual festival in honour of the tribal deity Amba Bhavani is celebrated."
+* The insigne of the Budubudike, as recorded at Conjeeveram, is said [183] to be a pearl-oyster.
+  The Oriya equivalent of Budubudike is stated [184] to be Dubaduba. 

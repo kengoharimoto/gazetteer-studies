@@ -49,7 +49,6 @@ in vol. IX pt 1 (1901, province-wide, not by district).
 
 - Bombay Presidency: done (cross-section 1872–86). Change over time still open: compare with the revised
   state gazetteers (Poona 1954, Dharwar 1959 on IA) and check the 1881–1901 Bombay census reports.
-- Other presidencies (the user asked to continue with them after Bombay): Madras was scouted first and is
-  paused for a decision. The gazetteers there do not give caste-level sect statements; see `madras/README.md`
-  for the options (Thurston, the 1871/1891 census sect series). Bengal, the United Provinces, Punjab and
-  the Central Provinces have not been started.
+- Madras Presidency: done with Thurston (1909) and the 1871/1891 census, because the Madras
+  manuals and gazetteers lack caste-level sect statements. Report: `madras/README.md`.
+- Not started: Bengal, the United Provinces, Punjab, the Central Provinces.
