@@ -97,6 +97,11 @@ Rāmacandrapura, Saklapuri, Kumbakoṇam, Ujjani, …). Puṣpagiri and Virūpā
 
 ## 4. Not done / possible next steps
 
+- **Done since:** district counts of Brahman sub-divisions, read from the 1891 table images
+  (`../census-images/results/madras1891_*`). By Thurston's list of Smārta sub-castes, Smārtas are 48% of
+  Tamil-division Brahmans against 23% Aiyaṅgārs. By district: Tanjore 64%, Trichinopoly and Tinnevelly about
+  55%, Chingleput only 12% (60% Aiyaṅgār).
+
 - **District counts of Smārta Brahmans.** These need the 1871 table volume (not found on IA) or the 1891 caste
   tables, where Brahman sub-divisions (Vaḍama, Bṛhaccaraṇam, Smārta, Teṅgalai, Vaḍagalai …) are tabulated by
   district (`data/census/india.history.resource.52257.txt`). The OCR tables there are badly scrambled.

@@ -23,6 +23,11 @@ in the north and east, as the Daśanāmī orders: Gosains, Gosavis (Marathi, Ber
 
 ## 1. Numbers
 
+- **Census 1891 (Table XVI, read from page images, `../census-images/results/cp1891_castes.tsv`).**
+  - Gosain 24,796: Giri 9,333, Puri 6,050, Bharthi 1,412, the rest undivided.
+  - Top districts: Hoshangabad 3,291, Raipur 3,194, Nagpur 2,914, Bilaspur 2,419, Jubbulpore 2,080.
+  - Also Sanyasi 2,449, Dandigan 536, Bairagi 29,298, Jogi 6,094 and Nath 5,008.
+
 - **Province, 1911 (Russell):** Gosains "a little over 40,000", distributed over all districts. Bairagis about
   38,000; Jogis about 15,000. This is the same order of magnitude as the United Provinces (103,320 Daśanāmī
   Goshains in a population five times larger). The Daśanāmīs are relatively denser in the CP than in the UP,

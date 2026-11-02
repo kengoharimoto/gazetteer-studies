@@ -121,7 +121,9 @@ these sources, for four reasons:
 
 - **Done (`census-images/`):** the census caste tables for UP 1891 (Goshain by district, Daśanāmī 103,320),
   Bengal 1901 (Atith 50,042, Gosain 29,534) and Bombay 1881 (Gosávi 33,851) were read from page images and
-  reconciled with the printed totals. Remaining: Punjab 1881/1891, CP 1891/1901, Madras 1891.
+  reconciled with the printed totals. Punjab, CP and Madras
+  1891 added: Punjab Gosain 9,903 and Sanniasi 5,163; CP Gosain 24,796 (Giri 9,333, Puri 6,050); Madras Tamil
+  Brahmans 48% Smārta sub-castes against 23% Aiyaṅgār.
 - **Revised state gazetteers (1950s–80s)** for a third date: Poona 1954, Dharwar 1959, and the Bihar and UP
   revisions.
 - **Maṭha records and inām registers** (Śṛṅgeri, Saṅkeśvar, Kumbakoṇam, Bodh Gayā) to test what the gazetteers

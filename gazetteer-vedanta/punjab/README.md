@@ -28,6 +28,14 @@ Bairagis.
 
 ## 1. Headcounts: a thin presence, confined to the south-east
 
+**Census 1891 (Table XVI, read from page images, `../census-images/results/punjab1891_castes.tsv`).**
+- Gosain 9,903 (British territory): Hissar 2,318, Kangra 1,912, Karnal 1,843, Ambala 1,081, Delhi 992.
+- Sanniasi 5,163, concentrated elsewhere, in the central districts: Hoshiarpur 825, Jalandhar 570, Amritsar
+  435.
+- Jogi & Rawal 75,469; Bairagi 34,102; Udasi 9,459.
+- The sect returns (Table F) have Smartak 123, Vedanti 232, Shankar Acharj 15.
+
+
 | district (census) | Gosain / Sanyasi | Jogi | Bairagi | Udasi |
 |---|---|---|---|---|
 | Hisar (1881) | Gusain 1,479 | 1,919 | 1,867 | – |

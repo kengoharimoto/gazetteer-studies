@@ -22,6 +22,9 @@ Page images and the downloaded OCR XML are in `pages/` (kept out of git).
 | `results/up1891_ascetics.tsv` | same, pp. 49–52 (n90–n93) | per district (persons): all Hindu Fakirs, Goshain (all / Dasnami / unspecified / Vaiṣṇava-named), Bairagi, Jogi | Fakir and Jogi columns match the printed totals; Bairagi is off by 100 males (Allahabad division: Allahabad "236" or Lalitpur "197") and 1 female; flagged in `note` |
 | `results/bengal1901_atith_gosain.tsv` | Census of India 1901, vol. VI-A, Bengal, Part II Imperial Tables (`in.ernet.dli.2015.55931`), Table XIII Part A, p. 194 (n200, ATITH) and p. 215 (n221, GOSAIN) | Atith and Gosain (Hindu), by 53 districts and states, by sex; remark on Gosain sub-groups | both columns match the printed totals (Shahabad Atith males read as 3,699 and Patna Gosain males as 1,149, as the division totals require) |
 | `results/bombay1881_gosavi.tsv` | Imperial Census 1881, Bombay, vol. 2 Tables (`wbsl.9142`), alphabetical caste list, p. viii (n189, printed upside down) | **Gosávi** ("Devotees, &c.", class XI) by region | the five regions sum to the total 33,851 |
+| `results/punjab1891_castes.tsv`, `punjab1891_sects.tsv` | Census of India 1891, Punjab, Part II Imperial Tables, British Territory (`india.history.resource.117714`), Table XVI (Faqir: Gosain, Sanniasi, Bairagi, Udasi; Jogi & Rawal), pp. 280–287, 316–319 (n289–n296, n325–n328); Table F, Religious Sects (n835–n848) | by 32 districts, by sex; Native States and religion splits at provincial level | all columns except Jogi & Rawal reconcile; Jogi has two rows inconsistent in print (Lahore, Montgomery), flagged; sect table only partly checkable. Notes: `results/punjab1891_NOTES.md` |
+| `results/cp1891_castes.tsv` | Census of India 1891, CP, Part II Imperial Tables (`india.history.resource.52255`), Table XVI, Group VI Devotees, pp. 148–151 (n163–n166); Feudatory States p. xxxviii (n339) | Gosain (with Bharthi, Giri, Puri), Sanyasi, Dandi/Dandigan, Bairagi (with sub-divisions), Jogi, Nath, Fakir, by 18 districts and 15 states | all columns reconcile, including Group VI totals per district; three damaged digits resolved from the totals and flagged. Notes: `results/cp1891_NOTES.md` |
+| `results/madras1891_brahman_subdivisions.tsv`, `madras1891_devotees.tsv`, `madras1891_tamil_smarta_vs_aiyangar.tsv` | Census of India 1891, Madras, Tables (`india.history.resource.52257`), Table XVI-A by linguistic division (n343–n396) | every Brahman sub-division by district; devotee castes (Sanyasi, Bairagi, Jangam, Pandaram, Satani, Dasari …); derived Tamil Smārta vs Aiyaṅgār shares | Brahman totals reconcile except 3 Telugu columns off by 1–4 (print) and the misprinted Trichinopoly total (86,676 for 36,676); devotees reconcile. Notes: `results/madras1891_NOTES.md` |
 
 ## What the tables change
 
@@ -57,3 +60,21 @@ Page images and the downloaded OCR XML are in `pages/` (kept out of git).
 3. **Bombay 1881: Gosávis 33,851.** By region: Deccan 19,247, Gujarat 6,036, Konkan 5,269, Bombay City 1,947,
    Karnatak 1,352. The Daśanāmī householder and mendicant caste was thus a Deccan phenomenon, alongside the
    Smārta Brahmans the Bombay study counted.
+4. **Punjab 1891.**
+   - Gosain 9,903 (British territory): 91% in the Delhi division, Kangra and Simla (Hissar 2,318, Kangra
+     1,912, Karnal 1,843).
+   - Sanniasi 5,163, in a different belt: central Punjab (Hoshiarpur 825, Jalandhar 570, Amritsar 435).
+   - Both are dwarfed by Jogi & Rawal (75,469) and Bairagi (34,102).
+   - The sect table has almost no Śaṅkara labels: Smartak 123, Vedanti 232, Shankar Acharj 15.
+5. **Central Provinces 1891.**
+   - Gosain 24,796, sub-divided Giri 9,333, Puri 6,050, Bharthi 1,412.
+   - Top districts: Hoshangabad 3,291, Raipur 3,194, Nagpur 2,914.
+   - Sanyasi 2,449; Dandigan 536; Bairagi 29,298.
+6. **Madras 1891.**
+   - The census row "Smarta" is tiny (7,021): Smārta Brahmans were returned under sub-caste names.
+   - Taking Thurston's own list of Smārta sub-castes (Vadama, Brahacharanam, Vattiman, Ashtasahasram etc.),
+     **Smārtas are 48% of Tamil-division Brahmans and Aiyaṅgārs (Tengalai, Vadagalai, Srivaishnava,
+     Vaishnava) 23%**.
+   - By district: Tanjore 64% Smārta; Trichinopoly and Tinnevelly about 55%.
+   - **Chingleput is the exception, 60% Aiyaṅgār**, as the 1871 report noted. The derived table states its
+     classification rule.
