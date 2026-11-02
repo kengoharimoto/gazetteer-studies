@@ -1,0 +1,3 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PB21	Lyallpur (Chenab Colony)	1901	Faqir	FAKIR	8,995	district	Part A ch.I C (Religions, caste table)	Bazigar 2,473 Faqir ... 8,995 i *logi 884	low	Only in OCR 531219 (105591 lacks the table). Listed under "Menial tribes" beside Teli, Rangrez, Saiyad, Sheikh, Ulema, so probably Muhammadan return; garbled columns; year assumed 1901 (Colony gazetteer 1904)
+PB21	Lyallpur (Chenab Colony)	1901	Jogi	JOGI	884	district	Part A ch.I C (Religions, caste table)	Bazigar 2,473 Faqir ... 8,995 i *logi 884	low	OCR "*logi" = Jogi; in the Menial-tribes list (Muslim/menial caste likely) -> may be OTHER; not evidence for Nath order

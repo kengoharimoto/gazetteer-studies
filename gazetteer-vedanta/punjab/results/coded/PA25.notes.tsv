@@ -1,0 +1,6 @@
+vol	district	kind	place	order	what	page	quote	confidence
+PA25	Dera Ghazi Khan	LAND	Dera Ghazi Khan district (area by tribe, acres)	OTHER	Acreage held by "Ghosains" 232 acres (not persons), also Jogis 88 acres, Fakirs (Hindus) 607 acres, Fakirs (Muhammadans) 216 acres; Karars (Hindus) 220,066 acres. The Gosains here are likely the Vaishnava Kirar gurus	65	Ghosdins “Ka 232	low
+PA25	Dera Ghazi Khan	LAND	Dera Ghazi Khan district (area by tribe, acres)	JOGI	Jogis hold 88 acres	65	Jogte s 88	low
+PA25	Dera Ghazi Khan	LAND	Dera Ghazi Khan district (area by tribe, acres)	OTHER	Fakirs (Hindus) hold 607 acres; Fakirs (Muhammadans) 216 acres. Order of the Hindu fakirs not stated	65	Fakfrs (Hindus) 607	low
+PA25	Dera Ghazi Khan	LAND	Dera Ghazi Khan town	OTHER	Chief Gusains of the two Hindu temples are listed among leading men entitled to chairs	72	the chief Gusains of the two Hindi temples; Darbari lal, banker	medium
+PA25	Dera Ghazi Khan	FAIR	Sakhi Sarwar	OTHER	Shrine visited by mendicants and devotees; also a shrine to Baba Nanak and a Thakur Dwara; mixed Hindu-Muslim shrine run by mujawars	4	Throughout the year the shrine is the resort of mendicants and devotees	low

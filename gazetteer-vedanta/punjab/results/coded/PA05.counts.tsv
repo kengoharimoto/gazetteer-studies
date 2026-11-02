@@ -1,0 +1,6 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA05	Rohtak	1881	Faqir	FAKIR	4,095	district	~ocr:13380	Faqura 4,095 2,190 1,89	medium	Table IX (major castes)
+PA05	Rohtak	1881	Bairagi	BAIRAGI	6,909	district	~ocr:13382	Batrigt 6,909 8 278 2,031	low	Major-castes table; digits uncertain (males 3,278? females 2,031 do not add to 6,909)
+PA05	Rohtak	1881	Jogi	JOGI	3,765	district	~ocr:13400	40 Jogi 8,765 2,244 1,481 2,248	low	Initial digit read 3; male+female add to 3,725
+PA05	Rohtak	1881	Gusain	GOSAIN	565	district	~ocr:13441	102 Gusain 565 367 198	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer
+PA05	Rohtak	1881	Sadh	SADHU_UNSPEC	598	district	~ocr:13445	155 Sadh 598 437 161	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer

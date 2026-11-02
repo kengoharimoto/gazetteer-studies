@@ -1,0 +1,7 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PB04	Ludhiana	1901	Udasis	UDASI	1,949	district	~ocr:10960	The Census of 1881 found 2,366 of them in this District while that of 1901 returns only 1,949.	high	Udasis described as Sikh ascetics of a sect founded by Srichand, eldest son of Guru Nanak
+PB04	Ludhiana	1881	Udasis	UDASI	2,366	district	~ocr:10960	The Census of 1881 found 2,366 of them in this District while that of 1901 returns only 1,949.	high	Comparison figure cited in the 1907 gazetteer
+PB04	Ludhiana	1901	Bairagis	BAIRAGI	914	district	~ocr:10983	The Bairagis (914) are to be found in charge of the thdlcar dwdrds or temples of Thakar	high	Census year not stated in the sentence; context of the 1901 census
+PB04	Ludhiana	1901	Saniasis	SANNYASI		district	~ocr:10984	and the Saniasls, who are very few in number, of the devidwdrds or temples of D6vi	medium	No figure; 'very few in number'; in charge of Devi temples
+PB04	Ludhiana		Bharais (principal ascetic class)	OTHER	6,258	district	~ocr:10944	The principal ascetic class are the Bharais (6,258).	high	Bharais are Muhammadan guardians of Sakhi Sarwar shrines (pir khana), not celibate; not comparable ascetics
+PB04	Ludhiana		Faqir (religious class in caste table)	FAKIR	16,808	district	~ocr:10514	Priestly and religious Brahman, Faqir 24,551 16,808 4 2	low	Table fragment: Brahman 24,551 (4%), Faqir 16,808 (2%); census year garbled in OCR ('lvvi'); presumably 1901 or 1891

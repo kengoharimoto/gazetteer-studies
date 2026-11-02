@@ -1,0 +1,4 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA02	Gurgaon	1881	Bairagi	BAIRAGI	3,676	district	~ocr:13451	63 ! Boiragi 3,676 2,074 1,501	medium	Table IX major castes; males 2,074 + females 1,601 would equal 3,676 (OCR females 1,501)
+PA02	Gurgaon	1881	Jogi	JOGI	4,000	district	~ocr:13455	40} Jo 4,000 9,113 But 1,683	low	Name truncated, figures garbled (males probably 2,113); Jogi as caste, may include menial Jogis
+PA02	Gurgaon	1881	Faqir miscellaneous & unspecified	FAKIR	1,627	district	~ocr:13444	34 Faqir miscollanevus & unspecified, | 1,627 860 767	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer. No Gusain/Gosain row in the minor-caste table

@@ -1,0 +1,3 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PB08	Kangra (Kulu sub-division)	1891	Gusains	GOSAIN	95	tahsil	~ocr:6809	Gusains 95	medium	Census of 1891 chief Hindu castes table for Kulu (sub-division, not whole district); OCR table scrambled but pairing Gusains 95 / Bairagis 657 is clear
+PB08	Kangra (Kulu sub-division)	1891	Bairagis	BAIRAGI	657	tahsil	~ocr:6790	Bairaoria 657	medium	Same 1891 table (OCR 'Bairaoria'); Kulu only

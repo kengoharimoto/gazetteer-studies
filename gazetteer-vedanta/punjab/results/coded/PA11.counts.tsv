@@ -1,0 +1,4 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA11	Gurdaspur	1881	Jogi	JOGI	2,216	district	~ocr:10124	40 Jogi 2,216 | 1,280 956	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer
+PA11	Gurdaspur	1881	Bairagi	BAIRAGI	1,055	district	~ocr:10134	58 Bairagi 1,055 627 428	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer
+PA11	Gurdaspur	1881	Faqir Udasi	UDASI	628	district	~ocr:10152	84 Fagir Udasi.. ae a 628 446 | 177	low	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer; printed as "Faqir Udasi"; male+female add to 623

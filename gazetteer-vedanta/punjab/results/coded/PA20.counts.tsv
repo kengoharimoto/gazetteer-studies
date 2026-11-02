@@ -1,0 +1,3 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA20	Mooltan	1881	Faqir, miscellaneous & unspecified	FAKIR	2,324	district	Table IXA	35 Faqir, misccllanoous & unspecified 2,324 1,818 1,011	medium	Table IXA; male figure OCR "1,818" reads 1,313 to match total (1,313+1,011=2,324); mostly Muhammadan
+PA20	Mooltan	1881	Jogi	JOGI	691	district	Table IXA	40 Jogi 691 424 267	high	Table IXA; males 424, females 267; no religion split given; may include menial/musician Jogi caste

@@ -1,0 +1,4 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA03	Karnal	1881	Bairagi	BAIRAGI	4,620	district	~ocr:22546	63 | Bairngi 4,620 2 642 1,987	medium	Table IX major castes; sum of male+female columns is 4,629
+PA03	Karnal	1881	Jogi	JOGI	9,267	district	~ocr:22547	40 | Jogi ; 0,267 4,813 4,454	medium	Table IX; initial digit lost (9,267 = 4,813+4,454). Gazetteer says the caste Jogi is a low musician caste (not Kanphata monks)
+PA03	Karnal	1881	Faqir, miscellaneous and unspecified	FAKIR	2,083	district	~ocr:22581	95 Faqir, miscellaneousand unspecified); 2,083 ; 1,188 850	medium	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer. No Gusain/Gosain row

@@ -1,0 +1,3 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA22	Montgomery	1881	Fagir Miscls and unspecified	FAKIR	1,768	district	Table IXA	36 Fagir Miscls and unspecified 1,768 | 1,048 720	high	Table IXA; males 1,048, females 720
+PA22	Montgomery	1881	Jogi	JOGI	518	district	Table IXA	40 Jogi 518 823 190	medium	Table IXA; male figure OCR "823" probably 328 (328+190=518)

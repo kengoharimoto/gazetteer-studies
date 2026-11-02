@@ -1,0 +1,10 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PB14	Shahpur	1891	Sanyasis	SANNYASI	146	district	p.81	The Sanyasis (146^,' found chiefly in Bhera tahsil) also especially worship Shiv.	high	Sect return in religion section ("found chiefly in Bhera tahsil"); year inferred from Table VII note (Census 1891)
+PB14	Shahpur	1891	Jogis	JOGI	246	district	p.81	The Jogis (246^ chiefly in Bhera tahsil) are another body of	high	Sect return; chiefly Bhera tahsil
+PB14	Shahpur	1891	Bairagis	BAIRAGI	260	district	p.81	The Bairagis (260) whose name implies that they have given up the cares and pleasures of the world	high	Sect return; Ramanandi and Nimanandi orders
+PB14	Shahpur	1891	Gosains	GOSAIN	259	district	p.82	Thft GofuuTifu Gosains (259) are another sect of devotees v/ho do not	medium	Heading garbled in OCR; text says "generally Vaishnavs", initiate with sacred thread and garmantr, some worship Shiv. Vaishnava/guru type -> do NOT add to Daśanāmī totals without review
+PB14	Shahpur	1891	Fakirs	FAKIR	1,429	district	p.~86 (Fakirs)	Shatprir ... ... ... 786 Khushah .t. 185 Total ... ].429	medium	Mostly Musalman fakirs. Tahsil figures printed: Shahpur 786, Khushab 185; Bhera figure lost in OCR (1,429-786-185 = 458)
+PB14	Shahpur	1891	Fakirs (Shahpur tahsil)	FAKIR	786	tahsil	p.~86	Shatprir ... ... ... 786 Khushah .t. 185 Total ... ].429	medium	tahsil = Shahpur; column alignment inferred
+PB14	Shahpur	1891	Fakirs (Khushab tahsil)	FAKIR	185	tahsil	p.~86	Shatprir ... ... ... 786 Khushah .t. 185 Total ... ].429	medium	tahsil = Khushab; column alignment inferred
+PB14	Shahpur	1891	Dadupanthis	OTHER	80	district	p.83	The Dad tipan tins (80, chiefly in Bhera tahsil) are a sect 't’ke Dadupanthis. of Bairagis, followers of Dadiiji	medium	Described as a sect of Bairagis; kept as OTHER so as not to double-count with BAIRAGI 260
+PB14	Shahpur	1891	Laljis	OTHER	84	district	p.83	The Laljis (84) arc also a sort of Bairagis, followers of TkeLaljis. Lalji	medium	Vaishnava "sort of Bairagis"; kept OTHER to avoid double count

@@ -55,4 +55,6 @@ in vol. IX pt 1 (1901, province-wide, not by district).
   Report: `north/README.md`.
 - Bengal Presidency (Bengal, Bihar, Orissa): Daśanāmīs, 1872–1918 (Hunter; Bengal/Bihar and Orissa District
   Gazetteers). Report: `bengal/README.md`.
-- Not started: Punjab, the Central Provinces.
+- Punjab: Daśanāmīs, 1881–1919 (district gazetteers 1883–84 and revised; Rose's Glossary).
+  Report: `punjab/README.md`.
+- Central Provinces and Berar: in progress (`cp/`).

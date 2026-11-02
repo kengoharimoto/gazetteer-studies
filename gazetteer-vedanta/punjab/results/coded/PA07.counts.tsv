@@ -1,0 +1,5 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA07	Jalandhar	1881	Bairagi	BAIRAGI	740	district	~ocr:7290	68 Bairagl 740 449 298	medium	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer; male+female add to 747
+PA07	Jalandhar	1881	Jogi	JOGI	517	district	~ocr:7296	40 Jogi 517 817 200	medium	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer; males probably 317
+PA07	Jalandhar	1881	Udasi	UDASI	1,438	district	~ocr:7296	84 Udasi 1,438 } 1,083 $65	medium	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer; male+female add to 1,448
+PA07	Jalandhar	1881	Faqirs	FAKIR		district	~ocr:7247	36 | baqire 839 44 8 6,187 15	low	Major castes table; persons figure unreadable (839 may be a column fragment)

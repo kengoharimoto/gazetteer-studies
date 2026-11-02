@@ -1,0 +1,5 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA01	Delhi	1881	Gusain	GOSAIN	690	district	~ocr:19745	102 Gusain : os wl 690 $97 998	medium	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer; persons 690 (males 397 + females 293 = 690); male/female columns garbled
+PA01	Delhi	1881	Faqir, miscellaneous & unspecified	FAKIR	1,428	district	~ocr:19733	Faqir, miscellaneous & unspecified | 1,428 | 801 627	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer
+PA01	Delhi	1881	Bairagi	BAIRAGI		district	~ocr:19698	63 | Bairagi rf	low	Listed in the Table IX (major castes) with Hindu column; number lost in OCR
+PA01	Delhi	1881	Jogi	JOGI		district	~ocr:19701	40 | Jogi we 8	low	Listed in the Table IX (major castes); number lost in OCR

@@ -1,0 +1,5 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA08	Hoshiarpur	1881	Faqirs	FAKIR	8,687	district	~ocr:11979	35 | Faqirs : 8,687 4,747 3,940 151 5 4,587 10	high	Table IX (major castes): 151 Hindu males, 5 Sikh, 4,587 Musalman males; mostly Muslim
+PA08	Hoshiarpur	1881	Udasi	UDASI	800	district	~ocr:12021	Udasi : 800 649 151	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer
+PA08	Hoshiarpur	1881	Sannyasi	SANNYASI	556	district	~ocr:12025	Sannyasi é 556 362 194	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer; the only Sannyasi/Gosain row in the district tables
+PA08	Hoshiarpur	1881	Bairagi	BAIRAGI	778	district	~ocr:12026	53 Bairagi F 778 512 266	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer

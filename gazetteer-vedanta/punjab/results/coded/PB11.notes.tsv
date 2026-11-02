@@ -1,0 +1,3 @@
+vol	district	kind	place	order	what	page	quote	confidence
+PB11	Lahore	OTHER	Lahore district (Part B tables, 1916)	OTHER	OCR is the Part B statistical volume; Table 15 Tribes and Castes is scrambled and gives no named Gosain/Jogi/Bairagi/Faqir row; no narrative; unusable for Dasnami coding	~ocr:3906	TABLE 15. — Tribes and Castes.	high
+PB11	Lahore	OTHER	Lahore district (list of honorary magistrates)	OTHER	A list of magistrates in the Part B volume includes a 'Mahant' (Gopi Nath Mahant, with Bishan Das a separate name, unclear in OCR); no order or math stated	~ocr:13349	0opi Nath Mahant	low

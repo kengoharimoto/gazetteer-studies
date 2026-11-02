@@ -1,0 +1,3 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PB01	Delhi		Fakirs (among village chaukidars)	FAKIR	164	district	~ocr:21558	the distribution of the more important castes among the chaukidars is Fakirs 164, Gujars 77, Brahmans 67, Sheikhs 62, Jogis 63	low	Not a population count: only the village watchmen (chaukidars) of the district; no census year; no caste table in the OCR
+PB01	Delhi		Jogis (among village chaukidars)	OTHER	63	district	~ocr:21560	Fakirs 164, Gujars 77, Brahmans 67, Sheikhs 62, Jogis 63	low	Watchmen only; Jogi here is a caste (listed with Bhats, Mirasis as itinerant musicians and beggars), hence OTHER not JOGI

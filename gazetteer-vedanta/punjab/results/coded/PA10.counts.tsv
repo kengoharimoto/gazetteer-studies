@@ -1,0 +1,4 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA10	Amritsar	1881	Faqirs	FAKIR	8,996	district	~ocr:7256	Faqirs ; 8,996 5,085 3,911	high	Table IX (major castes)
+PA10	Amritsar	1881	Jogi	JOGI	1,727	district	~ocr:7356	Jogi 1,727 207 820	low	Minor castes table; male column garbled (907?)
+PA10	Amritsar	1881	Faqir Udasi	UDASI		district	~ocr:7340	Faqir Udasi..	low	Row listed in minor castes table; numbers lost in OCR

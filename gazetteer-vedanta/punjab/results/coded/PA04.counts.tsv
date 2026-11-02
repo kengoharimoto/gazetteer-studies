@@ -1,0 +1,5 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA04	Hisar	1881	Gusain	GOSAIN	1,479	district	~ocr:7569	107 | Gusain .., 1,479 1,017 462	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer
+PA04	Hisar	1881	Jogi	JOGI	1,919	district	~ocr:7568	Jogi ae as 1,919 1,210 709	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer
+PA04	Hisar	1881	Bairagi	BAIRAGI	1,867	district	~ocr:7572	Bairagi... ... 1,867 1,081 | 786	high	Table IXA (minor castes) of the 1881 census, as printed in the gazetteer
+PA04	Hisar	1881	Faqirs	FAKIR	2,622	district	~ocr:7562	B85) Fagira ... oe 2,622 1,531	medium	Table IX major castes; female column lost

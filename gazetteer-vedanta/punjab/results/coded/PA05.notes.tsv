@@ -1,0 +1,9 @@
+vol	district	kind	place	order	what	page	quote	confidence
+PA05	Rohtak	MATH	Rohtak district (monasteries)	OTHER	299 monasteries (asthals) with 659 resident ascetics and 2,725 acres of land attached; Byragis half; then Kanphara Sadhs, Sadhs, Gosayins and Udasi Sadhs most numerous	52	There are no less than 299 monasteries, called asthals, with 659 resident ascetics, and grants of Jand amounting to 2,725 acres attached to them.	high
+PA05	Rohtak	MATH	Rohtak district (monasteries)	BAIRAGI	Byragis form half the number of asthals	52	Byragis form half the number ; after them, Kanphara Sadhs, SAdhe, Gésayins, and Udasi Sadhs are the most numerous.	high
+PA05	Rohtak	MATH	Rohtak district (monasteries)	DASNAMI	Gosayins (Gosains) among the more numerous asthal-holders; no Gosain asthal named	52	Gésayins, and Udasi Sadhs are the most numerous.	medium
+PA05	Rohtak	MATH	Rohtak district (monasteries)	UDASI	Udasi Sadhs among the more numerous asthal-holders	52	Gésayins, and Udasi Sadhs are the most numerous.	medium
+PA05	Rohtak	MATH	Bohar (4 miles east of Rohtak)	JOGI	Bohar asthal: fine block of buildings, more than local reputation; Kanphara Sadhs of Bohar (Dohar in the text) of exceedingly unholy character; inmates of evil character	52	The Bohar institution consists of a fine block of buildings situated four miles east of Rohtak town on the high road to Delhi	high
+PA05	Rohtak	FAIR	Bohar	JOGI	Annual fair "Bussada ka Mela" in March, c. 5,000 persons; described as disreputable	52	At Bohar, Bussdéda ké Mela, in March pra as .. 5,000 do.	medium
+PA05	Rohtak	MATH	Chhuddni (Jhajjar)	OTHER	Only establishment with a claim to learning and sanctity; order not named	52	except that of Chhuddni in Jhajjar	medium
+PA05	Rohtak	OTHER	Rohtak district (horses)	OTHER	Religious mendicants keep ponies (with barbers, traders)	98	belong to barbers, traders and religious mendicants	low

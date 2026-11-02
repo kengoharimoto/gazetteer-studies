@@ -1,0 +1,4 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+PA06	Ambala	1881	Faqirs	FAKIR	10,484	district	~ocr:7905	95 ) Faqirs 10,484 5,585 4 640	medium	Table IX (major castes); male+female add to 10,225
+PA06	Ambala	1881	Jogi	JOGI	11,897	district	~ocr:7909	40 | Jogi 11,897 6,335 5,562	medium	Table IX (major castes); Jogi as caste, may include menial Jogis
+PA06	Ambala	1881	Bairagi	BAIRAGI		district	~ocr:7972	b3 Bairagi aol	low	Row in Table IXA minor castes; number lost in OCR
