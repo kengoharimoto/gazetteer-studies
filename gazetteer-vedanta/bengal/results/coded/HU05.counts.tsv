@@ -1,0 +1,13 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+HU05	Dacca	1872	Vaishnav	BAIRAGI	11886	district	48	The Census Return gives the number of Vaishnavs in Dacca District at 11,886.	high	Table OCR reads 45,886 but total 13,891 = 11,886 + Mahant 104 + Native Christians 1,901.
+HU05	Dacca	1872	Mahant	SADHU_UNSPEC	104	district	41 (table)	Mahant, ‘ : ‘ ; 104.	medium	Category listed among persons of Hindu origin not recognising caste; order not stated.
+HU05	Dacca	1872	Jogi	OTHER	16410	district	48	(44) Jogi; a numerous. class, employed in wedv: ing coarse country cloth. Unlike other Hindu castes, instead of burning they bury their dead; 16,410 in number.	high	Weaver caste, not ascetic.
+HU05	Bakarganj	1872	Vaishnav	BAIRAGI	5799	district	192	The Census Report returned the number of Vaishnavs m Bdkarganj District in 1872 at 5799.	high	
+HU05	Bakarganj	1872	Hindu origin not recognising caste (total)	OTHER	10497	district	~178	persons of Hindu origin not recognising caste, 10,497	medium	Composition not given in OCR (Vaishnav 5,799 plus others, no Sanyasi count found); probably includes Sanyasis etc.
+HU05	Bakarganj	1872	Jogi and Patua (weavers)	OTHER	28198	district	193	(39) Jogi and Patud, weavers ; 28,198 in number.	high	
+HU05	Faridpur	1872	Vaishnav	BAIRAGI	5204	district	287	(20) Vaish- navs, followers of Vishnu, 5204 in number.	high	
+HU05	Faridpur	1872	Jogi (weavers)	OTHER	1698	district	287	(33) Jogf, weavers, 1698 in number.	high	
+HU05	Maimansinh	1872	Vaishnav	BAIRAGI	11991	district	406	the number of Vaishnavs in Maimansinh District at 11,991.	high	
+HU05	Maimansinh	1872	Sanyasi (worshippers of Siva who reject caste)	SANNYASI	43	district	~407	and 43 Sanyds{s, or worshippers of Siva who reject caste.	high	Index: "Sanyais, worshippers of Siva who reject caste, 403".
+HU05	Maimansinh	1872	Tilak Das	OTHER	42	district	~395 (table)	Tilak Das, e : : 42	low	Category in table of persons not recognising caste; apparently Vaishnav sect name; text does not explain.
+HU05	Maimansinh	1872	Jogi (weavers)	OTHER	39644	district	~407	In 1872 they numbered 39,644 in Maimansinh District	high	

@@ -13,7 +13,9 @@ Rows whose `note` marks them as land/proprietors/villages/acres/percent (not per
 """
 import collections, csv, glob, re
 
-NOTPERSONS = re.compile(r"(?i)\bvillage|acre|proprietor|percent|per cent|%|mahal|estate|lower bound|over \d|threshold")
+NOTPERSONS = re.compile(r"(?i)\bvillage|acre|proprietor|percent|per cent|%|mahal|estate|lower bound|threshold")
+# Vaiṣṇava "Gosains" (Chaitanya/Vallabha gurus) recorded under GOSAIN by the coders: excluded from the Daśanāmī column
+VAISHNAVA_GOSAIN = re.compile(r"(?i)not das|vaishn[a]?v[a]? gosain|vaishnav gurus?|teachers of the .{0,20}vaishn|priests and instructors of the vaishn|vaishnav, not|vallabh|chaitanya|caste-rejecting vaishnav")
 
 
 def num(x):
@@ -40,6 +42,8 @@ for f in glob.glob("results/coded/*.counts.tsv"):
         if n is None or NOTPERSONS.search((r.get("note") or "") + " " + (r.get("group_as_printed") or "")):
             continue
         g = group(r)
+        if g == "GOSAIN" and VAISHNAVA_GOSAIN.search(r.get("note") or ""):
+            continue
         if g not in ("GOSAIN", "SANNYASI", "DANDI_PARAMHANS", "BAIRAGI", "JOGI"):
             continue
         layer = r["vol"][:2]

@@ -1,0 +1,5 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+BG39	Puri	1901	Hindus	OTHER	998918	district	73	According to the census of 1901 Hindus number 998,918 98\"2 per cent, of the population	high	Whole Hindu population, for scale only; no sect or ascetic counts printed.
+BG39	Puri	1901	beggars	OTHER	6000	district	180	Among those engaged im other occupations are 9,000 herdsmen, 6,000 beggars and 13,000 general labourers.	medium	Occupation figure; 'beggars' not stated religious; OCR '^3,000' for labourers. 8,000 persons in temple service and 1,000 priests also given.
+BG39	Puri		maths (monasteries)	OTHER	70	town	112	There are over 70 maths in Puri town.	high	Count of institutions, not persons; Saiva ones few (Sankaracharya, Sankarananda), 'Most of the maths are naturally Vaishnava'.
+BG39	Puri	1848	maths (income)	OTHER	145400	town	112	In 1848, Babu Brij Kishore Ghose roughly estimated the annual income of 29 maths from land alone at Es, 1,45,400	medium	Rupees a year from land of 29 maths in 1848 (not persons); no maths named individually; 'must have increased largely' since.

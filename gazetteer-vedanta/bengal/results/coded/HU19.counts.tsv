@@ -1,0 +1,10 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+HU19	Puri	1872	Vaishnav	BAIRAGI	6770	district	38	religious sect of Hindus, who profess the doctrines incylcated by the Vishnuvite reformer Chaitanya in the sixteenth century. All classes belong to this sect, which, in theory at least, rejects caste and asserts the religious equality of all men in the sight of God ; 6770 in number.	high	Table p.35 agrees: Vaishnav 6,770. Block "Hindus of no caste" total 8,881 = 6,770+576+967+8+8+552.
+HU19	Puri	1872	Sanyasi	SANYASI	576	district	38	(52) Sanydsi; a class of Sivaiti religious ascetics and ‘mendicants; 576in number.	high	Table p.35 agrees: Sanyasi 576. Hunter: Śaiva ascetics, no ten names given.
+HU19	Puri	1872	Jugi	JOGI	967	district	39	Sivait: ascetics and mendicants ; 967 in humber. (54) Ndnakshdhl ;	high	Described as a Śaiva ascetic sect, not the weaver caste.
+HU19	Puri	1872	Nanakshahi	UDASI	8	district	39	(54) Ndnakshdhl ; followers of Ndnak Shé4h, the founder of the Sikh religion; 8 in	high	
+HU19	Puri	1872	Fakir	FAKIR	295	district	35	BY NATIONALITY ONLY. Fakir, ‘ 295	medium	Listed under Muhammadans (Muslim fakirs); table p.35.
+HU19	Puri (Khurda Subdivision)	1872	Vaishnav	BAIRAGI	1377	tahsil	187	Vaishnav, 1,377 Sanyasi, - 99 Jogi, . 49	medium	Subdivision table (Khurdha): Vaishnav 1,377, Sanyasi 99, Jogi 49, Native Christians 39, Total 1,548; the parts sum to 1,564, so one digit is misread.
+HU19	Puri (Khurda Subdivision)	1872	Sanyasi	SANYASI	99	tahsil	187	Vaishnav, 1,377 Sanyasi, - 99 Jogi, . 49	medium	Subdivision table; see Vaishnav row for the sum mismatch.
+HU19	Puri (Khurda Subdivision)	1872	Jogi	JOGI	49	tahsil	187	Vaishnav, 1,377 Sanyasi, - 99 Jogi, . 49	medium	Subdivision table; printed Jogi (district text calls the sect Jugi).
+HU19	Orissa Tributary States	1872	Vaishnav	BAIRAGI		district	216	Vaishnav, . ‘ 5.410	low	State-by-state census tables (pp.210-217) are multi-column and badly garbled; Vaishnav, Sanyasi, Jogi, Fakir rows cannot be assigned to named States. Narrative caste list for the States (p.~250) gives no Vaishnav, Sanyasi, Gosain or Jugi item.

@@ -1,0 +1,10 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+HU03	Midnapur	1872	Vaishnav	BAIRAGI	96178	district	55	Nearly all the males of this sect are religious mendicants, and many of the women prostitutes. Number in Midnapur District in 1872, 96,178.	high	Same figure in table of persons not recognising caste.
+HU03	Midnapur	1872	Sanyasi	SANNYASI	436	district	~42 (table)	Sanyasi, ... 436	medium	From table 4 (persons of Hindu origin not recognising caste); OCR of backup copy 534064: Aghori 72, Vaishnav 96,178, Nanakshahi 43, Sanyasi 436, Native Christians 396; primary OCR scrambles the column. Assignment of 436 to Sanyasi rests on column order.
+HU03	Midnapur	1872	Nanakshahi	UDASI	43	district	~42 (table)	Nanakfihahi, . ||72 ||96,178 ||43	medium	Nanakshahi taken as Udasi group; value by column order in backup OCR.
+HU03	Midnapur	1872	Aghori	OTHER	72	district	~42 (table)	Aghori, .... |Vaishnav, ||Nanakfihahi, . ||72 ||96,178 ||43	medium	Aghori ascetics, order not Dasnami.
+HU03	Midnapur	1872	Jogi and Patua (weavers)	OTHER	4576	district	~58	(47) Jogi and Patud; weavers ; 4576 in number.	high	Weaver caste.
+HU03	Hugli	1872	Vaishnav	BAIRAGI	20373	district	289	The Census Report returns the number of Vaishnavs in HdgH at 20,373.	high	Hugli district account includes Howrah; no separate Howrah caste list.
+HU03	Hugli	1872	Sanyasi	SANNYASI	26	district	~284 (table)	Sanyasx, ||26 ||||Brdhmas, ||6	medium	Backup OCR column order: Vaishnav 20,373; Sanyasi 26; Brahmas 6; Native Christians 1,184; total 21,589 (sums check).
+HU03	Hugli	1872	Jogi (weavers)	OTHER	8060	district	~284 (table)	Jogi, .... 8,060	medium	Weaver caste.
+HU03	Hugli	1872	priests in charge of Hindu religious endowments (mahants)	OTHER	3	district	277	priests in charge of Hindu religious endowments {mahants), 3	medium	Occupation of males; order not stated (Tarakeswar mahant presumably among them, not stated).

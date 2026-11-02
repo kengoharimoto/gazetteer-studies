@@ -1,0 +1,10 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+HU04	Bardwan	1872	Vaishnav	BAIRAGI	37362	district	51	The total number of Vaishnavs in Bardwdn is returned in the Census Report of 1872 at 37,362.	high	Table total 37,803 = Vaishnav 37,362 + Sanyasi 84 + Native Christians 357.
+HU04	Bardwan	1872	Sanyasi	SANNYASI	84	district	~42 (table)	Vaishnav, . . : 37,362 Sanyasl, . ‘ ‘ ‘ 84	high	Table 4 persons not recognising caste.
+HU04	Bardwan	1872	Jogi and Patua (weavers)	OTHER	7451	district	51	(36) Jogi and Patud, two separate castes, but returned as one in the Census Report; weavers; 7451 in number.	high	
+HU04	Bankura	1872	Vaishnav	BAIRAGI	10250	district	~220	The Census Report returns the number of Vaishnavs in Ba&nkurd District at 10,250.	high	Bankura table has no Sanyasi/Atith/Gosain entry in OCR.
+HU04	Bankura	1872	Jogi (weavers)	OTHER	439	district	227	(43) Jogi ; weavers ; 439 in number.	high	
+HU04	Bankura	1872	priest/trustee of Hindu religious endowment (mahant)	OTHER	1	district	216	trustee of Hindu religious endowment (mahant), 1	medium	Occupation of males.
+HU04	Birbhum	1872	Vaishnav	BAIRAGI	23249	district	~335	(29) Vaishnav ; not a caste, but rather a class of Hindus, followers of Chaitanya ; 23,249 in number.	high	Table 4: Vaishnav 23,249; Sanyasi 17; Native Christians (OCR 1538 in the neighbouring Birbhum column, unclear); table total printed 23,524.
+HU04	Birbhum	1872	Sanyasi	SANNYASI	17	district	~331 (table)	Vaishnav, . . . 23,249 Sanyasi, . é ‘ 17	high	Table 4 persons not recognising caste.
+HU04	Birbhum	1872	Jogi and Patua (weavers)	OTHER	2999	district	~335	The number of both castes in the District is given at 2999.	high	

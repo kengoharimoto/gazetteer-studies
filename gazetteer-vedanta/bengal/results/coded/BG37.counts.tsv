@@ -1,0 +1,3 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+BG37	Cuttack	1901	beggars	OTHER	13000	district	~69	Among those engaged in other occupations are 22.000 herdsmen, 13,000 beggars and 98,000 general labourers.	medium	Occupation figure (census 1901 presumably, year not stated here); 'beggars' not stated to be religious mendicants; rounded to thousands.
+BG37	Cuttack	1901	Hindus	OTHER	2002573	district	44	Hindus, who with 2,002,573 souls account for 97 per cent, of the people.	high	Whole Hindu population, for scale only; no sect or ascetic counts printed.

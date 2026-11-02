@@ -1,0 +1,11 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+HU06	Chittagong	1872	Vaishnav	BAIRAGI	894	district	146	(25) Vaishnav, religious ascetics and beggars ; 894 in number.	high	Table of persons not recognising caste prints only Vaishnav and Native Christians (OCR garbled).
+HU06	Chittagong	1872	Jogi (weavers)	OTHER	32324	district	146	(38) Jogi, weavers; 32,324 in number.	high	Table gives weaver total 32,314 (OCR).
+HU06	Noakhali	1872	Vaishnav	BAIRAGI	2131	district	~276 (table)	Vaishnav, • ^Any^lsi| • • • Native Christians, . 2,131 3 346	medium	Column order: Vaishnav 2,131; Sanyasi 3; Native Christians 346.
+HU06	Noakhali	1872	Sanyasi	SANNYASI	3	district	~276 (table)	^Any^lsi| 2,131 3 346	low	OCR heavily garbled; count read by column order.
+HU06	Noakhali	1872	Jugi (weavers)	OTHER	32991	district	~276	(30) Jug(— the most numerous caste of weavers in the District; 32,991 in number.	high	
+HU06	Tipperah	1872	Vaishnav	BAIRAGI	5847	district	376 (table)	Vaishnav, Sanyisi, Gosain, .... S .847 3> 147	low	OCR garbled: leading digit uncertain (5,847?). Table total 6,110; Native Christians ~95.
+HU06	Tipperah	1872	Sanyasi	SANNYASI		district	376 (table)	Sanyisi	low	Entry present in table but figure unreadable in OCR ("3>"); arithmetic suggests ~21 if Native Christians 95.
+HU06	Tipperah	1872	Gosain	GOSAIN	147	district	376 (table)	Vaishnav, Sanyisi, Gosain, .... S .847 3> 147	low	Printed among persons not recognising caste (so probably caste-rejecting Vaishnav Gosains, not Dasnami); column assignment uncertain.
+HU06	Tipperah	1872	Jugi (weavers)	OTHER	66812	district	380	(21.) Jugf, the largest caste of weavers, numbering 66,812 members.	high	Hunter adds Jugis have priests of their own class.
+HU06	Chittagong Hill Tracts	1872	(none)	OTHER		district	~	Persons of Hindu origin not recognising caste: Native Christian only	medium	No Vaishnav/Sanyasi/Gosain/Jogi entry for the Hill Tracts.

@@ -53,4 +53,6 @@ in vol. IX pt 1 (1901, province-wide, not by district).
   manuals and gazetteers lack caste-level sect statements. Report: `madras/README.md`.
 - North (United Provinces, NWP & Oudh): Daśanāmīs, 1869–1911 (Atkinson, Oudh gazetteer, Nevill, census 1891).
   Report: `north/README.md`.
-- Not started: Bengal, Punjab, the Central Provinces.
+- Bengal Presidency (Bengal, Bihar, Orissa): Daśanāmīs, 1872–1918 (Hunter; Bengal/Bihar and Orissa District
+  Gazetteers). Report: `bengal/README.md`.
+- Not started: Punjab, the Central Provinces.

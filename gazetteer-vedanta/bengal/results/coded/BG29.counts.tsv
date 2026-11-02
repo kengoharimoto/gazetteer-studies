@@ -1,0 +1,3 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+BG29	Saran	1901	Atith	GOSAIN	26753	district	43	Atith >•* 26,753	high	Marginal table of Hindu castes over 25,000; Atiths = Saiva (Sankaracharya) ascetics and householders, so GOSAIN per instructions.
+BG29	Saran	1901	Atiths (all Bengal and Eastern Bengal)	GOSAIN	50042	province	45	At the census of 1901, 50,042 Atiths were enumerated in Bengal and Eastern Bengal, and of these no less than 26,753 were found in Saran.	high	Province-wide total (not Saran alone); coded as context, scope marked district only because Saran is the volume's district.
