@@ -1,0 +1,4 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+CP03	Jubbulpore	1901	Kabirpanthis	OTHER	47800	district	para 66 (OCR line 9143)	Some 47,800 persons returned themselves as Kabirpanthis from the District at the census of 1901.	high	also Satnamis (distinct from the Chhattisgarh Chamar Satnamis); no count for Satnamis
+CP03	Jubbulpore	1901	mendicants not connected with any religious order	ALL_ASCETICS	10600	district	para 64 (OCR line 8636)	There are 10,600 mendicants who are not connected with any religious order.	medium	occupational return of beggars; explicitly excludes orders; not a Gosain figure
+CP03	Jubbulpore		Gosains (landholders)	GOSAIN	30	district	landholders para (OCR line 14746)	Gosains 30, Kalars 30, and Ahirs 33 villages.	high	count is VILLAGES held, not persons; present settlement (undated)

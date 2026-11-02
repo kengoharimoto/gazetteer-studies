@@ -1,0 +1,6 @@
+vol	district	census_year	group_as_printed	group_std	count	scope	page	quote	confidence	note
+CP19	Buldana	1901	Gosawis (Gosains)	GOSAIN	1900	district	para 119	The Gos4wis (Gosains)(1900) are mostly religious mendicants, but a few are engaged in agriculture, trade and moneylending.	medium	rounded figure in parentheses; text says 'at the last census' (1901) for the caste list; mostly mendicants, a few in agriculture, trade, moneylending
+CP19	Buldana	1901	Bairagis	BAIRAGI	400	district	para 98	The Bairagis (400), /t. a person disgusted with the world, are wandering ascetics or beggars	medium	rounded; wandering ascetics or beggars
+CP19	Buldana	1901	Jogis	JOGI	500	district	para 124	The Jogis (500) or Yogis (dt., contemplative saints) are Sivite beggars.	medium	rounded; Sivite beggars (the Jogi caste)
+CP19	Buldana	1901	Manbhaos	OTHER	500	district	para 143	The Manbhaos (500) are a local Vaishnava sect and some of them are religious mendicants.	medium	rounded; Mahanubhav, comparison; caste steadily decreasing
+CP19	Buldana	1901	religious mendicancy (occupation)	ALL_ASCETICS	3697	district	population ch.	the only professions of any numerical strength are those of religious mendicancy, supporting 3697 persons	medium	occupation figure: persons supported (workers and dependents); year inferred 1901

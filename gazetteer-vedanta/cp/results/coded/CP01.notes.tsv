@@ -1,0 +1,7 @@
+vol	district	kind	place	order	what	page	quote	confidence
+CP01	Saugor	LAND	Uldan/Bahrol (Banda tahsil) fair village	DASNAMI	Proprietor of the fair village is a Gosain living in Saugor, Mahant of the Brindiwah (Brindaban) temple; village fair on Makar Sankrant	p.262 (OCR line 15714)	The proprietor of the village is a Gosain who lives in Saugor and is the Mahant of the Brindiwah temple.	medium
+CP01	Saugor	MATH	Saugor (Brindiwah temple)	OTHER	Mahant of the Brindiwah temple is a Gosain; could be a Vaishnava (Brindaban) Gosain, not clear	(OCR line 15714)	is the Mahant of the Brindiwah temple	low
+CP01	Saugor	FAIR	Garhakota	BAIRAGI	Asarh fair: image of Jagdish carried to temple of Janki and fed with all assembled Bairagis; 10,000 present, 1,000 fed	(OCR line 13974)	is fed, together with all the Bairagis who have assembled.	high
+CP01	Saugor	OTHER	Saugor	BAIRAGI	Bairagis use a bugle-like brass instrument made locally	(OCR line 9578)	an instrument like a bugle called which is used by Bairagis.	medium
+CP01	Saugor	OTHER	Saugor	JOGI	Wandering Jogis from Bombay sell pearls and coral	(OCR line 10301)	Pearls and coral are sold by wandering Jogis from Bombay.	high
+CP01	Saugor	OTHER	Saugor	OTHER	Kabirpanthis mainly Koris; nominal; no Gosain chiefs or Rahatgarh Gosain material found in this volume	para 63 (OCR line 4661)	Kabirpanthis b mainly Koris who profess Kabirpanthism because Kabir, the founder of the sect, was a weaver.	high

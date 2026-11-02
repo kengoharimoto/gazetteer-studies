@@ -57,4 +57,6 @@ in vol. IX pt 1 (1901, province-wide, not by district).
   Gazetteers). Report: `bengal/README.md`.
 - Punjab: Daśanāmīs, 1881–1919 (district gazetteers 1883–84 and revised; Rose's Glossary).
   Report: `punjab/README.md`.
-- Central Provinces and Berar: in progress (`cp/`).
+- Central Provinces and Berar: Daśanāmīs, 1866–1916 (Grant 1870; District Gazetteers 1905–11; Russell & Hira
+  Lal 1916). Report: `cp/README.md`.
+- Cross-region synthesis: `SYNTHESIS.md`.
