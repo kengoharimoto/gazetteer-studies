@@ -1,0 +1,148 @@
+<title>Śaṅkara in the Gazetteers</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Layout: a single reading column (~68ch) with full-width tables; two "forms" colour-coded throughout —
+   ochre for the Daśanāmī orders (their robe), slate-teal for Smārta householders under a pīṭha. */
+:root{
+  --bg:#f6f6f3; --surface:#ffffff; --fg:#1d2128; --muted:#5c6470; --rule:#d9dbd6;
+  --ochre:#b5651d; --ochre-soft:#f4e3d2; --teal:#2f6f73; --teal-soft:#dcecec; --ink:#27406b;
+  --serif:"Newsreader", "Iowan Old Style", Georgia, serif;
+  --sans:"Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#14171c; --surface:#1b1f26; --fg:#e7e5df; --muted:#a3a9b2; --rule:#2e343d;
+  --ochre:#e09a55; --ochre-soft:#3a2a1c; --teal:#73b9bc; --teal-soft:#1c3233; --ink:#9db6e3; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#14171c; --surface:#1b1f26; --fg:#e7e5df; --muted:#a3a9b2; --rule:#2e343d;
+  --ochre:#e09a55; --ochre-soft:#3a2a1c; --teal:#73b9bc; --teal-soft:#1c3233; --ink:#9db6e3; color-scheme:dark }
+body{background:var(--bg);color:var(--fg);font-family:var(--serif);font-size:18px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+main{max-width:760px;margin:0 auto;padding-block:48px 72px;display:flex;flex-direction:column;gap:44px}
+header{display:flex;flex-direction:column;gap:14px}
+.eyebrow,.label,th,.chip,.src{font-family:var(--sans);letter-spacing:.04em}
+.eyebrow{font-size:13px;text-transform:uppercase;color:var(--muted)}
+h1{font-size:clamp(34px,6vw,50px);line-height:1.08;margin:0;font-weight:600;text-wrap:balance}
+h2{font-size:26px;line-height:1.2;margin:0 0 6px;font-weight:600;text-wrap:balance}
+h3{font-size:19px;margin:0;font-weight:600}
+p{margin:0}
+.lede{font-size:21px;color:var(--fg)}
+.meta{font-family:var(--sans);font-size:14px;color:var(--muted)}
+section{display:flex;flex-direction:column;gap:14px}
+em.ochre{font-style:normal;color:var(--ochre);font-weight:600}
+em.teal{font-style:normal;color:var(--teal);font-weight:600}
+.forms{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.form{background:var(--surface);border:1px solid var(--rule);border-top:4px solid var(--c);padding:16px 18px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.form.smarta{--c:var(--teal)} .form.dasnami{--c:var(--ochre)}
+.form dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:16px}
+.form dt{font-family:var(--sans);font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);padding-top:3px}
+.form dd{margin:0}
+.tablewrap{overflow-x:auto;border:1px solid var(--rule);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:15.5px;min-width:560px}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-size:12px;text-transform:uppercase;color:var(--muted);font-weight:700;background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
+.chip{display:inline-block;font-size:11.5px;font-weight:700;text-transform:uppercase;padding:2px 7px;border-radius:3px;white-space:nowrap}
+.chip.d{background:var(--ochre-soft);color:var(--ochre)} .chip.s{background:var(--teal-soft);color:var(--teal)} .chip.w{background:var(--bg);color:var(--muted);border:1px solid var(--rule)}
+ol.list,ul.list{margin:0;padding-left:1.2em;display:flex;flex-direction:column;gap:8px}
+.dates{display:flex;flex-direction:column;gap:0;border-left:2px solid var(--rule);margin-left:6px}
+.date{display:grid;grid-template-columns:150px 1fr;gap:14px;padding:8px 0 8px 16px;position:relative}
+.date::before{content:"";position:absolute;left:-6px;top:15px;width:10px;height:10px;border-radius:50%;background:var(--c,var(--ink))}
+.date.d{--c:var(--ochre)} .date.s{--c:var(--teal)}
+.date .when{font-family:var(--sans);font-size:14px;font-weight:700;color:var(--muted);font-variant-numeric:tabular-nums}
+blockquote{margin:0;padding:2px 0 2px 16px;border-left:3px solid var(--ochre);font-style:italic;color:var(--fg)}
+.src{font-size:13px;color:var(--muted)}
+footer{font-family:var(--sans);font-size:13.5px;color:var(--muted);border-top:1px solid var(--rule);padding-top:16px;display:flex;flex-direction:column;gap:6px}
+@media (max-width:640px){ body{font-size:17px} .forms{grid-template-columns:1fr} .date{grid-template-columns:1fr;gap:2px} }
+</style>
+
+<main>
+<header>
+  <div class="eyebrow">Colonial gazetteers of British India, c. 1866–1918 · six regions</div>
+  <h1>Śaṅkara’s following in the British gazetteers</h1>
+  <p class="lede">How widespread was allegiance to Śaṅkara’s lineages, region by region, and did it change? Read across about 300 district gazetteers, caste glossaries and census reports, the colonial record shows the tradition in two quite different social forms.</p>
+  <p class="meta">Regions: Bombay, Madras, United Provinces, Bengal–Bihar–Orissa, Punjab, Central Provinces &amp; Berar. Every figure below is quoted, with page, in the regional reports.</p>
+</header>
+
+<section>
+  <h2>Two forms of one tradition</h2>
+  <div class="forms">
+    <div class="form smarta">
+      <h3><em class="teal">Smārta householders</em></h3>
+      <dl>
+        <dt>Where</dt><dd>South and west: Bombay Deccan &amp; Karnatak, Madras</dd>
+        <dt>Tie</dt><dd>Allegiance to a pīṭha: Śṛṅgeri, Saṅkeśvar, Dvārkā, Kūḍali, Sonda</dd>
+        <dt>Seen as</dt><dd>“Their spiritual teacher is Shankarāchārya”, in caste accounts</dd>
+        <dt>Scale</dt><dd>Mostly under 8% of a district’s Hindus; Kanara 32–39%; Madras Smārta Brahmans ≈ 2.4% (1871)</dd>
+      </dl>
+    </div>
+    <div class="form dasnami">
+      <h3><em class="ochre">Daśanāmī orders</em></h3>
+      <dl>
+        <dt>Where</dt><dd>North, east and centre: UP, Bihar, Bengal, Punjab, CP</dd>
+        <dt>Tie</dt><dd>The ten names (Giri, Purī, Bhāratī …), maṭhs and akhāṛās, succession by chela</dd>
+        <dt>Seen as</dt><dd>Gosāins, Atīts, Sannyāsīs; landholders, lenders, traders, armed bands</dd>
+        <dt>Scale</dt><dd>UP 108,320 (1891); Bengal Atīths 50,042 (1901); CP c. 40,000 (1911); Punjab a few thousand</dd>
+      </dl>
+    </div>
+  </div>
+  <p>The two meet where regions touch. In Berar, Gosāvīs serve as village priests under the Mahant of Māhūr. In the Himalaya the gazetteers list the four maṭhas and credit Śaṅkara with Jyotirmaṭh and Badrinath.</p>
+</section>
+
+<section>
+  <h2>Where it was strong, and where it was not</h2>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Region</th><th>Form</th><th>Strength</th><th>Key evidence</th></tr></thead>
+    <tbody>
+      <tr><td>Kanara &amp; South Canara</td><td><span class="chip s">Smārta</span></td><td>Strong, beyond Brahmins</td><td>Fishermen, potters, carpenters, Marāṭhās under the Śṛṅgeri Jagadguru; caste disputes and dues go to the maṭha</td></tr>
+      <tr><td>Eastern UP &amp; Bihar</td><td><span class="chip d">Daśanāmī</span></td><td>Densest</td><td class="num">Saran Atīths 18,612 (1872) → 26,753 (1901); Basti 8,214; Gorakhpur 5,284</td></tr>
+      <tr><td>Rohilkhand &amp; Kumaon</td><td><span class="chip d">Daśanāmī</span></td><td>Dense</td><td class="num">Kumaon 8,860; Bareilly 6,169; Salempur maṭh, 36 villages</td></tr>
+      <tr><td>Central Provinces</td><td><span class="chip d">Daśanāmī</span></td><td>Moderate, propertied</td><td>Bhonsla grants and revenue farms: Bheraghat, Seoni, Raipur’s Nāgās</td></tr>
+      <tr><td>Bombay Deccan</td><td><span class="chip s">Smārta</span></td><td>Brahman matter</td><td>Kuṇbīs “cannot tell whether they are Smarts or Bhāgvats”</td></tr>
+      <tr><td>Punjab</td><td><span class="chip d">Daśanāmī</span></td><td>Thin; none in the west</td><td>Kangra Gosāin traders and lenders; Jogīs, Udāsīs, Bairāgīs dominate</td></tr>
+      <tr><td>Bengal proper</td><td><span class="chip w">Vaiṣṇava</span></td><td>Weak</td><td>Sannyāsīs in tens per district against tens of thousands of Vaiṣṇavas; a few great mahants</td></tr>
+      <tr><td>Tamil country</td><td><span class="chip s">Smārta</span></td><td>Many Brahmans, no named seat</td><td>Thurston names no Kumbakoṇam or Kāñcī maṭha for Tamil Smārtas</td></tr>
+      <tr><td>Gujarat</td><td><span class="chip w">Vaiṣṇava</span></td><td>Weak</td><td>Vallabha and Svāminārāyaṇa; Dvārkā is referee only for “Śaivas”</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section>
+  <h2>What the allegiance consisted of</h2>
+  <ol class="list">
+    <li><strong>Jurisdiction and property rather than doctrine.</strong> Śṛṅgeri served as an appeal court for caste disputes, with dues collected by agents. The northern orders held villages, revenue-free grants, jāgīrs, banking houses (Mirzapur’s Gosaintola), wholesale trade (opium and wool from Kangra) and armed bands.</li>
+    <li><strong>An order turning into a caste.</strong> Hunter defines Atīts as Daśanāmīs “who have not resigned the world”. Rose calls Gosāins “a semi-secularised offshoot” of the Sannyāsīs. For Russell, “Gosain” now mostly means a married caste. In Raipur the fighting akhāṛā had become a married zamindār line by 1909.</li>
+    <li><strong>Visible where it touched rulers.</strong> The orders appear with the Nawabs of Awadh (Himmat Gir’s Nāgā cavalry), the Bhonslas, the Mughals (Bodh Gayā’s farman), Tibet (the Bhot-Bagān at Howrah) and Nepal (a Punjab mahant as royal guru).</li>
+  </ol>
+  <blockquote>“Till last year (1881) they were followers of the Lingayat guide of Chitaldurg … But the pārupatyagār or agent of the Smārt Jagadguru of Shringeri has persuaded them to acknowledge him as their Teacher.”</blockquote>
+  <p class="src">Konkan Kuṇbīs, Kanara. Bombay Gazetteer XV pt 1 (1883), p. 218</p>
+</section>
+
+<section>
+  <h2>Evidence of change</h2>
+  <div class="dates">
+    <div class="date s"><div class="when">Kanara, 1881</div><div>Śṛṅgeri’s agent wins the Konkan Kuṇbīs from a Liṅgāyat guru: an expanding jurisdiction.</div></div>
+    <div class="date d"><div class="when">Saran, 1872 → 1901</div><div>Atīths grow from 18,612 to 26,753.</div></div>
+    <div class="date d"><div class="when">Gonda, 1869 → 1905</div><div>Villages under “Mahant Goshain” fall from 89 to 34.</div></div>
+    <div class="date"><div class="when">Madras, 1871 → 1891</div><div>The Śaiva/Vaiṣṇava balance shifts: Vaiṣṇavism gains in Kistna, Śaivism overtakes it in North Arcot.</div></div>
+    <div class="date d"><div class="when">CP, Maratha → 1900s</div><div>Grants and Nāgā bands (Bheraghat, Seoni, Raipur) end up as married family estates.</div></div>
+    <div class="date d"><div class="when">Bodh Gayā, 1877 → 1906</div><div>An anonymous “convent of Sanyāsīs” becomes a named Giri maṭh with a Mughal grant, upheld by the High Court.</div></div>
+  </div>
+</section>
+
+<section>
+  <h2>Reading the sources with care</h2>
+  <ul class="list">
+    <li><strong>The compilers made the map.</strong> Volumes that asked every caste about its guru (Kanara, Dharwar) show strong Smārta allegiance; neighbours that did not ask show almost none. The 1872 census filed similar Marathi populations as 99.7% “Śaiva” in Ratnagiri and 88% “unsectarian” in Nasik.</li>
+    <li><strong>“Gosain” is a trap.</strong> In Bengal, Gujarat, Brindaban and the western Punjab it means a Vaiṣṇava guru; elsewhere a deity or a royal title. Every count was classified by context.</li>
+    <li><strong>The seats are fainter than their followers.</strong> Purī’s Govardhana maṭha is absent from Hunter (1877) and appears in 1908 only as a “Saiva” maṭh with a library.</li>
+    <li><strong>Headcounts are soft.</strong> The 1891 UP census admits that “Goshain, Bairagi, Jogi, Saniyasi” were used interchangeably, and later gazetteers drop the caste tables.</li>
+  </ul>
+</section>
+
+<footer>
+  <div>Method: OCR text of each volume from the Internet Archive; sentences mentioning sects or orders were extracted and coded caste by caste or district by district, with a verbatim quote and page for every row. In spot checks of each region, 29–30 of 30 sampled quotes were found word for word in the scans.</div>
+  <div>Next steps: read the census caste tables from page images; add the revised state gazetteers (1950s–80s) as a third date; test the gazetteers against maṭha records and inām registers.</div>
+</footer>
+</main>
