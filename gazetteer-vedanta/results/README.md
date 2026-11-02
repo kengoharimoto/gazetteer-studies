@@ -55,6 +55,11 @@ splits between Smārtas and Bhāgavatas (Mādhva/Vaiṣṇava) without proportio
 
 **Caveats on these figures.**
 
+- **Gosāvīs.** The 1881 census counts **33,851 Gosávis ("Devotees, &c.")** in the Presidency: Deccan 19,247,
+  Gujarat 6,036, Konkan 5,269, Bombay City 1,947, Karnatak 1,352 (read from the page image;
+  `../census-images/results/bombay1881_gosavi.tsv`). They are the Daśanāmī caste and order. They are not
+  counted in the Smārta shares above.
+
 - **Not counted.** Castes said to be Smārta but given no population figure are left out of the totals. The
   biggest such gaps are the Chitpāvans of Poona and Ratnagiri. The split castes are counted whole in the second
   column, so that column overstates them.

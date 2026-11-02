@@ -27,8 +27,16 @@ Provinces, against Bairāgīs, Jogīs and Udāsīs, at two dates.
 
 ## 1. How many: the headcounts
 
-**Province total, 1891:** "Goshain Dasnami 108,320; Goshain unspecified 38,477" in NWP & Oudh, about 0.3% of the
+**Province total, 1891:** Goshain Dasnami **103,320**; Goshain unspecified 38,477 in NWP & Oudh, about 0.2% of the
 population. The Oudh gazetteer (1869) has "upwards of 40,000" Goshains in Oudh alone.
+
+**District table, 1891 (read from page images, `../census-images/results/up1891_goshain.tsv` and
+`up1891_ascetics.tsv`).** Daśanāmī Goshains by district (persons):
+- Gonda 11,478; Gorakhpur 7,010; Fyzabad 5,371; Meerut 5,083; Sitapur 4,414; Mirzapur 4,258; Bareilly 4,023;
+  Ballia 3,804; Jaunpur 3,638.
+- Fyzabad division 27,844 in all.
+- Muttra's 17,131 Goshains are all "unspecified" (Vaiṣṇava).
+- Azamgarh returns no Goshains but 5,764 Jogis. Its 1881 Atits were apparently returned as Jogis.
 
 **By district** (`results/gosain_counts.tsv`; Gosāin includes Atīt/Atīth, which these sources call householder
 Daśanāmīs, "a subdivision of the Gosains"):

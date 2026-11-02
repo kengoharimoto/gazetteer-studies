@@ -23,7 +23,7 @@ In the colonial record, Śaṅkara's following appears in two forms. Each region
 | who | Smārta **householders**, mostly Brahmans; on the west coast also non-Brahmin castes | Daśanāmī **renunciants and their householder offshoots** (Gosāins, Atīts, Sannyāsīs, Daṇḍīs) |
 | tie to Śaṅkara | allegiance to a **pīṭha**: Śṛṅgeri, Saṅkeśvar, Dvārkā, Kūḍali, Sonda, Rāmacandrapura | membership of the **ten orders**, organised in **maṭhs and akhāṛās** under mahants, by chela succession |
 | how the gazetteer sees it | "Their spiritual teacher is Shankarāchārya" in caste accounts (Bombay); "Smārta … a Brāhman of the Śaiva sect" (Madras census) | caste and order entries, census counts, and above all **land, credit and military** episodes |
-| scale | Bombay districts: mostly under 8% of Hindus; **Kanara 32–39%**; Madras: Smārta Brahmans ≈ 2.4% of Hindus (1871) | UP: 108,320 Daśanāmī Goshains (1891); Bengal and E. Bengal Atīths 50,042 (1901); CP c. 40,000 (1911); Punjab a few thousand |
+| scale | Bombay districts: mostly under 8% of Hindus; **Kanara 32–39%**; Madras: Smārta Brahmans ≈ 2.4% of Hindus (1871) | UP: 103,320 Daśanāmī Goshains (1891); Bengal and E. Bengal Atīths 50,042 (1901); CP c. 40,000 (1911); Punjab a few thousand |
 
 The two forms meet where the regions touch. In Berar (CP), Gosāvīs are village priests under the Mahant of
 Māhūr, and in the Bombay Deccan the Gazetteer records Gosāvīs as a caste beside the Smārta Brahmans. In the
@@ -119,8 +119,9 @@ these sources, for four reasons:
 
 ## 6. Possible next steps
 
-- Read the census caste tables (UP 1891, Bengal 1901, Bombay 1881) from **page images** rather than OCR. This
-  gives clean district headcounts and the sub-divisions by the ten names.
+- **Done (`census-images/`):** the census caste tables for UP 1891 (Goshain by district, Daśanāmī 103,320),
+  Bengal 1901 (Atith 50,042, Gosain 29,534) and Bombay 1881 (Gosávi 33,851) were read from page images and
+  reconciled with the printed totals. Remaining: Punjab 1881/1891, CP 1891/1901, Madras 1891.
 - **Revised state gazetteers (1950s–80s)** for a third date: Poona 1954, Dharwar 1959, and the Bihar and UP
   revisions.
 - **Maṭha records and inām registers** (Śṛṅgeri, Saṅkeśvar, Kumbakoṇam, Bodh Gayā) to test what the gazetteers

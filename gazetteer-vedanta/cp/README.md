@@ -24,7 +24,7 @@ in the north and east, as the Daśanāmī orders: Gosains, Gosavis (Marathi, Ber
 ## 1. Numbers
 
 - **Province, 1911 (Russell):** Gosains "a little over 40,000", distributed over all districts. Bairagis about
-  38,000; Jogis about 15,000. This is the same order of magnitude as the United Provinces (108,320 Daśanāmī
+  38,000; Jogis about 15,000. This is the same order of magnitude as the United Provinces (103,320 Daśanāmī
   Goshains in a population five times larger). The Daśanāmīs are relatively denser in the CP than in the UP,
   and far denser than in the Punjab.
 - **District figures** are rare:

@@ -8,8 +8,8 @@ III), `india.history.resource.110233` / `wbsl.4279` (1891 Report and Provincial 
 ## 1891 Report (Census of India 1891, vol. XVI, NWP & Oudh, ch. VII "Hinduism and its sects", ¶201)
 
 - Saivite ascetic orders, from the sub-caste column:
-  - **Goshain Dasnami 108,320; Goshain unspecified 38,477.**
-  - Jogi: the figure is garbled ("78387"?).
+  - **Goshain Dasnami 103,320; Goshain unspecified 38,477.** (The report's OCR reads "108,320"; the page images of Table XVI give 55,347 + 47,973 = 103,320. See `../../census-images/`.)
+  - Jogi 78,387 (confirmed from the page images: 42,565 + 35,822).
   - From the sect column, as printed: Aghori 1,006; Aughar 5,339; Alakhnami 10,886; Gorakhpanthi 28,816;
     minor Saivite sects 1,870.
 - "The Dasnami Goshains contribute the best instructed and most respectable body of Saivite ascetics. They are

@@ -1,0 +1,55 @@
+district	division	atith_m	atith_f	atith_total	gosain_m	gosain_f	gosain_total	note
+Burdwan	Burdwan	0	0	0	43	54	97	
+Birbhum	Burdwan	0	0	0	27	17	44	
+Bankura	Burdwan	0	0	0	6	5	11	
+Midnapore	Burdwan	0	0	0	63	0	63	
+Hooghly	Burdwan	0	0	0	125	104	229	
+Howrah	Burdwan	0	0	0	3	0	3	
+24-Parganas	Presidency	0	0	0	2	0	2	
+Calcutta	Presidency	0	3	3	5	8	13	
+Nadia	Presidency	0	0	0	7	0	7	
+Murshidabad	Presidency	2	0	2	4	0	4	
+Jessore	Presidency	0	0	0	1	0	1	
+Khulna	Presidency	0	0	0	0	0	0	
+Rajshahi	Rajshahi	4	6	10	0	0	0	
+Dinajpur	Rajshahi	0	0	0	0	0	0	
+Jalpaiguri	Rajshahi	1	0	1	22	8	30	
+Darjeeling	Rajshahi	1	0	1	43	32	75	
+Rangpur	Rajshahi	4	1	5	0	0	0	
+Bogra	Rajshahi	0	0	0	0	2	2	
+Pabna	Rajshahi	5	0	5	1	0	1	
+Dacca	Dacca	0	0	0	0	0	0	
+Mymensingh	Dacca	0	0	0	2	0	2	
+Faridpur	Dacca	0	0	0	2	0	2	
+Backergunge	Dacca	0	0	0	0	0	0	
+Tippera	Chittagong	0	0	0	0	0	0	
+Noakhali	Chittagong	0	0	0	0	0	0	
+Chittagong	Chittagong	0	0	0	0	0	0	
+Chittagong Hill Tracts	Chittagong	0	0	0	0	0	0	
+Patna	Patna	353	324	677	1149	988	2137	Gosain males read 1,149 by division total
+Gaya	Patna	483	466	949	1557	1269	2826	
+Shahabad	Patna	3699	3547	7246	202	125	327	Atith males OCR-smudged; 3,699 by division total
+Saran	Patna	11578	15175	26753	1	11	12	
+Champaran	Patna	4880	4888	9768	81	12	93	
+Muzaffarpur	Patna	1461	2008	3469	25	0	25	
+Darbhanga	Patna	0	0	0	6	0	6	
+Monghyr	Bhagalpur	4	0	4	705	802	1507	
+Bhagalpur	Bhagalpur	47	0	47	998	1039	2037	
+Purnea	Bhagalpur	0	0	0	354	444	798	
+Malda	Bhagalpur	2	0	2	121	107	228	
+Sonthal Parganas	Bhagalpur	0	0	0	680	575	1255	
+Cuttack	Orissa	0	0	0	1	0	1	
+Balasore	Orissa	0	0	0	1	0	1	
+Angul and Khondmals	Orissa	0	0	0	0	0	0	
+Puri	Orissa	0	0	0	6	3	9	
+Hazaribagh	Chota Nagpur	8	1	9	2419	2108	4527	
+Ranchi	Chota Nagpur	9	3	12	4723	4984	9707	
+Palamau	Chota Nagpur	578	485	1063	492	500	992	
+Manbhum	Chota Nagpur	0	0	0	122	171	293	
+Singhbhum	Chota Nagpur	3	2	5	4	2	6	
+Kuch Bihar	Feudatory	0	0	0	16	9	25	
+Orissa Tributary States	Feudatory	5	0	5	0	0	0	
+Chota Nagpur Tributary States	Feudatory	1	0	1	1014	1122	2136	
+Hill Tippera	Feudatory	2	3	5	0	0	0	
+Sikkim	Feudatory	0	0	0	0	0	0	
+TOTAL	Bengal (incl. feudatory states)	23130	26912	50042	15033	14501	29534	Gosain includes (remarks): Bharati 17/15 Hazaribagh; Dorihar 783/862 (Gaya, Hazaribagh, Ranchi, Palamau, CN States); Giri 107/93 Hooghly; Gosain Puran 2,250/2,378 Ranchi; Jogi 432/482; Nepali Gosain 28/16 Darjeeling

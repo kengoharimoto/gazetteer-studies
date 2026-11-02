@@ -54,7 +54,9 @@ Sannyāsīs and Daṇḍīs. This sub-study maps them by district at two dates.
 
 Reading the numbers:
 
-- **Change over time.** Saran's Atīths grow from **18,612 (1872) to 26,753 (1901)**. The 1901 census quoted in
+- **Change over time.** Saran's Atīths grow from **18,612 (1872) to 26,753 (1901)**. The 1901 figures are
+  confirmed from the page images of Census Table XIII (`../census-images/results/bengal1901_atith_gosain.tsv`):
+  Saran 26,753; Champaran 9,768; Shahabad 7,246; Muzaffarpur 3,469; Palamau 1,063; Gaya 949; Patna 677. The 1901 census quoted in
   the Saran gazetteer gives **50,042 Atīths** for Bengal and Eastern Bengal together.
 - **Bihar against Bengal proper.** Bihar's Daśanāmīs run into the thousands per district. In Bengal proper
   Sannyāsīs are in the tens or low hundreds, while caste-rejecting Vaiṣṇavas (Bairāgī, Boishtom) number in the
