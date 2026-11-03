@@ -21,6 +21,7 @@ British India. In the colonial record the tradition takes two forms:
 | Punjab | Daśanāmīs | Punjab District Gazetteers 1883–84 and revised (1897–1918); Rose's *Glossary* (1911–19) | `punjab/README.md` |
 | Central Provinces and Berar | Daśanāmīs | Grant's *Gazetteer* (1870); CP District Gazetteers (1905–11); Russell & Hira Lal (1916) | `cp/README.md` |
 | revised state gazetteers (third date) | continuity of the earlier institutions and allegiances, 1954–1989 | 37 revised district gazetteers (Maharashtra, Mysore/Karnataka, Madras, UP, Bihar, West Bengal, Orissa, Haryana, MP) | `revised/README.md` |
+| combined map (all six regions) | Daśanāmī and Smārta persons by district on one map | the census tables and `results/smarta_range.tsv` | `map/combined_map.png` (`map/plot_combined.py`, points in `map/combined_points.tsv`) |
 | census caste tables (all regions) | headcounts | UP 1891, Bengal 1901, Bombay 1881, Punjab 1891, CP 1891, Madras 1891, read from page images | `census-images/README.md` |
 
 ## Method
@@ -68,5 +69,4 @@ British India. In the colonial record the tradition takes two forms:
 
 All six regions are coded and reported. The census caste tables are read for all six. The revised state gazetteers (1954–1989) are coded as a third date. Open lines:
 - maṭha records and inām registers (Śṛṅgeri, Saṅkeśvar, Kumbakoṇam, Bodh Gayā) to test what the gazetteers
-  only glimpse;
-- a single map of all six regions.
+  only glimpse.
