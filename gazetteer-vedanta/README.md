@@ -1,62 +1,72 @@
-# Śaṅkara's following in the Bombay Presidency, c. 1872–1901 (Gazetteer study)
+# Śaṅkara's following in the British Indian gazetteers, c. 1866–1918
 
-How widespread was allegiance to Śaṅkara's lineages (Smārta householders under a Śaṅkarācārya,
-Daśanāmī renunciants), region by region, in the *Gazetteer of the Bombay Presidency*
-(ed. J. M. Campbell, 27 vols, 1877–1904), and did the picture change?
+How widespread was allegiance to Śaṅkara's lineages, region by region, and did the picture change?
 
-## Sources
+The study reads the colonial district gazetteers, the caste glossaries and the census across six regions of
+British India. In the colonial record the tradition takes two forms:
+- in the south and west, **Smārta householders** under a Śaṅkarācārya's seat (Śṛṅgeri, Saṅkeśvar, Dvārkā …);
+- in the north, east and centre, the **Daśanāmī orders** and their householder offshoots (Gosāins, Atīts,
+  Sannyāsīs).
 
-- `data/selection.tsv`: the volumes used (vols II–XXIV; population chapters), with the Internet
-  Archive identifier of the primary and backup scan of each. OCR text in `data/ia_ocr/`
-  (`<identifier>.txt`, IA `_djvu.txt`; untrusted downloaded data).
-- `data/ia_candidates.tsv`: all IA items found for "Gazetteer … Bombay" (catalogue search, 2026-11-02).
+**Start here:** `SYNTHESIS.md` (published as a page from `SYNTHESIS.html`).
 
-## Two layers of evidence
+## Regions
 
-1. **District sect tables, 1872 census.** Volumes based on the 1872 census print
-   "<District> Hindu Sects, 1872" (Vaiṣṇava subdivided into Rāmānuja, Vallabhācārī, Kabīrpanthī,
-   Mādhvācārī, Svāminārāyaṇa; Śaiva; Ascetics; "Unsectarian" / "Mixed"; Śrāvaka) with a prose
-   summary. **The 1872 classification has no Smārta category**: Smārtas presumably fall under
-   "unsectarian/mixed" (or Śaiva). Extracted with `scripts/extract_sect_census.py`
-   (`--dump` prints the passages for hand transcription; the OCR mangles figures).
-2. **Caste accounts.** Each caste account states religious practice, often naming the caste's
-   guru ("Their spiritual teacher is Shankarāchārya the pontiff of the Smart Brāhmans",
-   Marāṭhās of Dharwar, vol. XXII p. 138). `scripts/extract_statements.py` pulls every sentence
-   with a sect term and a religious cue word and attaches it to a caste via the marginal running
-   notes ("Chapter III. Population. <Class>. <Caste>."). The statements are then coded by caste
-   following `data/CODING_INSTRUCTIONS.md` into `results/coded/<VOL>.coded.tsv`.
+| region | object | main sources | folder / report |
+|---|---|---|---|
+| Bombay Presidency | Smārta allegiance by caste and district | *Gazetteer of the Bombay Presidency* (Campbell, 1877–1904), vols II–XXIV; 1872 census sect tables | top level: `data/`, `scripts/`, `results/README.md` |
+| Madras Presidency | Smārta Brahmans; Śaiva/Vaiṣṇava balance | Thurston & Rangachari, *Castes and Tribes of Southern India* (1909); census 1871/1891 (the manuals and gazetteers lack caste-level sect statements) | `madras/README.md` |
+| United Provinces (NWP & Oudh) | Daśanāmīs | Atkinson's NWP Gazetteer (1874–86); *Gazetteer of the Province of Oudh* (1877–78); Nevill's District Gazetteers (1903–11); census 1891 | `north/README.md` |
+| Bengal, Bihar, Orissa | Daśanāmīs | Hunter, *Statistical Account of Bengal* (1875–77); Bengal / Bihar and Orissa District Gazetteers (1905–18) | `bengal/README.md` |
+| Punjab | Daśanāmīs | Punjab District Gazetteers 1883–84 and revised (1897–1918); Rose's *Glossary* (1911–19) | `punjab/README.md` |
+| Central Provinces and Berar | Daśanāmīs | Grant's *Gazetteer* (1870); CP District Gazetteers (1905–11); Russell & Hira Lal (1916) | `cp/README.md` |
+| census caste tables (all regions) | headcounts | UP 1891, Bengal 1901, Bombay 1881, Punjab 1891, CP 1891, Madras 1891, read from page images | `census-images/README.md` |
 
-Gujarat district volumes (II–VIII) have short population chapters; Gujarati caste accounts are
-in vol. IX pt 1 (1901, province-wide, not by district).
+## Method
 
-## Scripts
+1. **Sources.** Scans and OCR come from the Internet Archive.
+   - Each region keeps a selection table (`data/selection*.tsv`) with the primary and backup scan of every
+     volume.
+   - Downloads are done with `scripts/fetch_ia_ocr.py`.
+   - Downloaded OCR and page images are kept out of git (see `../.gitignore`). Re-fetch them from the
+     selection tables.
+2. **Extraction.** Sentences mentioning sects, orders, gurus or maṭhs are pulled into compact packets
+   (Bombay: `scripts/extract_statements.py`; other regions: `*/scripts/make_packets.py`).
+3. **Coding.** Each volume is coded by hand-checked agents following written rules.
+   - Rules: `data/CODING_INSTRUCTIONS.md` for Bombay; for the other regions, the `CODING_INSTRUCTIONS_*.md` in
+     each folder's `data/`, built on `north/data/CODING_INSTRUCTIONS_NORTH.md`.
+   - Every coded row carries a verbatim quote and page.
+   - Random spot checks found 29–30 of 30 quotes verbatim in the scans in each region.
+4. **Aggregation.** District tables are built in each region's `scripts/aggregate*.py`. Vaiṣṇava "Gosains"
+   are excluded from the Daśanāmī columns.
+5. **Census tables.** These were read from page images and reconciled with the printed totals. Print
+   inconsistencies are flagged, not corrected.
 
-- `fetch_ia_ocr.py`: download IA OCR for a candidate list or `selection.tsv`.
-- `identify_volumes.py`: guess volume and score OCR quality (dictionary-word share).
-- `extract_statements.py`: religion statements + marginal-note caste index + population figures
-  (`results/extract/<VOL>.statements.tsv`, `.castes.tsv`).
-- `extract_sect_census.py`: 1872 census sect summaries.
-- `extract_accounts.py`: earlier attempt segmenting by caste-account openings (works for the
-  1884–86 template only; superseded by `extract_statements.py`, kept for comparison).
-- `aggregate.py`: district tables from the coded rows (`results/smarta_range.tsv` etc.).
-- `plot_map.py`: `results/smarta_map.png` (needs matplotlib; run without `-I`).
+## Bombay files (top level)
 
-## Results
+- `data/selection.tsv`, `data/ia_candidates.tsv`: volumes and IA identifiers.
+- `data/sect_census_1872.tsv`: the 1872 "Hindu Sects" tables, transcribed by hand. They have no Smārta class.
+- `data/district_hindu_totals.tsv`: denominators.
+- `scripts/`:
+  - `extract_statements.py`: the religion statements and a caste index from the marginal notes.
+  - `extract_sect_census.py`
+  - `aggregate.py`
+  - `plot_map.py` (needs matplotlib; run without `-I`).
+  - `identify_volumes.py`
+  - `extract_accounts.py`: an earlier extractor, superseded.
+- `results/`:
+  - `coded/<VOL>.coded.tsv`
+  - `smarta_range.tsv`
+  - `smarta_castes.tsv`
+  - `district_affiliation.tsv`
+  - `pitha_mentions.tsv`
+  - `smarta_map.png`
+  - `README.md`: the Bombay report.
 
-`results/README.md`: the report (Bombay pilot, coded 2026-11-02).
+## Status
 
-## Status and next steps
-
-- Bombay Presidency: done (cross-section 1872–86). Change over time still open: compare with the revised
-  state gazetteers (Poona 1954, Dharwar 1959 on IA) and check the 1881–1901 Bombay census reports.
-- Madras Presidency: done with Thurston (1909) and the 1871/1891 census, because the Madras
-  manuals and gazetteers lack caste-level sect statements. Report: `madras/README.md`.
-- North (United Provinces, NWP & Oudh): Daśanāmīs, 1869–1911 (Atkinson, Oudh gazetteer, Nevill, census 1891).
-  Report: `north/README.md`.
-- Bengal Presidency (Bengal, Bihar, Orissa): Daśanāmīs, 1872–1918 (Hunter; Bengal/Bihar and Orissa District
-  Gazetteers). Report: `bengal/README.md`.
-- Punjab: Daśanāmīs, 1881–1919 (district gazetteers 1883–84 and revised; Rose's Glossary).
-  Report: `punjab/README.md`.
-- Central Provinces and Berar: Daśanāmīs, 1866–1916 (Grant 1870; District Gazetteers 1905–11; Russell & Hira
-  Lal 1916). Report: `cp/README.md`.
-- Cross-region synthesis: `SYNTHESIS.md`.
+All six regions are coded and reported. The census caste tables are read for all six. Open lines:
+- the revised state gazetteers of the 1950s–80s as a third date (Poona 1954 and Dharwar 1959 are on IA);
+- maṭha records and inām registers (Śṛṅgeri, Saṅkeśvar, Kumbakoṇam, Bodh Gayā) to test what the gazetteers
+  only glimpse;
+- a single map of all six regions.
