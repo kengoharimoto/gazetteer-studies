@@ -21,7 +21,7 @@ British India. In the colonial record the tradition takes two forms:
 | Punjab | Daśanāmīs | Punjab District Gazetteers 1883–84 and revised (1897–1918); Rose's *Glossary* (1911–19) | `punjab/README.md` |
 | Central Provinces and Berar | Daśanāmīs | Grant's *Gazetteer* (1870); CP District Gazetteers (1905–11); Russell & Hira Lal (1916) | `cp/README.md` |
 | revised state gazetteers (third date) | continuity of the earlier institutions and allegiances, 1954–1989 | 37 revised district gazetteers (Maharashtra, Mysore/Karnataka, Madras, UP, Bihar, West Bengal, Orissa, Haryana, MP) | `revised/README.md` |
-| combined map (all six regions) | Daśanāmī and Smārta persons by district on one map | the census tables and `results/smarta_range.tsv` | `map/combined_map.png` (`map/plot_combined.py`, points in `map/combined_points.tsv`) |
+| combined map (all six regions) | Daśanāmī and Smārta persons by district, with the Śaṅkara maṭhs, on one map | the census tables and `results/smarta_range.tsv` | `map/combined_map.png` (`map/plot_combined.py`, points in `map/combined_points.tsv`) |
 | Śṛṅgeri in the Places chapters | where the maṭha, its branches and estates are located | Places chapters of all volumes; Kanara XV-2, Thana XIV, Poona XVIII-3; Rice's *Mysore* (1876, 1897) | `sringeri/README.md` |
 | all Śaṅkara maṭhas (Saṅkeśvar, Karvīr, Kudali, Dvārkā, Jyotirmaṭh, Govardhana, Kumbakoṇam, Śivagaṅgā …) | where each seat and branch is located and what is said there | all volumes, coded by region | `mathas/README.md` |
 | census caste tables (all regions) | headcounts | UP 1891, Bengal 1901, Bombay 1881, Punjab 1891, CP 1891, Madras 1891, read from page images | `census-images/README.md` |
