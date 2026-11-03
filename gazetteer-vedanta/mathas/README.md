@@ -115,6 +115,41 @@ when they place a maṭha somewhere.
 4. **After Independence the seats become more visible** (Karvīr, Govardhana, Kāñcī at Purī). Their estates and
    their jurisdiction over castes disappear from the texts. This matches `../revised/README.md`.
 
+## Inām registers and archival files: Puṣpagiri and Virūpākṣa
+
+Requested: the two maṭhs' presence in the inām registers. What could be found online (Nov 2026):
+
+- **The registers themselves are not online.** These are the Madras Inam Commission's inām fair registers and
+  title-deed registers (1860s), which would list the maṭhs' inām villages in Cuddapah, Bellary, Kurnool and
+  Anantapur. They are not on the Internet Archive. Nor is any printed abstract of them, or of the Board of
+  Revenue's inām proceedings.
+- **The Madras Legislative Council question files on IA give nothing on either maṭha.** Searched: religious
+  and service ināms 1921, 1932 and 1935; lands and revenue of temples and mutts 1946–47; commissioners to mutts
+  1933.
+- **The Madras manuals and gazetteers in the study** have no inām statement for either maṭha. Puṣpagiri appears
+  only as a temple hill and village (Cuddapah 1875 and 1915). Hampi appears as the Virūpākṣa temple, and its
+  svāmī only as the guru barred from riding into Hampi (Bellary 1872, p. 379).
+- **What was found** is in the Mysore Muzrai (religious endowments) files of the Karnataka State Archives,
+  digitised on IA (`results/archives.tsv`).
+  - **Virūpākṣa (A01, 1935–36):**
+    - The agent of "Sri Sankaracharya Virupaksha Samsthanam, Hampi" asks for royal honours on a Mysore
+      tour.
+    - The Svāmī cannot produce his papers, which "were left behind in the Nizam's Dominions". He states
+      that "his Mutt is a branch of Sri Sringeri Mutt".
+    - Mysore grants only the ordinary insignia, for want of information on "the status of the Mutt, the circle
+      of its disciples and the standing of the present Head".
+    - This is the only source in the study that describes the Hampi maṭh as an institution. It presents the
+      maṭh as a Śṛṅgeri branch with its records in Hyderabad, whose standing Mysore could not verify.
+  - **Puṣpagiri:** no file found.
+  - **In passing:**
+    - Mysore's gifts of elephants to the Śaṅkarācārya maṭh "at Kumbakonam", catalogued as "Kanchi Komakoti"
+      (1925), and to the same maṭh "of Conjeevaram" (1936). They date the maṭh's return to Kāñcī between the
+      two (A02–A03, catalogue descriptions only).
+    - A State grant to a Śaṅkarācārya temple of the Avani maṭh (1930, A04).
+- **Next step if wanted:** the inām fair registers for Cuddapah and Bellary are held at the Tamil Nadu Archives
+  (Chennai), with copies at the Andhra Pradesh State Archives (Hyderabad) and the Karnataka State Archives
+  (Bengaluru, for Bellary). They would have to be consulted there or requested as copies.
+
 ## Limits
 
 - The search is pattern-based. A maṭha described without any seat name or the word Śaṅkarācārya could be
@@ -131,4 +166,5 @@ when they place a maṭha somewhere.
 | `results/coded/{W,N,S}.tsv` | the coded files, with comment lines for caste-allegiance counts and null results |
 | `results/hits.tsv`, `results/hits_dedup.tsv` | the search output |
 | `scripts/collect.py`, `dedupe.py`, `merge.py`, `check_quotes.py` | search, de-duplication, merge, quote check (run with `python3 -I` from `gazetteer-vedanta/`) |
+| `results/archives.tsv` | archival files (Mysore Muzrai) on the Virūpākṣa, Kāñcī/Kumbakoṇam and Avani maṭhs |
 | `CODING_INSTRUCTIONS.md` | coding rules |
