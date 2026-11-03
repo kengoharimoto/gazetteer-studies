@@ -93,7 +93,7 @@ Rāmacandrapura, Saklapuri, Kumbakoṇam, Ujjani, …). Puṣpagiri and Virūpā
      who wished the saint to reside in his dominions. Its income is nearly Rs. 14,000 annually, and the head of
      it appoints the managers of three temples, one of which is at Conjeeveram. He nominates his own successor.
      The math contains a library of some 150 books … in Telugu and Sanskrit."
-   - **Chingleput Manual (Crole 1879), p. 27:** Śaṅkara "paid particular attention to Conjeveram, where he worked
+   - **Chingleput Manual (Crole 1879), p. 26:** Śaṅkara "paid particular attention to Conjeveram, where he worked
      many miracles, and founded a matam". This is history; Crole does not say a maṭha exists there in his day.
    - **Ibid., pp. 116–17 (Conjeeveram):** the Kāmākṣī temple is "neither … Dwaita nor Adwaita", with no
      Śaṅkarācārya connection named. When Hyder Ali approached (c. 1780) the images were carried off, and "the

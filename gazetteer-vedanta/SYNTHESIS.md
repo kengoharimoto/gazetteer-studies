@@ -158,6 +158,10 @@ these sources, for four reasons:
      outside Mysore: the seat is a subsidised estate in Kadur with one branch at Kudali, and the maṭhs, inām
      villages and grants of the western Deccan belong to Saṅkeśvar, described as a 1570s secession from
      Śṛṅgeri (`sringeri/README.md`).
+   - Across all seats (`mathas/README.md`), Saṅkeśvar is the one network the gazetteers describe in detail
+     (thirty inām villages in seven jurisdictions, Rs 30,000). Dvārkā, Jyotirmaṭh and Purī appear mainly in
+     lists of Śaṅkara's four maṭhs; their place entries describe a temple, the Badrinath Rawal's winter seat and
+     an unnamed "Sankaracharya" maṭh.
 
 ## 6. Possible next steps
 
