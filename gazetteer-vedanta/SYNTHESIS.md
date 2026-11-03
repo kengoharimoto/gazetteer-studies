@@ -32,6 +32,10 @@ serving temples.
 
 ## 2. Where Śaṅkara's following was strong
 
+![Daśanāmī (ochre) and Smārta (teal) persons by district across the six regions](map/combined_map.png)
+
+Circle area is proportional to persons. The Daśanāmī layer comes from the census tables, and the Smārta layer covers Bombay and Tamil Madras only. See `map/plot_combined.py`.
+
 1. **The west-coast belt under Śṛṅgeri.** This is the one region where a Śaṅkara seat commands much of the
    population, non-Brahmins included.
    - It runs through Bombay's Kanara and Madras's South Canara, with the Kanarese districts inland.
