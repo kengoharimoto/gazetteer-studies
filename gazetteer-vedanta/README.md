@@ -20,6 +20,7 @@ British India. In the colonial record the tradition takes two forms:
 | Bengal, Bihar, Orissa | Daśanāmīs | Hunter, *Statistical Account of Bengal* (1875–77); Bengal / Bihar and Orissa District Gazetteers (1905–18) | `bengal/README.md` |
 | Punjab | Daśanāmīs | Punjab District Gazetteers 1883–84 and revised (1897–1918); Rose's *Glossary* (1911–19) | `punjab/README.md` |
 | Central Provinces and Berar | Daśanāmīs | Grant's *Gazetteer* (1870); CP District Gazetteers (1905–11); Russell & Hira Lal (1916) | `cp/README.md` |
+| revised state gazetteers (third date) | continuity of the earlier institutions and allegiances, 1954–1989 | 37 revised district gazetteers (Maharashtra, Mysore/Karnataka, Madras, UP, Bihar, West Bengal, Orissa, Haryana, MP) | `revised/README.md` |
 | census caste tables (all regions) | headcounts | UP 1891, Bengal 1901, Bombay 1881, Punjab 1891, CP 1891, Madras 1891, read from page images | `census-images/README.md` |
 
 ## Method
@@ -65,8 +66,7 @@ British India. In the colonial record the tradition takes two forms:
 
 ## Status
 
-All six regions are coded and reported. The census caste tables are read for all six. Open lines:
-- the revised state gazetteers of the 1950s–80s as a third date (Poona 1954 and Dharwar 1959 are on IA);
+All six regions are coded and reported. The census caste tables are read for all six. The revised state gazetteers (1954–1989) are coded as a third date. Open lines:
 - maṭha records and inām registers (Śṛṅgeri, Saṅkeśvar, Kumbakoṇam, Bodh Gayā) to test what the gazetteers
   only glimpse;
 - a single map of all six regions.

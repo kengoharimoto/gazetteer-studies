@@ -98,6 +98,37 @@ these sources, for four reasons:
 - the later gazetteers drop the earlier caste tables;
 - the OCR of the tables is poor.
 
+### The third date: the revised state gazetteers (1954–1989)
+
+37 revised district gazetteers were checked against the earlier layers, district by district
+(`revised/README.md`). Censuses after 1951 no longer count castes, so this layer is qualitative.
+
+1. **The Daśanāmī estates and named mahants largely vanish from the texts.** This covers Salempur, Mirzapur's
+   Anand Gir, Gorakhpur's Ram Ratangir, Kankhal's Bhola Gir, Raipur's Dharampuri, Bheraghat and Hissar's
+   gurus. The Atīths of Saran, Champaran and Shahabad also vanish as a described caste. Where a cause is
+   named, it is zamindari abolition:
+   - Sitapur: Goshains "before the abolition of zamindari some of them were zamindars".
+   - Gaya: the Bodh Gayā and Budhauli mahants' zamindari interests "have now lapsed".
+   The remaining maṭhs become registered trusts under the Hindu religious-trust and endowment acts of 1950–51.
+2. **What survives is ceremonial and institutional:**
+   - the akhāṛās at the Allahabad, Varanasi, Hardwar and Nasik melās;
+   - Tārakeśvar, a public endowment since the 1924 case, its Dasanāmīs described by the court as the "school
+     of Sankaracharya";
+   - Bhot-Bagān, "the seat of the Dasanami sect" in Howrah.
+3. **The seats become more visible:**
+   - The Kolhapur maṭh "formerly … part of the Sankesvar Math, the link was broken about 50 years ago and now
+     the Kolhapur math is known as Karvir Pitha" (1959, p. 874). Karvīr is a seat formed between the second and
+     third dates.
+   - Purī's Govardhana maṭha, unnamed in 1877 and 1908, is now named and sits on the Muktimaṇḍapa.
+4. **The jurisdiction over castes disappears.** South Kanara's fishermen and cultivators no longer have a
+   Śṛṅgeri guru (1973), and Dharwar's and Bijapur's Marāṭhā and Komṭi followers of the Śaṅkarācārya are gone.
+   Smārta becomes simply a Brahman sect defined by Advaita.
+5. **Reprints and genre.**
+   - Several volumes copy the colonial text: Gonda, Akola, Poona's "cannot tell whether they are Smarts or
+     Bhagvats".
+   - The revised volumes care less about castes and more about temples, trusts and pilgrimage.
+   - Part of the vanishing is therefore a change of genre, not of practice.
+
 ## 5. Lessons about the sources
 
 1. **Compilers made the map.**
@@ -111,9 +142,9 @@ these sources, for four reasons:
    - In the Himalaya it is a royal title.
    - Every count and note had to be classified by context, and Vaiṣṇava Gosāins are excluded from the
      Daśanāmī tables.
-3. **The seats are less visible than their followers.**
+3. **The seats are less visible than their followers, until after Independence.**
    - Purī's Govardhana maṭha is absent from Hunter (1877). In O'Malley (1908) it is a "Saiva" maṭh with a
-     library.
+     library. Only in 1977 is it named as one of Śaṅkara's four pīṭhas.
    - Tamil Smārtas are tied to no named seat.
    - Śṛṅgeri is visible only where it acted as a jurisdiction over castes.
 
@@ -124,8 +155,9 @@ these sources, for four reasons:
   reconciled with the printed totals. Punjab, CP and Madras
   1891 added: Punjab Gosain 9,903 and Sanniasi 5,163; CP Gosain 24,796 (Giri 9,333, Puri 6,050); Madras Tamil
   Brahmans 48% Smārta sub-castes against 23% Aiyaṅgār.
-- **Revised state gazetteers (1950s–80s)** for a third date: Poona 1954, Dharwar 1959, and the Bihar and UP
-  revisions.
+- **Done (`revised/`):** the revised state gazetteers (1954–1989) as a third date. Missing: North Kanara,
+  Belgaum, Thanjavur, Tirunelveli, Chingleput, Hoshangabad, Kangra, Meerut and Nagpur (not on IA or
+  unusable).
 - **Maṭha records and inām registers** (Śṛṅgeri, Saṅkeśvar, Kumbakoṇam, Bodh Gayā) to test what the gazetteers
   only glimpse.
 - **A map** of all six regions on one projection: Smārta shares (south/west) and Daśanāmī densities
