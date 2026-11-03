@@ -51,7 +51,8 @@ for:
 Other Smārta seats in the same belt:
 
 - Havik Brahmans under Rāmacandrapura, and the dissenting Saklapuris under their own maṭha.
-- Konkani Vānis under "the head of the Kumbakonam math" (the seat is not specified).
+- Konkani Vānis under "the head of the Kumbakonam math". Thurston does not say which maṭha; the only Brahman
+  maṭha the Tanjore gazetteer places at Kumbakoṇam is Śaṅkarācārya's (finding 3).
 - In Bellary, the 1888 visit of the Śṛṅgeri Svāmi led to a dispute with the Liṅgāyats over guru processions
   (Liṅgāyat entry).
 
@@ -81,13 +82,33 @@ Rāmacandrapura, Saklapuri, Kumbakoṇam, Ujjani, …). Puṣpagiri and Virūpā
    matter: the Marathi Deccan in Bombay, the Tamil country in Madras.
 2. **The form of the tie is the same: jurisdiction and dues.** Fines are paid to the maṭha (Chaptegāras), caste
    disputes go to it, and an agent collects. In Bombay the Śaṅkarācārya is the final court of caste disputes.
-3. **Tamil Smārtas: many Brahmans, no visible seat in the colonial sources.** Smārta Brahmans are about 2.4% of
-   Madras Hindus in 1871, the majority of Brahmans in most districts, yet neither Thurston nor the gazetteers tie
-   them to Kumbakoṇam or Śṛṅgeri. The only Kumbakoṇam Śaṅkara maṭha in the sources is the Tanjore gazetteer's
-   (1906) "Brahman Smarta math of Sankaracharya at Kumbakonam", listed beside the non-Brahmin Śaiva maṭhas of
-   Dharmapuram and Tiruvāvaḍuturai, and Thurston's Gāṇiga note placing *Śṛṅgeri* branches at Tanjore and
-   Kumbakoṇam. Whether this silence reflects the informants or the institutions is a question for other
-   sources (maṭha records, Tamil and Sanskrit literature, inam registers).
+3. **Tamil Smārtas: many Brahmans, a seat that is described but not tied to them.** Smārta Brahmans are about
+   2.4% of Madras Hindus in 1871 and the majority of Brahmans in most districts, yet neither Thurston nor the
+   gazetteers tie them to any seat. The seat itself is visible:
+   - **Tanjore gazetteer (Hemingway 1906), p. 72:** among the district's chief maṭhas, beside the Sudra Śaiva
+     maṭhas of Dharmapuram, Tiruvāvaḍuturai, Tiruppanandāl and Tiruppugalūr, is "the Brahman Smarta math of
+     Sankaracharya at Kumbakonam".
+   - **Ibid., pp. 218–19 (Kumbakonam):** "an important Smārta religious institution here in the math of
+     Sankaracharya, which is said to have been founded in the time of Sankarachārya himself by a Tanjore king,
+     who wished the saint to reside in his dominions. Its income is nearly Rs. 14,000 annually, and the head of
+     it appoints the managers of three temples, one of which is at Conjeeveram. He nominates his own successor.
+     The math contains a library of some 150 books … in Telugu and Sanskrit."
+   - **Chingleput Manual (Crole 1879), p. 27:** Śaṅkara "paid particular attention to Conjeveram, where he worked
+     many miracles, and founded a matam". This is history; Crole does not say a maṭha exists there in his day.
+   - **Ibid., pp. 116–17 (Conjeeveram):** the Kāmākṣī temple is "neither … Dwaita nor Adwaita", with no
+     Śaṅkarācārya connection named. When Hyder Ali approached (c. 1780) the images were carried off, and "the
+     image of Kamatshi was of gold, and is said to have been taken possession of by the Rajah of Tanjore". The
+     maṭha's own tradition links this flight to its stay at Kumbakoṇam under Tanjore patronage; Crole does not.
+   - The name **Kāmakoṭi** does not occur in any colonial volume read. It first appears in this study in the
+     revised Puri gazetteer (1977): the Kāñcī Kāmakoṭi Pīṭha's ashram at Purī, founded 1973.
+   - So the colonial record places the Śaṅkara maṭha at Kumbakoṇam, with Kāñcī as the scene of Śaṅkara's
+     founding and the site of one temple it manages. It gives the maṭha an income, a temple patronage and a
+     library, but no caste following. Thurston's Gāṇiga note places *Śṛṅgeri* branches at Tanjore and
+     Kumbakoṇam too.
+   - Whether the silence about followers reflects the informants or the institution is a question for other
+     sources: maṭha records, Tamil and Sanskrit literature, inam registers. The 1932 Legislative Council lists of
+     religious inams for Chingleput and South Arcot on IA (`TNLC-DB-1932-62-2-QH14/15`) do not name it in their
+     OCR.
 4. **Change over time.**
    - In Madras the census shows movement in the Śaiva/Vaiṣṇava balance between 1871 and 1891 (Kistna, North
      Arcot), but not in Śaṅkara's following as such.
@@ -105,11 +126,12 @@ Rāmacandrapura, Saklapuri, Kumbakoṇam, Ujjani, …). Puṣpagiri and Virūpā
 - **District counts of Smārta Brahmans.** These need the 1871 table volume (not found on IA) or the 1891 caste
   tables, where Brahman sub-divisions (Vaḍama, Bṛhaccaraṇam, Smārta, Teṅgalai, Vaḍagalai …) are tabulated by
   district (`data/census/india.history.resource.52257.txt`). The OCR tables there are badly scrambled.
-- **Maṭha presence from the manuals and gazetteers (option 4).** Inams, villages and tours of Śṛṅgeri,
-  Kumbakoṇam, Puṣpagiri, Virūpākṣa and Śivagaṅgā could be collected from the "Places" chapters; the OCR is
+- **Maṭha presence from the manuals and gazetteers (option 4).** Done for Kumbakoṇam and Kāñcī (finding 3).
+  Inams, villages and tours of Śṛṅgeri, Puṣpagiri, Virūpākṣa and Śivagaṅgā could be collected from the "Places" chapters; the OCR is
   downloaded.
-- **Missing volumes.** The North Arcot gazetteer (1905) failed to download; the Chingleput gazetteer is a
-  fragment on IA.
+- **Missing volumes.** The North Arcot gazetteer (1905) failed to download. For Chingleput, IA has only the
+  1915 *Statistical Appendix* (`dli.csl.3250`, `dli.ministry.08445`, `in.ernet.dli.2015.212648`); a search
+  (Nov 2026) found no descriptive volume, so Crole's *Manual* (1879) remains the descriptive source.
 - **Weak rows to review.** The weaker SMARTA rows (Tambala, Tigala, Sastri, Prathamaśākhī, the Dīkṣitars) are
   marked `low` in `results/thurston_coded/`.
 

@@ -56,7 +56,10 @@ Circle area is proportional to persons. The Daśanāmī layer comes from the cen
    - Gujarat, which is Vaiṣṇava (Vallabha, Svāminārāyaṇa); the Dvārkā Śaṅkarācārya is referee only for its
      "Śaivas".
    - The Tamil country, where many Brahmans are Smārtas but no seat is named for them in Thurston or the
-     gazetteers.
+     gazetteers. The Śaṅkara maṭha at Kumbakoṇam is described in the Tanjore gazetteer (1906): an income of
+     nearly Rs. 14,000, the management of three temples (one at Conjeeveram), a library. It is given no
+     followers. Kāñcī appears only as where Śaṅkara founded a maṭha (Crole 1879); the name Kāmakoṭi first
+     appears in 1977, at Purī.
 
 ## 3. What kind of allegiance
 
@@ -149,7 +152,8 @@ these sources, for four reasons:
 3. **The seats are less visible than their followers, until after Independence.**
    - Purī's Govardhana maṭha is absent from Hunter (1877). In O'Malley (1908) it is a "Saiva" maṭh with a
      library. Only in 1977 is it named as one of Śaṅkara's four pīṭhas.
-   - Tamil Smārtas are tied to no named seat.
+   - Tamil Smārtas are tied to no named seat, although the Kumbakoṇam maṭha is described as an endowed
+     institution (Tanjore 1906). The name Kāñcī Kāmakoṭi appears only in 1977.
    - Śṛṅgeri is visible only where it acted as a jurisdiction over castes.
 
 ## 6. Possible next steps
