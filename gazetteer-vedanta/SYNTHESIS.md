@@ -154,7 +154,10 @@ these sources, for four reasons:
      library. Only in 1977 is it named as one of Śaṅkara's four pīṭhas.
    - Tamil Smārtas are tied to no named seat, although the Kumbakoṇam maṭha is described as an endowed
      institution (Tanjore 1906). The name Kāñcī Kāmakoṭi appears only in 1977.
-   - Śṛṅgeri is visible only where it acted as a jurisdiction over castes.
+   - Śṛṅgeri is visible only where it acted as a jurisdiction over castes. Its Places-chapter presence is nil
+     outside Mysore: the seat is a subsidised estate in Kadur with one branch at Kudali, and the maṭhs, inām
+     villages and grants of the western Deccan belong to Saṅkeśvar, described as a 1570s secession from
+     Śṛṅgeri (`sringeri/README.md`).
 
 ## 6. Possible next steps
 

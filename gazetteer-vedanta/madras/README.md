@@ -126,9 +126,9 @@ Rāmacandrapura, Saklapuri, Kumbakoṇam, Ujjani, …). Puṣpagiri and Virūpā
 - **District counts of Smārta Brahmans.** These need the 1871 table volume (not found on IA) or the 1891 caste
   tables, where Brahman sub-divisions (Vaḍama, Bṛhaccaraṇam, Smārta, Teṅgalai, Vaḍagalai …) are tabulated by
   district (`data/census/india.history.resource.52257.txt`). The OCR tables there are badly scrambled.
-- **Maṭha presence from the manuals and gazetteers (option 4).** Done for Kumbakoṇam and Kāñcī (finding 3).
-  Inams, villages and tours of Śṛṅgeri, Puṣpagiri, Virūpākṣa and Śivagaṅgā could be collected from the "Places" chapters; the OCR is
-  downloaded.
+- **Maṭha presence from the manuals and gazetteers (option 4).** Done for Kumbakoṇam and Kāñcī (finding 3)
+  and for Śṛṅgeri (`../sringeri/README.md`: no Madras volume locates a Śṛṅgeri maṭha). Puṣpagiri, Virūpākṣa and
+  Śivagaṅgā could still be collected from the "Places" chapters; the OCR is downloaded.
 - **Missing volumes.** The North Arcot gazetteer (1905) failed to download. For Chingleput, IA has only the
   1915 *Statistical Appendix* (`dli.csl.3250`, `dli.ministry.08445`, `in.ernet.dli.2015.212648`); a search
   (Nov 2026) found no descriptive volume, so Crole's *Manual* (1879) remains the descriptive source.
