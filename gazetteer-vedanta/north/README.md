@@ -166,10 +166,11 @@ Allahabad, Benares and Kheri.
   - "Gosain" counts in Muttra and Agra are Vaiṣṇava.
 - **Two dates per district.** The real two-date comparison is in the notes (land, maths), not the counts:
   Gonda went from 89 villages (1869) to 34 (1905).
-- **Possible next steps.**
-  - Read the 1891 and 1901 caste tables from page images rather than OCR, for clean district headcounts.
-  - The Bengal Presidency (Risley 1891; Bengal District Gazetteers): Atīths and Gosāins in Bihar.
-  - The Punjab (Rose's Glossary).
+- **Next steps, now done:**
+  - the 1891 caste table read from page images (`../census-images/`);
+  - Bengal (`../bengal/`) and the Punjab with Rose's *Glossary* (`../punjab/`);
+  - the revised gazetteers (`../revised/`);
+  - the rival orders in the same districts (`../rivals/`).
 
 ## Files
 

@@ -103,3 +103,15 @@ What this shows:
 - **The categories are loose.** The 1891 NWP report warns that "the words Goshain, Bairagi, Jogi, Saniyasi were
   apparently used by a considerable proportion of the enumerators as interchangeable". Mathura's 17,131 Goshains
   are almost all "unspecified", i.e. Vaiṣṇava gosvāmīs.
+
+## Bombay: the 1901 sect returns
+
+The 1901 Bombay report (`in.ernet.dli.2015.55938`, p. 61) states, from its sect table (Subsidiary Table V):
+- "the followers of Shiv, who constitute the Shaiv or Smart sect, with the kindred sects that can be grouped
+  under the Shaivs, such as Pashupat, Sankarachari, &c." number "nearly 3,000,000";
+- the Vaiṣṇava sects (Ramanuj, Ramanandi, Vallabhachari, Madhavachari, Virvaishnav) "hardly exceed half a
+  million";
+- the Liṅgāyats are "over 800,000".
+
+These are the only presidency-wide Smārta figures for Bombay in the census. They are a sect return, with much left
+unspecified, not a caste count. The 1891 and 1911 reports have no sect table (`../results/README.md`, section 5).

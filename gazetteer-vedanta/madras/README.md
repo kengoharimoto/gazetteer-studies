@@ -132,22 +132,33 @@ Rāmacandrapura, Saklapuri, Kumbakoṇam, Ujjani, …). Puṣpagiri and Virūpā
 
 ## 4. Not done / possible next steps
 
-- **Done since:** district counts of Brahman sub-divisions, read from the 1891 table images
-  (`../census-images/results/madras1891_*`). By Thurston's list of Smārta sub-castes, Smārtas are 48% of
-  Tamil-division Brahmans against 23% Aiyaṅgārs. By district: Tanjore 64%, Trichinopoly and Tinnevelly about
-  55%, Chingleput only 12% (60% Aiyaṅgār).
-
-- **District counts of Smārta Brahmans.** These need the 1871 table volume (not found on IA) or the 1891 caste
-  tables, where Brahman sub-divisions (Vaḍama, Bṛhaccaraṇam, Smārta, Teṅgalai, Vaḍagalai …) are tabulated by
-  district (`data/census/india.history.resource.52257.txt`). The OCR tables there are badly scrambled.
-- **Maṭha presence from the manuals and gazetteers (option 4).** Done for Kumbakoṇam and Kāñcī (finding 3)
-  and for Śṛṅgeri (`../sringeri/README.md`: no Madras volume locates a Śṛṅgeri maṭha). Puṣpagiri, Virūpākṣa and
-  Śivagaṅgā could still be collected from the "Places" chapters; the OCR is downloaded.
-- **Missing volumes.** The North Arcot gazetteer (1905) failed to download. For Chingleput, IA has only the
-  1915 *Statistical Appendix* (`dli.csl.3250`, `dli.ministry.08445`, `in.ernet.dli.2015.212648`); a search
-  (Nov 2026) found no descriptive volume, so Crole's *Manual* (1879) remains the descriptive source.
-- **Weak rows to review.** The weaker SMARTA rows (Tambala, Tigala, Sastri, Prathamaśākhī, the Dīkṣitars) are
-  marked `low` in `results/thurston_coded/`.
+- **Done since:**
+  - **District counts of Brahman sub-divisions,** read from the 1891 table images
+    (`../census-images/results/madras1891_*`). By Thurston's list of Smārta sub-castes, Smārtas are 48% of
+    Tamil-division Brahmans against 23% Aiyaṅgārs. By district: Tanjore 64%, Trichinopoly and Tinnevelly about 55%,
+    Chingleput only 12% (60% Aiyaṅgār). South Canara's sub-divisions are summarised in
+    `../sringeri/README.md`.
+  - **Maṭha presence:**
+    - Kumbakoṇam and Kāñcī (finding 3);
+    - Śṛṅgeri (`../sringeri/README.md`: no Madras volume locates a Śṛṅgeri maṭha);
+    - Puṣpagiri, Virūpākṣa and Śivagaṅgā (`../mathas/README.md`: no Puṣpagiri or Hampi maṭh in the Madras
+      volumes; the Hampi maṭh appears only in a Mysore file of 1935–36).
+  - **North Arcot.** The 1905 gazetteer scan on IA is a 67 KB fragment. Stuart's revised *Manual of the North Arcot
+    District* (1895, `in.ernet.dli.2015.280859`, in `../sringeri/data/ia_ocr/`) was read instead.
+    - Its religion chapter (pp. 189–90) divides Brahmanical Hinduism into Smārtas (Śaiva, Advaita), Mādhvas and
+      Śrī Vaiṣṇavas. Among the Śrī Vaiṣṇavas the Teṅgalai–Vaḍagalai disputes "often lead to serious affrays".
+    - It names no Śaṅkara maṭha.
+  - **Weak rows reviewed (Nov 2026):**
+    - "Sastri" (a title) and "Tigala" (a naming only) are now `excluded`;
+    - the Chidambaram Dīkṣitars stay as Thurston's Smārta listing but are marked as rejecting any
+      Śaṅkarācārya;
+    - Tambala's Smārta applies to its priests only.
+- **Still open:**
+  - **The 1871 sect table volume** (district counts of Smārtas by the 1871 classification). It was not found on IA.
+  - **A descriptive Chingleput gazetteer.** IA has only the 1915 *Statistical Appendix* (`dli.csl.3250`,
+    `dli.ministry.08445`, `in.ernet.dli.2015.212648`), so Crole's *Manual* (1879) remains the descriptive source.
+  - **The Inam Commission registers** for the Śaṅkara maṭhs' ināms. They are not online
+    (`../mathas/README.md`).
 
 ## Files
 

@@ -130,17 +130,31 @@ Satara (1885) never names a Śaṅkarācārya. So part of the north–south grad
 Kanara's very high figure is partly a property of its compiler, who asked every caste about its spiritual
 teacher. The Konkan Kuṇbī passage shows the answers were not formulaic.
 
-## 5. Change over time: still to do
+## 5. Change over time
 
-The data so far are one cross-section (1872–86 figures). The planned comparisons are:
-
-- **1872 vs 1881 within a district.** Not possible from the Gazetteer: the 1881-based volumes print no sect
+- **1872 vs 1881 within a district.** This is not possible from the Gazetteer: the 1881-based volumes print no sect
   tables, and the 1872 tables have no Smārta class.
-- **Gazetteer (1880s) vs the revised state gazetteers (1950s–80s).** The revised Poona (1954) and Dharwar (1959)
-  volumes are on Internet Archive (`../data/ia_candidates.tsv`). This is the most promising next step, and it
-  should start with Kanara and Dharwar.
-- **The Bombay census reports of 1881, 1891 and 1901.** I have not yet checked whether they tabulate Smārtas;
-  a web search found nothing.
+- **Gazetteer (1880s) vs the revised state gazetteers (1950s–80s).** Done in `../revised/README.md`: Kolhapur,
+  Poona, Ahmadnagar, Nasik, Ratnagiri, Dharwar, Bijapur and South Kanara. There is no revised North Kanara or
+  Belgaum on IA.
+  - The jurisdiction over non-Brahmin castes has gone by the 1950s–70s.
+  - The Karvīr Pīṭha has split from Saṅkeśvar (c. 1909).
+- **The Bombay census reports, checked Nov 2026** (OCR in `../census-images/data/ia_ocr/`, not in git):
+  - **1891** (`wbsl.4318`): no sect table. It only remarks that Brahmans everywhere divide into Vaiṣṇavas and
+    "the Smarta or followers of Siva".
+  - **1901** (`in.ernet.dli.2015.55938`, p. 61): a sect table exists (Subsidiary Table V), with a class "Shaiv or
+    Smart" including "Pashupat, Sankarachari, &c.":
+    - Shaiv or Smart: "nearly 3,000,000";
+    - Vaiṣṇava sects: "hardly exceed half a million";
+    - Liṅgāyat: "over 800,000".
+
+    Enumerators were told not to press "low-caste and ignorant people", so a "very large proportion" is
+    unspecified.
+  - **1911** (`india.history.resource.92542`): no sect table, but it describes the Saṅkeśvar Śaṅkarācārya's
+    agents (dharmādhikārīs) "in every town" of the Deccan, with appeals to him "final". It adds that "the
+    authority of the Shankaracharya is declining", and that at Wai, Mahuli, Pandharpur and Kolhapur "he is little
+    more than a name".
+  - **1881:** the IA scan (`wbsl.8730`) returned a server error.
 
 ## 6. Reliability
 
