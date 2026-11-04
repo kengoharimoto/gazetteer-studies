@@ -91,6 +91,15 @@ All six regions are coded and reported. The census caste tables are read for all
 (1954–1989) are coded as a third date. The Śaṅkara maṭhs are located across all volumes (`sringeri/`, `mathas/`), and
 338 Mysore government files on Śṛṅgeri and Kudli are coded (`mathas/archives/`).
 
+Overall answer to the study's question (synthesis, "Dominant everywhere, or regional?"):
+- **Regional, not dominant across British India.** Śaṅkara's tradition is present in some form in every region and
+  carries the highest learned prestige.
+- **Where it led as an organised following:** the Kanara and South Canara coast, Tamil Brahmans (48% Smārta), the
+  eastern Ganges plain (the densest Daśanāmī country, with Benares) and the Bombay Karnatak (Saṅkeśvar, Kudli).
+- **Where it was a minority:** Gujarat, Bengal, the Punjab, the Central Provinces, Mathura and Ayodhyā, and the
+  Liṅgāyat Karnatak. There the Vaiṣṇava, Nāth, Udāsī, Bairāgī or Liṅgāyat bodies held the larger followings and,
+  usually, the larger estates.
+
 Main result of the maṭha layers:
 - Śṛṅgeri held a subsidised jāgīr in Mysore and branches at pilgrimage centres, but no estates among its caste
   followers in Bombay and Madras.

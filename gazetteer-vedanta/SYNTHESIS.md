@@ -14,6 +14,38 @@ changed. The sources are the provincial and district gazetteers (c. 1866–1918)
 Russell's caste glossaries and the census reports alongside them. All figures and quotations are in the
 regional reports and their coded tables, with page references.
 
+## Overall: dominant everywhere, or regional?
+
+**Regional.** Śaṅkara's tradition is the only one present in some form in every region studied, and it carried the
+highest learned prestige. As an organised following, though, it led only in a few regions. Elsewhere it usually came
+second to a Vaiṣṇava, Liṅgāyat or other Śaiva body.
+
+- **Where it led:**
+  - The Kanara and South Canara coast: the main allegiance of many non-Brahmin castes as well as Brahmans (32–39%
+    of Kanara's Hindus in castes said to be Smārta).
+  - Tamil Brahmans: Smārtas 48% against 23% Śrīvaiṣṇava (1891), though no maṭh is tied to them.
+  - Eastern UP and Bihar: the densest Daśanāmī country (103,320 in the NWP, 1891). Benares is the one city where it
+    is institutionally present at every date.
+  - The Bombay Karnatak: Saṅkeśvar and Kudli are the richest seats.
+- **Where it was a minority or nearly absent:**
+  - Gujarat: Vallabhas about 647,000 and Svāminārāyaṇs about 288,000; Dvārkā has no stated following.
+  - Bengal proper and Calcutta: Vaiṣṇava, Śākta and Brahmo.
+  - Punjab: Jogīs 91,937 and Bairāgīs 47,561 against about 23,000 Gosains and Sanniasis.
+  - Central Provinces: Bairāgīs and Kabīrpanthīs lead.
+  - Mathura and Ayodhyā.
+  - The Liṅgāyat Karnatak, and even Kadur, Śṛṅgeri's own district, where Liṅgāyats outnumber all Brahmans two to
+    one.
+- **Why it can look dominant:**
+  - Advaita was the philosophy of the learned ("Vedantism … almost exclusively prevails" in Benares), and the
+    four-maṭh scheme made the tradition pan-Indian in name.
+  - "Smārta" and "Śaiva" were broad default labels. The 1901 Bombay census puts "Shaiv or Smart" at nearly
+    3,000,000 against half a million Vaiṣṇavas, but that is a sect label, not allegiance to a Śaṅkarācārya. The 1911
+    report already calls his authority "declining".
+- **Limits:**
+  - No census measured allegiance to a Śaṅkara seat.
+  - The Smārta and Daśanāmī forms count different things.
+  - The ascetic tables miss lay followings on every side.
+
 ## 1. Two forms of the same tradition
 
 In the colonial record, Śaṅkara's following appears in two forms. Each region shows mainly one of them.
