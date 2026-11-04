@@ -82,6 +82,28 @@ Circle area is proportional to persons. The Daśanāmī layer comes from the cen
    - Tibet (Bhot-Bagān and the Tashi Lama);
    - Nepal (the Paddi Matwali mahant as royal guru).
 
+### Kudli: a seat in Mysore, estates in Bombay
+
+The Kudli Śṛṅgeri maṭh (Shimoga, Mysore) is the Bombay gazetteers' "Kudalgi". The Mysore government files
+(`mathas/archives/README.md`) show where its weight lay:
+
+- **Income (1933): Rs 35,047.** Villages and sircar lands outside Mysore brought Rs 16,798 (Rs 10,504 + Rs 6,294),
+  those inside Rs 5,594 (Rs 4,499 + Rs 1,095), and disciples' varṣāsana Rs 1,024.
+- **Estates (the Agent's list, March 1934):**
+  - Dharwar: Ranibennur, Karajgi, Hangal, Kod, Shiggaon, Navalgund, Kalghatgi, Dharwar, Hubli, Ron, Gadag.
+  - Bijapur: Badami, Bagalkot, Bagevadi, Bijapur, Sindgi, Hungund.
+  - Belgaum: Parasgad. North Kanara: Mundgod.
+  - Bellary: Kudligi, Harapanahalli. Anantapur: Madakasira.
+  - The southern Maratha states: Kolhapur (Torgal), Ramdurg, Sangli (Shirahatti), Miraj Senior and Junior,
+    Savanur, Sirasangi, Jamkhandi (Kundgol). Hyderabad found none.
+  - Crosses on the map mark these taluks.
+- **Bombay's view.** Bombay levied nazarana on the Dharwar and Bijapur ināms (Rs 2,745 and Rs 1,167, 1936). It
+  called the maṭh "Kudalgi" or the "Uddughatti Mutt" (Udagatti, Ranibennur taluk). It ranked the Saṅkeśvar Svāmī
+  as Kudli's "brother Swami … in no way superior in position" (1896).
+- **Independence.** The Huzur Adalat (1847–49) rejected Śṛṅgeri's claim that Kudli was a *tondu* (subordinate)
+  maṭh. The Dewan (1895) dates its separation to "the Partition of A. D. 1656-57".
+- **Management.** Government managed its properties from 1933 to March 1941, at the Svāmī's request.
+
 ## 4. Change over time
 
 The gazetteers allow two-date comparisons in several places:
