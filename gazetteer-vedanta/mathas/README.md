@@ -143,6 +143,24 @@ regional picture is in the synthesis, "Rivals: who else held the ground". None o
 - **Tamil non-Brahmin Śaiva maṭhs.** The Tanjore gazetteer's list of the district's chief maṭhs (1906, p. 72)
   names the "Sudra maths" of Dharmapuram, Tiruvāvaḍuturai, Tiruppanandāl and Tiruppugalūr first. It names the
   Kumbakoṇam Śaṅkara maṭh last.
+- **The rival seats against the Śaṅkara maṭhs** (from the coded rivals layer, `../rivals/README.md`; also on the
+  combined map and in the places finder):
+
+  | rival seat | tradition | what the texts give it | nearest Śaṅkara comparison |
+  |---|---|---|---|
+  | Tiruvāvaḍuturai (Tanjore) | Tamil Śaiva ādhīnam | about 29,000 acres, Rs 2 lakhs a year | Kumbakoṇam Śaṅkara maṭh, Rs 14,000 and three temples |
+  | Dharmapuram (Tanjore) | Tamil Śaiva ādhīnam | head of the "Sudra maths"; Tiruppanandāḷ under it, Rs 80,000 a year | listed before Kumbakoṇam (Tanjore 1906) |
+  | Chitradurga (Murugha maṭh) | Liṅgāyat | supreme Liṅgāyat guru; lost the Konkan Kuṇbīs to Śṛṅgeri (1881) | Śṛṅgeri, Kudli |
+  | Nandgaon | Bairāgī | a Feudatory State of 560 villages (granted 1723) | Dharampuri, the largest Gosāin estate in the CP, 40 villages |
+  | Lormi | Bairāgī | 103–104 villages (1826 grant) | as above |
+  | Kawardha (Damakheda line) | Kabīrpanthī | a lay following claimed at 500,000 | no Śaṅkara seat in the CP |
+  | Tilla | Nāth | Akbar's sanad for a jagir | no Śaṅkara seat in the Punjab |
+  | Bohar | Nāth | land; Rohtak's asthals are half Bairāgī, Gosāins fourth | as above |
+  | Dera Baba Nanak | Udāsī | jagir Rs 2,602 | as above |
+  | Vadtal | Svāminārāyaṇa | one of two seats; 287,687 followers in 1901 | Dvārkā's Śāradā pīṭha, no stated following |
+
+  In the Bombay Karnatak the comparison runs the other way: Saṅkeśvar (30 inām villages, Rs 30,000) and Kudli (Rs
+  35,047 in 1933) are richer than the Liṅgāyat maṭhs around them, whose largest stated income is Kaneri's Rs 1,500.
 - **Numbers behind the rivalry (census 1891, persons; `../census-images/README.md`):**
 
   | province | Daśanāmī / Gosāin | rival orders |
