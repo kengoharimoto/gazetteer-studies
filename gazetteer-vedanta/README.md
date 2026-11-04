@@ -9,6 +9,9 @@ British India. In the colonial record the tradition takes two forms:
   Sannyāsīs).
 
 **Start here:** `SYNTHESIS.md` (published as a page from `SYNTHESIS.html`).
+To look up a place: the **Gazetteer Places Finder** (`map/places_map.html`, also published as a page). It is a
+searchable map of every district, maṭha, estate and site in the study, with the spellings the sources use and the
+modern names.
 
 ## Regions
 
@@ -22,6 +25,7 @@ British India. In the colonial record the tradition takes two forms:
 | Central Provinces and Berar | Daśanāmīs | Grant's *Gazetteer* (1870); CP District Gazetteers (1905–11); Russell & Hira Lal (1916) | `cp/README.md` |
 | revised state gazetteers (third date) | continuity of the earlier institutions and allegiances, 1954–1989 | 37 revised district gazetteers (Maharashtra, Mysore/Karnataka, Madras, UP, Bihar, West Bengal, Orissa, Haryana, MP) | `revised/README.md` |
 | combined map (all six regions) | Daśanāmī and Smārta persons by district, with the Śaṅkara maṭhs, on one map | the census tables and `results/smarta_range.tsv` | `map/combined_map.png` (`map/plot_combined.py`, points in `map/combined_points.tsv`) |
+| places finder | 256 places (colonial districts and states, Śaṅkara seats, branches, Kudli estates, other sites): source spellings, modern name, district and state, what the study says, where in the repo | all layers | `map/places_map.html`, built from `map/places.tsv` (edit `map/places_data.py`, then run `map/build_geo.py` and `map/build_page.py`) |
 | Śṛṅgeri in the Places chapters | where the maṭha, its branches and estates are located | Places chapters of all volumes; Kanara XV-2, Thana XIV, Poona XVIII-3; Rice's *Mysore* (1876, 1897) | `sringeri/README.md` |
 | all Śaṅkara maṭhas (Saṅkeśvar, Karvīr, Kudali, Dvārkā, Jyotirmaṭh, Govardhana, Kumbakoṇam, Śivagaṅgā …) | where each seat and branch is located and what is said there | all volumes, coded by region | `mathas/README.md` |
 | Mysore archive files (1876–1959) | Śṛṅgeri and Kudli as institutions: lands, debts, branches, successions, honours, State management | 338 Karnataka State Archives files | `mathas/archives/README.md` |
