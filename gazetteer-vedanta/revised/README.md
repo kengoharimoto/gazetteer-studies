@@ -127,6 +127,16 @@ Sannyasi".
 
 ## Summary
 
+**Place in the study's verdict** (`../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's
+tradition was regional, not dominant, and the third date sharpens this.
+- **What survives:** the seats themselves, and as public institutions: Karvīr, Govardhana, Tārakeśvar, the akhāṛās
+  at the melās.
+- **What goes:** the Daśanāmī estates and the jurisdiction over non-Brahmin castes, which had made the tradition
+  locally dominant on the Kanara coast and in the Ganges plain.
+- **The rivals:** their houses mostly keep their place (section 5). The one new growth, the Ramakrishna movement,
+  is Advaita in teaching but organised outside the old seats.
+
+
 | district | third-date finding |
 |---|---|
 | Kolhapur | **seat added**: the Karvīr pīṭha, split from Saṅkeśvar c. 1909 |
