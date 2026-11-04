@@ -1,0 +1,228 @@
+name	variants	modern	district	state	lat	lon	kinds	region	note	refs
+Ratnagiri	Ratnágiri	Ratnagiri	Ratnagiri	Maharashtra	16.99	73.3	district	Bombay	1872 census returned 99.7% of Hindus as 'Śaiva'; Smārta Shenvis under the Kavaḷe svāmī.	results/; revised/
+Kolaba	Kolába	Raigad (district), Alibag (HQ)	Raigad	Maharashtra	18.64	72.87	district	Bombay		results/
+Thana	Tána; Thane	Thane	Thane; Palghar	Maharashtra	19.2	72.97	district	Bombay	Places volume XIV (1882) read for the maṭha layer.	results/; mathas/
+Kanara	North Kanara; Kánara; Canara	Uttara Kannada (Karwar HQ)	Uttara Kannada	Karnataka	14.81	74.13	district	Bombay	Śṛṅgeri's stronghold: 32–39% of Hindus in castes asserted Smārta; about 45 caste entries name 'the Smart monastery at Shringeri'. No Śṛṅgeri maṭh located in the district.	results/; sringeri/
+Nasik	Násik; Nashik	Nashik	Nashik	Maharashtra	20.0	73.79	district;site	Bombay	Panchavati: tomb and monastery of a Śaṅkarācārya 'said to have come from Shringeri' (1883, pp. 518–19); Dr Kurtakoti, Śaṅkarācārya of Karvīr, lived here (1977). A Śṛṅgeri maṭh building at Nasik appears in a 1940 Mysore file.	results/; mathas/; revised/
+Ahmadnagar	Ahmednagar; Ahmadnagar	Ahilyanagar (renamed 2024)	Ahilyanagar	Maharashtra	19.09	74.74	district	Bombay	'the decrees of Shankaracharya at Shankeshvar' are final; Kuṇbīs 'cannot tell whether they are Smarts or Bhagvats'.	results/; revised/
+Poona	Puna; Pune	Pune	Pune	Maharashtra	18.52	73.86	district;site	Bombay	Brahmans' pontiff the head of Śṛṅgeri; c. 1750 a Śaṅkarācārya allowed a Jain temple in the city (Places, 1885).	results/; mathas/
+Satara	Sátára	Satara	Satara	Maharashtra	17.68	74.0	district	Bombay		results/
+Sholapur	Solapur	Solapur	Solapur	Maharashtra	17.66	75.91	district	Bombay	Arya Kshatris hold sanads from 'the Shankaracharya of Shringeri'; Komaṭis under Bhāskarācārya, 'deputy of Shankaracharya'.	results/; mathas/
+Belgaum	Belgaon	Belagavi	Belagavi	Karnataka	15.85	74.5	district	Bombay	Places volume describes the Saṅkeśvar maṭh in full (1884, pp. 600–02).	results/; mathas/
+Dharwar	Dhárwár; Dharwad	Dharwad	Dharwad; Haveri; Gadag	Karnataka	15.46	75.01	district	Bombay	Marāṭhās, Komṭis and Khatrīs under the Śaṅkarācārya; about 7.6% of Hindus in castes asserted Smārta. A village named Shringeri near Hangal is unrelated (an old weir).	results/; mathas/
+Bijapur	Bijápur	Vijayapura	Vijayapura; Bagalkot	Karnataka	16.83	75.71	district	Bombay	Marāṭhās 'Smārts … their guide being Shankarāchārya'.	results/; revised/
+Kolhapur	Kolhápur; Karvir; Karvīr; Karveer; Karaveer	Kolhapur	Kolhapur	Maharashtra	16.7	74.24	district;branch	Bombay	Saṅkeśvar Svāmī's maṭh in the city (1886); became the Karvīr Pīṭha c. 1909 (1959, p. 874); Ambābāī temple spire added by a Śaṅkarācārya of Saṅkeśvar.	results/; mathas/; revised/
+Surat		Surat	Surat	Gujarat	21.17	72.83	district	Bombay	Gujarat: Vaiṣṇava (Vallabha, Svāminārāyaṇa).	results/
+Broach		Bharuch	Bharuch	Gujarat	21.7	72.98	district	Bombay		results/
+Kaira		Kheda	Kheda	Gujarat	22.75	72.68	district	Bombay		results/
+Panch Mahals	Panch Maháls	Panchmahal (Godhra HQ)	Panchmahal	Gujarat	22.78	73.61	district	Bombay		results/
+Ahmedabad	Ahmadabad	Ahmedabad	Ahmedabad	Gujarat	23.02	72.57	district	Bombay		results/
+Cutch	Kachh	Kutch	Kutch	Gujarat	23.25	69.67	district	Bombay		results/
+Kathiawar	Káthiáwár	Saurashtra	Rajkot and neighbouring districts	Gujarat	22.3	70.8	district	Bombay	Its Dwarka entry (1884) describes the temple only, no maṭha.	results/; mathas/
+Khandesh	Khándesh	Jalgaon, Dhule, Nandurbar	Jalgaon; Dhule; Nandurbar	Maharashtra	21.0	75.56	district	Bombay		results/
+Bombay	Bombay City	Mumbai	Mumbai	Maharashtra	18.95	72.83	district	Bombay	1,947 Gosāvīs in 1881.	census-images/
+Anantapur		Anantapur	Anantapur; Sri Sathya Sai	Andhra Pradesh	14.68	77.6	district	Madras		madras/; census-images/
+Bellary	Ballari	Ballari	Ballari; Vijayanagara	Karnataka	15.14	76.92	district	Madras	Hampi lies in this district. Thurston: the Śṛṅgeri Svāmī's 1888 visit led to a procession dispute with Liṅgāyats.	madras/; census-images/
+Chingleput	Chengalpat; Chengalpattu	Chengalpattu	Chengalpattu; Kanchipuram; Tiruvallur	Tamil Nadu	12.69	79.98	district	Madras	The exception in the Tamil division: 60% Aiyaṅgār, 12% Smārta (1891). Crole's Manual (1879) is the descriptive source.	madras/; census-images/
+Cuddapah	Kadapa	Kadapa	YSR Kadapa	Andhra Pradesh	14.47	78.82	district	Madras	Puṣpagiri lies in this district.	madras/; census-images/
+Ganjam		Ganjam	Ganjam	Odisha	19.31	84.79	district	Madras		madras/; census-images/
+Godavari		East and West Godavari	East Godavari; West Godavari	Andhra Pradesh	16.99	82.25	district	Madras		madras/; census-images/
+Kistna	Krishna	Krishna	Krishna; NTR	Andhra Pradesh	16.19	81.13	district	Madras	Census shows movement in the Śaiva/Vaiṣṇava balance 1871–1891.	madras/; census-images/
+Kurnool	Karnul	Kurnool	Kurnool; Nandyal	Andhra Pradesh	15.83	78.04	district	Madras		madras/; census-images/
+Madras	Madras City	Chennai	Chennai	Tamil Nadu	13.08	80.27	district	Madras		madras/; census-images/
+Madura	Madurai	Madurai	Madurai	Tamil Nadu	9.93	78.12	district	Madras	42% Smārta, 26% Aiyaṅgār among Brahmans (1891); revised volume (1960) still names no seat.	madras/; census-images/
+Malabar		Kozhikode and neighbouring districts	Kozhikode; Malappuram; Palakkad; Kannur; Wayanad	Kerala	11.25	75.78	district	Madras	'Smarta' mostly the Nambūtiri caste judge; a madam near Tanur ascribed to Śaṅkara (1908).	madras/; census-images/
+Nellore		Nellore	Sri Potti Sriramulu Nellore	Andhra Pradesh	14.44	79.99	district	Madras		madras/; census-images/
+North Arcot		Vellore	Vellore; Tiruvannamalai; Ranipet; Tirupattur	Tamil Nadu	12.92	79.13	district	Madras		madras/; census-images/
+Salem		Salem	Salem; Namakkal; Dharmapuri; Krishnagiri	Tamil Nadu	11.66	78.15	district	Madras	Śṛṅgeri Matam's 'papal bulls' for the Marka Brahmans of Tali (1918).	madras/; census-images/
+South Canara	South Kanara; Dakshina Kannada	Dakshina Kannada and Udupi	Dakshina Kannada; Udupi	Karnataka	12.87	74.84	district	Madras	Śṛṅgeri the guru seat of non-Brahmin castes (Kharvis, Marāṭhās, Servegāras, Ares, Chaptegāras) in Thurston; gone by 1973.	madras/; census-images/
+Tanjore	Thanjavur	Thanjavur	Thanjavur; Tiruvarur; Nagapattinam	Tamil Nadu	10.79	79.14	district	Madras	64% of Brahmans in Smārta sub-castes (1891).	madras/; census-images/
+Travancore		Thiruvananthapuram (former state)	southern Kerala	Kerala	8.52	76.94	district	Madras	Princely state.	madras/; census-images/
+Vizagapatam	Visakhapatnam	Visakhapatnam	Visakhapatnam; Vizianagaram	Andhra Pradesh	17.69	83.22	district	Madras	Carmichael's Manual (1869) on the Smārta line 'at Sringagiri'.	madras/; census-images/
+Coimbatore		Coimbatore	Coimbatore; Tiruppur; Erode	Tamil Nadu	11.02	76.96	district	Madras		madras/; census-images/
+Nilgiris	Nilgiri Hills	The Nilgiris	The Nilgiris	Tamil Nadu	11.41	76.7	district	Madras		madras/; census-images/
+South Arcot		Cuddalore and Villupuram	Cuddalore; Villupuram; Kallakurichi	Tamil Nadu	11.75	79.75	district	Madras		madras/; census-images/
+Trichinopoly	Tiruchirappalli	Tiruchirappalli	Tiruchirappalli; Perambalur; Karur	Tamil Nadu	10.8	78.69	district	Madras	About 55% Smārta among Brahmans (1891).	madras/; census-images/
+Tinnevelly	Tirunelveli	Tirunelveli	Tirunelveli; Thoothukudi; Tenkasi	Tamil Nadu	8.73	77.7	district	Madras	About 55% Smārta among Brahmans (1891).	madras/; census-images/
+Pudukota	Pudukkottai	Pudukkottai	Pudukkottai	Tamil Nadu	10.38	78.82	district	Madras	Princely state.	madras/; census-images/
+Dehra Dun	Dehradun	Dehradun	Dehradun	Uttarakhand	30.32	78.03	district	UP		north/; census-images/
+Saharanpur		Saharanpur	Saharanpur; Haridwar	Uttar Pradesh / Uttarakhand	29.97	77.55	district	UP	Includes Hardwar and Kankhal (Bhola Gir's Gosāins, the Nirañjanī and Nirbānī akhāṛās).	north/; census-images/
+Muzaffarnagar		Muzaffarnagar	Muzaffarnagar; Shamli	Uttar Pradesh	29.47	77.7	district	UP		north/; census-images/
+Meerut		Meerut	Meerut; Baghpat	Uttar Pradesh	28.98	77.71	district	UP	5,326 Gosāins (1872), 5,083 Daśanāmīs (1891).	north/; census-images/
+Bulandshahr		Bulandshahr	Bulandshahr	Uttar Pradesh	28.4	77.85	district	UP		north/; census-images/
+Aligarh		Aligarh	Aligarh; Hathras	Uttar Pradesh	27.88	78.08	district	UP		north/; census-images/
+Muttra	Mathura	Mathura	Mathura	Uttar Pradesh	27.49	77.67	district	UP		north/; census-images/
+Agra		Agra	Agra	Uttar Pradesh	27.18	78.01	district	UP		north/; census-images/
+Farukhabad	Farrukhabad; Fatehgarh	Farrukhabad	Farrukhabad; Kannauj	Uttar Pradesh	27.39	79.58	district	UP		north/; census-images/
+Mainpuri		Mainpuri	Mainpuri	Uttar Pradesh	27.23	79.02	district	UP		north/; census-images/
+Etawah		Etawah	Etawah; Auraiya	Uttar Pradesh	26.78	79.02	district	UP		north/; census-images/
+Etah		Etah	Etah; Kasganj	Uttar Pradesh	27.56	78.66	district	UP		north/; census-images/
+Bareilly	Bareli	Bareilly	Bareilly	Uttar Pradesh	28.37	79.43	district	UP	6,169 Gosāins (1872), 4,023 Daśanāmīs (1891).	north/; census-images/
+Bijnor		Bijnor	Bijnor	Uttar Pradesh	29.37	78.14	district	UP		north/; census-images/
+Budaun	Badaun	Badaun	Budaun	Uttar Pradesh	28.04	79.12	district	UP		north/; census-images/
+Moradabad	Muradabad	Moradabad	Moradabad; Sambhal; Amroha	Uttar Pradesh	28.84	78.77	district	UP	Salempur Gosāin maṭh (Ban mahants, 36 villages).	north/; census-images/
+Shahjahanpur		Shahjahanpur	Shahjahanpur	Uttar Pradesh	27.88	79.91	district	UP		north/; census-images/
+Pilibhit		Pilibhit	Pilibhit	Uttar Pradesh	28.63	79.8	district	UP		north/; census-images/
+Cawnpore	Kanpur	Kanpur	Kanpur Nagar; Kanpur Dehat	Uttar Pradesh	26.45	80.33	district	UP		north/; census-images/
+Fatehpur		Fatehpur	Fatehpur	Uttar Pradesh	25.93	80.81	district	UP		north/; census-images/
+Banda		Banda	Banda; Chitrakoot	Uttar Pradesh	25.48	80.33	district	UP		north/; census-images/
+Hamirpur		Hamirpur	Hamirpur; Mahoba	Uttar Pradesh	25.95	80.15	district	UP		north/; census-images/
+Allahabad	Prayag	Prayagraj	Prayagraj; Kaushambi	Uttar Pradesh	25.44	81.85	district	UP	Akhāṛās at Daraganj lead the Magh/Kumbh procession.	north/; census-images/
+Jhansi		Jhansi	Jhansi	Uttar Pradesh	25.45	78.57	district	UP		north/; census-images/
+Jalaun	Orai	Jalaun	Jalaun	Uttar Pradesh	26.15	79.33	district	UP		north/; census-images/
+Lalitpur		Lalitpur	Lalitpur	Uttar Pradesh	24.69	78.42	district	UP		north/; census-images/
+Benares	Banaras; Kashi; Varanasi	Varanasi	Varanasi; Chandauli; Bhadohi	Uttar Pradesh	25.32	83.01	district	UP	Nirañjanī, Jūnā and Nirbānī akhāṛās; a Śṛṅgeri branch maṭh appears in a 1935 Mysore file.	north/; census-images/
+Mirzapur		Mirzapur	Mirzapur; Sonbhadra	Uttar Pradesh	25.15	82.57	district	UP	Mahant Anand Gir's 39 villages; Gosāins owned 44,784 acres.	north/; census-images/
+Jaunpur		Jaunpur	Jaunpur	Uttar Pradesh	25.75	82.69	district	UP		north/; census-images/
+Ghazipur		Ghazipur	Ghazipur	Uttar Pradesh	25.58	83.58	district	UP		north/; census-images/
+Ballia		Ballia	Ballia	Uttar Pradesh	25.76	84.15	district	UP		north/; census-images/
+Gorakhpur		Gorakhpur	Gorakhpur; Deoria; Kushinagar; Maharajganj	Uttar Pradesh	26.76	83.37	district	UP	Ram Ratangir's 36 villages; 13,944 Atīths; the Nāth temple.	north/; census-images/
+Basti		Basti	Basti; Siddharthnagar; Sant Kabir Nagar	Uttar Pradesh	26.8	82.73	district	UP		north/; census-images/
+Azamgarh		Azamgarh	Azamgarh; Mau	Uttar Pradesh	26.07	83.18	district	UP		north/; census-images/
+Kumaun	Kumaon	Kumaon (Almora, Nainital)	Almora; Nainital; Bageshwar; Pithoragarh	Uttarakhand	29.6	79.66	district	UP	8,860 Gosāins (1872); Pinnath Gosāin colony.	north/; census-images/
+Garhwal	British Garhwal	Garhwal (Pauri, Chamoli)	Pauri Garhwal; Chamoli; Rudraprayag	Uttarakhand	30.15	78.78	district	UP	Jyotirmaṭh and Badrinath lie here.	north/; census-images/
+Tarai	Terai	Udham Singh Nagar	Udham Singh Nagar	Uttarakhand	28.98	79.4	district	UP		north/; census-images/
+Lucknow		Lucknow	Lucknow	Uttar Pradesh	26.85	80.95	district	UP		north/; census-images/
+Unao	Unnao	Unnao	Unnao	Uttar Pradesh	26.55	80.49	district	UP		north/; census-images/
+Rae Bareli	Rai Bareli	Raebareli	Raebareli	Uttar Pradesh	26.23	81.24	district	UP		north/; census-images/
+Sitapur		Sitapur	Sitapur	Uttar Pradesh	27.57	80.68	district	UP	Goshains 'before the abolition of zamindari some of them were zamindars' (revised).	north/; census-images/
+Hardoi		Hardoi	Hardoi	Uttar Pradesh	27.4	80.13	district	UP		north/; census-images/
+Kheri	Lakhimpur	Lakhimpur Kheri	Lakhimpur Kheri	Uttar Pradesh	27.95	80.78	district	UP		north/; census-images/
+Fyzabad	Faizabad	Ayodhya (district renamed 2018)	Ayodhya; Ambedkar Nagar	Uttar Pradesh	26.78	82.13	district	UP	Ayodhyā dominated by the Bairāgī akhāṛās.	north/; census-images/
+Gonda		Gonda	Gonda; Balrampur	Uttar Pradesh	27.13	81.97	district	UP	Goshains 'followers of Shankaracharya'; 11,478 Daśanāmīs (1891).	north/; census-images/
+Bahraich		Bahraich	Bahraich; Shravasti	Uttar Pradesh	27.57	81.6	district	UP		north/; census-images/
+Sultanpur		Sultanpur	Sultanpur; Amethi	Uttar Pradesh	26.26	82.07	district	UP		north/; census-images/
+Partabgarh	Pratapgarh	Pratapgarh	Pratapgarh	Uttar Pradesh	25.9	81.95	district	UP		north/; census-images/
+Bara Banki	Barabanki	Barabanki	Barabanki	Uttar Pradesh	26.93	81.19	district	UP		north/; census-images/
+Calcutta	Kolkata	Kolkata	Kolkata	West Bengal	22.57	88.36	district	Bengal		bengal/; census-images/
+Murshidabad		Murshidabad	Murshidabad	West Bengal	24.18	88.27	district	Bengal		bengal/; census-images/
+Rajshahi		Rajshahi	Rajshahi	Bangladesh	24.37	88.6	district	Bengal		bengal/; census-images/
+Jalpaiguri		Jalpaiguri	Jalpaiguri	West Bengal	26.52	88.72	district	Bengal		bengal/; census-images/
+Darjeeling	Darjiling	Darjeeling	Darjeeling	West Bengal	27.04	88.26	district	Bengal		bengal/; census-images/
+Rangpur		Rangpur	Rangpur	Bangladesh	25.75	89.25	district	Bengal		bengal/; census-images/
+Pabna		Pabna	Pabna	Bangladesh	24.0	89.24	district	Bengal		bengal/; census-images/
+Patna		Patna	Patna	Bihar	25.59	85.14	district	Bengal		bengal/; census-images/
+Gaya		Gaya	Gaya; Aurangabad; Nawada; Jehanabad	Bihar	24.79	85.0	district	Bengal	Bodh Gayā lies here; zamindari of the mahants 'have now lapsed' (1957).	bengal/; census-images/
+Shahabad	Arrah	Bhojpur, Buxar, Rohtas, Kaimur	Bhojpur; Buxar; Rohtas; Kaimur	Bihar	25.56	84.66	district	Bengal	3,454 Atīths (1872), 7,246 (1901); 436 trusts by 1963.	bengal/; census-images/
+Saran	Chapra	Saran (Chhapra)	Saran; Siwan; Gopalganj	Bihar	25.78	84.73	district	Bengal	Largest Daśanāmī circle on the map: 18,612 Atīths (1872), 26,753 (1901); absent from the revised volume.	bengal/; census-images/
+Champaran		East and West Champaran	East Champaran; West Champaran	Bihar	26.65	84.92	district	Bengal	6,063 Atīths (1872), 9,768 (1901).	bengal/; census-images/
+Muzaffarpur		Muzaffarpur	Muzaffarpur; Vaishali; Sitamarhi	Bihar	26.12	85.39	district	Bengal		bengal/; census-images/
+Darbhanga		Darbhanga	Darbhanga; Madhubani; Samastipur	Bihar	26.15	85.9	district	Bengal		bengal/; census-images/
+Monghyr	Munger	Munger	Munger; Begusarai; Khagaria; Lakhisarai; Jamui	Bihar	25.38	86.47	district	Bengal	Mahants of Dularpur and Suja; 1,780 in 'religious services' (1951).	bengal/; census-images/
+Bhagalpur		Bhagalpur	Bhagalpur; Banka	Bihar	25.25	87.01	district	Bengal	Sultanganj convent of Sannyāsīs.	bengal/; census-images/
+Malda	Maldah	Malda	Malda	West Bengal	25.0	88.14	district	Bengal		bengal/; census-images/
+Hazaribagh		Hazaribagh	Hazaribagh and neighbours	Jharkhand	23.99	85.36	district	Bengal		bengal/; census-images/
+Ranchi		Ranchi	Ranchi and neighbours	Jharkhand	23.34	85.31	district	Bengal		bengal/; census-images/
+Palamau	Palamu; Daltonganj	Palamu (Medininagar HQ)	Palamu; Garhwa; Latehar	Jharkhand	24.04	84.07	district	Bengal	Athiths still described in the revised volume.	bengal/; census-images/
+Singhbhum	Chaibasa	Singhbhum	West and East Singhbhum; Seraikela-Kharsawan	Jharkhand	22.55	85.81	district	Bengal		bengal/; census-images/
+Hill Tippera	Tippera	Tripura	Tripura	Tripura	23.84	91.28	district	Bengal	Princely state.	bengal/; census-images/
+Hooghly	Hugli	Hooghly	Hooghly	West Bengal	22.9	88.39	district	Bengal	Tārakeśvar lies here.	bengal/; census-images/
+Howrah	Haora	Howrah	Howrah	West Bengal	22.59	88.31	district	Bengal	Bhot-Bagān, 'the seat of the Dasanami sect in the district'; a 'Sankar Math' at Ramrajatala (1919).	bengal/; census-images/
+Puri	Purushottama Puri; Jagannath Puri; Pooree	Puri	Puri	Odisha	19.81	85.83	district	Bengal	Govardhana maṭha: absent in Hunter (1877), 'the Sankaracharya' maṭh in 1908, named Gobardhana in 1977.	bengal/; census-images/
+Cuttack	Katak	Cuttack	Cuttack	Odisha	20.46	85.88	district	Bengal		bengal/; census-images/
+Balasore	Baleshwar	Balasore	Balasore	Odisha	21.49	86.93	district	Bengal		bengal/; census-images/
+Hissar	Hisar	Hisar	Hisar; Fatehabad; Sirsa; Bhiwani	Haryana	29.15	75.72	district	Punjab	Puri guru at Kharak, Giri guru at Bilak; 1,479 Gusains (1881), 2,318 Gosains (1891).	punjab/; census-images/
+Rohtak		Rohtak	Rohtak; Jhajjar	Haryana	28.9	76.61	district	Punjab		punjab/; census-images/
+Gurgaon		Gurugram	Gurugram; Nuh; Rewari	Haryana	28.46	77.03	district	Punjab		punjab/; census-images/
+Delhi	Dehli	Delhi	Delhi	Delhi	28.65	77.23	district	Punjab		punjab/; census-images/
+Karnal		Karnal	Karnal; Kurukshetra; Kaithal; Panipat	Haryana	29.69	76.99	district	Punjab	Gosain pujaris of Shiva temples; later 'Jogis … of the Kanphara clan'.	punjab/; census-images/
+Ambala	Umballa	Ambala	Ambala; Yamunanagar; Rupnagar	Haryana / Punjab	30.38	76.78	district	Punjab		punjab/; census-images/
+Simla		Shimla	Shimla	Himachal Pradesh	31.1	77.17	district	Punjab		punjab/; census-images/
+Kangra		Kangra	Kangra; Kullu; Lahaul and Spiti; Hamirpur	Himachal Pradesh	32.1	76.27	district	Punjab	Kangra Gosāin traders and lenders.	punjab/; census-images/
+Hoshiarpur		Hoshiarpur	Hoshiarpur; Una	Punjab / Himachal Pradesh	31.53	75.91	district	Punjab		punjab/; census-images/
+Jalandhar	Jullundur	Jalandhar	Jalandhar; Kapurthala; Nawanshahr	Punjab	31.33	75.58	district	Punjab		punjab/; census-images/
+Ludhiana		Ludhiana	Ludhiana	Punjab	30.9	75.85	district	Punjab		punjab/; census-images/
+Firozpur	Ferozepore	Firozpur	Firozpur; Moga; Fazilka	Punjab	30.93	74.61	district	Punjab		punjab/; census-images/
+Multan		Multan	Multan	Pakistan (Punjab)	30.2	71.47	district	Punjab		punjab/; census-images/
+Jhang		Jhang	Jhang	Pakistan (Punjab)	31.27	72.32	district	Punjab		punjab/; census-images/
+Montgomery		Sahiwal	Sahiwal	Pakistan (Punjab)	30.66	73.11	district	Punjab		punjab/; census-images/
+Lahore		Lahore	Lahore	Pakistan (Punjab)	31.55	74.34	district	Punjab		punjab/; census-images/
+Amritsar		Amritsar	Amritsar; Tarn Taran	Punjab	31.63	74.87	district	Punjab		punjab/; census-images/
+Gurdaspur		Gurdaspur	Gurdaspur; Pathankot	Punjab	32.04	75.4	district	Punjab		punjab/; census-images/
+Sialkot		Sialkot	Sialkot	Pakistan (Punjab)	32.49	74.53	district	Punjab		punjab/; census-images/
+Gujrat		Gujrat	Gujrat	Pakistan (Punjab)	32.57	74.08	district	Punjab		punjab/; census-images/
+Gujranwala		Gujranwala	Gujranwala	Pakistan (Punjab)	32.16	74.19	district	Punjab		punjab/; census-images/
+Shahpur		Sargodha	Sargodha; Khushab	Pakistan (Punjab)	32.27	72.47	district	Punjab		punjab/; census-images/
+Jhelum		Jhelum	Jhelum; Chakwal	Pakistan (Punjab)	32.93	73.73	district	Punjab		punjab/; census-images/
+Rawalpindi		Rawalpindi	Rawalpindi; Attock	Pakistan (Punjab)	33.6	73.05	district	Punjab		punjab/; census-images/
+Hazara	Abbottabad	Hazara (Abbottabad)	Abbottabad; Mansehra; Haripur	Pakistan (Khyber Pakhtunkhwa)	34.15	73.21	district	Punjab		punjab/; census-images/
+Peshawar		Peshawar	Peshawar	Pakistan (Khyber Pakhtunkhwa)	34.01	71.58	district	Punjab		punjab/; census-images/
+Kohat		Kohat	Kohat	Pakistan (Khyber Pakhtunkhwa)	33.59	71.44	district	Punjab		punjab/; census-images/
+Bannu		Bannu	Bannu	Pakistan (Khyber Pakhtunkhwa)	32.99	70.6	district	Punjab		punjab/; census-images/
+Dera Ismail Khan		Dera Ismail Khan	Dera Ismail Khan	Pakistan (Khyber Pakhtunkhwa)	31.83	70.9	district	Punjab		punjab/; census-images/
+Dera Ghazi Khan		Dera Ghazi Khan	Dera Ghazi Khan	Pakistan (Punjab)	30.05	70.63	district	Punjab		punjab/; census-images/
+Muzaffargarh		Muzaffargarh	Muzaffargarh	Pakistan (Punjab)	30.07	71.19	district	Punjab		punjab/; census-images/
+Saugor	Sagar	Sagar	Sagar	Madhya Pradesh	23.84	78.74	district	CP		cp/; census-images/
+Damoh		Damoh	Damoh	Madhya Pradesh	23.83	79.44	district	CP		cp/; census-images/
+Jubbulpore	Jabalpur	Jabalpur	Jabalpur; Katni	Madhya Pradesh	23.18	79.95	district	CP	Bheraghat, held by Puri Gosāin mahants under a Bhonsla grant; 2,080 Gosāins (1891).	cp/; census-images/
+Mandla		Mandla	Mandla; Dindori	Madhya Pradesh	22.6	80.37	district	CP		cp/; census-images/
+Seoni		Seoni	Seoni	Madhya Pradesh	22.09	79.55	district	CP		cp/; census-images/
+Narsinghpur		Narsinghpur	Narsinghpur	Madhya Pradesh	22.95	79.19	district	CP	Sankal: a village said to take its name from Śaṅkara's stay.	cp/; census-images/
+Hoshangabad		Narmadapuram (renamed 2022)	Narmadapuram; Harda	Madhya Pradesh	22.75	77.72	district	CP		cp/; census-images/
+Nimar		Khandwa (East Nimar)	Khandwa; Burhanpur	Madhya Pradesh	21.82	76.35	district	CP		cp/; census-images/
+Betul		Betul	Betul	Madhya Pradesh	21.9	77.9	district	CP		cp/; census-images/
+Chhindwara		Chhindwara	Chhindwara	Madhya Pradesh	22.06	78.94	district	CP		cp/; census-images/
+Wardha		Wardha	Wardha	Maharashtra	20.74	78.6	district	CP	The Śṛṅgeri Śaṅkarācārya visited Nagpur c. 1903–04 (Wardha 1906).	cp/; census-images/
+Nagpur		Nagpur	Nagpur	Maharashtra	21.15	79.09	district	CP	Gosāins held 50–70 villages; 2,914 Gosāins (1891).	cp/; census-images/
+Chanda		Chandrapur	Chandrapur; Gadchiroli	Maharashtra	19.96	79.3	district	CP		cp/; census-images/
+Bhandara		Bhandara	Bhandara; Gondia	Maharashtra	21.17	79.65	district	CP		cp/; census-images/
+Balaghat		Balaghat	Balaghat	Madhya Pradesh	21.8	80.18	district	CP		cp/; census-images/
+Raipur		Raipur	Raipur and neighbours	Chhattisgarh	21.25	81.63	district	CP	Dharampuri estate (40 villages by 1909); Deopur Nāgā Gosāins; 3,194 Gosāins (1891).	cp/; census-images/
+Bilaspur		Bilaspur	Bilaspur and neighbours	Chhattisgarh	22.08	82.15	district	CP		cp/; census-images/
+Sambalpur		Sambalpur	Sambalpur and neighbours	Odisha	21.47	83.97	district	CP		cp/; census-images/
+Bastar	Jagdalpur	Bastar	Bastar and neighbours	Chhattisgarh	19.08	82.02	district	CP	Feudatory state.	cp/; census-images/
+Kanker		Kanker	Kanker	Chhattisgarh	20.27	81.49	district	CP	Feudatory state.	cp/; census-images/
+Nandgaon		Rajnandgaon	Rajnandgaon	Chhattisgarh	21.1	81.03	district	CP	Feudatory state.	cp/; census-images/
+Khairagarh		Khairagarh	Khairagarh-Chhuikhadan-Gandai	Chhattisgarh	21.42	80.98	district	CP	Feudatory state.	cp/; census-images/
+Chhuikhadan		Chhuikhadan	Khairagarh-Chhuikhadan-Gandai	Chhattisgarh	21.52	80.99	district	CP	Feudatory state.	cp/; census-images/
+Kawardha		Kabirdham (Kawardha)	Kabirdham	Chhattisgarh	22.01	81.23	district	CP	Feudatory state.	cp/; census-images/
+Sakti		Sakti	Sakti	Chhattisgarh	22.03	82.96	district	CP	Feudatory state.	cp/; census-images/
+Raigarh		Raigarh	Raigarh	Chhattisgarh	21.9	83.4	district	CP	Feudatory state.	cp/; census-images/
+Sarangarh		Sarangarh	Sarangarh-Bilaigarh	Chhattisgarh	21.59	83.08	district	CP	Feudatory state.	cp/; census-images/
+Bamra	Deogarh	Deogarh	Deogarh	Odisha	21.62	84.2	district	CP	Feudatory state.	cp/; census-images/
+Rairakhol		Rairakhol	Sambalpur	Odisha	21.07	84.38	district	CP	Feudatory state.	cp/; census-images/
+Sonpur		Subarnapur (Sonepur)	Subarnapur	Odisha	20.84	83.92	district	CP	Feudatory state.	cp/; census-images/
+Kalahandi		Kalahandi	Kalahandi	Odisha	19.91	83.17	district	CP	Feudatory state.	cp/; census-images/
+Makrai		Makrai (Harda)	Harda	Madhya Pradesh	22.07	77.1	district	CP	Feudatory state.	cp/; census-images/
+Akola		Akola	Akola; Washim	Maharashtra	20.7	77.0	district	CP	Berar: village priests 'more frequently Gosains than Brahmans'; a Brahman 'shankaracharya' office at Basim.	cp/; census-images/
+Amraoti	Amravati	Amravati	Amravati	Maharashtra	20.93	77.75	district	CP	Berar.	cp/; census-images/
+Śṛṅgeri	Sringeri; Shringeri; Sringéri; Srngeri; Sringagiri; Sringa-giri; Rishya-Sringa-giri; Sringiri; Shringori	Sringeri	Chikkamagaluru	Karnataka	13.42	75.25	seat	Mysore	Seat of the Jagadguru, 'proprietor of the surrounding tract'; jāgīr of about 9,144 people granted 1346; revenue c. Rs 50,000 plus Rs 1,000 a month from Mysore (Rice 1876, 1897). Located in no Bombay or Madras Places chapter.	sringeri/; mathas/
+Saṅkeśvar	Sankeshvar; Sankeshwar; Sankesvar; Shankeshvar; Sankeswar	Sankeshwar	Belagavi	Karnataka	16.27	74.48	seat	Bombay	Seat of the Saṅkeśvar Svāmī: 30 inām villages in seven jurisdictions, Rs 30,000 a year; told as a secession from Śṛṅgeri c. 1570 (Belgaum 1884, pp. 600–02).	mathas/
+Kudli	Kudali; Kūḍali; Kudalgi; Kudli Sringeri Matt	Kudli (Koodli)	Shivamogga	Karnataka	14.0	75.68	seat	Mysore	Confluence of the Tunga and Bhadra. A Smārta maṭh whose guru was appointed by Śṛṅgeri (Rice) or founded by the Saṅkeśvar secessionist (Belgaum). Also a Mādhva maṭh (Akṣobhya Tīrtha).	mathas/; sringeri/
+Dvārkā	Dwarka; Dwarika; Dwárka; Sharada Pith; Shārada Pīth	Dwarka	Devbhumi Dwarka	Gujarat	22.24	68.97	seat	Bombay	'Shārada Pīth … endowed by the Gaekwar of Baroda, who sanctions the appointment of every new pontiff' (Gujarat 1901, p. 542).	mathas/
+Jyotirmaṭh	Joshimath; Jyotir-math; Jotirmath; Jyotirdham	Jyotirmath (Joshimath)	Chamoli	Uttarakhand	30.56	79.56	seat	UP	Named in lists of the four maṭhs; 'established the Joshimath monastery' (Garhwal 1910). Place entries describe only the Badrinath Rawal's winter seat.	mathas/
+Badrinath	Badrinath; Badri	Badrinath	Chamoli	Uttarakhand	30.74	79.49	site	UP	Temple 'said to have been erected … by Sankara Acharya'; Nambūri Rawal from Malabar; estates of 164 villages and parts of 111 (1910).	mathas/
+Kumbakoṇam	Kumbakonam; Kumbakōnam; Combaconum; Kumbhakonam	Kumbakonam	Thanjavur	Tamil Nadu	10.96	79.38	seat	Madras	'the math of Sankaracharya', income nearly Rs 14,000, appoints the managers of three temples incl. one at Conjeeveram (Tanjore 1906). Catalogued as 'Kanchi Komakoti matt at Kumbakonam' in 1925.	madras/; mathas/
+Kāñcī	Conjeeveram; Conjeveram; Conjeevaram; Kanchi; Kanchipuram	Kanchipuram	Kanchipuram	Tamil Nadu	12.83	79.7	branch	Madras	Where Śaṅkara 'founded a matam' (Crole 1879, p. 26); a temple managed from Kumbakoṇam (1906); the maṭh is 'of Conjeevaram' by 1936.	madras/; mathas/
+Purī (Govardhana maṭha)	Gobardhana; Govardhana; Bhog Gobardhan; Vardhana-math	Govardhan Math, Puri	Puri	Odisha	19.8	85.85	seat	Bengal	Absent in 1877; 'the Sankaracharya' maṭh with c. 1,200 MSS (1908); 'Gobardhana Matha … still extant' (1977). A Kāñcī Kāmakoṭi ashram founded at Purī in 1973.	mathas/; revised/
+Śivagaṅgā	Sivaganga; Shivaganga; Dakshina Kasi	Shivagange	Bengaluru Rural (Nelamangala)	Karnataka	13.17	77.22	seat	Mysore	Maṭh in financial difficulty, endowments under Muzrai management at the guru's wish (Rice 1897); funds lent for the Śṛṅgeri Jagadguru's visit (1927).	mathas/
+Avani	Avani Sringeri Mutt	Avani	Kolar (Mulbagal taluk)	Karnataka	13.1	78.33	branch	Mysore	'A guru of the Smarta sect resides here' (Rice 1876, 1897); a Śaṅkarācārya temple with a State grant (1930); 'Avani Sringeri Mutt' (1933).	mathas/
+Hampi	Virupaksha; Virūpākṣa; Pampa; Pampapati; Hampi Samsthanam	Hampi	Vijayanagara	Karnataka	15.335	76.46	branch	Madras	Sri Sankaracharya Virupaksha Samsthanam: its Svāmī calls it 'a branch of Sri Sringeri Mutt', papers 'left behind in the Nizam's Dominions' (Mysore file, 1935–36). No maṭh in the Bellary volumes.	mathas/
+Puṣpagiri	Pushpagiri; Puspagiri	Pushpagiri	YSR Kadapa	Andhra Pradesh	14.54	78.77	site	Madras	Temple hill and hamlet of Kotlur in the Cuddapah volumes; no maṭh described, and no archival file found.	mathas/
+Khidrapur	Khidrápur	Khidrapur	Kolhapur	Maharashtra	16.63	74.7	branch	Bombay	'an alienated village belonging to Sankeshvar Svami' (Kolhapur 1886, p. 302).	mathas/
+Hallur		Hallur	Haveri	Karnataka	14.87	75.68	branch	Bombay	Rangnath temple rebuilt by the Kudalgi Svāmī, who was granted the village (Dharwar 1884, p. 722).	mathas/
+Hubli	Hubballi; Hubli Sringeri Matt	Hubballi	Dharwad	Karnataka	15.36	75.12	branch	Bombay	Kudalgi Svāmī's crosswise-palkhi privilege upheld up to the Privy Council (Dharwar 1884, p. 757); a 'Hubli Sringeri Matt' with its own guru (1923).	mathas/
+Nirmal	Nirmal (Bassein)	Nirmal	Palghar (Vasai)	Maharashtra	19.4	72.8	site	Bombay	Reputed samādhi of a Śaṅkarācārya; temple of Shankaracharya Svāmī built after 1739, Government grant Rs 421 (Thana 1882).	mathas/
+Sonda	Sonda; Sunda; Swadi; Svarnavalli; Honalli Math	Sonda (Swarnavalli)	Uttara Kannada (Sirsi)	Karnataka	14.72	74.82	site	Bombay	Honalli (Svarṇavallī) Smārta maṭh, seat of the Havig Brahmans' guru: a separate line, not a Śṛṅgeri branch (Kanara 1883).	sringeri/; mathas/
+Bodh Gayā	Bodh Gaya; Buddh Gaya; Budh Gaya	Bodh Gaya	Gaya	Bihar	24.7	84.99	site	Bengal	Giri maṭh, 'one of the seven Saivite orders established by Sankara Acharya' (Gaya 1906); Mahabodhi dispute.	bengal/; mathas/
+Tārakeśvar	Tarakeswar; Tarakeshwar	Tarakeswar	Hooghly	West Bengal	22.89	88.02	site	Bengal	Mahant 'a celibate of the Dasnami order'; a public endowment after 1924; 'governed by the Sankaracharya school of thought' (1972).	bengal/; revised/; mathas/
+Bhot-Bagān	Bhot Bagan; Ghusuri	Bhot Bagan (Ghusuri)	Howrah	West Bengal	22.61	88.35	site	Bengal	Tashi Lama's grant to Puran Gir Gosāin (1785); mahant elected 'by the other Dasnami Mahants of Bengal' (1905).	bengal/; revised/
+Hardwar	Haridwar; Kankhal	Haridwar	Haridwar	Uttarakhand	29.95	78.16	site	UP	Kumbh melā; Kankhal Gosāins (Bhola Gir, 4,024 acres); a Śṛṅgeri maṭh building at Haridwar (Mysore file, 1944).	north/; revised/; mathas/
+Bodhan		Bodhan	Nizamabad	Telangana	18.66	77.88	site	Hyderabad	One of four monasteries of Bhāskarācārya, the Komaṭis' 'deputy of Shankaracharya' (Sholapur 1884).	mathas/
+Nander	Nanded	Nanded	Nanded	Maharashtra	19.15	77.31	site	Hyderabad	Another of Bhāskarācārya's monasteries (Sholapur 1884).	mathas/
+Khanapur		Khanapur	Belagavi	Karnataka	15.64	74.51	site	Bombay	'The Smart svami has a monastery at Khanapur', with two villages: the Shenvi Smārta svāmī (Belgaum 1884, p. 91).	mathas/
+Kollur		Kollur	Udupi	Karnataka	13.86	74.81	site	Madras	Mūkāmbikā temple; image said to have been consecrated by Śaṅkara (South Kanara 1973).	sringeri/
+Karkal	Karkala	Karkala	Udupi	Karnataka	13.21	74.99	site	Madras	An image 'installed at Karkal by Shree Jagadguru Narasimha Bharati Swamiji of Sringeri Matha' (1973).	sringeri/
+Kaladi	Kalady; Kallady	Kalady	Ernakulam	Kerala	10.17	76.44	site	Other	Śaṅkara's birthplace (Atkinson spells it 'Kallady'); the Śṛṅgeri Jagadguru's escort from Mysore to Kaladi (1923).	mathas/
+Rāmeśvaram	Rameswaram; Rameshvar	Rameswaram	Ramanathapuram	Tamil Nadu	9.29	79.31	branch	Madras	A Śṛṅgeri branch maṭh, named in a 1935 Mysore file on legacies.	mathas/
+Tirupati		Tirupati	Tirupati	Andhra Pradesh	13.63	79.42	branch	Madras	Śṛṅgeri maṭh branch at Tirupati, managed by committees (1940).	mathas/
+Bangalore (Sultanpet)	Bangalore; Bengaluru; Sultanpet	Bengaluru	Bengaluru Urban	Karnataka	12.97	77.58	branch	Mysore	'Sringeri Matt, Sultanpet, Bangalore city' (1923); the Jagadguru's processions in the city (1907).	mathas/
+Mysore	Mysuru	Mysuru	Mysuru	Karnataka	12.3	76.64	site	Mysore	Capital of the princely state whose Muzrai files record the Śṛṅgeri and Kudli maṭhs.	mathas/
+Sangli		Sangli	Sangli	Maharashtra	16.85	74.58	branch	Bombay	Kudli Śṛṅgeri maṭh properties in Sangli State (1935).	mathas/
+Hole Narsipur	Holenarasipura	Holenarasipura	Hassan	Karnataka	12.79	76.24	site	Mysore	The Śṛṅgeri Svāmī's visits (1892) and an adda-palakki dispute in front of the Uttarādi maṭh (1906).	mathas/
+Srirangapatna	Seringapatam; Srirangapatam	Srirangapatna	Mandya	Karnataka	12.42	76.68	site	Mysore	Visits of the Śṛṅgeri Svāmī to the Ranganātha temple (1894–95, 1907).	mathas/
+Nanjangud		Nanjangud	Mysuru	Karnataka	12.12	76.68	site	Mysore	The Śṛṅgeri Jagadguru's endowments to the Śrīkaṇṭheśvara temple (1892, 1907).	mathas/
+Kigga		Kigga	Chikkamagaluru	Karnataka	13.46	75.21	site	Mysore	Ṛṣyaśṛṅga temple, in the Śṛṅgeri jāgīr.	mathas/
+Belavadi	Belvadi	Belavadi	Chikkamagaluru	Karnataka	13.27	75.84	branch	Mysore	An inām village of the Śṛṅgeri maṭh (tank, quarry, land disposals 1902–40).	mathas/
+Ayodhyā	Ajodhya; Oudh	Ayodhya	Ayodhya	Uttar Pradesh	26.8	82.2	site	UP	Dominated by the Bairāgī akhāṛās; the Gosāins appear only in the story of their expulsion from Hanumāngaṛhī.	north/; revised/
+Gokarn	Gokarna	Gokarna	Uttara Kannada	Karnataka	14.55	74.32	site	Bombay	Pilgrimage centre of Kanara castes; earlier seat of the Havig gurus' line before Sonda.	results/; mathas/
