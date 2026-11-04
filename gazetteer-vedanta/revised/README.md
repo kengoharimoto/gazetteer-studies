@@ -117,7 +117,7 @@ From the coded rivals layer (`../rivals/README.md`), which read the revised volu
 | South Kanara (1973) | the Uḍupi maṭhs; the Mādhva hold extends to Dharmasthala, a Śaiva temple with Mādhva priests | Tulu Brahmans "largely followers of Madhvacharya, only a small number remaining Smarthas" |
 | Dharwar (1959), Bijapur (1966) | the maṭh landscape is Mādhva and Vīraśaiva | the Kudalgi palanquin suit against the Hubli Liṅgāyat maṭh is dropped |
 | Kolhapur (1959) | Kaneri (Liṅgāyat): Rs 1,300 a year | Saṅkeśvar's Kolhapur maṭh has become the Karvīr Pīṭha |
-| Varanasi (1965) | Udāsī, Kabīrpanthī and Aghorī houses still described | the Gosāin estates (10,304 acres) disappear from view |
+| Varanasi (1965) | Bairāgī akhāṛās (Bara and Chhota Gudarji), two Gorakhpanthī akhāṛās, Kabīr Chaura, Chaitanya and Vallabha maṭhs, the Kinaram shrine | the Gosāin estates (10,304 acres) disappear from view; the three Nāgā akhāṛās and the Bhinga Daṇḍī Ashram (1924) remain |
 | Howrah, Hooghly (1972) | the Ramakrishna movement: 115 centres, about 1,259 hospital beds, about 63,000 pupils; the Brahmos reduced to relics (Howrah 63 in 1961) | Tārakeśvar recognised by a court as "governed by the Sankaracharya school of thought" |
 
 The rival houses survive the third date better than the Daśanāmī estates. Where land reform and endowment law reach
