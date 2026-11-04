@@ -61,6 +61,20 @@ Circle area is proportional to persons. The Daśanāmī layer comes from the cen
      followers. Kāñcī appears only as where Śaṅkara founded a maṭha (Crole 1879); the name Kāmakoṭi first
      appears in 1977, at Purī.
 
+**Main rivals by region** (see "Rivals: who else held the ground" below):
+
+| region | main rivals |
+|---|---|
+| Kanara and South Canara | Liṅgāyats (Kanara's Kuṇbīs left the Chitaldurg Liṅgāyat guide in 1881); Mādhvas of Uḍupi; the Havigs' own gurus |
+| Eastern UP and Bihar | Rāmānandī Bairāgīs (Ayodhyā); Nāth Jogīs (Gorakhpur); in Benares Rāmānanda and Vallabha, under Śaiva predominance |
+| Rohilkhand and Kumaon | Bairāgī akhāṛās (Hardwar battle, 1760); Kedarnath's Jangama (Liṅgāyat) maṭh |
+| Central Provinces | Bairāgīs (about 38,000, more land in Chhattisgarh); Kabīrpanthīs and Satnāmīs (Bilaspur Kabīrpanthīs 99,260) |
+| Bombay Deccan | Bhāgavatas (Vaiṣṇava) among Deshasthas and Kuṇbīs; Mādhva Deshasthas further south |
+| Punjab | Jogīs, Udāsīs and Nirmalas, Bairāgīs |
+| Bengal proper | Chaitanya (Gauḍīya) Vaiṣṇavas; Kālī worship; the Brahmos in Calcutta |
+| Tamil country | Śrīvaiṣṇavas (Chingleput 60% Aiyaṅgār); non-Brahmin Śaiva maṭhs (Dharmapuram, Tiruvāvaḍuturai) |
+| Gujarat | Vallabha and Svāminārāyaṇa |
+
 ## 3. What kind of allegiance
 
 1. **Jurisdiction and property, not doctrine.**
