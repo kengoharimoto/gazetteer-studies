@@ -179,6 +179,14 @@ regional picture is in the synthesis, "Rivals: who else held the ground". None o
 
 ## Findings
 
+**Overall verdict of the study** (synthesis, "Dominant everywhere, or regional?"): Śaṅkara's tradition was
+**regional, not dominant**. The maṭha evidence is part of why.
+- **Where the seats were strong.** Its seats were richly endowed only where it also led as an organised following:
+  Saṅkeśvar and Kudli in the Bombay Karnatak, Śṛṅgeri in Mysore, and the Daśanāmī estates of the Ganges plain.
+- **Where the seats were names.** Elsewhere the four-pīṭha scheme survives mostly as a list (Dvārkā, Jyotirmaṭh,
+  Purī). Where the gazetteers compare, the rival houses are as rich or richer (see "Rival maṭhs and orders" above).
+
+
 1. **The gazetteers describe one Śaṅkara maṭh network in detail, and it is Saṅkeśvar's.**
    - Śṛṅgeri had the widest following in the caste chapters, but no buildings outside Mysore.
    - Saṅkeśvar had a seat, urban branches, thirty inām villages across seven jurisdictions, temple patronage
