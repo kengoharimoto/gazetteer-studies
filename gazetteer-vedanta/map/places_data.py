@@ -433,6 +433,7 @@ RIVALS = {
     "Badrinath": "Rivals: its Rawal is a Nambūri from Malabar; Kedarnath and Ukhimath are described as a Jangama (Liṅgāyat) maṭh (Atkinson; Garhwal 1910).",
     "Garhwal": "Rivals: Kedarnath and Ukhimath are described as a Jangama (Liṅgāyat) maṭh under a Malabar Rawal (Atkinson; Garhwal 1910).",
     "Sonda": "Rivals: the Vaiṣṇava Terbidi (Vādirāja) maṭh stands beside the Svarṇavallī maṭh at Sonda (Kanara 1883).",
+    "Uḍupi": "Rivals: South Canara's largest Tulu Brahman group, the Shivallis (28,660 in 1891), are Mādhva: 'the great bulk of the Tulu Brahmins' (Sturrock 1894).",
     "Kolhapur": "Rivals: the city's other large maṭh belongs to a Jain Svāmī, and the Jains claim the Ambābāī temple was once theirs (1886).",
     "Tirupati": "Rivals: the Tirumala Tirupati Devasthanams claim oversight of the Śṛṅgeri branch because they pay its allowances (1940).",
 }
@@ -478,11 +479,16 @@ def _census_lines():
         out[r["district"]] = f"Census 1901: Atīth {f(n(r['atith_total']))}; 'Gosain' {f(n(r['gosain_total']))} (a mixed column, largely Vaiṣṇava)."
     return out
 _C = _census_lines()
+_C["South Canara"] = ("Census 1891, Brahmans (95,739): Sarasvata 30,273 (split Smārta/Vaiṣṇava); Sivalli 28,660 (Mādhva); Havig 11,234 and Kota 11,017 "
+                      "(Smārta, own gurus); Karāḍi 2,731, Konkanastha 3,200, Chitpāvan 1,491, Padia 154 (Smārta, under Śṛṅgeri: about 8% of Brahmans); "
+                      "Kandavara 1,576; Saklapuri 463 (sringeri/README.md).")
 for p in P:
     if "district" in p["kinds"] and p["name"] in _C and p["name"] != "Benares" and "Census 18" not in p["note"] and "Census 19" not in p["note"]:  # Benares: counts already in its rivals note
         p["note"] = (p["note"] + " " + _C[p["name"]]).strip()
         if "census-images/" not in p["refs"]:
             p["refs"] = (p["refs"] + "; census-images/").strip("; ")
+        if p["name"] == "South Canara" and "sringeri/" not in p["refs"]:
+            p["refs"] += "; sringeri/"
 
 if __name__ == "__main__":
     import csv
