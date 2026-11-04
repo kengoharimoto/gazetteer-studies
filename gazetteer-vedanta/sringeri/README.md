@@ -137,7 +137,7 @@ those the study's sources give: Sturrock's *South Canara Manual* (1894), Thursto
 
 | sub-division (as printed) | persons | affiliation in the sources |
 |---|---|---|
-| Sarasvata | 30,273 | split: Smārta Shenvis under the Kavaḷe svāmī, Vaiṣṇavas under the Goa (Gokarṇa) maṭh |
+| Sarasvata | 30,273 | split: Smārta Shenvis under the Kavaḷe svāmī, Vaiṣṇavas under a svāmī in Goa (Ratnagiri 1880) |
 | Sivalli (Shivalli) | 28,660 | Mādhva: "the great bulk of the Tulu Brahmins of South Canara adopted the teaching of … Madhvacharya" (Sturrock); Uḍupi |
 | Havig | 11,234 | Smārta, own guru (Rāmacandrapura) |
 | Kota | 11,017 | Smārta (1973) |
