@@ -78,3 +78,28 @@ Page images and the downloaded OCR XML are in `pages/` (kept out of git).
    - By district: Tanjore 64% Smārta; Trichinopoly and Tinnevelly about 55%.
    - **Chingleput is the exception, 60% Aiyaṅgār**, as the 1871 report noted. The derived table states its
      classification rule.
+
+## Rival orders in the same tables
+
+The tables read for the Daśanāmīs also count their rivals. All figures below are persons, recomputed from the TSVs
+in `results/`. The synthesis's "Rivals: who else held the ground" and "Main rivals" table use them.
+
+| province, census | Daśanāmī / Gosāin | rival orders in the same table |
+|---|---|---|
+| NWP and Oudh, 1891 | Goshain–Dasnami 103,320 (plus 38,477 "unspecified" Goshains) | Jogī 78,387; Bairāgī 31,979; named Vaiṣṇava Goshains only 752 (Gauriya 432, Radhavallabhi 252, Brindabani 38, Gokulastha 30) |
+| Punjab, 1891 (whole province) | Gosain 13,344; Sanniasi 9,799 | Jogī-Rawal 91,937; Bairāgī 47,561; Udāsī 15,194 (all Faqirs 315,305) |
+| Central Provinces, 1891 (British districts) | Gosain 24,796; Sanyasi 2,449 | Bairāgī 29,298 (Ramanandi 7,731, Kabirpanthi 399); Jogī 6,094; Nāth 5,008; Aghori 36. Feudatory States: Bairāgī 6,712 against Gosain 1,038 |
+| Bengal, 1901 | Atīth 50,042 | "Gosain" 29,534: a mixed column, over half in Chota Nagpur, largely Vaiṣṇava gurus |
+| Madras Tamil division, 1891 | Smārta Brahman sub-castes 201,787 (47.6% of Brahmans) | Aiyaṅgār (Śrīvaiṣṇava) 96,127 (22.7%); Mādhva 2,650 |
+
+What this shows:
+- **The Nāth Jogīs are the largest ascetic body in the north.** They outnumber the Daśanāmīs in the Punjab by about
+  4 to 1 (with Sanniasis), and come close to them in the NWP.
+- **The Bairāgīs are about a third of the Daśanāmīs in the NWP, and outnumber them in the Punjab and the CP.** In
+  the CP Feudatory States they lead by more than six to one.
+- **The Udāsīs exceed the Gosāins in the Punjab.**
+- **The ascetic counts understate the Vaiṣṇava side, which is mostly lay.** The large lay sects appear only where
+  the census asked for them, e.g. Bilaspur's 99,260 Kabīrpanthīs (CP report, `../cp/README.md`).
+- **The categories are loose.** The 1891 NWP report warns that "the words Goshain, Bairagi, Jogi, Saniyasi were
+  apparently used by a considerable proportion of the enumerators as interchangeable". Mathura's 17,131 Goshains
+  are almost all "unspecified", i.e. Vaiṣṇava gosvāmīs.
