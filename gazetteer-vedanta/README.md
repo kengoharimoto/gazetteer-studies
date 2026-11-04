@@ -11,7 +11,9 @@ British India. In the colonial record the tradition takes two forms:
 **Start here:** `SYNTHESIS.md` (published as a page from `SYNTHESIS.html`).
 To look up a place: the **Gazetteer Places Finder** (`map/places_map.html`, also published as a page). It is a
 searchable map of every district, maṭha, estate and site in the study, with the spellings the sources use and the
-modern names.
+modern names. It includes the 27 taluks outside Mysore that the Kudli Śṛṅgeri maṭh's Agent listed in 1934 as holding
+its properties (Dharwar, Bijapur, Belgaum, North Kanara, Bellary, Anantapur and the southern Maratha states), shown
+with a cross and filtered by the "Kudli estates" chip (`mathas/archives/README.md`).
 
 ## Regions
 
