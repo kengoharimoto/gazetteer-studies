@@ -39,11 +39,11 @@ body { background: var(--bg); color: var(--ink); font-family: var(--sans); font-
 header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 18px; }
 h1 { font-family: var(--serif); font-weight: 600; font-size: 1.6rem; margin: 0; letter-spacing: .005em; text-wrap: balance; }
 .sub { color: var(--muted); font-size: .92rem; max-width: 70ch; margin: 0; }
-.main { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 14px; align-items: start; }
+.main { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 14px; align-items: start; }
 @media (max-width: 900px) { .main { grid-template-columns: minmax(0, 1fr); } }
 
 .mapbox { position: relative; background: var(--sea); border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; }
-#map { display: block; width: 100%; height: min(78vh, 820px); min-height: 380px; touch-action: none; cursor: grab; }
+#map { display: block; width: 100%; height: min(88vh, 1100px); min-height: 420px; touch-action: none; cursor: grab; }
 #map:active { cursor: grabbing; }
 .land { fill: var(--land); stroke: var(--land-edge); stroke-width: .6; vector-effect: non-scaling-stroke; }
 .state { fill: none; stroke: var(--state-edge); stroke-width: .5; vector-effect: non-scaling-stroke; }
@@ -65,7 +65,7 @@ h1 { font-family: var(--serif); font-weight: 600; font-size: 1.6rem; margin: 0; 
   border-radius: 5px; padding: 8px 10px; font-size: .78rem; display: grid; grid-template-columns: auto auto; gap: 3px 8px; align-items: center; }
 .legend svg { display: block; }
 
-aside { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; display: flex; flex-direction: column; min-width: 0; max-height: min(78vh, 820px); }
+aside { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; display: flex; flex-direction: column; min-width: 0; max-height: min(88vh, 1100px); }
 @media (max-width: 900px) { aside { max-height: none; } }
 .controls { padding: 12px; display: flex; flex-direction: column; gap: 10px; border-bottom: 1px solid var(--rule); }
 label.vis { font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
@@ -107,7 +107,7 @@ footer { color: var(--muted); font-size: .8rem; max-width: 100ch; }
       <div class="zoom">
         <button id="zin" type="button" aria-label="Zoom in">+</button>
         <button id="zout" type="button" aria-label="Zoom out">−</button>
-        <button id="zreset" type="button" aria-label="Reset view">⟲</button>
+        <button id="zreset" type="button" aria-label="Back to the opening view">⟲</button>
       </div>
       <div class="legend" aria-hidden="true">
         <svg width="14" height="14"><rect x="3" y="3" width="8" height="8" transform="rotate(45 7 7)" fill="var(--seat)"/></svg><span>Śaṅkara seat</span>
@@ -174,7 +174,7 @@ const toFeature = rings => ({ type: "Feature", geometry: { type: "MultiPolygon",
 function size() {
   const el = document.getElementById("map");
   const w = el.clientWidth, h = el.clientHeight;
-  proj.fitExtent([[10, 10], [w - 10, h - 10]], { type: "Feature", geometry: { type: "Polygon", coordinates: [[[67, 7], [93, 7], [93, 35.5], [67, 35.5], [67, 7]]] } });
+  proj.fitExtent([[4, 4], [w - 4, h - 4]], { type: "Feature", geometry: { type: "Polygon", coordinates: [[[68.5, 8], [92, 8], [92, 34.5], [68.5, 34.5], [68.5, 8]]] } });
   return [w, h];
 }
 let [W, H] = size();
@@ -222,11 +222,15 @@ function restyle() {
       .classed("dim", d => !shown.has(d.id) || !labelVisible(d));
 }
 
-const zoom = d3.zoom().scaleExtent([1, 24]).on("zoom", e => { k = e.transform.k; g.attr("transform", e.transform); restyle(); });
+const zoom = d3.zoom().scaleExtent([0.8, 24]).on("zoom", e => { k = e.transform.k; g.attr("transform", e.transform); restyle(); });
 svg.call(zoom);
 document.getElementById("zin").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1.7);
 document.getElementById("zout").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1 / 1.7);
-document.getElementById("zreset").onclick = () => svg.transition().duration(300).call(zoom.transform, d3.zoomIdentity);
+function startView() {  // opening view: about 1.4x, centred on peninsular and Gangetic India
+  const [x, y] = proj([78.6, 21.5]), kk = 1.4;
+  return d3.zoomIdentity.translate(W / 2 - kk * x, H / 2 - kk * y).scale(kk);
+}
+document.getElementById("zreset").onclick = () => svg.transition().duration(300).call(zoom.transform, startView());
 
 // ----- filters, list, detail -----
 const q = document.getElementById("q"), regionSel = document.getElementById("region");
@@ -314,5 +318,6 @@ window.addEventListener("resize", () => {
 });
 
 apply();
+svg.call(zoom.transform, startView());
 select(PLACES.findIndex(p => p.name === "Kudli"), false);
 </script>
