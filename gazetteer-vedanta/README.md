@@ -34,10 +34,11 @@ Places with evidence of a rival tradition have a "Rivals:" note (78 entries).
 | Central Provinces and Berar | Daśanāmīs | Grant's *Gazetteer* (1870); CP District Gazetteers (1905–11); Russell & Hira Lal (1916) | `cp/README.md` |
 | revised state gazetteers (third date) | continuity of the earlier institutions and allegiances, 1954–1989 | 37 revised district gazetteers (Maharashtra, Mysore/Karnataka, Madras, UP, Bihar, West Bengal, Orissa, Haryana, MP) | `revised/README.md` |
 | combined map (all six regions) | Daśanāmī and Smārta persons by district, with the Śaṅkara maṭhs, Śṛṅgeri's branches from the Mysore files and the Kudli maṭh's 1934 estates (30 taluks and states), on one map | the census tables and `results/smarta_range.tsv` | `map/combined_map.png` (`map/plot_combined.py`, points in `map/combined_points.tsv`) |
-| places finder | 260 places (colonial districts and states, Śaṅkara seats, branches, Kudli estates, other sites incl. rival centres): source spellings, modern name, district and state, what the study says, where in the repo | all layers | `map/places_map.html`, built from `map/places.tsv` (edit `map/places_data.py`, then run `map/build_geo.py` and `map/build_page.py`) |
+| places finder | 268 places (colonial districts and states, Śaṅkara seats, branches, Kudli estates, other sites incl. rival centres): source spellings, modern name, district and state, what the study says, where in the repo | all layers | `map/places_map.html`, built from `map/places.tsv` (edit `map/places_data.py`, then run `map/build_geo.py` and `map/build_page.py`) |
 | Śṛṅgeri in the Places chapters | where the maṭha, its branches and estates are located | Places chapters of all volumes; Kanara XV-2, Thana XIV, Poona XVIII-3; Rice's *Mysore* (1876, 1897) | `sringeri/README.md` |
 | all Śaṅkara maṭhas (Saṅkeśvar, Karvīr, Kudali, Dvārkā, Jyotirmaṭh, Govardhana, Kumbakoṇam, Śivagaṅgā …) | where each seat and branch is located and what is said there | all volumes, coded by region | `mathas/README.md` |
 | Mysore archive files (1876–1959) | Śṛṅgeri and Kudli as institutions: lands, debts, branches, successions, honours, State management. Includes the Kudli maṭh's estates outside Mysore (the Agent's list of 1934: Dharwar, Bijapur, Belgaum, North Kanara, Bellary, Anantapur, the southern Maratha states) | 338 Karnataka State Archives files | `mathas/archives/README.md` |
+| rivals | the traditions that competed with Śaṅkara's: Bairāgīs, Nāth Jogīs, Udāsīs, Kabīrpanthīs, Mādhva, Śrīvaiṣṇava, Liṅgāyat, Tamil Śaiva, Vallabha, Svāminārāyaṇa and Gauḍīya houses, the reform movements; Benares, Ayodhyā, Mathura and Calcutta | all volumes already read, plus revised Mathura (1968) and Calcutta texts; 615 coded rows | `rivals/README.md` |
 | census caste tables (all regions) | headcounts | UP 1891, Bengal 1901, Bombay 1881, Punjab 1891, CP 1891, Madras 1891, read from page images | `census-images/README.md` |
 
 ## Method
@@ -95,13 +96,16 @@ Main result of the maṭha layers:
   - Kudli (the gazetteers' "Kudalgi"): estates in 30 taluks and states, mainly in Dharwar and Bijapur, listed by
     its Agent in 1934.
 
-Rivals (noted in the synthesis, "Rivals: who else held the ground", not coded systematically):
+Rivals (synthesis, "Rivals: who else held the ground"; coded in `rivals/`: 615 rows):
 - **Vaiṣṇava orders, almost everywhere.** The Rāmānandī Bairāgīs were the Daśanāmīs' direct rival in the north.
   Elsewhere it was the region's own Vaiṣṇava house: Gauḍīya, Vallabha and Svāminārāyaṇa, Mādhva, Śrīvaiṣṇava.
 - **Other Śaiva networks:** Nāth Jogīs, Liṅgāyats, the Tamil non-Brahmin maṭhs.
 - **In the Punjab:** Udāsīs and Nirmalas.
 - **Benares:** Advaita among the learned and Daśanāmī institutions, with Śaiva shrines "greatly" predominating
   over Rāmānandī and Vallabha influence (Nevill 1909).
+- **Wealth:** where both are described, the rival houses are as rich as the Śaṅkara houses or richer
+  (Tiruvāvaḍuturai Rs 2 lakhs against Kumbakoṇam's Rs 14,000; the Bairāgī state of Nandgaon, 560 villages). The
+  Bombay Karnatak, where Saṅkeśvar and Kudli out-endow the Liṅgāyat maṭhs, is the exception.
 - **Calcutta:** almost no Daśanāmīs (3 Atīths, 13 Gosāins in 1901). The ground belonged to Chaitanya Vaiṣṇavism and
   Kālī, and among the educated to the Brahmos.
 - **Census totals of rival orders** (persons; `census-images/README.md`, "Rival orders in the same tables"):
@@ -121,5 +125,5 @@ Open lines:
 - the Bombay and Madras inām records (the Inam Commission's registers) for the Saṅkeśvar and Kudli estates, the
   Puṣpagiri and Virūpākṣa maṭhs, and Kumbakoṇam. They are not online; see `mathas/README.md`;
 - the maṭhs' own records (Śṛṅgeri, Saṅkeśvar, Kudli, Kumbakoṇam, Bodh Gayā).
-- a comparative coding of the rival groups (Bairāgīs, Jogīs, Udāsīs, the Vaiṣṇava houses, Liṅgāyats) from the
-  volumes and census tables already read, and the Calcutta gazetteer.
+- the rival seats in districts not yet downloaded (Srirangam, Ahobila, Śrīperumbudūr; the Chhattisgarh Feudatory
+  States) and legible Calcutta census tables (1901, 1911); see `rivals/README.md`.

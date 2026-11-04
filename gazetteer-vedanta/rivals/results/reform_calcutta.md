@@ -36,35 +36,35 @@ Total: 164 rows, plus a final `# generic` line.
 
 *Brahmo Samāj*
 - Hunter (1875–77) counts Brahmos district by district and records hostile orthodox counter-societies:
-  - Dacca: about 300 attenders, 100 subscribers and about 1,000 sympathisers in 1869, against a Hindu Dharma Rakshini Sabhā (R063–064).
-  - Comilla: founded in 1854 under a disguised name; a Dharma Sabhā "almost extinguish[ed]" it, leaving 21 members (R067).
-  - Rampur Beauleah: a Purāṇic Dharma Sabhā with "several thousand members" against the Rajshahi Samāj (R068).
-  - Ranaghat: a "Sanatan Dharma Rakshini Sabha … for the preservation of orthodox idolatrous Hinduism" (R071).
-  - Hugli: 6 Brahmos in the census against about 1,200 estimated by the Collector (R072).
+  - Dacca: about 300 attenders, 100 subscribers and about 1,000 sympathisers in 1869, against a Hindu Dharma Rakshini Sabhā (R064–065).
+  - Comilla: founded in 1854 under a disguised name; a Dharma Sabhā "almost extinguish[ed]" it, leaving 21 members (R068).
+  - Rampur Beauleah: a Purāṇic Dharma Sabhā with "several thousand members" against the Rajshahi Samāj (R069).
+  - Ranaghat: a "Sanatan Dharma Rakshini Sabha … for the preservation of orthodox idolatrous Hinduism" (R072).
+  - Hugli: 6 Brahmos in the census against about 1,200 estimated by the Collector (R073).
 - Outside Bengal, Brahmos are Bengali expatriates:
-  - Lucknow: 28 of the 37 Brahmos in the whole United Provinces in 1901 (R057).
-  - Hazaribagh: 20, all from Bengal (R075).
+  - Lucknow: 28 of the 37 Brahmos in the whole United Provinces in 1901 (R056).
+  - Hazaribagh: 20, all from Bengal (R076).
   - Bangalore: 14 (R008).
   - South Arcot: one failed preacher (R007).
-  - Banda: a failed attempt in 1865 (R033).
-- Russell (1916) gives 5,500 Brahmos in India and 32 in the Central Provinces in 1911 (R018).
+  - Banda: a failed attempt in 1865 (R031).
+- Russell (1916) gives 5,500 Brahmos in India and 32 in the Central Provinces in 1911 (R028).
 
 *Ārya Samāj*
 - The United Provinces volumes of 1903–11 give a district-by-district growth series. Most districts doubled or more between 1891 and 1901:
-  - Bulandshahr 12,298, "the great headquarters" (R043);
-  - Meerut 5,056 (R041);
+  - Bulandshahr 12,298, "the great headquarters" (R041);
+  - Meerut 5,056 (R039);
   - Muzaffarnagar 3,122;
   - Budaun 2,880;
-  - Agra 2,354 (490 of them Brahmans; R046);
+  - Agra 2,354 (490 of them Brahmans; R044);
   - Farrukhabad 2,155;
   - Lucknow 553 falling to 378.
-- India-wide: 92,000 in 1901 and nearly 250,000 in 1911; 974 in the Central Provinces (R015).
-- In Lahore the 1911 census figure is 5,729 Āryas against 81,219 "Sanatan Dharma" (R024).
-- Institutions: the DAV College, Lahore (endowment Rs 11,56,768; R025); orphanages at Bareilly (Rs 10,000 a year; R049), Bhiwani (600 children; R021) and Ferozepore.
-- Splits: the meat-eating versus vegetarian split of 1893 (R026, R032).
+- India-wide: 92,000 in 1901 and nearly 250,000 in 1911; 974 in the Central Provinces (R026).
+- In Lahore the 1911 census figure is 5,729 Āryas against 81,219 "Sanatan Dharma" (R018).
+- Institutions: the DAV College, Lahore (endowment Rs 11,56,768; R019); orphanages at Bareilly (Rs 10,000 a year; R048), Bhiwani (600 children; R014) and Ferozepore.
+- Splits: the meat-eating versus vegetarian split of 1893 (R020, R025).
 
 *Sanātan Dharm Sabhās and the Bharat Dharma Mahāmaṇḍal*
-- Sanātan Dharm Sabhās appear explicitly as anti-Ārya opposition at Agra (R047) and Moradabad (R055). Elsewhere they appear as school-running bodies: Sialkot 1889, Jullundur, Karnal (R022–023, R030).
+- Sanātan Dharm Sabhās appear explicitly as anti-Ārya opposition at Agra (R045) and Moradabad (R055). Elsewhere they appear as school-running bodies: Sialkot 1889, Jullundur, Karnal (R016–017, R024).
 - The Bharat Dharma Mahāmaṇḍal appears only in Nevill's Benares (1909): 6,000 members, president the Maharaja of Darbhanga, aims "orthodoxy", organising "the scattered forces of Hinduism" (R062).
 
 *Prārthanā Samāj*
@@ -73,72 +73,72 @@ Total: 164 rows, plus a final `# generic` line.
 - The Pandharpur famine orphanage of 1878 was run by the Bombay Samāj (R003).
 
 *Theosophy*
-- Meerut: 11 members (R042).
+- Meerut: 11 members (R040).
 - Benares: the Indian section headquarters with nearly 4,600 members. There it "acts principally as an interpreter of Hinduism", with quasi-scientific defences of idols, mantras and Ganges bathing (R061).
 
 *Ramakrishna movement*
 - Before 1921 it appears in only three volumes:
-  - Howrah 1909 (Belur, R079–081);
-  - Pabna 1905 (a relief branch at Sirajganj, R082);
+  - Howrah 1909 (Belur, R080–082);
+  - Pabna 1905 (a relief branch at Sirajganj, R083);
   - Benares 1909 (Home of Service, Rs 3,000 a year, R063).
 - No figures: the 1909 Howrah volume notes that followers returned themselves as Hindus.
-- The 24 Parganas 1914 volume describes Dakshineswar only as Rani Rasmani's temples (R077). Cotton's 1907 *Calcutta* never mentions Ramakrishna or Belur (R131).
+- The 24 Parganas 1914 volume describes Dakshineswar only as Rani Rasmani's temples (R079). Cotton's 1907 *Calcutta* never mentions Ramakrishna or Belur (R131).
 
 **2. Revised volumes (1954–89) treat the movements as the renaissance behind nationalism, and the Ramakrishna movement as an establishment.**
 - The revised volumes carry roughly three times as many reform passages per volume as the colonial ones: about 228 generic passages in 34 volumes, against 202 in about 100.
 - The Bihar volumes (Shahabad 1966, Saran 1960, Bhagalpur 1962) share boilerplate:
   - The movements were "more a reorientation of Hinduism … not opposed to the basic ideas of Hinduism".
-  - "The followers of Dayanand … are believers of monism" (an error), while Brahmos hold "monotheism of the Upanishads" (R084).
+  - "The followers of Dayanand … are believers of monism" (an error), while Brahmos hold "monotheism of the Upanishads" (R097).
 - Conflict narratives survive only as history:
-  - Monghyr's Sanātan Dharma Sabhā was set up "as counterpoise to the Brahmo Samaj" (R089).
-  - The Gogri Ārya Samāj was burnt in 1919 (R090).
-  - Dayānand's 1869 disputations with the Benares pandits "who represent Hindu orthodoxy" (R098).
-  - Ahmadnagar's "Sanatanist" party fought a "rear-guard action" (R121).
-  - New conflicts are communal, not orthodox-versus-reform: the Sasaram riot of 1936 (R083) and the Mahabiri Jhanda processions (R124).
+  - Monghyr's Sanātan Dharma Sabhā was set up "as counterpoise to the Brahmo Samaj" (R101).
+  - The Gogri Ārya Samāj was burnt in 1919 (R102).
+  - Dayānand's 1869 disputations with the Benares pandits "who represent Hindu orthodoxy" (R110).
+  - Ahmadnagar's "Sanatanist" party fought a "rear-guard action" (R126).
+  - New conflicts are communal, not orthodox-versus-reform: the Sasaram riot of 1936 (R096) and the Mahabiri Jhanda processions (R129).
 - Ārya growth series continue to 1951:
-  - Moradabad: 1,305 to 13,132 (R114).
-  - Bareilly: 351 to 3,835, with 39 branches (R115).
-  - Gorakhpur: 1,666 (R116).
-- Karnal (1976) says the Samāj "has begun to lose its former hold" (R117).
+  - Moradabad: 1,305 to 13,132 (R119).
+  - Bareilly: 351 to 3,835, with 39 branches (R120).
+  - Gorakhpur: 1,666 (R121).
+- Karnal (1976) says the Samāj "has begun to lose its former hold" (R122).
 - The Brahmos have shrunk to relics:
-  - Howrah: 85 in 1901 and 63 in 1961, "thrived only in the rural areas" (R110).
-  - Bhagalpur: "now … a few" families (R092).
-  - Puri: a mandir of 1930 kept up by summering Calcutta Brahmos (R097).
-- Theosophy appears mainly through Besant's Home Rule League and her colleges: Varanasi (R099), Madurai (R122).
+  - Howrah: 85 in 1901 and 63 in 1961, "thrived only in the rural areas" (R095).
+  - Bhagalpur: "now … a few" families (R104).
+  - Puri: a mandir of 1930 kept up by summering Calcutta Brahmos (R109).
+- Theosophy appears mainly through Besant's Home Rule League and her colleges: Varanasi (R111), Madurai (R127).
 - The Bharat Dharma Mahāmaṇḍal has vanished from revised Varanasi (1965).
 
 *The Ramakrishna movement is the main growth story of the revised volumes:*
-- Howrah 1972 gives a whole appendix (pp. 619–625; R107):
+- Howrah 1972 gives a whole appendix (pp. 619–625; R092):
   - the order founded on 19 October 1886 "to raise a band of sannyasi teachers of Vedanta";
   - Belur bought for Rs 39,000 and consecrated on 9 December 1898;
   - 115 branch centres;
   - 11 hospitals with 1,259 beds;
   - 44,368 boys and 18,535 girls in its schools in 1966.
 - Branches are recorded at:
-  - Kamarpukur, 1947 (R102);
-  - Bhubaneswar, 1919 (R096);
+  - Kamarpukur, 1947 (R088);
+  - Bhubaneswar, 1919 (R108);
   - Puri, 1944;
-  - Varanasi, with 123 beds (R100);
-  - Mayavati's Advaita Ashrama, 1899 (R101);
-  - Allahabad, "for the preaching of Vedant philosophy" (R111);
-  - Bhagalpur, 1959 (R093);
-  - Raipur, 1957 (R106);
-  - Jabalpur, 1946 (R104);
-  - Mangalore, 1951 (R105).
-- Monghyr claims "hundreds of adherents" (R091).
+  - Varanasi, with 123 beds (R112);
+  - Mayavati's Advaita Ashrama, 1899 (R113);
+  - Allahabad, "for the preaching of Vedant philosophy" (R118);
+  - Bhagalpur, 1959 (R105);
+  - Raipur, 1957 (R115);
+  - Jabalpur, 1946 (R114);
+  - Mangalore, 1951 (R117).
+- Monghyr claims "hundreds of adherents" (R103).
 
 **3. Links between the Ramakrishna movement and Śaṅkara, Advaita or the Daśanāmīs.** Only three texts make any link, and each makes it in a different way.
-- **Doctrinal, colonial: Howrah 1909** (R080). The text quotes Max Müller: Ramakrishna preached the Upaniṣadic religion "systematised later on in the Sūtras of Bādarāyaṇa, and finally developed in the commentaries of Samkara and others". The Mission's tenets "on the philosophical side have a Vedantic basis". The volume says nothing of sannyāsa lineage.
-- **Initiatory, revised: Hooghly 1972** (R100–101; p. 759). Ramakrishna was led "through the jnana path of Advaita" by "the extraordinary Vedantic monk Totapuri" and took his name "as part of the ceremony of monastic initiation". The text never says that Totāpurī was a Daśanāmī (Purī). The Antpur sannyāsa vow of 24 December 1886 is likewise told without reference to any order.
-- **Institutional, revised: Puri 1977** (R095; Appendix III, p. 845). The list of Puri maths, which gives each math's "Type, Sect (Sampradaya)", files the Ramakrishna Matha as "Dashnami Sannyasi". It sits next to Sankarananda ("Dandi Sannyasi") and the Govardhana (Śaṅkarācārya) math. The pairing is read from a two-column table broken by the OCR, so confidence is medium.
+- **Doctrinal, colonial: Howrah 1909** (R081). The text quotes Max Müller: Ramakrishna preached the Upaniṣadic religion "systematised later on in the Sūtras of Bādarāyaṇa, and finally developed in the commentaries of Samkara and others". The Mission's tenets "on the philosophical side have a Vedantic basis". The volume says nothing of sannyāsa lineage.
+- **Initiatory, revised: Hooghly 1972** (R086–087; p. 759). Ramakrishna was led "through the jnana path of Advaita" by "the extraordinary Vedantic monk Totapuri" and took his name "as part of the ceremony of monastic initiation". The text never says that Totāpurī was a Daśanāmī (Purī). The Antpur sannyāsa vow of 24 December 1886 is likewise told without reference to any order.
+- **Institutional, revised: Puri 1977** (R107; Appendix III, p. 845). The list of Puri maths, which gives each math's "Type, Sect (Sampradaya)", files the Ramakrishna Matha as "Dashnami Sannyasi". It sits next to Sankarananda ("Dandi Sannyasi") and the Govardhana (Śaṅkarācārya) math. The pairing is read from a two-column table broken by the OCR, so confidence is medium.
 - The 1972 Howrah appendix, written from the Mission's own literature, speaks of "sannyasi teachers of Vedanta" but names neither Śaṅkara nor the Daśanāmī orders.
 
 The Brahmo founder is tied to Śaṅkara more explicitly than Ramakrishna is:
-- Atkinson (1884) cites Rammohun Roy as "a diligent student of Sankara's works" who dated Śaṅkara by "the spiritual generations of the followers of Sankara Swami" (R032).
-- Russell (1916) calls Rammohun's monotheism "based … upon the Vedanta philosophy … a disguised Pantheism" (R019).
-- Hooghly 1972 says he was "deeply influenced by Samkara and mainly sticks to the latter's position", except that liberation was "no monopoly of sanyasins" (R103).
+- Atkinson (1884) cites Rammohun Roy as "a diligent student of Sankara's works" who dated Śaṅkara by "the spiritual generations of the followers of Sankara Swami" (R030).
+- Russell (1916) calls Rammohun's monotheism "based … upon the Vedanta philosophy … a disguised Pantheism" (R029).
+- Hooghly 1972 says he was "deeply influenced by Samkara and mainly sticks to the latter's position", except that liberation was "no monopoly of sanyasins" (R089).
 
-**4. Calcutta** (R133–164, together with R076–077 and R131–132)
+**4. Calcutta** (R133–164, together with R073–074, R079 and R131–132)
 - **Brahmos.**
   - Calcutta town had 1,799 in 1901, up from 702 in 1891.
   - 936 lived in Jorasanko and Jorabagan, seat of the Adi and Sadharan Samājes, and 253 in Moochipara, seat of the New Dispensation.
@@ -159,13 +159,13 @@ The Brahmo founder is tied to Śaṅkara more explicitly than Ramakrishna is:
 
 - **Colonial texts give the reform movements and the Daśanāmīs opposite profiles.**
   - The reform movements are urban, English-educated and countable: dozens to a few thousand per district, and 12,298 at the Ārya peak in Bulandshahr.
-  - The Daśanāmī orders are rural, endowed and almost uncounted: 190 "Sivaite" Sannyāsīs in Murshidabad sit on the same page as the Berhampore Brahmos' 50 members (R070).
+  - The Daśanāmī orders are rural, endowed and almost uncounted: 190 "Sivaite" Sannyāsīs in Murshidabad sit on the same page as the Berhampore Brahmos' 50 members (R071).
 - **No colonial text sets a reform movement against a Śaṅkara seat or a Daśanāmī maṭh.** The orthodox opponents are lay Dharma Sabhās, Sanātan Dharm Sabhās and the Benares pandits. The Bharat Dharma Mahāmaṇḍal is described with no Śaṅkarācārya connection.
 - **Calcutta area.**
   - Hooghly 1972 is the only text there that ties any institution to Śaṅkara by name. It reports a court finding that the Tarakeswar math "is governed by the Sankaracharya school of thought" and calls the Daśanāmīs up-country men with "no roots in the soil of Bengal".
   - Howrah 1972 notes a "Sankar Math" at Ramrajatala, founded in 1919 and named after "Jagatguru Sri Sri Sankaracharyya", now known mainly for its homoeopathic college. This is noted here and not coded, because it is Śaṅkara's own following.
   - The Ramakrishna order, the one body that carries Advaita sannyāsa into modern Bengal, is never placed beside these Daśanāmī maths in the Calcutta-area texts. The only filing of a Ramakrishna house under "Dashnami Sannyasi" is in Puri.
-- **South Kanara (1973), Śṛṅgeri's home region.** Brahmo (Mangalore, 1870/1903) and Ramakrishna institutions (1951, 1953) appear among a long list of modern movements, with no relation to Śṛṅgeri drawn (R105–106).
+- **South Kanara (1973), Śṛṅgeri's home region.** Brahmo (Mangalore, 1870/1903) and Ramakrishna institutions (1951, 1953) appear among a long list of modern movements, with no relation to Śṛṅgeri drawn (R116–117).
 
 ## Limits
 

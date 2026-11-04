@@ -231,6 +231,28 @@ The census tables read for the Daśanāmīs also count their rivals (persons; `c
 - The Daśanāmī foundations nearby (Bhot-Bagān at Howrah, Tārakeśvar in Hooghly) were rich and had few followers.
 - Popular religion belonged to Chaitanya Vaiṣṇavism and Kālī, educated religion to the Brahmos.
 
+### What the coding of the rivals adds (`rivals/README.md`)
+
+- **Wealth: the rivals are as rich or richer wherever both are described.**
+  - Tiruvāvaḍuturai, about Rs 2 lakhs a year, against Rs 14,000 for the Kumbakoṇam Śaṅkara maṭh.
+  - Purī's 29 landed maṭhs drew Rs 1,45,400 (1848); the Govardhan maṭh has no stated estate.
+  - The Bairāgī state of Nandgaon (560 villages) against Dharampuri's 40 Gosāin villages.
+  - The Udāsī and Nāth seats hold the Punjab's sanad lands.
+  - The exception is the Bombay Karnatak, where Saṅkeśvar and Kudli out-endow the Liṅgāyat maṭhs.
+- **Followings: larger, and beyond Brahmans.**
+  - Gujarat: Vallabhas 647,256 and Svāminārāyaṇs 287,687 (1901).
+  - Kadur, Śṛṅgeri's own district: Liṅgāyats outnumber all Brahmans two to one.
+  - CP: Kabīrpanthī and Satnāmī gaddīs had lay followings in the hundreds of thousands.
+- **Three cities:**
+  - Benares: Śaṅkara's following is institutionally present at every date; its Gosāin estates vanish by 1965.
+  - Ayodhyā: a Bairāgī town in every layer, although the district returns 5,371 Daśanāmīs.
+  - Mathura: no Śaṅkara following at any date ("Gosāin" there means a Vaiṣṇava lineage).
+- **Conflict: rare.** The recorded cases are Hardwar (1760), Hanumāngaṛhī, the Kudalgi palanquin suit and Śṛṅgeri's
+  1881 Kuṇbī gain. Most disputes run inside the rival traditions.
+- **Reform movements.** Colonial texts count the Brahmos and the Ārya Samāj but never set them against a Śaṅkara
+  seat. The revised volumes make the Ramakrishna movement the growth story.
+- **Calcutta, 1901:** 1,799 Brahmos and 14,079 Baishnabs, with no Sannyāsī heading.
+
 ## 5. Lessons about the sources
 
 1. **Compilers made the map.**
@@ -267,15 +289,15 @@ The census tables read for the Daśanāmīs also count their rivals (persons; `c
 
 ## 6. Possible next steps
 
-- **Done (`census-images/`):** the census caste tables for UP 1891 (Goshain by district, Daśanāmī 103,320),
-  Bengal 1901 (Atith 50,042, Gosain 29,534) and Bombay 1881 (Gosávi 33,851) were read from page images and
-  reconciled with the printed totals. Punjab, CP and Madras
-  1891 added: Punjab Gosain 9,903 and Sanniasi 5,163; CP Gosain 24,796 (Giri 9,333, Puri 6,050); Madras Tamil
-  Brahmans 48% Smārta sub-castes against 23% Aiyaṅgār.
-- **Done (`revised/`):** the revised state gazetteers (1954–1989) as a third date. Missing: North Kanara,
-  Belgaum, Thanjavur, Tirunelveli, Chingleput, Hoshangabad, Kangra, Meerut and Nagpur (not on IA or
-  unusable).
-- **Maṭha records and inām registers** (Śṛṅgeri, Saṅkeśvar, Kumbakoṇam, Bodh Gayā) to test what the gazetteers
-  only glimpse.
-- **A map** of all six regions on one projection: Smārta shares (south/west) and Daśanāmī densities
-  (north/east).
+Done: the census tables from page images (`census-images/`), the third date (`revised/`), a combined map of all six
+regions with the maṭhs (`map/`), the maṭha layers (`sringeri/`, `mathas/`, `mathas/archives/`) and the rivals
+(`rivals/`).
+
+Still open, none of it available online:
+- **The Inam Commission registers** and the maṭhs' own records (Śṛṅgeri, Saṅkeśvar, Kudli, Kumbakoṇam, Bodh
+  Gayā).
+- **Missing revised volumes:** North Kanara, Belgaum, Thanjavur, Tirunelveli, Chingleput, Hoshangabad, Kangra,
+  Meerut and Nagpur (not on IA or unusable).
+- **Missing rival seats:** the districts of Srirangam, Ahobila and Śrīperumbudūr (Trichinopoly, Kurnool, Ramnad), the
+  Chhattisgarh Feudatory States gazetteer, and legible Calcutta census tables for 1901 and 1911. These would
+  complete the rivals layer.

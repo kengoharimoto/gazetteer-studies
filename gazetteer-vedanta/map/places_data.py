@@ -490,6 +490,41 @@ for p in P:
         if p["name"] == "South Canara" and "sringeri/" not in p["refs"]:
             p["refs"] += "; sringeri/"
 
+# ---------------- Rival seats and facts from the coded rivals layer (rivals/README.md) ----------------
+add("Lormi", "", "Lormi", "Mungeli", "Chhattisgarh", 22.28, 81.70, "site", "CP",
+    "Rival seat: a Bairāgī estate of 103–104 villages, a Bhonsla grant of 1826 that passed from the chela to his four sons (rivals N-coding).", "rivals/")
+add("Tilla", "Tilla Jogian; Gorakh Tilla", "Tilla Jogian", "Jhelum", "Pakistan (Punjab)", 32.88, 73.36, "site", "Punjab",
+    "Rival seat: the chief Nāth (Kānphaṭā) monastery of the Punjab, with Akbar's sanad for a jagir, resumed over a murder for the gaddī and later restored (rivals N-coding).", "rivals/")
+add("Bohar", "", "Bohar", "Rohtak", "Haryana", 28.86, 76.65, "site", "Punjab",
+    "Rival seat: a Kānphaṭā (Nāth) maṭh holding land; Rohtak's 299 asthals on 2,725 acres are half Bairāgī, with the Gosāins fourth (rivals N-coding).", "rivals/")
+add("Dera Baba Nanak", "", "Dera Baba Nanak", "Gurdaspur", "Punjab", 32.03, 75.03, "site", "Punjab",
+    "Rival seat: Udāsī institution with a jagir of Rs 2,602 (rivals N-coding).", "rivals/")
+add("Tiruvāvaḍuturai", "Tiruvaduturai; Tiruvavaduturai", "Thiruvavaduthurai", "Mayiladuthurai", "Tamil Nadu", 11.03, 79.53, "site", "Madras",
+    "Rival seat: non-Brahmin Śaiva ādhīnam, about 29,000 acres and Rs 2 lakhs a year, against about Rs 14,000 for the Kumbakoṇam Śaṅkara maṭh (Tanjore 1906; rivals S-coding).", "rivals/; mathas/")
+add("Dharmapuram", "", "Dharmapuram", "Mayiladuthurai", "Tamil Nadu", 11.08, 79.65, "site", "Madras",
+    "Rival seat: non-Brahmin Śaiva ādhīnam; head of the 'Sudra maths' listed first among Tanjore's chief maṭhs (1906), superior of Tiruppanandāḷ (Rs 80,000 a year).", "rivals/; mathas/")
+add("Chitradurga", "Chitaldrug; Chitaldroog; Chitaldurg", "Chitradurga", "Chitradurga", "Karnataka", 14.23, 76.40, "site", "Mysore",
+    "Rival seat: the Murugha maṭh, supreme guru of the Liṅgāyats; Kanara's 14,812 Konkan Kuṇbīs left 'the Lingayat guide of Chitaldurg' for Śṛṅgeri in 1881; the hill maṭh stood deserted owing to 'the opposition of other sects' (rivals S-coding).", "rivals/; sringeri/")
+add("Vadtal", "Vartal; Wadtal", "Vadtal", "Kheda", "Gujarat", 22.60, 72.87, "site", "Bombay",
+    "Rival seat: one of the two Svāminārāyaṇa seats; feeds 500–1,000 inmates and draws 20,000 pilgrims a festival; Svāminārāyaṇs 287,687 in 1901 (rivals S-coding).", "rivals/")
+RIVALS2 = {
+    "Nandgaon": "Rivals (coded): a Bairāgī Feudatory State of 560 villages, granted 1723; succession by adoption (Grant 1870) or primogeniture (Russell 1916).",
+    "Kawardha": "Rivals (coded): seat of a Kabīrpanthī gaddī line claiming 500,000 followers; rival mahants litigated up to the Bombay High Court.",
+    "Gonda": "Rivals (coded): the Nānakshāhī (Udāsī) taluqdar of Maswasi held 17,215 acres in the district.",
+    "Ahmedabad": "Rivals (coded): in the city Svāminārāyaṇa sādhus (315) outnumber Gosāīs and Vairāgīs (261).",
+    "Bilaspur": "Rivals (coded): Bairāgīs own 156 of the district's 2,242 villages; Kabīrpanthīs 99,260.",
+    "Ayodhyā": "Rivals (coded): Hanumāngaṛhī's Nirbānī akhāṛā had 300–400 resident disciples (1877), 250 (1905), at most 200 (1960), but grew richer; the Gosāins' expulsion from it is told only in 1960.",
+    "Purī (Govardhana maṭha)": "Rivals (coded): 29 Purī maṭhs drew Rs 1,45,400 a year from land in 1848; Śaṅkara-line houses are about 7 of some 130 in 1977.",
+    "Calcutta": "Rivals (coded): the 1901 report counts 1,799 Brahmos (Jorasanko, Jorabagan, Moochipara) and 14,079 Baishnabs, with no Sannyāsī heading.",
+    "Saharanpur": "Rivals (coded): at Kankhal Gokul Dās Udāsī held 3,199 acres against Bhola Gir Goshain's 4,024; the Bairāgīs lost the 1760 Hardwar battle with 1,800 dead.",
+    "Dehra Dun": "Rivals (coded): the largest landholder is the Udāsī Guru Ram Rai temple (Dehra itself and five revenue-free villages).",
+}
+for p in P:
+    if p["name"] in RIVALS2 and "Rivals (coded):" not in p["note"]:
+        p["note"] = (p["note"] + " " + RIVALS2[p["name"]]).strip()
+        if "rivals/" not in p["refs"]:
+            p["refs"] = (p["refs"] + "; rivals/").strip("; ")
+
 if __name__ == "__main__":
     import csv
     cols = ["name", "variants", "modern", "district", "state", "lat", "lon", "kinds", "region", "note", "refs"]
