@@ -53,7 +53,7 @@ h1 { font-family: var(--serif); font-weight: 600; font-size: 1.6rem; margin: 0; 
 .pt.branch { fill: var(--panel); stroke: var(--seat); stroke-width: 1.4; }
 .pt.site { fill: var(--panel); stroke: var(--ochre); stroke-width: 1.4; }
 .pt.dim { opacity: .18; }
-.pt.sel { stroke: var(--focus); stroke-width: 3; }
+.pt.sel { stroke: var(--focus); stroke-width: 2.2; }
 .lbl { font-family: var(--sans); fill: var(--ink); paint-order: stroke; stroke: var(--sea); stroke-width: 3px; stroke-linejoin: round; pointer-events: none; }
 .lbl.seat { font-weight: 600; }
 .lbl.dim { opacity: 0; }
@@ -186,7 +186,7 @@ drawBase();
 const ordered = PLACES.slice().sort((a, b) => RANK[b.main] - RANK[a.main]);
 let k = 1;
 function shape(p) {
-  const s = (p.main === "district" ? 3.6 : p.main === "seat" ? 5.6 : 4.4) / Math.sqrt(k);
+  const s = (p.main === "district" ? 2.6 : p.main === "seat" ? 4.4 : 3.4) / k;  // constant size on screen at every zoom
   if (p.main === "seat" || p.main === "branch") return `M0,${-s}L${s},0L0,${s}L${-s},0Z`;
   if (p.main === "site") { const t = s * 0.85; return `M${-t},${-t}H${t}V${t}H${-t}Z`; }
   return d3.arc()({ innerRadius: 0, outerRadius: s, startAngle: 0, endAngle: 2 * Math.PI });
@@ -213,7 +213,7 @@ function restyle() {
   ptSel.attr("d", shape);
   lbls.attr("font-size", d => (d.main === "seat" ? 12 : 11) / k)
       .attr("stroke-width", 3 / k)
-      .attr("dx", 7 / k).attr("dy", 4 / k)
+      .attr("dx", 6 / k).attr("dy", 3.5 / k)
       .classed("dim", d => !shown.has(d.id) || !labelVisible(d));
 }
 
