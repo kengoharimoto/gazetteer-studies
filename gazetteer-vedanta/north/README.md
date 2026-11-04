@@ -142,6 +142,25 @@ Allahabad, Benares and Kheri.
    Vallabha and Chaitanya lineage heads, and these are coded OTHER. Kedarnath and Ukhimath are under *Jangam*
    (Vīraśaiva) "gosains".
 
+### Rival seats in the same districts
+
+From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/coded/BAM.tsv` and `N.tsv`):
+
+| district | rival seat (tradition) | what the texts give it | Daśanāmī comparison in the same place |
+|---|---|---|---|
+| Fyzabad | Hanumāngaṛhī, Ayodhyā (Nirbānī akhāṛā, Bairāgī) | 300–400 resident disciples (1877), 250 (1905), at most 200 (1960); land in five districts, money-lending | the Gosāins, said to have held Hanumāngaṛhī, were driven out (told only in 1960); 5,371 Daśanāmīs in the district (1891) |
+| Gorakhpur | Gorakhnāth maṭh (Nāth) | "flourishing" on offerings; no villages stated | Ram Ratangir's 36 villages; 7,010 Daśanāmīs (1891) |
+| Saharanpur | Kankhal: Gokul Dās Udāsī | 3,199 acres | Bhola Gir Goshain, 4,024 acres |
+| Dehra Dun | Guru Ram Rai temple (Udāsī) | the largest landholder: Dehra itself and five revenue-free villages | no Daśanāmī estate of that size |
+| Gonda and Unao | Maswasi (Nānakshāhī/Udāsī taluqdar) | 17,215 acres in Gonda; 28 villages in Unao | Itara and Srinagar mahants; Gosāins' 34 villages in 1905 |
+| Benares | Gopāl Mandir (Vallabha); Udāsīs; Jaṅgam math; Kabīr Chaura; Kinaram (Aghorī) | 10 villages; 1,046 acres; 1,054 acres; about 400 Kabīrpanthīs | Gosāins' 10,304 acres; three Nāgā akhāṛās; the Daṇḍī satra |
+| Muttra | Dwārkādhīś and Rangjī temples (Vaiṣṇava) | 11,810 and 1,878 acres; Rangjī cost Rs 57,000–60,000 a year | no Daśanāmī house at any date |
+| Jaunpur | Hariharpur (Aghorī) | the only Aghorī institution found | (none) |
+
+- **Where the Daśanāmīs match or lead:** at Benares and on the upper Ganges (Kankhal) they match or exceed the
+  rivals.
+- **Where the rivals lead:** Ayodhyā, Mathura and Oudh's Udāsī taluqa, which the Daśanāmīs have nothing to match.
+
 ## 3. Findings in relation to Bombay and Madras
 
 1. **The same institution, a different social form.**
