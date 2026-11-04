@@ -169,12 +169,15 @@ const svg = d3.select("#map");
 const g = svg.append("g");
 const proj = d3.geoMercator();
 const path = d3.geoPath(proj);
-const toFeature = rings => ({ type: "Feature", geometry: { type: "MultiPolygon", coordinates: rings.map(r => [r]) } });
+// d3 reads ring orientation on the sphere: a ring wound the "wrong" way means the whole globe outside it.
+// Reverse any ring whose spherical area exceeds a hemisphere.
+const fixRing = r => d3.geoArea({ type: "Polygon", coordinates: [r] }) > 2 * Math.PI ? r.slice().reverse() : r;
+const toFeature = rings => ({ type: "Feature", geometry: { type: "MultiPolygon", coordinates: rings.map(r => [fixRing(r)]) } });
 
 function size() {
   const el = document.getElementById("map");
   const w = el.clientWidth, h = el.clientHeight;
-  proj.fitExtent([[4, 4], [w - 4, h - 4]], { type: "Feature", geometry: { type: "Polygon", coordinates: [[[68.5, 8], [92, 8], [92, 34.5], [68.5, 34.5], [68.5, 8]]] } });
+  proj.fitExtent([[4, 4], [w - 4, h - 4]], { type: "MultiPoint", coordinates: [[68.5, 8], [92, 34.5], [68.5, 34.5], [92, 8]] });
   return [w, h];
 }
 let [W, H] = size();
