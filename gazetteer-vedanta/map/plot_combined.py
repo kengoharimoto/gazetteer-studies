@@ -303,7 +303,11 @@ leg = fig.legend(handles=handles, loc="lower left", bbox_to_anchor=(0.02, 0.11),
 for t in leg.get_texts():
     t.set_color(INK)
 ax.set_title("Śaṅkara's following in British India: Daśanāmī and Smārta persons, and the maṭhas",
-             fontsize=12, color=INK, loc="left", pad=10)
+             fontsize=12, color=INK, loc="left", pad=32)
+ax.text(0, 1.006, "Regional, not dominant: as an organised following it led only on the Kanara coast, among Tamil Brahmans, "
+        "in the eastern Ganges plain\nand in the Bombay Karnatak. Elsewhere Vaiṣṇava, Nāth, Udāsī, Bairāgī or Liṅgāyat "
+        "bodies held the larger followings (purple crosses).",
+        transform=ax.transAxes, ha="left", va="bottom", fontsize=7.6, color=MUTED, style="italic")
 import textwrap
 FOOT = ("Circle area ∝ persons. Daśanāmī: UP 1891 Goshain-Dasnami, Bengal 1901 Atīth, CP & Punjab 1891 Gosain/Sanniasi, Madras 1891 Sanyāsī; Smārta: Bombay castes asserted Smārta (1880s gazetteers), Tamil Madras 1891 Smārta Brahman sub-castes.\nThe two layers count different things (an order and caste vs a Brahman sect "
          "or caste allegiance) and come from different dates; Smārtas are mapped only where the sources allow "
