@@ -140,8 +140,9 @@ regional picture is in the synthesis, "Rivals: who else held the ground". None o
     Bairāgī dominance.
 - **Nāth Jogīs.** The Gorakhnāth maṭh at Gorakhpur. In Karnal the Gosāin temple priests give way to "Jogis … of the
   Kanphara clan".
-- **Tamil non-Brahmin Śaiva maṭhs.** Dharmapuram, Tiruvāvaḍuturai, Tiruppanandāl and Tiruppugalūr outrank the
-  Kumbakoṇam Śaṅkara maṭh in the Tanjore gazetteer's list of the district's chief maṭhs (1906, p. 72).
+- **Tamil non-Brahmin Śaiva maṭhs.** The Tanjore gazetteer's list of the district's chief maṭhs (1906, p. 72)
+  names the "Sudra maths" of Dharmapuram, Tiruvāvaḍuturai, Tiruppanandāl and Tiruppugalūr first. It names the
+  Kumbakoṇam Śaṅkara maṭh last.
 - **Calcutta.** No Śaṅkara maṭh is located in the city. The Daśanāmī foundations nearby (Bhot-Bagān, Tārakeśvar)
   stand in a landscape of Gauḍīya Vaiṣṇava "circles" and Kālī worship (24 Parganas 1914).
 
