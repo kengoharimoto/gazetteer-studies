@@ -406,6 +406,48 @@ add("Dakshineswar", "Dakhineswar", "Dakshineswar", "North 24 Parganas", "West Be
 add("Uḍupi", "Udipi; Udupi", "Udupi", "Udupi", "Karnataka", 13.34, 74.75, "site", "Madras",
     "Rival centre: seat of the Mādhva maṭhs; Kanara and South Canara Vaiṣṇava Brahmans' guru is 'a Tulu Brahman, who lives in celibacy at the Vaishnav monastery at Udipi'.", "results/; madras/")
 
+# ---------------- Rivals: notes appended to place entries (synthesis, "Rivals: who else held the ground") ----------------
+_PUNJAB = "Rivals: in the Punjab the Jogīs, the Sikh-linked Udāsīs and the Bairāgīs dominate; Daśanāmīs are thin, none in the west (punjab/README.md)."
+_GUJ = "Rivals: Gujarat is Vaiṣṇava (Vallabha, Svāminārāyaṇa); the Dvārkā Śaṅkarācārya is referee only for its 'Śaivas'."
+_BENGAL = "Rivals: Bengal proper is a Vaiṣṇava landscape; Sannyāsīs number in the tens per district against tens of thousands of caste-rejecting Vaiṣṇavas (Hunter, 1872)."
+RIVALS = {
+    "Saṅkeśvar": "Rivals: a Saṅkeśvar nominee challenged Śṛṅgeri's accredited agent in Khandesh (1913, Mysore files).",
+    "Kudli": "Rivals: Liṅgāyat objections were feared when its Svāmī was allowed the ambari (1931); a rival line of claimants was rejected 1875–1929; the Mādhva Akṣobhya Tīrtha maṭh stands in the same village.",
+    "Hubli": "Rivals: the Liṅgāyat Mursavirad Svāmī imitated the Kudalgi Svāmī's crosswise palkhi; the dispute went up to the Privy Council (Dharwar 1884, p. 757).",
+    "Dharwar": "Rivals: Liṅgāyat country; by 1959 the revised volume's maṭh landscape is Mādhva and Vīraśaiva.",
+    "Bijapur": "Rivals: by 1966 the revised volume's maṭh landscape is Mādhva and Vīraśaiva.",
+    "Mysore": "Rivals: the Ahobila maṭh complained of the Śṛṅgeri Svāmī passing in procession before it (1907).",
+    "Hampi": "Rivals: put forward as a rival seat to Śṛṅgeri at the 1912 succession (Mysore files).",
+    "Khandesh": "Rivals: Śṛṅgeri's accredited agent here was challenged by a nominee of Saṅkeśvar (1913, Mysore files).",
+    "Kumbakoṇam": "Rivals: Tanjore's list of chief maṭhs (1906) names the non-Brahmin Śaiva maṭhs of Dharmapuram, Tiruvāvaḍuturai, Tiruppanandāl and Tiruppugalūr first; the Vaḍagalai Ahobila maṭh had moved to Narasimhapuram nearby (Thurston).",
+    "Tanjore": "Rivals: the non-Brahmin Śaiva maṭhs (Dharmapuram, Tiruvāvaḍuturai) and the Śrīvaiṣṇavas.",
+    "Chingleput": "Rivals: a Śrīvaiṣṇava stronghold (60% Aiyaṅgār among Brahmans, 1891).",
+    "Madura": "Rivals: Aiyaṅgār Śrīvaiṣṇavas are 26% of Brahmans (1891).",
+    "Purī (Govardhana maṭha)": "Rivals: the town's 70-odd maṭhs are mostly Vaiṣṇava foundations (Emār, Rāghavadāsa and others).",
+    "Bodh Gayā": "Rivals: the Mahabodhi Society (Buddhist) contested the Mahant's possession of the temple; the High Court found for the Mahant (1906).",
+    "Tārakeśvar": _BENGAL, "Bhot-Bagān": _BENGAL, "Hooghly": _BENGAL, "Howrah": _BENGAL,
+    "Murshidabad": _BENGAL, "Rajshahi": _BENGAL, "Malda": _BENGAL, "Rangpur": _BENGAL, "Pabna": _BENGAL,
+    "Dvārkā": "Rivals: in Vaiṣṇava Gujarat (Vallabha, Svāminārāyaṇa) its pontiff is referee only for the 'Śaivas'.",
+    "Surat": _GUJ, "Broach": _GUJ, "Kaira": _GUJ, "Panch Mahals": _GUJ, "Ahmedabad": _GUJ, "Cutch": _GUJ, "Kathiawar": _GUJ,
+    "Allahabad": "Rivals: Bairāgī and Udāsī akhāṛās beside the Daśanāmī ones at the Magh and Kumbh melās.",
+    "Badrinath": "Rivals: its Rawal is a Nambūri from Malabar; Kedarnath and Ukhimath are described as a Jangama (Liṅgāyat) maṭh (Atkinson; Garhwal 1910).",
+    "Garhwal": "Rivals: Kedarnath and Ukhimath are described as a Jangama (Liṅgāyat) maṭh under a Malabar Rawal (Atkinson; Garhwal 1910).",
+    "Sonda": "Rivals: the Vaiṣṇava Terbidi (Vādirāja) maṭh stands beside the Svarṇavallī maṭh at Sonda (Kanara 1883).",
+    "Kolhapur": "Rivals: the city's other large maṭh belongs to a Jain Svāmī, and the Jains claim the Ambābāī temple was once theirs (1886).",
+    "Tirupati": "Rivals: the Tirumala Tirupati Devasthanams claim oversight of the Śṛṅgeri branch because they pay its allowances (1940).",
+}
+for _n in ["Hissar", "Rohtak", "Gurgaon", "Delhi", "Ambala", "Simla", "Kangra", "Hoshiarpur", "Jalandhar", "Ludhiana", "Firozpur",
+           "Multan", "Jhang", "Montgomery", "Lahore", "Amritsar", "Gurdaspur", "Sialkot", "Gujrat", "Gujranwala", "Shahpur",
+           "Jhelum", "Rawalpindi", "Hazara", "Peshawar", "Kohat", "Bannu", "Dera Ismail Khan", "Dera Ghazi Khan", "Muzaffargarh"]:
+    RIVALS[_n] = _PUNJAB
+_names = {p["name"] for p in P}
+assert not set(RIVALS) - _names, set(RIVALS) - _names
+for p in P:
+    if p["name"] in RIVALS and "Rivals:" not in p["note"]:
+        p["note"] = (p["note"] + " " + RIVALS[p["name"]]).strip()
+        if "SYNTHESIS.md" not in p["refs"]:
+            p["refs"] = (p["refs"] + "; SYNTHESIS.md (Rivals)").strip("; ")
+
 if __name__ == "__main__":
     import csv
     cols = ["name", "variants", "modern", "district", "state", "lat", "lon", "kinds", "region", "note", "refs"]
