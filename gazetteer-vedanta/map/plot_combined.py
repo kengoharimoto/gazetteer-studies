@@ -248,6 +248,28 @@ ax.annotate("Bombay Gosāvīs 1881\n(by region, dashed)", (75.6, 19.0), xytext=(
             arrowprops=dict(arrowstyle="-", color=MUTED, lw=0.6), zorder=6)
 
 ax.annotate("Gujarat", (72.4, 22.6), xytext=(71.2, 23.3), fontsize=7.5, color=MUTED, zorder=6)
+# Inset: census 1891 totals of the Daśanāmīs and rival ascetic orders (census-images/README.md, "Rival orders").
+# Daśanāmī = Goshain-Dasnami (NWP), Gosain + Sanniasi (Punjab, whole province), Gosain + Sanyasi (CP British districts).
+RIVAL_TOTALS = [
+    ("NWP & Oudh", [("Daśanāmī", 103320), ("Jogī", 78387), ("Bairāgī", 31979)]),
+    ("Punjab", [("Daśanāmī", 23143), ("Jogī", 91937), ("Bairāgī", 47561), ("Udāsī", 15194)]),
+    ("C. Provinces", [("Daśanāmī", 27245), ("Bairāgī", 29298), ("Jogī, Nāth", 11102)]),
+]
+ins = ax.inset_axes([0.665, 0.035, 0.32, 0.27])
+ins.set_facecolor("white")
+yy, yt, ylab = 0, [], []
+for prov, bars in RIVAL_TOTALS:
+    for name, v in bars:
+        ins.barh(yy, v, height=0.72, color=OCHRE if name == "Daśanāmī" else "#7a4fa3", alpha=0.85)
+        ins.text(v + 1500, yy, f"{name} {v:,}", va="center", fontsize=6.3, color=INK)
+        yy -= 1
+    ins.text(-2000, yy + len(bars) / 2 + 0.5, prov, ha="right", va="center", fontsize=6.8, color=INK, fontweight="bold")
+    yy -= 0.6
+ins.set_xlim(0, 150000); ins.set_ylim(yy + 0.2, 0.7)
+ins.set_xticks([]); ins.set_yticks([])
+for sp in ins.spines.values():
+    sp.set_color(EDGE)
+ins.set_title("Census 1891: Daśanāmīs and rivals", fontsize=6.8, color=INK, loc="left", pad=3)
 ax.set_xlim(67.5, 93.0); ax.set_ylim(7.5, 36.0); ax.set_aspect(1 / 0.92)
 ax.set_xticks([]); ax.set_yticks([])
 for s in ax.spines.values():
@@ -275,7 +297,7 @@ import textwrap
 FOOT = ("Circle area ∝ persons. Daśanāmī: UP 1891 Goshain-Dasnami, Bengal 1901 Atīth, CP & Punjab 1891 Gosain/Sanniasi, Madras 1891 Sanyāsī; Smārta: Bombay castes asserted Smārta (1880s gazetteers), Tamil Madras 1891 Smārta Brahman sub-castes.\nThe two layers count different things (an order and caste vs a Brahman sect "
          "or caste allegiance) and come from different dates; Smārtas are mapped only where the sources allow "
          "(Bombay Presidency, Tamil Madras).\nGujarat, Bengal proper and the western Punjab show near-zero Daśanāmīs. "
-         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909); triangles from the Mysore government files 1891–1945, unlabelled: Gaya, Madura, Tīrthamuttūr, Udagatti (Kudli); × = 30 taluks and states listed by the Kudli maṭh's Agent in 1934 as holding its properties (Hyderabad omitted: none found). Purple crosses: rival centres named in the synthesis (Gorakhpur unlabelled: Nāth Jogīs). "
+         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909); triangles from the Mysore government files 1891–1945, unlabelled: Gaya, Madura, Tīrthamuttūr, Udagatti (Kudli); × = 30 taluks and states listed by the Kudli maṭh's Agent in 1934 as holding its properties (Hyderabad omitted: none found). Purple crosses: rival centres named in the synthesis (Gorakhpur unlabelled: Nāth Jogīs). Inset: 1891 census totals; Daśanāmī = Goshain-Dasnami (NWP), Gosain + Sanniasi (Punjab), Gosain + Sanyasi (CP British districts). "
          "Sources: gazetteer-vedanta/ (census-images/, results/, sringeri/, mathas/, mathas/archives/).")
 FOOT = "\n".join(textwrap.fill(par, 150) for par in FOOT.split("\n"))
 fig.text(0.02, 0.008, FOOT, fontsize=6.6, color=MUTED, va="bottom")
