@@ -105,6 +105,26 @@ Where a cause is named, it is land reform:
 - **Nāth Jogīs** continue at Gorakhpur under Mahant Digvijay Nath. In Karnal the Shiva-temple priests are now
   "Jogis … of the Kanphara clan", where the 1880s had Gosain pujaris.
 
+### 5. The rival seats at the third date
+
+From the coded rivals layer (`../rivals/README.md`), which read the revised volumes beside the colonial ones:
+
+| place | rival seat at the third date | change from the colonial picture |
+|---|---|---|
+| Ayodhyā (Faizabad 1960) | Hanumāngaṛhī's Nirbānī akhāṛā: at most 200 resident disciples, but land in five districts, money-lending and bought villages | fewer men (300–400 in 1877) but richer; the Gosāins' expulsion from it is told only here |
+| Purī (1977) | about 130 maṭhs, about 30 of them Gauḍīya (2 in 1908); the Rāmānandī houses now listed as "Ramanuj" | the Śaṅkara-line houses are about 7; the maṭhs pass under state endowment control (1951–74) |
+| Mathura (1968) | Vallabha, Haridāsī, Gauḍīya and Rāmānandī sub-sects | still no Daśanāmī house; the only Śaṅkara trace is a monthly paper (1961) |
+| South Kanara (1973) | the Uḍupi maṭhs; the Mādhva hold extends to Dharmasthala, a Śaiva temple with Mādhva priests | Tulu Brahmans "largely followers of Madhvacharya, only a small number remaining Smarthas" |
+| Dharwar (1959), Bijapur (1966) | the maṭh landscape is Mādhva and Vīraśaiva | the Kudalgi palanquin suit against the Hubli Liṅgāyat maṭh is dropped |
+| Kolhapur (1959) | Kaneri (Liṅgāyat): Rs 1,300 a year | Saṅkeśvar's Kolhapur maṭh has become the Karvīr Pīṭha |
+| Varanasi (1965) | Udāsī, Kabīrpanthī and Aghorī houses still described | the Gosāin estates (10,304 acres) disappear from view |
+| Howrah, Hooghly (1972) | the Ramakrishna movement: 115 centres, about 1,259 hospital beds, about 63,000 pupils; the Brahmos reduced to relics (Howrah 63 in 1961) | Tārakeśvar recognised by a court as "governed by the Sankaracharya school of thought" |
+
+The rival houses survive the third date better than the Daśanāmī estates. Where land reform and endowment law reach
+both, as at Purī, the rivals keep the larger share of the maṭhs. The one new growth is the Ramakrishna movement,
+which carries Advaita sannyāsa into modern Bengal. Only Purī (1977) files a Ramakrishna house under "Dashnami
+Sannyasi".
+
 ## Summary
 
 | district | third-date finding |
