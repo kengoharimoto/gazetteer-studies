@@ -14,6 +14,21 @@ Method:
 
 Page images and the downloaded OCR XML are in `pages/` (kept out of git).
 
+## What the census says about the study's question
+
+The study's verdict (synthesis, "Dominant everywhere, or regional?") is that Śaṅkara's tradition was **regional,
+not dominant**. These tables give the numbers behind it.
+- **Where it led:**
+  - the Daśanāmīs are densest in eastern UP and Bihar (NWP 103,320 in 1891; Bengal Atīths 50,042 in 1901);
+  - Smārtas are 48% of Tamil Brahmans (1891).
+- **Where it was a minority:**
+  - Jogīs (91,937) and Bairāgīs (47,561) far outnumber the Gosains and Sanniasis in the Punjab;
+  - Bairāgīs outnumber the Gosāins in the Central Provinces;
+  - Bengal proper and Calcutta return almost no Sannyāsīs.
+- **The one presidency-wide Smārta figure** (Bombay 1901, "Shaiv or Smart" nearly 3,000,000) is a broad sect label,
+  not allegiance to a Śaṅkarācārya.
+- **No table** measured allegiance to a Śaṅkara seat directly.
+
 ## Tables
 
 | file | source | content | check |
