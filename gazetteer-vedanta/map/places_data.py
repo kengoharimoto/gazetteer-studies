@@ -448,6 +448,42 @@ for p in P:
         if "SYNTHESIS.md" not in p["refs"]:
             p["refs"] = (p["refs"] + "; SYNTHESIS.md (Rivals)").strip("; ")
 
+# ---------------- Census counts of the Daśanāmīs and rival orders, by district (census-images/results/) ----------------
+def _census_lines():
+    import csv, os
+    R = "census-images/results/"
+    if not os.path.exists(R + "up1891_ascetics.tsv"):
+        return {}
+    n = lambda x: int(str(x).replace(",", "").strip() or 0) if str(x).replace(",", "").strip().isdigit() else 0
+    f = lambda x: f"{x:,}"
+    out = {}
+    for r in csv.DictReader(open(R + "up1891_ascetics.tsv", encoding="utf-8"), delimiter="\t"):
+        t = f"Census 1891: Daśanāmī {f(n(r['goshain_dasnami']))}"
+        if n(r["goshain_unspecified"]): t += f" (+ {f(n(r['goshain_unspecified']))} unspecified Goshains)"
+        out[r["district"]] = t + f"; Bairāgī {f(n(r['bairagi']))}; Jogī {f(n(r['jogi']))}."
+    for r in csv.DictReader(open(R + "punjab1891_castes.tsv", encoding="utf-8"), delimiter="\t"):
+        if r["district"].startswith("TOTAL"): continue
+        out[r["district"]] = (f"Census 1891: Gosain {f(n(r['gosain_t']))}; Sanniasi {f(n(r['sanniasi_t']))}; Jogī-Rawal {f(n(r['jogi_rawal_t']))}; "
+                              f"Bairāgī {f(n(r['bairagi_t']))}; Udāsī {f(n(r['udasi_t']))}.")
+    for r in csv.DictReader(open(R + "cp1891_castes.tsv", encoding="utf-8"), delimiter="\t"):
+        if r["sex"] != "persons" or r["district_or_state"].startswith("TOTAL"): continue
+        out[r["district_or_state"]] = (f"Census 1891: Gosain {f(n(r['gosain']))}; Bairāgī {f(n(r['bairagi']))}; Jogī {f(n(r['jogi']))}; "
+                                       f"Nāth {f(n(r['nath']))}.")
+    for r in csv.DictReader(open(R + "madras1891_tamil_smarta_vs_aiyangar.tsv", encoding="utf-8"), delimiter="\t"):
+        if r["district"].startswith(("#", "Division")): continue
+        out[r["district"]] = (f"Census 1891, Brahmans: Smārta sub-castes {r['smarta_pct']}%; Aiyaṅgār (Śrīvaiṣṇava) {r['aiyangar_pct']}%; "
+                              f"Mādhva {f(n(r['madhva']))}.")
+    for r in csv.DictReader(open(R + "bengal1901_atith_gosain.tsv", encoding="utf-8"), delimiter="\t"):
+        if r["district"] == "TOTAL": continue
+        out[r["district"]] = f"Census 1901: Atīth {f(n(r['atith_total']))}; 'Gosain' {f(n(r['gosain_total']))} (a mixed column, largely Vaiṣṇava)."
+    return out
+_C = _census_lines()
+for p in P:
+    if "district" in p["kinds"] and p["name"] in _C and p["name"] != "Benares" and "Census 18" not in p["note"] and "Census 19" not in p["note"]:  # Benares: counts already in its rivals note
+        p["note"] = (p["note"] + " " + _C[p["name"]]).strip()
+        if "census-images/" not in p["refs"]:
+            p["refs"] = (p["refs"] + "; census-images/").strip("; ")
+
 if __name__ == "__main__":
     import csv
     cols = ["name", "variants", "modern", "district", "state", "lat", "lon", "kinds", "region", "note", "refs"]
