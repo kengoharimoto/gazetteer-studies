@@ -14,6 +14,13 @@ searchable map of every district, maṭha, estate and site in the study, with th
 modern names. It includes the 27 taluks outside Mysore that the Kudli Śṛṅgeri maṭh's Agent listed in 1934 as holding
 its properties (Dharwar, Bijapur, Belgaum, North Kanara, Bellary, Anantapur and the southern Maratha states), shown
 with a cross and filtered by the "Kudli estates" chip (`mathas/archives/README.md`).
+Each colonial district entry also carries its census counts of the Daśanāmīs and their rivals, from the transcribed
+tables in `census-images/results/`:
+- UP and the CP, 1891: Daśanāmī or Gosain against Bairāgī, Jogī and Nāth;
+- Punjab, 1891: Gosain and Sanniasi against Jogī-Rawal, Bairāgī and Udāsī;
+- Bengal, 1901: Atīth and the mixed "Gosain" column;
+- Tamil Madras, 1891: the Smārta, Aiyaṅgār and Mādhva shares of Brahmans.
+Places with evidence of a rival tradition have a "Rivals:" note (78 entries).
 
 ## Regions
 
