@@ -128,6 +128,37 @@ orders").
   - Hampi was put forward as a rival seat at the 1912 succession, though its Svāmī later called his maṭh "a branch
     of Sri Sringeri Mutt" (1935–36).
 
+### Rival totals: South Canara Brahmans in the 1891 census
+
+The census gives no ascetic counts for Śṛṅgeri's country. It does give South Canara's Brahmans by sub-division
+(`../census-images/results/madras1891_brahman_subdivisions.tsv`; 95,739 Brahmans in all). The affiliations are
+those the study's sources give: Sturrock's *South Canara Manual* (1894), Thurston, and the revised gazetteer
+(1973).
+
+| sub-division (as printed) | persons | affiliation in the sources |
+|---|---|---|
+| Sarasvata | 30,273 | split: Smārta Shenvis under the Kavaḷe svāmī, Vaiṣṇavas under the Goa (Gokarṇa) maṭh |
+| Sivalli (Shivalli) | 28,660 | Mādhva: "the great bulk of the Tulu Brahmins of South Canara adopted the teaching of … Madhvacharya" (Sturrock); Uḍupi |
+| Havig | 11,234 | Smārta, own guru (Rāmacandrapura) |
+| Kota | 11,017 | Smārta (1973) |
+| Konkanasta, Chittapavana | 3,200; 1,491 | Smārta, "adherents of the Sringeri math" (Sturrock) |
+| Karati (Karāḍi) | 2,731 | Smārta, "owe allegiance to the Sringeri math" (Sturrock) |
+| Kandavara | 1,576 | Smārta (1973) |
+| Sakalapura (Saklapuri) | 463 | Smārta, own maṭh |
+| Padia | 154 | Smārta, acknowledge "the head of Sringeri math" (Sturrock) |
+
+- **Under Śṛṅgeri directly:** only the Marathi-speaking immigrant Brahmans (Karāḍi, Chitpāvan/Konkaṇastha,
+  Padia), about 7,600 or 8% of the district's Brahmans.
+- **The Tulu Brahmans:** the largest Tulu group, the Shivallis, are Mādhva.
+- **The other Smārtas** (Havig, Kota, Kandavara, Saklapuri, about 24,000) follow their own gurus.
+- **Śṛṅgeri's real weight** in South Canara was therefore among the non-Brahmin castes (Kharvis, Marāṭhās,
+  Servegāras, Ares, Chaptegāras), as Thurston and Sturrock say. Among Brahmans it was a minority beside the Mādhvas.
+- **Caveat:** Konkanasta and Chittapavana may be one group returned under two names. The Sarasvata total mixes
+  the two sects.
+
+For the rival ascetic orders in the north (Jogīs, Bairāgīs, Udāsīs), see `../census-images/README.md`, "Rival
+orders in the same tables".
+
 ## What this adds
 
 - Śṛṅgeri's reach in the 1880s, the deepest of any Śaṅkara seat in the colonial record, was a reach without
