@@ -77,6 +77,31 @@ gazetteer (1968) and four Calcutta texts.
    - The Daśanāmīs appear only as endowed maṭhs centred on Tārakeśvar, which a court found "governed by the
      Sankaracharya school of thought" (Hooghly 1972).
 
+## The rival seats
+
+The seats the coding found with the fullest descriptions. They are marked on the combined map
+(`../map/combined_map.png`) and are a kind of their own in the places finder (`../map/places_map.html`, "Rival
+seats" filter).
+
+| seat | tradition | what the texts give it | district census, 1891 | nearest Śaṅkara comparison |
+|---|---|---|---|---|
+| Tiruvāvaḍuturai (Tanjore) | Tamil Śaiva ādhīnam | about 29,000 acres; Rs 2 lakhs a year | (no ascetic table; Smārta 63.8% of Brahmans) | Kumbakoṇam maṭh, Rs 14,000 |
+| Dharmapuram (Tanjore) | Tamil Śaiva ādhīnam | head of the "Sudra maths"; Tiruppanandāḷ (Rs 80,000) under it | as above | listed before Kumbakoṇam (1906) |
+| Chitradurga (Murugha maṭh) | Liṅgāyat | supreme Liṅgāyat guru; lost the Konkan Kuṇbīs to Śṛṅgeri (1881) | (Mysore; not in the tables read) | Śṛṅgeri; Kudli |
+| Nandgaon | Bairāgī | a Feudatory State of 560 villages (1723) | Bairāgī 1,440; Gosain 192 | Dharampuri, 40 villages |
+| Lormi | Bairāgī | 103–104 villages (1826) | Bilaspur: Bairāgī 8,647; Gosain 2,419 | as above |
+| Kawardha (Damakheda line) | Kabīrpanthī | lay following claimed at 500,000 | Kabirpanthi sub-head: none; Gosain 161 | no Śaṅkara seat in the CP |
+| Tilla | Nāth | Akbar's sanad for a jagir | Jhelum: Jogī-Rawal 1,438; Gosain 10 | no Śaṅkara seat in the Punjab |
+| Bohar | Nāth | land; Rohtak's 299 asthals half Bairāgī, Gosāins fourth | Rohtak: Jogī-Rawal 3,717; Bairāgī 6,317; Gosain 568 | as above |
+| Dera Baba Nanak | Udāsī | jagir Rs 2,602 | Gurdaspur: Udāsī 93; Gosain 2 | as above |
+| Vadtal | Svāminārāyaṇa | one of two seats; 287,687 followers (1901) | (Kaira; not in the tables read) | Dvārkā's Śāradā pīṭha, no stated following |
+
+- **The exception:** in the Bombay Karnatak, Saṅkeśvar (Rs 30,000) and Kudli (Rs 35,047) are richer than the
+  Liṅgāyat maṭhs around them, whose largest stated income is Kaneri's Rs 1,500.
+- **The census and the institutions disagree:** Dera Baba Nanak's district returns only 93 Udāsīs, and the
+  Kabīrpanthīs return no ascetics under their own name. The lay followings that sustained these seats are not in
+  the ascetic tables (`../census-images/README.md`, "The rival seats in the census").
+
 ## Corrections made along the way
 
 - **Mathura's 17,131 "unspecified" Goshains (1891)** are probably the district's whole ascetic population, not
