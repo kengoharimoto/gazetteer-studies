@@ -42,9 +42,9 @@ add("Sholapur", "Solapur", "Solapur", "Solapur", "Maharashtra", 17.66, 75.91, "d
 add("Belgaum", "Belgaon", "Belagavi", "Belagavi", "Karnataka", 15.85, 74.50, "district", B,
     "Places volume describes the Saṅkeśvar maṭh in full (1884, pp. 600–02).", "results/; mathas/")
 add("Dharwar", "Dhárwár; Dharwad", "Dharwad", "Dharwad; Haveri; Gadag", "Karnataka", 15.46, 75.01, "district", B,
-    "Marāṭhās, Komṭis and Khatrīs under the Śaṅkarācārya; about 7.6% of Hindus in castes asserted Smārta. A village named Shringeri near Hangal is unrelated (an old weir).", "results/; mathas/")
+    "Marāṭhās, Komṭis and Khatrīs under the Śaṅkarācārya; about 7.6% of Hindus in castes asserted Smārta. A village named Shringeri near Hangal is unrelated (an old weir). Eleven of its taluks held Kudli maṭh property (1934); Bombay levied Rs 2,745 nazarana on the maṭh's Dharwar ināms (1936).", "results/; mathas/; mathas/archives/")
 add("Bijapur", "Bijápur", "Vijayapura", "Vijayapura; Bagalkot", "Karnataka", 16.83, 75.71, "district", B,
-    "Marāṭhās 'Smārts … their guide being Shankarāchārya'.", "results/; revised/")
+    "Marāṭhās 'Smārts … their guide being Shankarāchārya'. Six taluks held Kudli maṭh property (1934); Rs 1,167 nazarana on its Bijapur ināms (1936).", "results/; revised/; mathas/archives/")
 add("Kolhapur", "Kolhápur; Karvir; Karvīr; Karveer; Karaveer", "Kolhapur", "Kolhapur", "Maharashtra", 16.70, 74.24, "district;branch", B,
     "Saṅkeśvar Svāmī's maṭh in the city (1886); became the Karvīr Pīṭha c. 1909 (1959, p. 874); Ambābāī temple spire added by a Śaṅkarācārya of Saṅkeśvar.", "results/; mathas/; revised/")
 add("Surat", "", "Surat", "Surat", "Gujarat", 21.17, 72.83, "district", B, "Gujarat: Vaiṣṇava (Vallabha, Svāminārāyaṇa).", "results/")
@@ -70,7 +70,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Kistna", "Krishna", "Krishna", "Krishna; NTR", "Andhra Pradesh", 16.19, 81.13, "Census shows movement in the Śaiva/Vaiṣṇava balance 1871–1891."),
     ("Kurnool", "Karnul", "Kurnool", "Kurnool; Nandyal", "Andhra Pradesh", 15.83, 78.04, ""),
     ("Madras", "Madras City", "Chennai", "Chennai", "Tamil Nadu", 13.08, 80.27, ""),
-    ("Madura", "Madurai", "Madurai", "Madurai", "Tamil Nadu", 9.93, 78.12, "42% Smārta, 26% Aiyaṅgār among Brahmans (1891); revised volume (1960) still names no seat."),
+    ("Madura", "Madurai", "Madurai", "Madurai", "Tamil Nadu", 9.93, 78.12, "42% Smārta, 26% Aiyaṅgār among Brahmans (1891); revised volume (1960) still names no seat. A Śṛṅgeri branch maṭh at Madura (Mysore files)."),
     ("Malabar", "", "Kozhikode and neighbouring districts", "Kozhikode; Malappuram; Palakkad; Kannur; Wayanad", "Kerala", 11.25, 75.78, "'Smarta' mostly the Nambūtiri caste judge; a madam near Tanur ascribed to Śaṅkara (1908)."),
     ("Nellore", "", "Nellore", "Sri Potti Sriramulu Nellore", "Andhra Pradesh", 14.44, 79.99, ""),
     ("North Arcot", "", "Vellore", "Vellore; Tiruvannamalai; Ranipet; Tirupattur", "Tamil Nadu", 12.92, 79.13, ""),
@@ -154,7 +154,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Rangpur", "", "Rangpur", "Rangpur", "Bangladesh", 25.75, 89.25, ""),
     ("Pabna", "", "Pabna", "Pabna", "Bangladesh", 24.00, 89.24, ""),
     ("Patna", "", "Patna", "Patna", "Bihar", 25.59, 85.14, ""),
-    ("Gaya", "", "Gaya", "Gaya; Aurangabad; Nawada; Jehanabad", "Bihar", 24.79, 85.00, "Bodh Gayā lies here; zamindari of the mahants 'have now lapsed' (1957)."),
+    ("Gaya", "", "Gaya", "Gaya; Aurangabad; Nawada; Jehanabad", "Bihar", 24.79, 85.00, "Bodh Gayā lies here; zamindari of the mahants 'have now lapsed' (1957). A Śṛṅgeri maṭh building at Gaya (Mysore files, 1940s)."),
     ("Shahabad", "Arrah", "Bhojpur, Buxar, Rohtas, Kaimur", "Bhojpur; Buxar; Rohtas; Kaimur", "Bihar", 25.56, 84.66, "3,454 Atīths (1872), 7,246 (1901); 436 trusts by 1963."),
     ("Saran", "Chapra", "Saran (Chhapra)", "Saran; Siwan; Gopalganj", "Bihar", 25.78, 84.73, "Largest Daśanāmī circle on the map: 18,612 Atīths (1872), 26,753 (1901); absent from the revised volume."),
     ("Champaran", "", "East and West Champaran", "East Champaran; West Champaran", "Bihar", 26.65, 84.92, "6,063 Atīths (1872), 9,768 (1901)."),
@@ -285,7 +285,7 @@ add("Khidrapur", "Khidrápur", "Khidrapur", "Kolhapur", "Maharashtra", 16.63, 74
 add("Hallur", "", "Hallur", "Haveri", "Karnataka", 14.87, 75.68, "branch", "Bombay",
     "Rangnath temple rebuilt by the Kudalgi Svāmī, who was granted the village (Dharwar 1884, p. 722).", "mathas/")
 add("Hubli", "Hubballi; Hubli Sringeri Matt", "Hubballi", "Dharwad", "Karnataka", 15.36, 75.12, "branch", "Bombay",
-    "Kudalgi Svāmī's crosswise-palkhi privilege upheld up to the Privy Council (Dharwar 1884, p. 757); a 'Hubli Sringeri Matt' with its own guru (1923).", "mathas/")
+    "Kudalgi Svāmī's crosswise-palkhi privilege upheld up to the Privy Council (Dharwar 1884, p. 757); Hubli taluk is in the Kudli maṭh's 1934 property list. (The 1923 'Hubli Sringeri Matt' file is really about Kudli.)", "mathas/; mathas/archives/")
 add("Nirmal", "Nirmal (Bassein)", "Nirmal", "Palghar (Vasai)", "Maharashtra", 19.40, 72.80, "site", "Bombay",
     "Reputed samādhi of a Śaṅkarācārya; temple of Shankaracharya Svāmī built after 1739, Government grant Rs 421 (Thana 1882).", "mathas/")
 add("Sonda", "Sonda; Sunda; Swadi; Svarnavalli; Honalli Math", "Sonda (Swarnavalli)", "Uttara Kannada (Sirsi)", "Karnataka", 14.72, 74.82, "site", "Bombay",
@@ -339,6 +339,63 @@ add("Udagatti", "Uddughatti; Uddughatti Mutt", "Udagatti", "Haveri (Ranibennur t
     "Where the Kudli svāmīs lived in the Bombay country; Bombay records call the maṭh 'Kudalgi' or the 'Uddughatti Mutt' (Mysore files, 1936).", "mathas/archives/")
 add("Tīrthamuttūr", "Tirthamuthur; Tirtha muthur Mutt", "Tirthamuttur", "Shivamogga (Tirthahalli taluk)", "Karnataka", 13.70, 75.24, "branch", "Mysore",
     "'a vassal Mutt to the Sringeri Mutt, paying an annual subsidy of Rs 31-4-0'; its svāmīs consecrated at Śṛṅgeri (1923).", "mathas/archives/")
+
+# Kudli Śṛṅgeri maṭh: properties outside Mysore, from its Agent's list of March 1934 (mathas/archives, K32).
+# Taluks already present as districts or branches (Dharwar, Hubli, Bijapur, Kolhapur) carry the fact in their notes.
+add('Ranibennur', 'Ranebennur', 'Ranebennuru', 'Haveri', 'Karnataka', 14.62, 75.62, "estate", "Bombay" if 'Dharwar District'.find("Bellary")<0 and 'Dharwar District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Dharwar District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Karajgi', 'Karajagi', 'Karajagi', 'Haveri', 'Karnataka', 14.86, 75.45, "estate", "Bombay" if 'Dharwar District'.find("Bellary")<0 and 'Dharwar District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Dharwar District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Hangal', 'Hanagallu; Hanagal', 'Hanagal', 'Haveri', 'Karnataka', 14.76, 75.12, "estate", "Bombay" if 'Dharwar District'.find("Bellary")<0 and 'Dharwar District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Dharwar District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Kod', 'Hirekerur', 'Hirekerur (Kod taluk)', 'Haveri', 'Karnataka', 14.46, 75.39, "estate", "Bombay" if 'Dharwar District'.find("Bellary")<0 and 'Dharwar District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Dharwar District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Shiggaon', 'Siggavi', 'Shiggaon', 'Haveri', 'Karnataka', 14.99, 75.22, "estate", "Bombay" if 'Dharwar District'.find("Bellary")<0 and 'Dharwar District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Dharwar District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Navalgund', 'Navalgunda', 'Navalgund', 'Dharwad', 'Karnataka', 15.56, 75.37, "estate", "Bombay" if 'Dharwar District'.find("Bellary")<0 and 'Dharwar District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Dharwar District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Kalghatgi', 'Kalaghatagi', 'Kalghatgi', 'Dharwad', 'Karnataka', 15.18, 74.97, "estate", "Bombay" if 'Dharwar District'.find("Bellary")<0 and 'Dharwar District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Dharwar District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Ron', 'Rona', 'Ron', 'Gadag', 'Karnataka', 15.7, 75.73, "estate", "Bombay" if 'Dharwar District'.find("Bellary")<0 and 'Dharwar District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Dharwar District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Gadag', '', 'Gadag-Betageri', 'Gadag', 'Karnataka', 15.43, 75.63, "estate", "Bombay" if 'Dharwar District'.find("Bellary")<0 and 'Dharwar District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Dharwar District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Mundgod', '', 'Mundgod', 'Uttara Kannada', 'Karnataka', 14.97, 75.04, "estate", "Bombay" if 'North Kanara'.find("Bellary")<0 and 'North Kanara'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (North Kanara), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Parasgad', 'Saundatti', 'Saundatti (Parasgad taluk)', 'Belagavi', 'Karnataka', 15.77, 75.12, "estate", "Bombay" if 'Belgaum District'.find("Bellary")<0 and 'Belgaum District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Belgaum District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Badami', '', 'Badami', 'Bagalkot', 'Karnataka', 15.92, 75.68, "estate", "Bombay" if 'Bijapur District'.find("Bellary")<0 and 'Bijapur District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Bijapur District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Bagalkot', '', 'Bagalkote', 'Bagalkot', 'Karnataka', 16.18, 75.7, "estate", "Bombay" if 'Bijapur District'.find("Bellary")<0 and 'Bijapur District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Bijapur District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Bagevadi', 'Basavana Bagevadi', 'Basavana Bagewadi', 'Vijayapura', 'Karnataka', 16.57, 75.97, "estate", "Bombay" if 'Bijapur District'.find("Bellary")<0 and 'Bijapur District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Bijapur District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Sindgi', '', 'Sindagi', 'Vijayapura', 'Karnataka', 16.92, 76.23, "estate", "Bombay" if 'Bijapur District'.find("Bellary")<0 and 'Bijapur District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Bijapur District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Hungund', '', 'Hungund', 'Bagalkot', 'Karnataka', 16.06, 76.06, "estate", "Bombay" if 'Bijapur District'.find("Bellary")<0 and 'Bijapur District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Bijapur District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Kudligi', '', 'Kudligi', 'Vijayanagara', 'Karnataka', 14.9, 76.38, "estate", "Bombay" if 'Bellary District'.find("Bellary")<0 and 'Bellary District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Bellary District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Harapanahalli', '', 'Harapanahalli', 'Vijayanagara', 'Karnataka', 14.79, 75.99, "estate", "Bombay" if 'Bellary District'.find("Bellary")<0 and 'Bellary District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Bellary District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Madakasira', '', 'Madakasira', 'Sri Sathya Sai', 'Andhra Pradesh', 13.94, 77.27, "estate", "Bombay" if 'Anantapur District'.find("Bellary")<0 and 'Anantapur District'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Anantapur District), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Torgal', 'Thoragallu; Kankanvadi', 'Torgal', 'Belagavi', 'Karnataka', 15.97, 75.16, "estate", "Bombay" if 'Kolhapur State'.find("Bellary")<0 and 'Kolhapur State'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Kolhapur State), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Ramdurg', '', 'Ramdurg', 'Belagavi', 'Karnataka', 15.95, 75.3, "estate", "Bombay" if 'Ramdurg State'.find("Bellary")<0 and 'Ramdurg State'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Ramdurg State), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Shirahatti', 'Giddehosapura', 'Shirahatti', 'Gadag', 'Karnataka', 15.23, 75.58, "estate", "Bombay" if 'Sangli State; a village under attachment (1935)'.find("Bellary")<0 and 'Sangli State; a village under attachment (1935)'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Sangli State; a village under attachment (1935)), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Lakshmeshwar', '', 'Lakshmeshwar', 'Gadag', 'Karnataka', 15.13, 75.47, "estate", "Bombay" if 'Miraj Senior State'.find("Bellary")<0 and 'Miraj Senior State'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Miraj Senior State), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Gudageri', '', 'Gudageri', 'Dharwad', 'Karnataka', 15.12, 75.37, "estate", "Bombay" if 'Miraj Junior State'.find("Bellary")<0 and 'Miraj Junior State'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Miraj Junior State), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Savanur', '', 'Savanur', 'Haveri', 'Karnataka', 14.97, 75.33, "estate", "Bombay" if 'Savanur State'.find("Bellary")<0 and 'Savanur State'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Savanur State), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Sirasangi', '', 'Sirasangi', 'Belagavi', 'Karnataka', 15.68, 75.27, "estate", "Bombay" if 'Sirasangi jagir'.find("Bellary")<0 and 'Sirasangi jagir'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Sirasangi jagir), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+add('Kundgol', '', 'Kundgol', 'Dharwad', 'Karnataka', 15.26, 75.25, "estate", "Bombay" if 'Jamkhandi State'.find("Bellary")<0 and 'Jamkhandi State'.find("Anantapur")<0 else "Madras",
+    "Taluk holding Kudli maṭh property (Jamkhandi State), in the maṭh Agent's list of March 1934.", "mathas/archives/")
 
 if __name__ == "__main__":
     import csv
