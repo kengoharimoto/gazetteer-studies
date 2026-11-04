@@ -162,6 +162,10 @@ these sources, for four reasons:
      (thirty inām villages in seven jurisdictions, Rs 30,000). Dvārkā, Jyotirmaṭh and Purī appear mainly in
      lists of Śaṅkara's four maṭhs; their place entries describe a temple, the Badrinath Rawal's winter seat and
      an unnamed "Sankaracharya" maṭh.
+   - The Mysore archive files (`mathas/archives/README.md`) explain the gap. Śṛṅgeri's reach outside its jāgīr
+     took the form of grants, mortgages and branch maṭhs at pilgrimage centres (Rameswaram, Kaladi, Tirupati,
+     Nasik, Haridwar, Benares), not estates among its caste followers. Kudli drew most of its income from ināms
+     in Dharwar, Bijapur and the Maratha states. The Mysore state consecrated, managed and ranked both seats.
 
 ## 6. Possible next steps
 

@@ -146,6 +146,7 @@ Requested: the two maṭhs' presence in the inām registers. What could be found
       (1925), and to the same maṭh "of Conjeevaram" (1936). They date the maṭh's return to Kāñcī between the
       two (A02–A03, catalogue descriptions only).
     - A State grant to a Śaṅkarācārya temple of the Avani maṭh (1930, A04).
+- **Followed up** in `archives/README.md`: 338 Mysore files on the Śṛṅgeri and Kudli maṭhs (lands in and outside the State, debts, branches, successions, honours, Government management).
 - **Next step if wanted:** the inām fair registers for Cuddapah and Bellary are held at the Tamil Nadu Archives
   (Chennai), with copies at the Andhra Pradesh State Archives (Hyderabad) and the Karnataka State Archives
   (Bengaluru, for Bellary). They would have to be consulted there or requested as copies.

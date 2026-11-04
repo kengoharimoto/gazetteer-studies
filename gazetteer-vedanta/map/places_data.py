@@ -258,8 +258,8 @@ add("Śṛṅgeri", "Sringeri; Shringeri; Sringéri; Srngeri; Sringagiri; Sringa
     "Seat of the Jagadguru, 'proprietor of the surrounding tract'; jāgīr of about 9,144 people granted 1346; revenue c. Rs 50,000 plus Rs 1,000 a month from Mysore (Rice 1876, 1897). Located in no Bombay or Madras Places chapter.", "sringeri/; mathas/")
 add("Saṅkeśvar", "Sankeshvar; Sankeshwar; Sankesvar; Shankeshvar; Sankeswar", "Sankeshwar", "Belagavi", "Karnataka", 16.27, 74.48, "seat", "Bombay",
     "Seat of the Saṅkeśvar Svāmī: 30 inām villages in seven jurisdictions, Rs 30,000 a year; told as a secession from Śṛṅgeri c. 1570 (Belgaum 1884, pp. 600–02).", "mathas/")
-add("Kudli", "Kudali; Kūḍali; Kudalgi; Kudli Sringeri Matt", "Kudli (Koodli)", "Shivamogga", "Karnataka", 14.00, 75.68, "seat", "Mysore",
-    "Confluence of the Tunga and Bhadra. A Smārta maṭh whose guru was appointed by Śṛṅgeri (Rice) or founded by the Saṅkeśvar secessionist (Belgaum). Also a Mādhva maṭh (Akṣobhya Tīrtha).", "mathas/; sringeri/")
+add("Kudli", "Kudali; Kūḍali; Kudalgi; Kudli Sringeri Matt; Uddughatti Mutt", "Kudli (Koodli)", "Shivamogga", "Karnataka", 14.00, 75.68, "seat", "Mysore",
+    "Confluence of the Tunga and Bhadra. A Smārta maṭh whose guru was appointed by Śṛṅgeri (Rice) or founded by the Saṅkeśvar secessionist (Belgaum). Mysore files: 'a separate branch … at the Partition of A. D. 1656-57'; income Rs 35,047 (1933), most of it from ināms in Dharwar, Bijapur and the Maratha states. Also a Mādhva maṭh (Akṣobhya Tīrtha).", "mathas/; sringeri/; mathas/archives/")
 add("Dvārkā", "Dwarka; Dwarika; Dwárka; Sharada Pith; Shārada Pīth", "Dwarka", "Devbhumi Dwarka", "Gujarat", 22.24, 68.97, "seat", "Bombay",
     "'Shārada Pīth … endowed by the Gaekwar of Baroda, who sanctions the appointment of every new pontiff' (Gujarat 1901, p. 542).", "mathas/")
 add("Jyotirmaṭh", "Joshimath; Jyotir-math; Jotirmath; Jyotirdham", "Jyotirmath (Joshimath)", "Chamoli", "Uttarakhand", 30.56, 79.56, "seat", "UP",
@@ -334,6 +334,11 @@ add("Ayodhyā", "Ajodhya; Oudh", "Ayodhya", "Ayodhya", "Uttar Pradesh", 26.80, 8
     "Dominated by the Bairāgī akhāṛās; the Gosāins appear only in the story of their expulsion from Hanumāngaṛhī.", "north/; revised/")
 add("Gokarn", "Gokarna", "Gokarna", "Uttara Kannada", "Karnataka", 14.55, 74.32, "site", "Bombay",
     "Pilgrimage centre of Kanara castes; earlier seat of the Havig gurus' line before Sonda.", "results/; mathas/")
+
+add("Udagatti", "Uddughatti; Uddughatti Mutt", "Udagatti", "Haveri (Ranibennur taluk)", "Karnataka", 14.55, 75.70, "branch", "Bombay",
+    "Where the Kudli svāmīs lived in the Bombay country; Bombay records call the maṭh 'Kudalgi' or the 'Uddughatti Mutt' (Mysore files, 1936).", "mathas/archives/")
+add("Tīrthamuttūr", "Tirthamuthur; Tirtha muthur Mutt", "Tirthamuttur", "Shivamogga (Tirthahalli taluk)", "Karnataka", 13.70, 75.24, "branch", "Mysore",
+    "'a vassal Mutt to the Sringeri Mutt, paying an annual subsidy of Rs 31-4-0'; its svāmīs consecrated at Śṛṅgeri (1923).", "mathas/archives/")
 
 if __name__ == "__main__":
     import csv
