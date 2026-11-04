@@ -20,7 +20,10 @@ tables in `census-images/results/`:
 - Punjab, 1891: Gosain and Sanniasi against Jogī-Rawal, Bairāgī and Udāsī;
 - Bengal, 1901: Atīth and the mixed "Gosain" column;
 - Tamil Madras, 1891: the Smārta, Aiyaṅgār and Mādhva shares of Brahmans.
-Places with evidence of a rival tradition have a "Rivals:" note (78 entries).
+Places with evidence of a rival tradition have a "Rivals:" note (78 entries), and ten carry facts from the coded
+rivals layer ("Rivals (coded):"). Eight rival seats have their own entries: Tilla and Bohar (Nāth), Dera Baba
+Nanak (Udāsī), Lormi (Bairāgī), Tiruvāvaḍuturai and Dharmapuram (Tamil Śaiva), Chitradurga (Liṅgāyat) and Vadtal
+(Svāminārāyaṇa) (`rivals/README.md`).
 
 ## Regions
 
