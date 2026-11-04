@@ -208,7 +208,18 @@ RIVALS = [
     (26.76, 83.37, "", 0, 0, "left"),               # Gorakhpur: Nāth Jogīs (district already labelled)
     (29.69, 76.99, "Karnal (Nāth)", -0.3, 0.0, "right"),
     (13.34, 74.75, "Uḍupi (Mādhva)", -0.3, 0.1, "right"),
-    (22.57, 88.36, "Calcutta (Kālī, Vaiṣṇava, Brahmo)", -0.3, -0.45, "right"),
+    (22.57, 88.36, "Calcutta\n(Kālī, Vaiṣṇava,\nBrahmo)", 0.25, -1.0, "left"),
+    # rival seats from the coded rivals layer (rivals/README.md)
+    (32.88, 73.36, "Tilla (Nāth)", 0.3, 0.2, "left"),
+    (28.86, 76.65, "", 0, 0, "left"),               # Bohar: Nāth maṭh (Rohtak)
+    (32.03, 75.03, "", 0, 0, "left"),               # Dera Baba Nanak: Udāsī
+    (21.10, 81.03, "Nandgaon (Bairāgī state)", -0.3, -0.5, "right"),
+    (22.28, 81.70, "", 0, 0, "left"),               # Lormi: Bairāgī estate
+    (22.01, 81.23, "", 0, 0, "left"),               # Kawardha: Kabīrpanthī gaddī
+    (11.03, 79.53, "", 0, 0, "left"),               # Tiruvāvaḍuturai: Tamil Śaiva ādhīnam
+    (11.08, 79.65, "", 0, 0, "left"),               # Dharmapuram: Tamil Śaiva ādhīnam
+    (14.23, 76.40, "Chitradurga (Liṅgāyat)", 0.3, 0.25, "left"),
+    (22.60, 72.87, "Vadtal (Svāminārāyaṇa)", 0.3, 0.3, "left"),
 ]
 ax.scatter([r[1] for r in RIVALS], [r[0] for r in RIVALS], marker="P", s=34, c="#7a4fa3", edgecolors="white",
            linewidths=0.6, zorder=7)
@@ -284,7 +295,7 @@ handles = [Line2D([], [], marker="o", ls="", ms=9, mfc=OCHRE, mec="white", alpha
            Line2D([], [], marker="s", ls="", ms=4, mfc="white", mec=MUTED, label="other Smārta maṭh or Śaṅkarācārya site"),
            Line2D([], [], marker="^", ls="", ms=5.5, mfc="white", mec=INK, mew=1.1, label="Śṛṅgeri branch or house in the Mysore files, 1891–1945"),
            Line2D([], [], marker="x", ls="", ms=5, mec=INK, mew=1.0, label="taluk with Kudli maṭh property outside Mysore (1934)"),
-           Line2D([], [], marker="P", ls="", ms=6.5, mfc="#7a4fa3", mec="white", label="rival centre: Vaiṣṇava, Nāth, Mādhva, Śākta")]
+           Line2D([], [], marker="P", ls="", ms=6.5, mfc="#7a4fa3", mec="white", label="rival centre or seat (Vaiṣṇava, Nāth, Udāsī, Liṅgāyat, Śaiva …)")]
 for n in (2000, 10000, 50000):
     handles.append(Line2D([], [], marker="o", ls="", ms=(n * SCALE) ** 0.5, mfc="none", mec=MUTED, label=f"{n:,} persons"))
 leg = fig.legend(handles=handles, loc="lower left", bbox_to_anchor=(0.02, 0.11), fontsize=7.6, frameon=False,
@@ -297,8 +308,8 @@ import textwrap
 FOOT = ("Circle area ∝ persons. Daśanāmī: UP 1891 Goshain-Dasnami, Bengal 1901 Atīth, CP & Punjab 1891 Gosain/Sanniasi, Madras 1891 Sanyāsī; Smārta: Bombay castes asserted Smārta (1880s gazetteers), Tamil Madras 1891 Smārta Brahman sub-castes.\nThe two layers count different things (an order and caste vs a Brahman sect "
          "or caste allegiance) and come from different dates; Smārtas are mapped only where the sources allow "
          "(Bombay Presidency, Tamil Madras).\nGujarat, Bengal proper and the western Punjab show near-zero Daśanāmīs. "
-         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909); triangles from the Mysore government files 1891–1945, unlabelled: Gaya, Madura, Tīrthamuttūr, Udagatti (Kudli); × = 30 taluks and states listed by the Kudli maṭh's Agent in 1934 as holding its properties (Hyderabad omitted: none found). Purple crosses: rival centres named in the synthesis (Gorakhpur unlabelled: Nāth Jogīs). Inset: 1891 census totals; Daśanāmī = Goshain-Dasnami (NWP), Gosain + Sanniasi (Punjab), Gosain + Sanyasi (CP British districts). "
-         "Sources: gazetteer-vedanta/ (census-images/, results/, sringeri/, mathas/, mathas/archives/).")
+         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909); triangles from the Mysore government files 1891–1945, unlabelled: Gaya, Madura, Tīrthamuttūr, Udagatti (Kudli); × = 30 taluks and states listed by the Kudli maṭh's Agent in 1934 as holding its properties (Hyderabad omitted: none found). Purple crosses: rival centres and seats (rivals/README.md); unlabelled: Gorakhpur (Nāth), Bohar (Nāth), Dera Baba Nanak (Udāsī), Lormi (Bairāgī), Kawardha (Kabīrpanthī), Tiruvāvaḍuturai and Dharmapuram (Tamil Śaiva). Inset: 1891 census totals; Daśanāmī = Goshain-Dasnami (NWP), Gosain + Sanniasi (Punjab), Gosain + Sanyasi (CP British districts). "
+         "Sources: gazetteer-vedanta/ (census-images/, results/, sringeri/, mathas/, mathas/archives/, rivals/).")
 FOOT = "\n".join(textwrap.fill(par, 150) for par in FOOT.split("\n"))
 fig.text(0.02, 0.008, FOOT, fontsize=6.6, color=MUTED, va="bottom")
 plt.savefig("map/combined_map.png", bbox_inches="tight", facecolor=SEA)
