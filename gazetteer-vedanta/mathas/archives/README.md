@@ -206,6 +206,16 @@ Kudli only as a disputed branch. These files show both maṭhs as institutions:
 
 ## What this adds to the study
 
+**Place in the study's verdict** (`../../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's
+tradition was regional, not dominant. These files show what that meant for the two Mysore seats.
+- **Śṛṅgeri:** its reach outside its own jāgīr was made of branches at pilgrimage centres, debts and tours, not
+  landed followings. Even in its own district the Liṅgāyats and Śrīvaiṣṇavas were the larger bodies.
+- **Kudli:** its weight lay in its Bombay ināms (1934), the same country as Saṅkeśvar's. That is the one region where
+  the Śaṅkara houses out-endowed their rivals.
+- **The state:** its management of both seats (1912, 1933–59) shows how far they depended on the princely state
+  rather than on a following that could sustain them.
+
+
 1. **The two pictures fit together.** The gazetteers' "seat without buildings" outside Mysore is confirmed, and
    explained. Śṛṅgeri's reach outside the jāgīr took two forms:
    - grants, mortgages and branch maṭhs at pilgrimage centres (Rameswaram, Kaladi, Tirupati, Nasik, Haridwar,
