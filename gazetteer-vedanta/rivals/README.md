@@ -25,6 +25,14 @@ gazetteer (1968) and four Calcutta texts.
 
 ## Results
 
+**The study's verdict** (synthesis, "Dominant everywhere, or regional?"): Śaṅkara's tradition was **regional, not
+dominant**. This layer supplies most of the "elsewhere".
+- In Gujarat, Bengal, the Punjab, the Central Provinces, Mathura, Ayodhyā and the Liṅgāyat Karnatak, the rival
+  traditions coded here held the larger followings and, usually, the larger estates.
+- The exceptions are the Kanara and South Canara coast, Tamil Brahmans, the eastern Ganges plain (with Benares) and
+  the Bombay Karnatak, where Śaṅkara's following led.
+
+
 1. **Wherever both are described, the rivals are as rich as the Śaṅkara houses or richer.**
    - Tanjore: Tiruvāvaḍuturai, about 29,000 acres and Rs 2 lakhs a year, against Rs 14,000 for the Kumbakoṇam
      Śaṅkara maṭh.
