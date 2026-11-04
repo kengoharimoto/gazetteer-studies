@@ -122,7 +122,7 @@ with open("map/combined_points.tsv", "w", encoding="utf-8") as f:
 
 SCALE = 0.012  # points^2 per person -> 10,000 persons = 120 pt^2
 fig, ax = plt.subplots(figsize=(9.0, 12.2), dpi=170)
-fig.subplots_adjust(left=0.02, right=0.98, top=0.95, bottom=0.2)
+fig.subplots_adjust(left=0.02, right=0.98, top=0.95, bottom=0.225)
 fig.patch.set_facecolor(SEA)
 ax.set_facecolor(SEA)
 gj = json.load(open("map/ne_50m_admin0.geojson"))
@@ -152,7 +152,7 @@ MATHAS = [
     ("seat", 30.56, 79.56, "Jyotirmaṭh", 0.35, 0.3, "left"),
     ("seat", 19.81, 85.83, "Purī", 0.35, -0.2, "left"),
     ("seat", 10.96, 79.38, "Kumbakoṇam", 0.4, 0.45, "left"),
-    ("seat", 14.00, 75.68, "Kudali", 0.35, 0.0, "left"),
+    ("seat", 14.00, 75.68, "Kudali", 0.3, -0.32, "left"),
     ("seat", 13.17, 77.22, "Śivagaṅgā", 0.35, 0.15, "left"),
     ("dep", 16.70, 74.24, "Kolhapur", -0.95, 0.45, "right"),
     ("dep", 16.63, 74.70, "", 0, 0, "left"),        # Khidrapur, inām village of Saṅkeśvar
@@ -180,6 +180,27 @@ MATHAS = [
     ("arch", 13.70, 75.24, "", 0, 0, "left"),       # Tīrthamuttūr, a 'vassal Mutt'
     ("arch", 14.55, 75.70, "", 0, 0, "left"),       # Udagatti, Kudli svāmīs' residence in Bombay
 ]
+# Kudli Śṛṅgeri maṭh: taluks and states outside Mysore holding its properties, from its Agent's list of March 1934
+# (mathas/archives/results/coded/K.tsv, K32). Hyderabad State is left out: it reported no property found.
+# Approximate taluk headquarters.
+KUDLI_ESTATES = [
+    (14.62, 75.62, "Ranibennur"), (14.86, 75.45, "Karajgi"), (14.76, 75.12, "Hangal"), (14.46, 75.39, "Kod"),
+    (14.99, 75.22, "Shiggaon"), (15.56, 75.37, "Navalgund"), (15.18, 74.97, "Kalghatgi"), (15.46, 75.01, "Dharwar"),
+    (15.36, 75.12, "Hubli"), (15.70, 75.73, "Ron"), (15.43, 75.63, "Gadag"),            # Dharwar District
+    (14.97, 75.04, "Mundgod"),                                                          # North Kanara
+    (15.77, 75.12, "Parasgad"),                                                         # Belgaum
+    (15.92, 75.68, "Badami"), (16.18, 75.70, "Bagalkot"), (16.57, 75.97, "Bagevadi"), (16.83, 75.71, "Bijapur"),
+    (16.92, 76.23, "Sindgi"), (16.06, 76.06, "Hungund"),                                # Bijapur District
+    (14.90, 76.38, "Kudligi"), (14.79, 75.99, "Harapanahalli"),                         # Bellary
+    (13.94, 77.27, "Madakasira"),                                                       # Anantapur
+    (15.97, 75.16, "Torgal (Kolhapur State)"), (15.95, 75.30, "Ramdurg"), (15.23, 75.58, "Shirahatti (Sangli)"),
+    (15.13, 75.47, "Lakshmeshwar (Miraj Sr)"), (15.12, 75.37, "Gudageri (Miraj Jr)"), (14.97, 75.33, "Savanur"),
+    (15.68, 75.27, "Sirasangi"), (15.26, 75.25, "Kundgol (Jamkhandi)"),
+]
+ax.scatter([e[1] for e in KUDLI_ESTATES], [e[0] for e in KUDLI_ESTATES], marker="x", s=13, c=INK, linewidths=0.9,
+           alpha=0.85, zorder=6)
+ax.annotate("Kudli's Bombay estates\n(1934 list, ×)", (75.9, 16.4), xytext=(77.6, 17.6), fontsize=7.2, color=MUTED, zorder=8,
+            arrowprops=dict(arrowstyle="-", color=MUTED, lw=0.6))
 MSTYLE = {"seat": dict(marker="D", s=46, c=INK, edgecolors="white", linewidths=1.0),
           "dep": dict(marker="D", s=20, facecolors="white", edgecolors=INK, linewidths=1.1),
           "other": dict(marker="s", s=14, facecolors="white", edgecolors=MUTED, linewidths=1.0),
@@ -224,10 +245,11 @@ handles = [Line2D([], [], marker="o", ls="", ms=9, mfc=OCHRE, mec="white", alpha
            Line2D([], [], marker="D", ls="", ms=6.5, mfc=INK, mec="white", label="Śaṅkara seat located by the gazetteers"),
            Line2D([], [], marker="D", ls="", ms=4.5, mfc="white", mec=INK, mew=1.1, label="branch, inām village or temple of a seat"),
            Line2D([], [], marker="s", ls="", ms=4, mfc="white", mec=MUTED, label="other Smārta maṭh or Śaṅkarācārya site"),
-           Line2D([], [], marker="^", ls="", ms=5.5, mfc="white", mec=INK, mew=1.1, label="Śṛṅgeri branch or house in the Mysore files, 1891–1945")]
+           Line2D([], [], marker="^", ls="", ms=5.5, mfc="white", mec=INK, mew=1.1, label="Śṛṅgeri branch or house in the Mysore files, 1891–1945"),
+           Line2D([], [], marker="x", ls="", ms=5, mec=INK, mew=1.0, label="taluk with Kudli maṭh property outside Mysore (1934)")]
 for n in (2000, 10000, 50000):
     handles.append(Line2D([], [], marker="o", ls="", ms=(n * SCALE) ** 0.5, mfc="none", mec=MUTED, label=f"{n:,} persons"))
-leg = fig.legend(handles=handles, loc="lower left", bbox_to_anchor=(0.02, 0.085), fontsize=7.6, frameon=False,
+leg = fig.legend(handles=handles, loc="lower left", bbox_to_anchor=(0.02, 0.105), fontsize=7.6, frameon=False,
                 labelspacing=1.5, handletextpad=1.2, ncol=2, columnspacing=2.5)
 for t in leg.get_texts():
     t.set_color(INK)
@@ -237,7 +259,7 @@ import textwrap
 FOOT = ("Circle area ∝ persons. Daśanāmī: UP 1891 Goshain-Dasnami, Bengal 1901 Atīth, CP & Punjab 1891 Gosain/Sanniasi, Madras 1891 Sanyāsī; Smārta: Bombay castes asserted Smārta (1880s gazetteers), Tamil Madras 1891 Smārta Brahman sub-castes.\nThe two layers count different things (an order and caste vs a Brahman sect "
          "or caste allegiance) and come from different dates; Smārtas are mapped only where the sources allow "
          "(Bombay Presidency, Tamil Madras).\nGujarat, Bengal proper and the western Punjab show near-zero Daśanāmīs. "
-         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909); triangles from the Mysore government files 1891–1945, unlabelled: Gaya, Madura, Tīrthamuttūr, Udagatti (Kudli). "
+         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909); triangles from the Mysore government files 1891–1945, unlabelled: Gaya, Madura, Tīrthamuttūr, Udagatti (Kudli); × = 30 taluks and states listed by the Kudli maṭh's Agent in 1934 as holding its properties (Hyderabad omitted: none found). "
          "Sources: gazetteer-vedanta/ (census-images/, results/, sringeri/, mathas/, mathas/archives/).")
 FOOT = "\n".join(textwrap.fill(par, 150) for par in FOOT.split("\n"))
 fig.text(0.02, 0.008, FOOT, fontsize=6.6, color=MUTED, va="bottom")
