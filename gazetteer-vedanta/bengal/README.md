@@ -140,6 +140,12 @@ From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/c
 
 ## 3. Findings in relation to the other presidencies
 
+**Place in the study's verdict (`../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's tradition was regional, not dominant.**
+- **Split province:**
+  - Bihar belongs with the eastern Ganges plain, where it led: Saran alone returns 26,753 Atīths (1901).
+  - Bengal proper and Orissa are minority country. Vaiṣṇavas run to tens of thousands per district against
+    Sannyāsīs in the tens; Purī's maṭhs are mostly Vaiṣṇava; Calcutta returns no Sannyāsī heading.
+
 1. **The eastern pattern repeats the United Provinces.**
    - Daśanāmīs are concentrated in **Bihar** and adjoining Chota Nagpur, contiguous with the UP's eastern
      districts (Gorakhpur, Basti, Azamgarh, Ballia).

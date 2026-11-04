@@ -140,6 +140,12 @@ institutions with royal or Sikh sanads in the Punjab belong to the rival orders:
 
 ## 3. Findings in relation to the other regions
 
+**Place in the study's verdict (`../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's tradition was regional, not dominant.**
+- **Minority:** the Punjab is clearly minority country.
+  - Jogīs (91,937), Bairāgīs (47,561) and Udāsīs (15,194) outnumber the Gosains and Sanniasis (about 23,000).
+  - The land-holding institutions with royal or Sikh sanads are Nāth and Udāsī.
+  - Śaṅkara's following is a thin presence in the south-east and Kangra.
+
 1. **The Punjab is the edge of the Daśanāmī world.** The orders thin out westward from the UP:
    - thousands per district in the UP and Bihar;
    - hundreds in the Punjab's south-east;

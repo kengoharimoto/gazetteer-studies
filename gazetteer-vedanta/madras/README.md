@@ -112,6 +112,16 @@ houses in the study are in this presidency.
 
 ## 3. Findings in relation to Bombay
 
+**Place in the study's verdict (`../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's tradition was regional, not dominant.**
+- **Led:** Madras holds two of the regions where it led.
+  - The South Canara coast: Śṛṅgeri's non-Brahmin castes.
+  - Tamil Brahmans: 48% Smārta against 23% Aiyaṅgār.
+- **Where the wealth lay:** even here the landed religious wealth belongs to the non-Brahmin Śaiva ādhīnams and the
+  Śrīvaiṣṇava houses. The one located Śaṅkara maṭh (Kumbakoṇam, Rs 14,000) is modest beside Tiruvāvaḍuturai (about
+  Rs 2 lakhs).
+- **Minority:** South Canara's Tulu Brahmans are mostly Mādhva. The Telugu districts are not shown to follow a
+  Śaṅkara seat.
+
 1. **Śṛṅgeri's jurisdiction over non-Brahmin castes is a west-coast and Kanarese phenomenon in both
    presidencies.** Bombay's Kanara (32–39% of Hindus; Konkan Kuṇbīs won over in 1881) and Madras's South Canara
    (Kharvis, Marāṭhās, Servegāras, Ares, Chaptegāras) form one belt. Away from it the following is a Brahman

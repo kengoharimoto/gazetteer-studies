@@ -102,6 +102,14 @@ From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/c
 
 ## 3. Findings
 
+**Place in the study's verdict (`../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's tradition was regional, not dominant.**
+- **Led:** the Bombay Presidency holds two of the regions where it led as an organised following.
+  - The Kanara coast: 32–39% of Hindus in castes said to be Smārta, under Śṛṅgeri.
+  - The Karnatak: Saṅkeśvar and Kudli, the richest Śaṅkara seats in the study.
+- **A Brahman matter:** in the Marathi Deccan the following is mostly Brahman, and the Kuṇbīs "cannot tell whether
+  they are Smarts or Bhāgvats".
+- **Minority:** in Gujarat the Vallabhas and Svāminārāyaṇs hold the followings. Dvārkā has none stated.
+
 1. **Kanara is the exception, and it reflects jurisdiction more than doctrine.**
    - In the Kanara volume (1883) nearly every caste is placed under the Śṛṅgeri Jagadguru, from Havig
      Brahmans to fishermen, potters and Kumbhārs.

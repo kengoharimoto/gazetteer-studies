@@ -119,6 +119,13 @@ rivals held more land than the Daśanāmīs:
 
 ## 3. Findings in relation to the other regions
 
+**Place in the study's verdict (`../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's tradition was regional, not dominant.**
+- **Minority or at best parity.**
+  - Bairāgīs (29,298) outnumber Gosāins (24,796) in 1891.
+  - Two Bairāgī lines reached princely rank.
+  - The large lay sects of Chhattisgarh are Kabīrpanthī and Satnāmī.
+  - The Gosāin estates (Dharampuri, Bheraghat, Seoni) are real but smaller than the Bairāgī ones.
+
 1. **The CP links the UP and Bombay patterns.**
    - In the Hindi-speaking north (Saugor to Jubbulpore, Narmada valley) and in Chhattisgarh, Daśanāmīs appear
      as in the UP: propertied Gosain mahants and householders.
