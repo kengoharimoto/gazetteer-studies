@@ -192,7 +192,7 @@ drawBase();
 const ordered = PLACES.slice().sort((a, b) => RANK[b.main] - RANK[a.main]);
 let k = 1;
 function shape(p) {
-  const s = (p.main === "district" ? 2.6 : p.main === "seat" ? 4.4 : p.main === "estate" ? 3.0 : 3.4) / k;  // constant size on screen at every zoom
+  const s = (p.main === "district" ? 3.2 : p.main === "seat" ? 5.2 : p.main === "estate" ? 3.6 : 4.2) / k;  // constant size on screen at every zoom
   if (p.main === "seat" || p.main === "branch") return `M0,${-s}L${s},0L0,${s}L${-s},0Z`;
   if (p.main === "site") { const t = s * 0.85; return `M${-t},${-t}H${t}V${t}H${-t}Z`; }
   if (p.main === "estate") { const t = s * 0.8; return `M${-t},${-t}L${t},${t}M${t},${-t}L${-t},${t}`; }
@@ -213,9 +213,9 @@ const lbls = gLbl.selectAll("text").data(ordered, d => d.id).join("text")
 function labelVisible(d) {
   if (d.id === selected) return true;
   if (d.main === "seat") return true;
-  if (d.main === "branch" || d.main === "site") return k >= 2.2;
-  if (d.main === "estate") return k >= 4.5;
-  return k >= 3.2;
+  if (d.main === "branch" || d.main === "site") return k >= 1.2;
+  if (d.main === "estate") return k >= 2.6;
+  return k >= 1.9;
 }
 function restyle() {
   ptSel.attr("d", shape);
