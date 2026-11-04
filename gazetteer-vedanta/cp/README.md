@@ -97,6 +97,26 @@ States. Chhattisgarh (Bilaspur, Raipur) is Bairāgī country, and its large lay 
      grasping creditors".
    - Celibacy is the rule in maths, where property passes to a chela, but keeping women is "very common".
 
+### Rival seats in the same districts
+
+From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/coded/N.tsv`). In Chhattisgarh the
+rivals held more land than the Daśanāmīs:
+
+| district or state | rival seat (tradition) | what the texts give it | 1891 census there |
+|---|---|---|---|
+| Nandgaon State | Nandgaon (Bairāgī chiefship) | a Feudatory State of 560 villages, granted 1723 to the Bhonsla's family priest; tribute about Rs 46,000; succession by adoption (Grant 1870), later primogeniture (Russell 1916) | Bairāgī 1,440; Gosain 192 |
+| Chhuikhadan State | Chhuikhadan (Bairāgī chiefship) | the other Bairāgī state; its entry in Grant is illegible in the OCR | (see the census table) |
+| Bilaspur | Lormi (Bairāgī) | 103–104 villages (58,368 acres), granted 1826 by the Raja of Nagpur to Baramdas Bairāgī; passed from the chela to his four sons. Bairāgīs own 156 of the district's 2,242 villages | Bairāgī 8,647 (Ramanandi 3,804); Gosain 2,419 |
+| Bilaspur | Seorinarayan (Nihang gaddī) | 6 revenue-free and 12 other villages | as above |
+| Raipur | Dudhadhari temple (Bairāgī) | its mahant holds about 30 villages | Bairāgī 6,426; Gosain 3,194 |
+| Raipur | Bhandar (Satnāmī) | Ghāsī Dās's grandsons partitioned 4–5 villages and lost them; Balak Dās murdered in 1860 | as above |
+| Kawardha State | Kawardha/Damakheda (Kabīrpanthī, Dharam Dās line) | claims 500,000 of India's 850,000 Kabīrpanthīs (1901); jurisdiction, not land; rival mahants litigated to the Bombay High Court | Kabirpanthi sub-head: none; Gosain 161 |
+| Drug | Bairāgī villages | 41 villages | |
+
+- **Land.** Against these the largest Gosāin estates in the CP are Dharampuri (Raipur, 40 villages by 1909) and the
+  Bheraghat and Seoni grants. The Bhonsla state endowed both orders the same way.
+- **The census.** The Kabīrpanthīs' lay following (Bilaspur 99,260) does not appear among the ascetics.
+
 ## 3. Findings in relation to the other regions
 
 1. **The CP links the UP and Bombay patterns.**
