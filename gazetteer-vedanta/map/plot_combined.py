@@ -122,7 +122,7 @@ with open("map/combined_points.tsv", "w", encoding="utf-8") as f:
 
 SCALE = 0.012  # points^2 per person -> 10,000 persons = 120 pt^2
 fig, ax = plt.subplots(figsize=(9.0, 12.2), dpi=170)
-fig.subplots_adjust(left=0.02, right=0.98, top=0.95, bottom=0.225)
+fig.subplots_adjust(left=0.02, right=0.98, top=0.95, bottom=0.235)
 fig.patch.set_facecolor(SEA)
 ax.set_facecolor(SEA)
 gj = json.load(open("map/ne_50m_admin0.geojson"))
@@ -201,6 +201,21 @@ ax.scatter([e[1] for e in KUDLI_ESTATES], [e[0] for e in KUDLI_ESTATES], marker=
            alpha=0.85, zorder=6)
 ax.annotate("Kudli's Bombay estates\n(1934 list, ×)", (75.9, 16.4), xytext=(77.6, 17.6), fontsize=7.2, color=MUTED, zorder=8,
             arrowprops=dict(arrowstyle="-", color=MUTED, lw=0.6))
+# Rival centres noted in the synthesis ("Rivals: who else held the ground"): (lat, lon, label, dx, dy, ha)
+RIVALS = [
+    (26.80, 82.20, "Ayodhyā (Bairāgī)", -0.25, -0.6, "right"),
+    (27.49, 77.67, "Mathura (Vallabha, Gauḍīya)", -0.3, -0.45, "right"),
+    (26.76, 83.37, "", 0, 0, "left"),               # Gorakhpur: Nāth Jogīs (district already labelled)
+    (29.69, 76.99, "Karnal (Nāth)", -0.3, 0.0, "right"),
+    (13.34, 74.75, "Uḍupi (Mādhva)", -0.3, 0.1, "right"),
+    (22.57, 88.36, "Calcutta (Kālī, Vaiṣṇava, Brahmo)", -0.3, -0.45, "right"),
+]
+ax.scatter([r[1] for r in RIVALS], [r[0] for r in RIVALS], marker="P", s=34, c="#7a4fa3", edgecolors="white",
+           linewidths=0.6, zorder=7)
+for la, lo, txt, dx, dy, ha in RIVALS:
+    if txt:
+        ax.annotate(txt, (lo, la), xytext=(lo + dx, la + dy), fontsize=7, color="#7a4fa3", style="italic", zorder=8,
+                    ha=ha, va="center")
 MSTYLE = {"seat": dict(marker="D", s=46, c=INK, edgecolors="white", linewidths=1.0),
           "dep": dict(marker="D", s=20, facecolors="white", edgecolors=INK, linewidths=1.1),
           "other": dict(marker="s", s=14, facecolors="white", edgecolors=MUTED, linewidths=1.0),
@@ -246,10 +261,11 @@ handles = [Line2D([], [], marker="o", ls="", ms=9, mfc=OCHRE, mec="white", alpha
            Line2D([], [], marker="D", ls="", ms=4.5, mfc="white", mec=INK, mew=1.1, label="branch, inām village or temple of a seat"),
            Line2D([], [], marker="s", ls="", ms=4, mfc="white", mec=MUTED, label="other Smārta maṭh or Śaṅkarācārya site"),
            Line2D([], [], marker="^", ls="", ms=5.5, mfc="white", mec=INK, mew=1.1, label="Śṛṅgeri branch or house in the Mysore files, 1891–1945"),
-           Line2D([], [], marker="x", ls="", ms=5, mec=INK, mew=1.0, label="taluk with Kudli maṭh property outside Mysore (1934)")]
+           Line2D([], [], marker="x", ls="", ms=5, mec=INK, mew=1.0, label="taluk with Kudli maṭh property outside Mysore (1934)"),
+           Line2D([], [], marker="P", ls="", ms=6.5, mfc="#7a4fa3", mec="white", label="rival centre: Vaiṣṇava, Nāth, Mādhva, Śākta")]
 for n in (2000, 10000, 50000):
     handles.append(Line2D([], [], marker="o", ls="", ms=(n * SCALE) ** 0.5, mfc="none", mec=MUTED, label=f"{n:,} persons"))
-leg = fig.legend(handles=handles, loc="lower left", bbox_to_anchor=(0.02, 0.105), fontsize=7.6, frameon=False,
+leg = fig.legend(handles=handles, loc="lower left", bbox_to_anchor=(0.02, 0.11), fontsize=7.6, frameon=False,
                 labelspacing=1.5, handletextpad=1.2, ncol=2, columnspacing=2.5)
 for t in leg.get_texts():
     t.set_color(INK)
@@ -259,7 +275,7 @@ import textwrap
 FOOT = ("Circle area ∝ persons. Daśanāmī: UP 1891 Goshain-Dasnami, Bengal 1901 Atīth, CP & Punjab 1891 Gosain/Sanniasi, Madras 1891 Sanyāsī; Smārta: Bombay castes asserted Smārta (1880s gazetteers), Tamil Madras 1891 Smārta Brahman sub-castes.\nThe two layers count different things (an order and caste vs a Brahman sect "
          "or caste allegiance) and come from different dates; Smārtas are mapped only where the sources allow "
          "(Bombay Presidency, Tamil Madras).\nGujarat, Bengal proper and the western Punjab show near-zero Daśanāmīs. "
-         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909); triangles from the Mysore government files 1891–1945, unlabelled: Gaya, Madura, Tīrthamuttūr, Udagatti (Kudli); × = 30 taluks and states listed by the Kudli maṭh's Agent in 1934 as holding its properties (Hyderabad omitted: none found). "
+         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909); triangles from the Mysore government files 1891–1945, unlabelled: Gaya, Madura, Tīrthamuttūr, Udagatti (Kudli); × = 30 taluks and states listed by the Kudli maṭh's Agent in 1934 as holding its properties (Hyderabad omitted: none found). Purple crosses: rival centres named in the synthesis (Gorakhpur unlabelled: Nāth Jogīs). "
          "Sources: gazetteer-vedanta/ (census-images/, results/, sringeri/, mathas/, mathas/archives/).")
 FOOT = "\n".join(textwrap.fill(par, 150) for par in FOOT.split("\n"))
 fig.text(0.02, 0.008, FOOT, fontsize=6.6, color=MUTED, va="bottom")
