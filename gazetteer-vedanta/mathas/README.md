@@ -109,6 +109,42 @@ when they place a maṭha somewhere.
   - A Smārta guru residing at Avani, Kolar (Rice 1876, p. 106; 1897, p. 117).
   - A madam at Trikkayikkād ascribed to Śaṅkara (Malabar 1908, p. 458).
 
+## Rival maṭhs and orders
+
+The Śaṅkara maṭhs in these sources keep meeting other institutions. These records are where they appear. The
+regional picture is in the synthesis, "Rivals: who else held the ground". None of this is coded systematically.
+
+- **Mādhva maṭhs (the Karnatak, Mysore).**
+  - The Mysore files record complaints by the Uttarādi maṭh (Hole Narsipur, 1906) and the Ahobila maṭh (Mysore,
+    1907) against the Śṛṅgeri Svāmī's processions.
+  - The Śrī Vaiṣṇava protest when he entered the Raṅganātha temple at Srirangapatna, with the Parakāla Svāmī,
+    1895.
+  - The Vyāsarāja maṭh of Sosale claimed equal treatment with Śṛṅgeri in the State's first-day bhikṣā (1931).
+  - Uḍupi is the guru seat of the Vaiṣṇava Brahmans of Kanara. By 1973 the Tulu Brahmans are "largely followers
+    of Madhvacharya".
+- **Liṅgāyat maṭhs.**
+  - Kanara's Konkan Kuṇbīs left "the Lingayat guide of Chitaldurg" for Śṛṅgeri in 1881.
+  - The Kudalgi Svāmī's crosswise palanquin at Hubli was contested by the Liṅgāyat Mursavirad Svāmī (Dharwar
+    1884, p. 757).
+  - Liṅgāyat objections were feared when Kudli got the ambari (1931). Mysore regulated the Murgi maṭh's
+    "Jagadguru" title and processions.
+  - At Śṛṅgeri itself, Liṅgāyats are "reconciled by being allowed to blow their conch-shells in the processions"
+    (Rice).
+- **Vaiṣṇava maṭhs in Purī.** Of the town's 70-odd maṭhs most are Vaiṣṇava foundations (Emār, Rāghavadāsa and
+  others). "The Sankaracharya" maṭh is one among them (1908).
+- **Bairāgī akhāṛās (the north).**
+  - The Gosāin–Bairāgī battle at Hardwar (1760).
+  - The Gosāins' expulsion from Hanumāngaṛhī in Ayodhyā.
+  - Precedence among Daśanāmī, Bairāgī and Udāsī akhāṛās at the Kumbh.
+  - In Benares the census returns 141 Bairāgīs against 4,106 Gosāins (1891); in Ayodhyā the gazetteer describes
+    Bairāgī dominance.
+- **Nāth Jogīs.** The Gorakhnāth maṭh at Gorakhpur. In Karnal the Gosāin temple priests give way to "Jogis … of the
+  Kanphara clan".
+- **Tamil non-Brahmin Śaiva maṭhs.** Dharmapuram, Tiruvāvaḍuturai, Tiruppanandāl and Tiruppugalūr outrank the
+  Kumbakoṇam Śaṅkara maṭh in the Tanjore gazetteer's list of the district's chief maṭhs (1906, p. 72).
+- **Calcutta.** No Śaṅkara maṭh is located in the city. The Daśanāmī foundations nearby (Bhot-Bagān, Tārakeśvar)
+  stand in a landscape of Gauḍīya Vaiṣṇava "circles" and Kālī worship (24 Parganas 1914).
+
 ## Findings
 
 1. **The gazetteers describe one Śaṅkara maṭh network in detail, and it is Saṅkeśvar's.**
