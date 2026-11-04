@@ -258,7 +258,7 @@ The census tables read for the Daśanāmīs also count their rivals (persons; `c
 | rival seat | tradition | what the texts give it | nearest Śaṅkara comparison |
 |---|---|---|---|
 | Tiruvāvaḍuturai (Tanjore) | Tamil Śaiva ādhīnam | about 29,000 acres; Rs 2 lakhs a year | Kumbakoṇam maṭh, Rs 14,000 and three temples |
-| Dharmapuram (Tanjore) | Tamil Śaiva ādhīnam | head of the "Sudra maths"; Tiruppanandāḷ (Rs 80,000) under it | listed before Kumbakoṇam (1906) |
+| Dharmapuram (Tanjore) | Tamil Śaiva ādhīnam | about 2,500 acres and 27 temples; nearby Tiruppanandāḷ (Rs 80,000 a year) was held independent of it in court | listed before Kumbakoṇam (1906) |
 | Chitradurga (Murugha maṭh) | Liṅgāyat | supreme Liṅgāyat guru; lost the Konkan Kuṇbīs to Śṛṅgeri in 1881 | Śṛṅgeri; Kudli |
 | Nandgaon; Lormi | Bairāgī | a state of 560 villages (1723); 104 villages (1826) | Dharampuri, 40 villages |
 | Kawardha (Damakheda line) | Kabīrpanthī | lay following claimed at 500,000 | no Śaṅkara seat in the CP |

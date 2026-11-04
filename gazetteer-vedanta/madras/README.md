@@ -88,6 +88,28 @@ Seats named across the 246 rows: Śṛṅgeri 8; Sātāni gurus 6; Parakāla 2; 
 every other seat once (Ahobilam, Vānamāmalai, Śrīperumbudūr, Tirukkōyilūr, Uttarādi, Udupi, Sumatīndra,
 Rāmacandrapura, Saklapuri, Kumbakoṇam, Ujjani, …). Puṣpagiri and Virūpākṣa are never named.
 
+### Rival seats in the Madras districts
+
+From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/coded/S.tsv`). The richest rival
+houses in the study are in this presidency.
+
+| district | rival seat (tradition) | what the texts give it | Śaṅkara comparison |
+|---|---|---|---|
+| Tanjore (and Tinnevelly) | Tiruvāvaḍuturai (non-Brahmin Śaiva ādhīnam) | about 29,000 acres (25,000 of them in Tinnevelly); about Rs 2 lakhs a year; about 15 temples | Kumbakoṇam Śaṅkara maṭh, about Rs 14,000 and three temples (Tanjore 1906) |
+| Tanjore | Dharmapuram (non-Brahmin Śaiva ādhīnam) | about 2,500 acres; 27 temples | as above |
+| Tanjore | Tiruppanandāḷ (non-Brahmin Śaiva) | Rs 80,000 a year; a branch at Benares; held independent of Dharmapuram in court | as above |
+| Tinnevelly | Vānamāmalai, Nāṅguneri (Teṅgalai Jīyar) | received the temple funds in 1841 and a Rs 8,694 dastik; 200 subordinate maṭhs remit their surplus, "at the absolute disposal of the Jeer" | no Śaṅkara seat located in the district |
+| South Canara | Uḍupi (Mādhva) | the Tulu Brahmans' maṭhs; the largest Tulu group, the Shivallis (28,660 in 1891), are Mādhva | Śṛṅgeri over the Marathi-speaking Smārtas (about 8% of Brahmans) and the non-Brahmin castes (`../sringeri/README.md`) |
+| Bellary | Liṅgāyat maṭhs | Liṅgāyats 12% of the population, 7–8 times the Brahmans | no Śaṅkara maṭh in the Bellary volumes; Hampi known only from a Mysore file of 1935–36 |
+
+- **Śrīvaiṣṇava litigation.** Teṅgalai–Vaḍagalai disputes run at Tiruvēndipuram (from 1760 to the Privy Council in
+  1906), Conjeeveram, Mannārguḍi and Tirukkuṟuṅguḍi. The North Arcot Manual (1895) says they "often lead to
+  serious affrays".
+- **Not covered.** The Śrīvaiṣṇava seats of Srirangam, Ahobila, Śrīperumbudūr and Tirukkōyilūr are not described:
+  their districts (Trichinopoly, Kurnool, Chingleput's descriptive gazetteer, South Arcot) are not in the set.
+- **The pattern.** In the Tamil country the Smārta Brahmans are numerous (48% of Brahmans) but their one located
+  maṭh is modest. The landed religious wealth belongs to the non-Brahmin Śaiva ādhīnams and the Śrīvaiṣṇava houses.
+
 ## 3. Findings in relation to Bombay
 
 1. **Śṛṅgeri's jurisdiction over non-Brahmin castes is a west-coast and Kanarese phenomenon in both

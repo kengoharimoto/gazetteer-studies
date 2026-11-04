@@ -86,7 +86,7 @@ seats" filter).
 | seat | tradition | what the texts give it | district census, 1891 | nearest Śaṅkara comparison |
 |---|---|---|---|---|
 | Tiruvāvaḍuturai (Tanjore) | Tamil Śaiva ādhīnam | about 29,000 acres; Rs 2 lakhs a year | (no ascetic table; Smārta 63.8% of Brahmans) | Kumbakoṇam maṭh, Rs 14,000 |
-| Dharmapuram (Tanjore) | Tamil Śaiva ādhīnam | head of the "Sudra maths"; Tiruppanandāḷ (Rs 80,000) under it | as above | listed before Kumbakoṇam (1906) |
+| Dharmapuram (Tanjore) | Tamil Śaiva ādhīnam | about 2,500 acres and 27 temples; nearby Tiruppanandāḷ (Rs 80,000 a year) was held independent of it in court | as above | listed before Kumbakoṇam (1906) |
 | Chitradurga (Murugha maṭh) | Liṅgāyat | supreme Liṅgāyat guru; lost the Konkan Kuṇbīs to Śṛṅgeri (1881) | (Mysore; not in the tables read) | Śṛṅgeri; Kudli |
 | Nandgaon | Bairāgī | a Feudatory State of 560 villages (1723) | Bairāgī 1,440; Gosain 192 | Dharampuri, 40 villages |
 | Lormi | Bairāgī | 103–104 villages (1826) | Bilaspur: Bairāgī 8,647; Gosain 2,419 | as above |

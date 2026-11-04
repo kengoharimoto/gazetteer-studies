@@ -502,7 +502,7 @@ add("Dera Baba Nanak", "", "Dera Baba Nanak", "Gurdaspur", "Punjab", 32.03, 75.0
 add("Tiruvāvaḍuturai", "Tiruvaduturai; Tiruvavaduturai", "Thiruvavaduthurai", "Mayiladuthurai", "Tamil Nadu", 11.03, 79.53, "site", "Madras",
     "Rival seat: non-Brahmin Śaiva ādhīnam, about 29,000 acres and Rs 2 lakhs a year, against about Rs 14,000 for the Kumbakoṇam Śaṅkara maṭh (Tanjore 1906; rivals S-coding).", "rivals/; mathas/")
 add("Dharmapuram", "", "Dharmapuram", "Mayiladuthurai", "Tamil Nadu", 11.08, 79.65, "site", "Madras",
-    "Rival seat: non-Brahmin Śaiva ādhīnam; head of the 'Sudra maths' listed first among Tanjore's chief maṭhs (1906), superior of Tiruppanandāḷ (Rs 80,000 a year).", "rivals/; mathas/")
+    "Rival seat: non-Brahmin Śaiva ādhīnam; about 2,500 acres and 27 temples; among the 'Sudra maths' listed first in Tanjore's chief maṭhs (1906). Nearby Tiruppanandāḷ (Rs 80,000 a year) was held independent of it in court.", "rivals/; mathas/")
 add("Chitradurga", "Chitaldrug; Chitaldroog; Chitaldurg", "Chitradurga", "Chitradurga", "Karnataka", 14.23, 76.40, "site", "Mysore",
     "Rival seat: the Murugha maṭh, supreme guru of the Liṅgāyats; Kanara's 14,812 Konkan Kuṇbīs left 'the Lingayat guide of Chitaldurg' for Śṛṅgeri in 1881; the hill maṭh stood deserted owing to 'the opposition of other sects' (rivals S-coding).", "rivals/; sringeri/")
 add("Vadtal", "Vartal; Wadtal", "Vadtal", "Kheda", "Gujarat", 22.60, 72.87, "site", "Bombay",

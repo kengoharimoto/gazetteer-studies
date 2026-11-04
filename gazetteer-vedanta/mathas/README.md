@@ -149,7 +149,7 @@ regional picture is in the synthesis, "Rivals: who else held the ground". None o
   | rival seat | tradition | what the texts give it | nearest Śaṅkara comparison |
   |---|---|---|---|
   | Tiruvāvaḍuturai (Tanjore) | Tamil Śaiva ādhīnam | about 29,000 acres, Rs 2 lakhs a year | Kumbakoṇam Śaṅkara maṭh, Rs 14,000 and three temples |
-  | Dharmapuram (Tanjore) | Tamil Śaiva ādhīnam | head of the "Sudra maths"; Tiruppanandāḷ under it, Rs 80,000 a year | listed before Kumbakoṇam (Tanjore 1906) |
+  | Dharmapuram (Tanjore) | Tamil Śaiva ādhīnam | about 2,500 acres and 27 temples; nearby Tiruppanandāḷ (Rs 80,000 a year) was held independent of it in court | listed before Kumbakoṇam (Tanjore 1906) |
   | Chitradurga (Murugha maṭh) | Liṅgāyat | supreme Liṅgāyat guru; lost the Konkan Kuṇbīs to Śṛṅgeri (1881) | Śṛṅgeri, Kudli |
   | Nandgaon | Bairāgī | a Feudatory State of 560 villages (granted 1723) | Dharampuri, the largest Gosāin estate in the CP, 40 villages |
   | Lormi | Bairāgī | 103–104 villages (1826 grant) | as above |
