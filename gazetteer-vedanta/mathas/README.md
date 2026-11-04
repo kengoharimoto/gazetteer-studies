@@ -38,7 +38,7 @@ when they place a maṭha somewhere.
 | **Śṛṅgeri** (Mysore) | a landed estate in Mysore; one branch at Kudali; no maṭh in Bombay or Madras (`../sringeri/`). Its Svāmī visited Nagpur c. 1903–04 (Wardha 1906, p. 53) | devotional traces in South Kanara |
 | **Saṅkeśvar** (Belgaum) | the fullest maṭh account in the Bombay series, with a network of maṭhs, inām villages and temple works (below) | the Kolhapur branch now independent |
 | **Karvīr** (Kolhapur) | not yet a separate seat: the Kolhapur maṭh "belonging to the Sankeshvar Svami" | Karvīr Pīṭha, split from Saṅkeśvar c. 1909 (Kolhapur 1959, p. 874); its Śaṅkarācārya Dr Kurtakoti at a Panchavati maṭh in Nasik (Nasik 1977, pp. 199–201) |
-| **Kudali / Kudalgi** (Shimoga, Mysore) | two traditions: a branch appointed by Śṛṅgeri (Rice 1876, p. 380; 1897, pp. 459–60), or founded by the Saṅkeśvar secessionist (Belgaum 1884, pp. 601–02). Its Svāmī rebuilt the Hallur temple and holds the village (Dharwar, p. 722), and won the crosswise-palkhi privilege at Hubli up to the Privy Council (p. 757) | — |
+| **Kudali / Kudalgi** (Shimoga, Mysore) | two traditions: a branch appointed by Śṛṅgeri (Rice 1876, p. 380; 1897, pp. 459–60), or founded by the Saṅkeśvar secessionist (Belgaum 1884, pp. 601–02). Its Svāmī rebuilt the Hallur temple and holds the village (Dharwar, p. 722), and won the crosswise-palkhi privilege at Hubli up to the Privy Council (p. 757). The Mysore files (1933–34) show most of its income came from estates outside Mysore: 30 taluks and states in Dharwar, Bijapur, Belgaum, North Kanara, Bellary, Anantapur and the southern Maratha states (`archives/README.md`) | — |
 | **Dvārkā** (Gujarat) | only in the Gujarat population volume (1901, p. 542): "Shārada Pīth … endowed by the Gaekwar of Baroda, who sanctions the appointment of every new pontiff"; referee for Gujarat's Śaivas. The Kathiawar volume's Dwarka entry (1884) describes no maṭh | — |
 | **Jyotirmaṭh** (Garhwal) | named in lists of the four maṭhs (Atkinson 1884, p. 768; 1886, p. 272). Garhwal 1910 (p. 56): Śaṅkara "established the Joshimath monastery". The Joshimath place entries describe no maṭh: Joshimath is the winter seat of the Badrinath Rawal, a Nambūri whose office tradition ties to Śaṅkara. No Jyotirmaṭh Śaṅkarācārya is named. Atkinson also says the Garhwal Daśanāmīs' "chief math … is at Sringeri" (p. 862) | — |
 | **Govardhana** (Purī) | Hunter 1877: none. O'Malley 1908 (p. 288): "the Sankaracharya" maṭh "said to have been founded by Sankaracharya himself", about 1,200 MSS; never called Govardhana | named as the Gobardhana maṭha "still extant"; its certificate once needed by Jagannātha priests (Purī 1977) |
@@ -100,6 +100,10 @@ when they place a maṭha somewhere.
      and a touring svāmī.
    - It is also the seat whose story the gazetteer tells as a secession from Śṛṅgeri. Kudali is claimed by
      both lines.
+   - The Mysore files add Kudli's own estates on the same ground. Its Agent's 1934 list names 30 taluks and
+     states outside Mysore, chiefly in Dharwar (11 taluks) and Bijapur (6) and the southern Maratha states. In 1933
+     they brought Rs 16,798 of an income of Rs 35,047, against Rs 5,594 from inside Mysore. Bombay calls the maṭh
+     "Kudalgi" and ranks its svāmī with Saṅkeśvar's (`archives/README.md`, "The Kudli estates, 1934").
 2. **The four-pīṭha scheme appears as a list, not as institutions.** Dvārkā, Jyotirmaṭh and Purī are named as
    Śaṅkara's seats mainly in lists of the four maṭhs (Atkinson 1884, Gujarat 1901). Where the gazetteers
    describe the place itself:
@@ -111,7 +115,8 @@ when they place a maṭha somewhere.
 3. **The south has endowed Smārta maṭhs, described as estates and temple patrons and given no followers:**
    - Kumbakoṇam: Rs 14,000 a year and three temples.
    - Śivagaṅgā: under Muzrai management.
-   - Kudali: a village and temple patronage.
+   - Kudali: a village and temple patronage in the gazetteers; in the Mysore files, estates across the Bombay
+     Karnatak (see finding 1).
 4. **After Independence the seats become more visible** (Karvīr, Govardhana, Kāñcī at Purī). Their estates and
    their jurisdiction over castes disappear from the texts. This matches `../revised/README.md`.
 
