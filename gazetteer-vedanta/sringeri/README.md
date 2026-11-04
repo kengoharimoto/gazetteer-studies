@@ -128,6 +128,23 @@ orders").
   - Hampi was put forward as a rival seat at the 1912 succession, though its Svāmī later called his maṭh "a branch
     of Sri Sringeri Mutt" (1935–36).
 
+### The rival seats around Śṛṅgeri
+
+From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/coded/S.tsv`). These seats are also
+on the combined map and in the places finder ("Rival seats" filter).
+
+| rival seat (tradition) | where | what the texts give it | bearing on Śṛṅgeri |
+|---|---|---|---|
+| Uḍupi: the eight maṭhs (Mādhva) | South Canara | the Kṛṣṇa temple rotates among them every two years; each svāmī spends fourteen years "levying contributions" in Canara and Mysore; the Shivallis (28,660 in 1891) "warmly adopted" Madhva after being Smārtas | Śṛṅgeri keeps only the Tulu Brahmans "as have remained Smarthas", the Marathi-speaking Smārtas and the non-Brahmin castes |
+| Sonda: the Vādirāja (Terbidi) maṭh (Mādhva, a branch of Uḍupi) | Kanara | land grants of 1593 and 1706; "the Vaishnavs hold him in as much reverence as the Smarts hold Shankaracharya" | stands beside the Svarṇavallī Smārta maṭh at Sonda |
+| Chitradurga: the Murugha maṭh (Liṅgāyat) | Mysore | the supreme Liṅgāyat guru; its hill maṭh deserted owing to "the opposition of other sects" | lost the 14,812 Konkan Kuṇbīs of Kanara to Śṛṅgeri's agent in 1881 |
+| Melukote (Śrīvaiṣṇava) | Mysore | the 1614 royal estate; 400 Brahmans on daily allowance; the Parakāla svāmī | in 1891 the Śrīvaiṣṇavas are the largest Brahman sub-division even in Kadur, Śṛṅgeri's own district (5,357 against 2,384 "Smārta") |
+| Liṅgāyat maṭhs of Kadur | Mysore | Liṅgāyats outnumber all Brahmans in Kadur more than two to one (37,657 against 17,026, 1891) | conches allowed in Śṛṅgeri's processions; the 1888 Bellary procession dispute |
+| Rāmacandrapura; Svarṇavallī (Smārta, separate lines) | Shimoga; Sonda | the Havigs' gurus | Smārtas outside Śṛṅgeri's authority |
+
+So Śṛṅgeri's seat stood in a district where Liṅgāyats were the larger community and Śrīvaiṣṇavas the larger Brahman
+sect. Its reach lay among the castes of the coast and the Marathi Smārtas, not among its neighbours.
+
 ### Rival totals: South Canara Brahmans in the 1891 census
 
 The census gives no ascetic counts for Śṛṅgeri's country. It does give South Canara's Brahmans by sub-division
