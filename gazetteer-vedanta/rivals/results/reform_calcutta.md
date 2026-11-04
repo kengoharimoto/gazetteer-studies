@@ -1,5 +1,9 @@
 # Reform movements, and the Calcutta area
 
+> **The study's verdict** (`../../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"; `../README.md`): Śaṅkara's
+> tradition was regional, not dominant. This report supplies part of the evidence for the "elsewhere".
+
+
 Coded rows: `rivals/results/coded/R.tsv`.
 - R001–R132 are the reform movements in all downloaded volumes.
 - R133–R164 are Calcutta-area material on Daśanāmīs, Vaiṣṇavas, Kālīghāṭ, and the new Calcutta census and *Calcutta Old and New* downloads.

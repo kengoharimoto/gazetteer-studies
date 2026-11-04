@@ -1,5 +1,9 @@
 # Rival ascetic orders in the north and centre: institutions and estates
 
+> **The study's verdict** (`../../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"; `../README.md`): Śaṅkara's
+> tradition was regional, not dominant. This report supplies part of the evidence for the "elsewhere".
+
+
 This report covers the Bairāgīs (Rāmānandī and others), the Nāth/Kānphaṭā Jogīs, the Udāsīs and Nirmalas, the
 Kabīrpanthīs, the Satnāmīs and the Aghorīs. It draws on the colonial volumes for the United Provinces (excluding
 Benares, Fyzabad and Muttra), the Punjab and the Central Provinces. The coded rows are in `coded/N.tsv` (N001–N095,

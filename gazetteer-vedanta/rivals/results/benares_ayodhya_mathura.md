@@ -1,5 +1,9 @@
 # Benares, Ayodhyā and Mathurā: Śaṅkara's following and its rivals
 
+> **The study's verdict** (`../../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"; `../README.md`): Śaṅkara's
+> tradition was regional, not dominant. This report supplies part of the evidence for the "elsewhere".
+
+
 Coded rows: `rivals/results/coded/BAM.tsv` (BAM01–BAM129). Every quote has been checked against the OCR, with
 whitespace collapsed. The Daśanāmī Gosāins, Daṇḍīs and Nāgās are coded `tradition=other`, with `dasnami` in the
 notes, so that each city has both sides in one file. Muslims and Jains are also coded `other`, with `muslim` or

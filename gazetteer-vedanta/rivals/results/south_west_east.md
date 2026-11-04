@@ -1,5 +1,9 @@
 # Rivals in the south, west and east (assignment S)
 
+> **The study's verdict** (`../../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"; `../README.md`): Śaṅkara's
+> tradition was regional, not dominant. This report supplies part of the evidence for the "elsewhere".
+
+
 Coded rows: `coded/S.tsv`, S001–S225, with `# generic:` lines at the end. The rows cover Gujarat Vaiṣṇavism, the
 Mādhva, Śrīvaiṣṇava, Liṅgāyat and Tamil Śaiva houses, and the Gauḍīya and Purī houses. Row ids are cited in
 brackets.
