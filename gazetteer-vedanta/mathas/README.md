@@ -67,6 +67,23 @@ when they place a maṭha somewhere.
   - Under Shahu (1884–1922) an unnamed "religious pitha" was "practically disestablished and its endowments
     withdrawn" (Kolhapur 1959, p. 94). It probably means this maṭh (low confidence).
   - The Kolhapur maṭh became the Karvīr Pīṭha "about 50 years ago", that is about 1909 (p. 874).
+- **Its neighbour and equal: Kudli's estates** (from the Mysore government files, `archives/README.md`).
+  - Kudalgi is the first maṭh in Saṅkeśvar's own origin story. The Mysore files show the same maṭh, Kudli, holding
+    estates on the same ground.
+  - Its Agent's 1934 list names 30 taluks and states outside Mysore:
+    - Dharwar: 11 taluks;
+    - Bijapur: 6 taluks;
+    - Belgaum (Parasgad) and North Kanara (Mundgod);
+    - Bellary and Anantapur;
+    - the southern Maratha states: Kolhapur (Torgal), Ramdurg, Sangli, Miraj Senior and Junior, Savanur,
+      Sirasangi, Jamkhandi.
+  - Saṅkeśvar's thirty villages lie mainly in Kolhapur, Belgaum and the Maratha states (1884). Kudli's lie mainly
+    in Dharwar and Bijapur (1934). Together they cover the Bombay Karnatak.
+  - Bombay levied nazarana on Kudli's Dharwar and Bijapur ināms (Rs 2,745 and Rs 1,167, 1936). In 1896 a Bombay
+    officer, forwarded by the Commissioner of the Southern Division, recommended exempting the Svāmī of Kudalgi from
+    the Arms Act. His reason was that "his brother Swami of Sankeshwar in the Belgaum District, who is in no way
+    superior in position, has been exempted" (copied into a Mysore file of 1903).
+  - The two seats also competed. In 1913 a Saṅkeśvar nominee challenged Śṛṅgeri's accredited agent in Khandesh.
 
 ## Other Śaṅkarācārya sites with no named seat
 

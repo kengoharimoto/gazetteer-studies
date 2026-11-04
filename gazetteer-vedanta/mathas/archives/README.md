@@ -129,8 +129,10 @@ Kudli only as a disputed branch. These files show both maṭhs as institutions:
     (1847–49) held that it "is not a Tondu Matt", that it is a maṭh "guided by its own laws".
   - The Dewan to the Resident, 1895: "The Kudli Matt as a separate branch of the original Matt at Sringeri came
     into existence at the Partition of A. D. 1656-57".
-  - The Bombay Government, 1896, calls the Svāmī of Kudalgi's "brother Swami of Sankeshwar … in no way superior
-    in position". This puts Kudli on a level with Saṅkeśvar.
+  - A Bombay officer's recommendation of 1896 (forwarded by the Commissioner, Southern Division, and copied into a
+    Mysore file of 1903) asks for the Svāmī of Kudalgi to be exempted from the Arms Act. It notes that "his brother
+    Swami of Sankeshwar … who is in no way superior in position, has been exempted". This puts Kudli on a level
+    with Saṅkeśvar.
   - No file says that Śṛṅgeri appoints the Kudli guru, as Rice (1876, 1897) does. The archive agrees with the
     Belgaum gazetteer that Kudli and Saṅkeśvar came out of one secession. It dates the split to 1656–57, where
     the gazetteer gives c. 1570.

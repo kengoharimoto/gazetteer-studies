@@ -98,8 +98,9 @@ The Kudli Śṛṅgeri maṭh (Shimoga, Mysore) is the Bombay gazetteers' "Kudal
     Savanur, Sirasangi, Jamkhandi (Kundgol). Hyderabad found none.
   - Crosses on the map mark these taluks.
 - **Bombay's view.** Bombay levied nazarana on the Dharwar and Bijapur ināms (Rs 2,745 and Rs 1,167, 1936). It
-  called the maṭh "Kudalgi" or the "Uddughatti Mutt" (Udagatti, Ranibennur taluk). It ranked the Saṅkeśvar Svāmī
-  as Kudli's "brother Swami … in no way superior in position" (1896).
+  called the maṭh "Kudalgi" or the "Uddughatti Mutt" (Udagatti, Ranibennur taluk). A Bombay officer
+  asked for Kudli's svāmī to be exempted from the Arms Act like his "brother Swami of Sankeshwar … who is in no way
+  superior in position" (1896).
 - **Independence.** The Huzur Adalat (1847–49) rejected Śṛṅgeri's claim that Kudli was a *tondu* (subordinate)
   maṭh. The Dewan (1895) dates its separation to "the Partition of A. D. 1656-57".
 - **Management.** Government managed its properties from 1933 to March 1941, at the Svāmī's request.
