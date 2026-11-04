@@ -109,6 +109,14 @@ Rivals (synthesis, "Rivals: who else held the ground"; coded in `rivals/`: 615 r
 - **Wealth:** where both are described, the rival houses are as rich as the Śaṅkara houses or richer
   (Tiruvāvaḍuturai Rs 2 lakhs against Kumbakoṇam's Rs 14,000; the Bairāgī state of Nandgaon, 560 villages). The
   Bombay Karnatak, where Saṅkeśvar and Kudli out-endow the Liṅgāyat maṭhs, is the exception.
+- **Rival seats** (on the combined map, in the places finder, and tabulated beside the Śaṅkara houses in the
+  synthesis and `mathas/README.md`):
+  - Tiruvāvaḍuturai and Dharmapuram (Tamil Śaiva);
+  - Chitradurga (Liṅgāyat);
+  - Nandgaon and Lormi (Bairāgī);
+  - Kawardha (Kabīrpanthī);
+  - Tilla, Bohar (Nāth) and Dera Baba Nanak (Udāsī);
+  - Vadtal (Svāminārāyaṇa).
 - **Calcutta:** almost no Daśanāmīs (3 Atīths, 13 Gosāins in 1901). The ground belonged to Chaitanya Vaiṣṇavism and
   Kālī, and among the educated to the Brahmos.
 - **Census totals of rival orders** (persons; `census-images/README.md`, "Rival orders in the same tables"):
