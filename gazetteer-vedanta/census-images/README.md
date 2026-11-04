@@ -117,3 +117,28 @@ The 1901 Bombay report (`in.ernet.dli.2015.55938`, p. 61) states, from its sect 
 
 These are the only presidency-wide Smārta figures for Bombay in the census. They are a sect return, with much left
 unspecified, not a caste count. The 1891 and 1911 reports have no sect table (`../results/README.md`, section 5).
+
+## The rival seats in the census
+
+The rival seats coded in `../rivals/` (also on the combined map and in the places finder), set against the 1891
+counts for their own districts (persons):
+
+| rival seat (tradition) | district, 1891 | the seat's order in the census | Daśanāmī / Gosain |
+|---|---|---|---|
+| Nandgaon (Bairāgī state, 560 villages) | Nandgaon State | Bairāgī 1,440 | Gosain 192 |
+| Lormi (Bairāgī, 104 villages) | Bilaspur | Bairāgī 8,647 (Ramanandi 3,804) | Gosain 2,419 |
+| Kawardha (Kabīrpanthī gaddī) | Kawardha State | Kabirpanthi sub-head: none returned (Bairāgī 472) | Gosain 161 |
+| Tilla (Nāth) | Jhelum | Jogī-Rawal 1,438 | Gosain 10; Sanniasi 76 |
+| Bohar (Nāth) | Rohtak | Jogī-Rawal 3,717 (Bairāgī 6,317) | Gosain 568 |
+| Dera Baba Nanak (Udāsī) | Gurdaspur | Udāsī 93 (Jogī-Rawal 5,408) | Gosain 2; Sanniasi 395 |
+| Tiruvāvaḍuturai, Dharmapuram (Tamil Śaiva) | Tanjore | (non-Brahmin; no ascetic table) | Smārta 63.8% of Brahmans; Aiyaṅgār 18.3% |
+| Chitradurga (Liṅgāyat), Vadtal (Svāminārāyaṇa) | Mysore; Kaira | not in the tables read | |
+
+The seat's own order outnumbers the Gosāins in every district where both are counted. But the counts and the
+institutions do not line up:
+- Dera Baba Nanak, a major Udāsī seat, sits in a district that returns only 93 Udāsīs.
+- The Kabīrpanthīs, whose Kawardha line claimed half a million lay followers, return no ascetics under that
+  heading.
+
+The census counts ascetics who returned themselves by order. The lay followings that sustained these seats do not
+appear in these tables.
