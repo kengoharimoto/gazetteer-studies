@@ -40,6 +40,7 @@ body { background: var(--bg); color: var(--ink); font-family: var(--sans); font-
 header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 18px; }
 h1 { font-family: var(--serif); font-weight: 600; font-size: 1.6rem; margin: 0; letter-spacing: .005em; text-wrap: balance; }
 .sub { color: var(--muted); font-size: .92rem; max-width: 70ch; margin: 0; }
+.verdict { flex-basis: 100%; margin: 4px 0 0; padding: 8px 12px; max-width: 110ch; font-size: .88rem; line-height: 1.5; color: var(--ink); background: var(--panel); border: 1px solid var(--rule); border-left: 3px solid var(--rival); border-radius: 4px; }
 .main { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 14px; align-items: start; }
 @media (max-width: 900px) { .main { grid-template-columns: minmax(0, 1fr); } }
 
@@ -102,6 +103,7 @@ footer { color: var(--muted); font-size: .8rem; max-width: 100ch; }
   <header>
     <h1>Gazetteer Places Finder</h1>
     <p class="sub">Every district, maṭha, estate and site in the study of Śaṅkara's following in the British Indian gazetteers, with the spellings the sources use and the modern names. Search any spelling: Conjeeveram finds Kāñcī, Kudalgi finds Kudli.</p>
+    <p class="verdict"><strong>The study's answer: regional, not dominant.</strong> Śaṅkara's tradition is present in every region and carries the highest learned prestige. As an organised following it led only on the Kanara and South Canara coast, among Tamil Brahmans, in the eastern Ganges plain (with Benares) and in the Bombay Karnatak. In Gujarat, Bengal, the Punjab, the Central Provinces, Mathura, Ayodhyā and the Liṅgāyat Karnatak, Vaiṣṇava, Nāth, Udāsī, Bairāgī or Liṅgāyat bodies held the larger followings. The purple crosses mark their seats. The evidence is in the synthesis, "Dominant everywhere, or regional?".</p>
   </header>
 
   <div class="main">
