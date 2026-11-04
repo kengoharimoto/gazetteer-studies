@@ -177,6 +177,26 @@ these sources, for four reasons:
 
 Noted from the volumes already read; not coded systematically.
 
+The census tables read for the Daśanāmīs also count their rivals (persons; `census-images/README.md`):
+
+| census | Daśanāmī / Gosāin | rival orders in the same table |
+|---|---|---|
+| NWP and Oudh 1891 | 103,320 | Jogī 78,387; Bairāgī 31,979; named Vaiṣṇava Goshains 752 |
+| Punjab 1891 (province) | Gosain 13,344; Sanniasi 9,799 | Jogī-Rawal 91,937; Bairāgī 47,561; Udāsī 15,194 |
+| Central Provinces 1891 | Gosain 24,796 | Bairāgī 29,298 (Ramanandi 7,731); Jogī 6,094; Nāth 5,008; Feudatory States: Bairāgī 6,712 against Gosain 1,038 |
+| Bengal 1901 | Atīth 50,042 | "Gosain" 29,534, a mixed column, largely Vaiṣṇava |
+| Tamil Madras 1891 | Smārta 47.6% of Brahmans | Aiyaṅgār (Śrīvaiṣṇava) 22.7%; Mādhva 2,650 |
+
+- **Nāth Jogīs:** the largest ascetic body in the north. They outnumber the Daśanāmīs about four to one in the
+  Punjab, and come close to them in the NWP.
+- **Bairāgīs:** they outnumber the Daśanāmīs in the Punjab and the CP.
+- **Udāsīs:** they exceed the Gosāins in the Punjab.
+- **Ascetic counts only:** the lay Vaiṣṇava sects show only where the census asked (Bilaspur's 99,260
+  Kabīrpanthīs).
+- **Loose categories:** the 1891 NWP report says enumerators used "Goshain, Bairagi, Jogi, Saniyasi"
+  interchangeably.
+
+
 - **Vaiṣṇava orders, almost everywhere:**
   - North: the Rāmānandī Bairāgīs, the Daśanāmīs' direct counterpart. Their akhāṛās fought the Gosāins at Hardwar
     (1760), expelled them from Hanumāngaṛhī (Ayodhyā), and compete for precedence at the Kumbh.
