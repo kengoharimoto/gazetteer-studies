@@ -253,6 +253,21 @@ The census tables read for the Daśanāmīs also count their rivals (persons; `c
   seat. The revised volumes make the Ramakrishna movement the growth story.
 - **Calcutta, 1901:** 1,799 Brahmos and 14,079 Baishnabs, with no Sannyāsī heading.
 
+**The rival seats beside the Śaṅkara houses** (also marked on the map):
+
+| rival seat | tradition | what the texts give it | nearest Śaṅkara comparison |
+|---|---|---|---|
+| Tiruvāvaḍuturai (Tanjore) | Tamil Śaiva ādhīnam | about 29,000 acres; Rs 2 lakhs a year | Kumbakoṇam maṭh, Rs 14,000 and three temples |
+| Dharmapuram (Tanjore) | Tamil Śaiva ādhīnam | head of the "Sudra maths"; Tiruppanandāḷ (Rs 80,000) under it | listed before Kumbakoṇam (1906) |
+| Chitradurga (Murugha maṭh) | Liṅgāyat | supreme Liṅgāyat guru; lost the Konkan Kuṇbīs to Śṛṅgeri in 1881 | Śṛṅgeri; Kudli |
+| Nandgaon; Lormi | Bairāgī | a state of 560 villages (1723); 104 villages (1826) | Dharampuri, 40 villages |
+| Kawardha (Damakheda line) | Kabīrpanthī | lay following claimed at 500,000 | no Śaṅkara seat in the CP |
+| Tilla; Bohar; Dera Baba Nanak | Nāth; Nāth; Udāsī | Akbar's sanad; land; jagir Rs 2,602 | no Śaṅkara seat in the Punjab |
+| Vadtal | Svāminārāyaṇa | one of two seats; 287,687 followers (1901) | Dvārkā's Śāradā pīṭha, no stated following |
+
+In the Bombay Karnatak the comparison runs the other way. Saṅkeśvar (Rs 30,000) and Kudli (Rs 35,047) are richer than
+the Liṅgāyat maṭhs around them, whose largest stated income is Kaneri's Rs 1,500.
+
 ## 5. Lessons about the sources
 
 1. **Compilers made the map.**
