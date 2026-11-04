@@ -82,6 +82,24 @@ as a share of Hindus:
 Gujarat is the Vaiṣṇava presidency division. In the Konkan "Śaiva" absorbs the Smārtas. For the Gosāvī count
 (33,851 in 1881) there is no rival table: the Bombay census returns them under "Devotees".
 
+### Rival seats in the Bombay Presidency
+
+From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/coded/S.tsv`):
+
+| region | rival seat (tradition) | what the texts give it | Śaṅkara comparison in the same region |
+|---|---|---|---|
+| Gujarat | Vadtal and Ahmedabad (Svāminārāyaṇa gādīs) | 287,687 followers (1901); lay followers owe a twentieth to a tenth of yearly income; Vadtal: a Rs 75,000 temple (1824), 500–1000 inmates, eleven branches, two festivals of about 20,000 pilgrims | the Dvārkā Śāradā pīṭha: endowed by the Gaekwar, "referee" for Gujarat's Śaivas, no stated following |
+| Gujarat | the Vallabha Mahārājs' temples | about 647,256 followers, "the largest and most influential Vaishnav sect"; temples worth Rs 1,00,000 (Surat) and Rs 80,000 (Ahmedabad); "upwards of a score" of Mahārājs in Kathiawar | as above. In Ahmedabad city, Svāminārāyaṇa sādhus (315) outnumber Gosāīs and Vairāgīs (261); in Cutch and Baroda the Gosāīs are the largest ascetic body |
+| Kanara | Sonda: the Terbidi/Vādirāja maṭh (Mādhva, a branch of Uḍupi) | land grants of 1593 and 1706; "the Vaishnavs hold him in as much reverence as the Smarts hold Shankaracharya" | the Svarṇavallī Smārta maṭh beside it; Śṛṅgeri over most Kanara castes |
+| Kanara | Ulvi (Liṅgāyat) | 10,000–12,000 pilgrims | Śṛṅgeri won 14,812 Konkan Kuṇbīs from the Chitradurga guru (1881) |
+| Dharwar | the Uttarādi house (Savanur) and the Rāghavendra house (Mādhva) | over two-thirds and about a third of the Vaiṣṇav Brahmans; the lines are "on unfriendly terms" | Kudli's Dharwar ināms (11 taluks, 1934) |
+| Dharwar | Hubli Mūrusāvira (Liṅgāyat), largest of Hubli's 15 maṭhs | Liṅgāyats at least 300,000 (38.5% of Hindus) | the Kudalgi Svāmī lost his palanquin suit against it up to the Privy Council (c. 1830) |
+| Kolhapur | Kaneri (Liṅgāyat) | Rs 1,500 a year (1886), 5,000–6,000 disciples; the largest stated Liṅgāyat income | Saṅkeśvar: 30 inām villages, Rs 30,000 |
+
+- **Gujarat:** the Vaiṣṇava seats dominate in followers and in temple wealth.
+- **The Karnatak:** the Liṅgāyat maṭhs are the denser network, but Saṅkeśvar and Kudli are the richer seats. It
+  is the one region of the study where the Śaṅkara houses out-endow their rivals.
+
 ## 3. Findings
 
 1. **Kanara is the exception, and it reflects jurisdiction more than doctrine.**
