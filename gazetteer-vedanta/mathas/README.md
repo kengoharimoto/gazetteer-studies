@@ -143,6 +143,19 @@ regional picture is in the synthesis, "Rivals: who else held the ground". None o
 - **Tamil non-Brahmin Śaiva maṭhs.** The Tanjore gazetteer's list of the district's chief maṭhs (1906, p. 72)
   names the "Sudra maths" of Dharmapuram, Tiruvāvaḍuturai, Tiruppanandāl and Tiruppugalūr first. It names the
   Kumbakoṇam Śaṅkara maṭh last.
+- **Numbers behind the rivalry (census 1891, persons; `../census-images/README.md`):**
+
+  | province | Daśanāmī / Gosāin | rival orders |
+  |---|---|---|
+  | NWP and Oudh | 103,320 | Jogī 78,387; Bairāgī 31,979 |
+  | Punjab | Gosain 13,344; Sanniasi 9,799 | Jogī-Rawal 91,937; Bairāgī 47,561; Udāsī 15,194 |
+  | Central Provinces | Gosain 24,796; Sanyasi 2,449 | Bairāgī 29,298; Jogī 6,094; Nāth 5,008 |
+
+  - The akhāṛā and maṭh rivalries above are between orders of comparable size. The Nāth Jogīs are the largest
+    ascetic body in the north.
+  - The Bairāgīs outnumber the Daśanāmīs in the Punjab and the CP.
+  - These are ascetic counts with loose categories. In Tamil Madras the comparable figure is the Brahman shares:
+    Smārta 47.6%, Aiyaṅgār 22.7%, Mādhva 2,650 persons.
 - **Calcutta.** No Śaṅkara maṭh is located in the city. The Daśanāmī foundations nearby (Bhot-Bagān, Tārakeśvar)
   stand in a landscape of Gauḍīya Vaiṣṇava "circles" and Kālī worship (24 Parganas 1914).
 
