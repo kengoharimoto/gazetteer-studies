@@ -135,6 +135,10 @@ unspecified, not a caste count. The 1891 and 1911 reports have no sect table (`.
 
 ## The rival seats in the census
 
+These seats stand for the "elsewhere" in the study's verdict (`../SYNTHESIS.md`, "Overall: dominant everywhere, or
+regional?"): Śaṅkara's tradition was regional, not dominant. In every district below where both are counted, the
+seat's own order outnumbers the Gosāins.
+
 The rival seats coded in `../rivals/` (also on the combined map and in the places finder), set against the 1891
 counts for their own districts (persons):
 
