@@ -24,6 +24,8 @@ Places with evidence of a rival tradition have a "Rivals:" note (78 entries), an
 rivals layer ("Rivals (coded):"). Eight rival seats have their own entries: Tilla and Bohar (Nāth), Dera Baba
 Nanak (Udāsī), Lormi (Bairāgī), Tiruvāvaḍuturai and Dharmapuram (Tamil Śaiva), Chitradurga (Liṅgāyat) and Vadtal
 (Svāminārāyaṇa) (`rivals/README.md`).
+The finder opens with the study's verdict: Śaṅkara's tradition was regional, not dominant. Its rival seats (purple
+crosses) show where other traditions held the larger followings.
 
 ## Regions
 
