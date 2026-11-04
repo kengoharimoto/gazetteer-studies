@@ -60,6 +60,13 @@ gazetteers locate the maṭha itself, its branches, estates and visits, in their
     gifts".
   - This is the only Śṛṅgeri branch the sources name. It serves Marathi-speaking Smārtas, the same people
     whom the Bombay Deccan volumes place under Śṛṅgeri or Saṅkeśvar.
+  - **The Mysore government files qualify "branch".** (See `../mathas/archives/README.md`.)
+    - The Huzur Adalat (1847–49) held that Kudli was not a *tondu* (subordinate) maṭh of Śṛṅgeri.
+    - The Dewan (1895) dates its separation to "the Partition of A. D. 1656-57".
+    - Most of its income came from estates outside Mysore. Its Agent's 1934 list names 30 taluks and states:
+      Dharwar (11 taluks), Bijapur (6), Belgaum, North Kanara, Bellary, Anantapur and the southern Maratha states.
+      In 1933 these brought Rs 16,798 of Rs 35,047, against Rs 5,594 from inside Mysore.
+    - Bombay calls the maṭh "Kudalgi" and ranks its svāmī with Saṅkeśvar's.
 
 ### 3. In the Deccan the Śṛṅgeri name survives as an origin story
 
@@ -101,6 +108,9 @@ gazetteers locate the maṭha itself, its branches, estates and visits, in their
 - For mapping "presence", the caste chapters and the Places chapters give opposite pictures:
   - Kanara: dense allegiance, no maṭh.
   - Kolhapur and Belgaum: dense maṭhs and estates, with a guru the castes name as "Shankaracharya of Sankeshvar".
+- Śṛṅgeri's one named branch, Kudli, turns out to be a landholder in the same Bombay Karnatak country as
+  Saṅkeśvar (its 1934 estates, from the Mysore files). The western Deccan's Śaṅkara estates therefore belonged to
+  the two seats that separated from Śṛṅgeri, not to Śṛṅgeri itself.
 
 ## Limits
 
