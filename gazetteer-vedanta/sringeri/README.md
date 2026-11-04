@@ -98,6 +98,36 @@ gazetteers locate the maṭha itself, its branches, estates and visits, in their
 - **Kolhapur (1959):** the Saṅkeśvar maṭh in the city has become the independent Karvīr Pīṭha (see
   `../revised/README.md`).
 
+## Rivals around Śṛṅgeri
+
+Śṛṅgeri's following was won and held against neighbouring gurus. These notes come from the volumes and files already
+read (see also the synthesis, "Rivals: who else held the ground", and `../mathas/README.md`, "Rival maṭhs and
+orders").
+
+- **Liṅgāyats.**
+  - Kanara's Konkan Kuṇbīs had been "followers of the Lingayat guide of Chitaldurg" until 1881, when Śṛṅgeri's
+    agent "persuaded them to acknowledge him" (Kanara 1883, p. 218).
+  - The Śṛṅgeri Svāmī's 1888 visit to Bellary led to a dispute with the Liṅgāyats over guru processions
+    (Thurston).
+  - At Śṛṅgeri itself, Liṅgāyats are "reconciled by being allowed to blow their conch-shells in the processions"
+    (Rice).
+- **Mādhvas.**
+  - Uḍupi is the guru seat of Kanara's Vaiṣṇava Brahmans. By 1973 South Kanara's Tulu Brahmans are "largely
+    followers of Madhvacharya, only a small number remaining Smarthas".
+  - The Mysore files record the Uttarādi (1906) and Ahobila (1907) maṭhs complaining about the Svāmī's
+    processions.
+  - The Parakāla Svāmī and the Śrī Vaiṣṇavas demanded purification after his entry into the Srirangapatna temple
+    (1895).
+  - The Vyāsarāja maṭh of Sosale claimed equality with Śṛṅgeri in State honours (1931).
+- **Other Smārta lines in the same country.**
+  - The Havig Brahmans follow their own gurus: Svarṇavallī at Sonda and Rāmacandrapura.
+  - The Shenvis follow the Kavaḷe svāmī.
+- **The seats that separated from Śṛṅgeri.**
+  - Saṅkeśvar and Kudli took the Bombay Karnatak estates.
+  - A Saṅkeśvar nominee challenged Śṛṅgeri's accredited agent in Khandesh (1913).
+  - Hampi was put forward as a rival seat at the 1912 succession, though its Svāmī later called his maṭh "a branch
+    of Sri Sringeri Mutt" (1935–36).
+
 ## What this adds
 
 - Śṛṅgeri's reach in the 1880s, the deepest of any Śaṅkara seat in the colonial record, was a reach without
