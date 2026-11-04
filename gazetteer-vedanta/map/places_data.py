@@ -525,6 +525,25 @@ for p in P:
         if "rivals/" not in p["refs"]:
             p["refs"] = (p["refs"] + "; rivals/").strip("; ")
 
+# ---------------- Mark rival seats and centres as their own kind ("rival") ----------------
+_RIVAL_NAMES = {"Lormi", "Tilla", "Bohar", "Dera Baba Nanak", "Tiruvāvaḍuturai", "Dharmapuram", "Chitradurga", "Vadtal",
+                "Kālīghāṭ", "Khardah", "Dakshineswar", "Uḍupi", "Ayodhyā"}
+_RIVAL_ALSO = {"Nandgaon", "Kawardha"}   # districts/states that are also rival seats
+_SEAT_CENSUS = {
+    "Lormi": "District census 1891 (Bilaspur): Bairāgī 8,647 (Ramanandi 3,804) against Gosain 2,419.",
+    "Tilla": "District census 1891 (Jhelum): Jogī-Rawal 1,438 against Gosain 10 and Sanniasi 76.",
+    "Bohar": "District census 1891 (Rohtak): Jogī-Rawal 3,717 and Bairāgī 6,317 against Gosain 568.",
+    "Dera Baba Nanak": "District census 1891 (Gurdaspur): only 93 Udāsīs returned, against Jogī-Rawal 5,408, Sanniasi 395, Gosain 2; the seat's following does not show as ascetics.",
+}
+for p in P:
+    if p["name"] in _RIVAL_NAMES:
+        p["kinds"] = "rival"
+        if p["name"] in _SEAT_CENSUS and "District census 1891" not in p["note"]:
+            p["note"] += " " + _SEAT_CENSUS[p["name"]]
+            if "census-images/" not in p["refs"]: p["refs"] += "; census-images/"
+    elif p["name"] in _RIVAL_ALSO and "rival" not in p["kinds"]:
+        p["kinds"] = "rival;" + p["kinds"]
+
 if __name__ == "__main__":
     import csv
     cols = ["name", "variants", "modern", "district", "state", "lat", "lon", "kinds", "region", "note", "refs"]
