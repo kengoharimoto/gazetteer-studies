@@ -97,7 +97,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Meerut", "", "Meerut", "Meerut; Baghpat", "Uttar Pradesh", 28.98, 77.71, "5,326 Gosāins (1872), 5,083 Daśanāmīs (1891)."),
     ("Bulandshahr", "", "Bulandshahr", "Bulandshahr", "Uttar Pradesh", 28.40, 77.85, ""),
     ("Aligarh", "", "Aligarh", "Aligarh; Hathras", "Uttar Pradesh", 27.88, 78.08, ""),
-    ("Muttra", "Mathura", "Mathura", "Mathura", "Uttar Pradesh", 27.49, 77.67, " Rivals: Vallabha and Gauḍīya Vaiṣṇava centre. Its 17,131 'Gosains' in 1891 are almost all unspecified, i.e. Vaiṣṇava gosvāmīs, not Daśanāmīs."),
+    ("Muttra", "Mathura", "Mathura", "Mathura", "Uttar Pradesh", 27.49, 77.67, " Rivals: Vallabha and Gauḍīya Vaiṣṇava centre. Its 17,131 'Gosains' in 1891 are all unspecified, with no Bairāgīs or Jogīs returned: probably Braj's whole ascetic population (1881: 9,812 Bairāgīs, 3,627 Jogīs; 1901: 18,272 Faqīrs, only 803 Gosāins), not Daśanāmīs."),
     ("Agra", "", "Agra", "Agra", "Uttar Pradesh", 27.18, 78.01, ""),
     ("Farukhabad", "Farrukhabad; Fatehgarh", "Farrukhabad", "Farrukhabad; Kannauj", "Uttar Pradesh", 27.39, 79.58, ""),
     ("Mainpuri", "", "Mainpuri", "Mainpuri", "Uttar Pradesh", 27.23, 79.02, ""),

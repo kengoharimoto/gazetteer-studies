@@ -35,7 +35,8 @@ population. The Oudh gazetteer (1869) has "upwards of 40,000" Goshains in Oudh a
 - Gonda 11,478; Gorakhpur 7,010; Fyzabad 5,371; Meerut 5,083; Sitapur 4,414; Mirzapur 4,258; Bareilly 4,023;
   Ballia 3,804; Jaunpur 3,638.
 - Fyzabad division 27,844 in all.
-- Muttra's 17,131 Goshains are all "unspecified" (Vaiṣṇava).
+- Muttra's 17,131 Goshains are all "unspecified", with no Bairāgīs or Jogīs returned. They probably hold Braj's
+  whole ascetic population (1881: 9,812 Bairāgīs, 3,627 Jogīs). Corrected Nov 2026.
 - Azamgarh returns no Goshains but 5,764 Jogis. Its 1881 Atits were apparently returned as Jogis.
 
 **By district** (`results/gosain_counts.tsv`; Gosāin includes Atīt/Atīth, which these sources call householder
@@ -90,7 +91,7 @@ persons:
 | order | 1891 | where strongest |
 |---|---|---|
 | Goshain–Dasnami | 103,320 | Gonda 11,478; Gorakhpur 7,010; Fyzabad 5,371 |
-| Goshain, unspecified | 38,477 | Muttra 17,131 (Vaiṣṇava gosvāmīs) |
+| Goshain, unspecified | 38,477 | Muttra 17,131 (probably all Braj ascetics: no Bairāgīs or Jogīs returned there) |
 | Goshain, named Vaiṣṇava sub-heads | 752 | Gauriya 432, Radhavallabhi 252 |
 | Jogī | 78,387 | Saharanpur 13,713; Meerut 11,987; Muzaffarnagar 9,229 |
 | Bairāgī | 31,979 | Aligarh 4,157; Meerut 4,138; Bulandshahr 2,708; Fyzabad 2,017 |

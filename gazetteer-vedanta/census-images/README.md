@@ -42,9 +42,11 @@ Page images and the downloaded OCR XML are in `pages/` (kept out of git).
      - Ballia 3,804
      - Jaunpur 3,638
      - Fyzabad division 27,844 in all.
-   - **Muttra's 17,131 Goshains are all "unspecified"**, the Vaiṣṇava lineages of Brindaban and Gokul. The
-     Vaiṣṇava sub-headings (Brindabani, Gokulastha, Radhavallabhi) were barely used, so Vaiṣṇava Gosains must
-     be separated by district, not by sub-heading.
+   - **Muttra's 17,131 Goshains are all "unspecified",** and the same row returns no Daśanāmīs, Bairāgīs or
+     Jogīs. Against Atkinson's 1881 figures (9,812 Bairāgīs, 3,627 Jogīs) and Nevill's 1901 figures (18,272
+     Faqīrs, but only 803 Gosāins), the row probably holds Braj's whole ascetic population, not the Vaiṣṇava
+     lineages alone. (Corrected Nov 2026; see `../rivals/results/benares_ayodhya_mathura.md`.) The Vaiṣṇava
+     sub-headings (Brindabani, Gokulastha, Radhavallabhi) were barely used.
    - **Azamgarh has no Goshains at all but 5,764 Jogis.** In 1881 the same district had 2,186 Goshains and
      3,456 Atits (Atkinson). The Atits were evidently returned as Jogis in 1891, an instance of the conflation
      the 1891 report admits.
@@ -101,8 +103,8 @@ What this shows:
 - **The ascetic counts understate the Vaiṣṇava side, which is mostly lay.** The large lay sects appear only where
   the census asked for them, e.g. Bilaspur's 99,260 Kabīrpanthīs (CP report, `../cp/README.md`).
 - **The categories are loose.** The 1891 NWP report warns that "the words Goshain, Bairagi, Jogi, Saniyasi were
-  apparently used by a considerable proportion of the enumerators as interchangeable". Mathura's 17,131 Goshains
-  are almost all "unspecified", i.e. Vaiṣṇava gosvāmīs.
+  apparently used by a considerable proportion of the enumerators as interchangeable". Mathura's 17,131 "unspecified"
+  Goshains, with no Bairāgīs or Jogīs returned, probably hold the district's whole ascetic population.
 
 ## Bombay: the 1901 sect returns
 
