@@ -122,7 +122,7 @@ with open("map/combined_points.tsv", "w", encoding="utf-8") as f:
 
 SCALE = 0.012  # points^2 per person -> 10,000 persons = 120 pt^2
 fig, ax = plt.subplots(figsize=(9.0, 12.2), dpi=170)
-fig.subplots_adjust(left=0.02, right=0.98, top=0.95, bottom=0.13)
+fig.subplots_adjust(left=0.02, right=0.98, top=0.95, bottom=0.2)
 fig.patch.set_facecolor(SEA)
 ax.set_facecolor(SEA)
 gj = json.load(open("map/ne_50m_admin0.geojson"))
@@ -167,17 +167,30 @@ MATHAS = [
     ("other", 18.66, 77.88, "", 0, 0, "left"),      # Bodhan, Bhāskarācārya
     ("other", 19.15, 77.31, "", 0, 0, "left"),      # Nander, Bhāskarācārya
     ("other", 15.64, 74.51, "", 0, 0, "left"),      # Khanapur, Shenvi Smārta svāmī
+    # Branch maṭhs and houses of Śṛṅgeri (and Kudli's Bombay residence) named in the Mysore government files,
+    # 1891–1945 (mathas/archives/results/archive_rows.tsv)
+    ("arch", 9.29, 79.31, "Rameswaram", 0.3, -0.15, "left"),
+    ("arch", 10.17, 76.44, "Kaladi", -0.3, -0.1, "right"),
+    ("arch", 13.63, 79.42, "Tirupati", 0.3, 0.2, "left"),
+    ("arch", 29.95, 78.16, "Haridwar", -0.3, 0.15, "right"),
+    ("arch", 25.32, 83.01, "Benares", -0.25, 0.4, "right"),
+    ("arch", 24.79, 85.00, "", 0, 0, "left"),       # Gaya
+    ("arch", 9.93, 78.12, "", 0, 0, "left"),        # Madura
+    ("arch", 12.97, 77.58, "Bangalore", -0.25, -0.45, "right"),
+    ("arch", 13.70, 75.24, "", 0, 0, "left"),       # Tīrthamuttūr, a 'vassal Mutt'
+    ("arch", 14.55, 75.70, "", 0, 0, "left"),       # Udagatti, Kudli svāmīs' residence in Bombay
 ]
 MSTYLE = {"seat": dict(marker="D", s=46, c=INK, edgecolors="white", linewidths=1.0),
           "dep": dict(marker="D", s=20, facecolors="white", edgecolors=INK, linewidths=1.1),
-          "other": dict(marker="s", s=14, facecolors="white", edgecolors=MUTED, linewidths=1.0)}
-for kind in ("other", "dep", "seat"):
+          "other": dict(marker="s", s=14, facecolors="white", edgecolors=MUTED, linewidths=1.0),
+          "arch": dict(marker="^", s=24, facecolors="white", edgecolors=INK, linewidths=1.1)}
+for kind in ("arch", "other", "dep", "seat"):
     P = [m for m in MATHAS if m[0] == kind]
     ax.scatter([m[2] for m in P], [m[1] for m in P], zorder=7, **MSTYLE[kind])
 for kind, la, lo, txt, dx, dy, ha in MATHAS:
     if txt:
         ax.annotate(txt, (lo, la), xytext=(lo + dx, la + dy), fontsize=7.6 if kind == "seat" else 7, zorder=8,
-                    color=INK if kind != "other" else MUTED, fontweight="bold" if kind == "seat" else "normal",
+                    color=MUTED if kind in ("other", "arch") else INK, fontweight="bold" if kind == "seat" else "normal",
                     ha=ha, va="center")
 with open("map/mathas_points.tsv", "w", encoding="utf-8") as f:
     f.write("kind\tlat\tlon\tlabel\n")
@@ -205,25 +218,28 @@ for s in ax.spines.values():
     s.set_visible(False)
 
 handles = [Line2D([], [], marker="o", ls="", ms=9, mfc=OCHRE, mec="white", alpha=0.8,
-                  label="Daśanāmī persons (census: UP 1891, Bengal 1901 Atīth, CP & Punjab 1891, Madras 1891 Sanyāsī)"),
+                  label="Daśanāmī persons (census 1891; Bengal 1901)"),
            Line2D([], [], marker="o", ls="", ms=9, mfc=TEAL, mec="white", alpha=0.8,
-                  label="Smārta persons (Bombay: castes asserted Smārta, 1880s gazetteers; Madras Tamil 1891: Smārta Brahman sub-castes)"),
+                  label="Smārta persons (Bombay 1880s; Tamil Madras 1891)"),
            Line2D([], [], marker="D", ls="", ms=6.5, mfc=INK, mec="white", label="Śaṅkara seat located by the gazetteers"),
            Line2D([], [], marker="D", ls="", ms=4.5, mfc="white", mec=INK, mew=1.1, label="branch, inām village or temple of a seat"),
-           Line2D([], [], marker="s", ls="", ms=4, mfc="white", mec=MUTED, label="other Smārta maṭh or Śaṅkarācārya site")]
+           Line2D([], [], marker="s", ls="", ms=4, mfc="white", mec=MUTED, label="other Smārta maṭh or Śaṅkarācārya site"),
+           Line2D([], [], marker="^", ls="", ms=5.5, mfc="white", mec=INK, mew=1.1, label="Śṛṅgeri branch or house in the Mysore files, 1891–1945")]
 for n in (2000, 10000, 50000):
     handles.append(Line2D([], [], marker="o", ls="", ms=(n * SCALE) ** 0.5, mfc="none", mec=MUTED, label=f"{n:,} persons"))
-leg = fig.legend(handles=handles, loc="lower left", bbox_to_anchor=(0.02, 0.04), fontsize=7.6, frameon=False,
+leg = fig.legend(handles=handles, loc="lower left", bbox_to_anchor=(0.02, 0.085), fontsize=7.6, frameon=False,
                 labelspacing=1.5, handletextpad=1.2, ncol=2, columnspacing=2.5)
 for t in leg.get_texts():
     t.set_color(INK)
 ax.set_title("Śaṅkara's following in British India: Daśanāmī and Smārta persons, and the maṭhas",
              fontsize=12, color=INK, loc="left", pad=10)
-fig.text(0.02, 0.012, "Circle area ∝ persons. The two layers count different things (an order and caste vs a Brahman sect "
+import textwrap
+FOOT = ("Circle area ∝ persons. Daśanāmī: UP 1891 Goshain-Dasnami, Bengal 1901 Atīth, CP & Punjab 1891 Gosain/Sanniasi, Madras 1891 Sanyāsī; Smārta: Bombay castes asserted Smārta (1880s gazetteers), Tamil Madras 1891 Smārta Brahman sub-castes.\nThe two layers count different things (an order and caste vs a Brahman sect "
          "or caste allegiance) and come from different dates; Smārtas are mapped only where the sources allow "
          "(Bombay Presidency, Tamil Madras).\nGujarat, Bengal proper and the western Punjab show near-zero Daśanāmīs. "
-         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909). "
-         "Sources: gazetteer-vedanta/ (census-images/, results/, sringeri/, mathas/).",
-         fontsize=6.6, color=MUTED)
+         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909); triangles from the Mysore government files 1891–1945, unlabelled: Gaya, Madura, Tīrthamuttūr, Udagatti (Kudli). "
+         "Sources: gazetteer-vedanta/ (census-images/, results/, sringeri/, mathas/, mathas/archives/).")
+FOOT = "\n".join(textwrap.fill(par, 150) for par in FOOT.split("\n"))
+fig.text(0.02, 0.008, FOOT, fontsize=6.6, color=MUTED, va="bottom")
 plt.savefig("map/combined_map.png", bbox_inches="tight", facecolor=SEA)
 print(len(pts), "points; not placed:", missing)

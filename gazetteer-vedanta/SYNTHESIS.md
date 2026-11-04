@@ -34,7 +34,7 @@ serving temples.
 
 ![Daśanāmī (ochre) and Smārta (teal) persons by district across the six regions](map/combined_map.png)
 
-Circle area is proportional to persons. The Daśanāmī layer comes from the census tables, and the Smārta layer covers Bombay and Tamil Madras only. Diamonds mark the Śaṅkara seats (filled) and their branches, inām villages and temples (open) as the gazetteers locate them; squares mark other Smārta maṭhs (`mathas/README.md`). See `map/plot_combined.py`.
+Circle area is proportional to persons. The Daśanāmī layer comes from the census tables, and the Smārta layer covers Bombay and Tamil Madras only. Diamonds mark the Śaṅkara seats (filled) and their branches, inām villages and temples (open) as the gazetteers locate them; squares mark other Smārta maṭhs (`mathas/README.md`). Triangles mark Śṛṅgeri's branches and houses in the Mysore files, 1891–1945 (`mathas/archives/README.md`). See `map/plot_combined.py`.
 
 1. **The west-coast belt under Śṛṅgeri.** This is the one region where a Śaṅkara seat commands much of the
    population, non-Brahmins included.
