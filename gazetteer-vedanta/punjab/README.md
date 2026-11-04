@@ -118,6 +118,26 @@ besides Rose.
    - Bairagis: the Ram Thamman fair near Lahore (about 60,000 people), and eight Bairagi mahants in
      Hoshiarpur.
 
+### Rival seats in the same districts
+
+From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/coded/N.tsv`). The land-holding
+institutions with royal or Sikh sanads in the Punjab belong to the rival orders:
+
+| district | rival seat (tradition) | what the texts give it | 1891 census in the district |
+|---|---|---|---|
+| Jhelum | Tilla Gorakhnāth (Nāth; the Punjab's parent Jogī seat) | a jāgīr of Naugiran village under Akbar's sanad, resumed for over forty years after a murder for the gaddī and later restored; pasture rights in the 26,000-acre Tilla rakh | Jogī-Rawal 1,438; Gosain 10; Sanniasi 76 |
+| Rohtak | Bohar (Nāth) | the district's 299 asthals hold 659 ascetics on 2,725 acres: half Bairāgī, Bohar's Kānphaṭās next, Gosāins fourth | Jogī-Rawal 3,717; Bairāgī 6,317; Gosain 568 |
+| Gurdaspur | Dera Baba Nanak (Udāsī) | Udāsī mahants since 1758; jāgīr Rs 2,602 in perpetuity; the Tāhlī Sāhib jāgīr cut from Rs 2,500 to Rs 1,000 | Udāsī 93; Jogī-Rawal 5,408; Gosain 2 |
+| Shahpur / Jhang | Koh Kirana (Nāth) | Sikh revenue grants partly confirmed in perpetuity | (see the census table) |
+| Ludhiana, Jalandhar | Udāsī dharmsālās | the Regular Settlement made each dharmsālā's sādh owner of its land, revenue-free | Udāsī 1,865 (Ludhiana); 2,056 (Jalandhar) |
+| Ludhiana | Jaspal Bangar (Udāsī langar) | about 800 acres, kept by a marrying Udāsī family | (as above) |
+| Hissar (gazetteer) | the Kānphaṭā seats at Bohar (Rohtak) and Nohar (Bikaner), named beside the Daśanāmī gurus at Kharak and Bilak | the one volume that pairs the two | Hissar: Gosain 2,318 |
+
+- **Ownership.** Against these the Daśanāmīs have only the Kangra traders and lenders and the Hissar gurus. No
+  Daśanāmī institution in the Punjab volumes holds a sanad jāgīr.
+- **The census.** In the districts of the Nāth seats the census agrees with the institutions: Jogīs far
+  outnumber Gosāins. For the Udāsīs it does not: Dera Baba Nanak's district returns 93.
+
 ## 3. Findings in relation to the other regions
 
 1. **The Punjab is the edge of the Daśanāmī world.** The orders thin out westward from the UP:
