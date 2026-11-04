@@ -295,7 +295,7 @@ handles = [Line2D([], [], marker="o", ls="", ms=9, mfc=OCHRE, mec="white", alpha
            Line2D([], [], marker="s", ls="", ms=4, mfc="white", mec=MUTED, label="other Smārta maṭh or Śaṅkarācārya site"),
            Line2D([], [], marker="^", ls="", ms=5.5, mfc="white", mec=INK, mew=1.1, label="Śṛṅgeri branch or house in the Mysore files, 1891–1945"),
            Line2D([], [], marker="x", ls="", ms=5, mec=INK, mew=1.0, label="taluk with Kudli maṭh property outside Mysore (1934)"),
-           Line2D([], [], marker="P", ls="", ms=6.5, mfc="#7a4fa3", mec="white", label="rival centre or seat (Vaiṣṇava, Nāth, Udāsī, Liṅgāyat, Śaiva …)")]
+           Line2D([], [], marker="P", ls="", ms=6.5, mfc="#7a4fa3", mec="white", label="rival seat: another tradition held the larger following")]
 for n in (2000, 10000, 50000):
     handles.append(Line2D([], [], marker="o", ls="", ms=(n * SCALE) ** 0.5, mfc="none", mec=MUTED, label=f"{n:,} persons"))
 leg = fig.legend(handles=handles, loc="lower left", bbox_to_anchor=(0.02, 0.11), fontsize=7.6, frameon=False,
