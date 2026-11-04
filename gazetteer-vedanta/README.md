@@ -97,6 +97,18 @@ Rivals (noted in the synthesis, "Rivals: who else held the ground", not coded sy
   over Rāmānandī and Vallabha influence (Nevill 1909).
 - **Calcutta:** almost no Daśanāmīs (3 Atīths, 13 Gosāins in 1901). The ground belonged to Chaitanya Vaiṣṇavism and
   Kālī, and among the educated to the Brahmos.
+- **Census totals of rival orders** (persons; `census-images/README.md`, "Rival orders in the same tables"):
+
+  | census | Daśanāmī / Gosāin | rival orders in the same table |
+  |---|---|---|
+  | NWP and Oudh 1891 | 103,320 | Jogī 78,387; Bairāgī 31,979 |
+  | Punjab 1891 | Gosain 13,344; Sanniasi 9,799 | Jogī-Rawal 91,937; Bairāgī 47,561; Udāsī 15,194 |
+  | Central Provinces 1891 | Gosain 24,796 | Bairāgī 29,298; Jogī 6,094; Nāth 5,008 |
+  | Tamil Madras 1891 | Smārta 47.6% of Brahmans | Aiyaṅgār 22.7%; Mādhva 2,650 |
+
+  - The Nāth Jogīs are the largest ascetic body in the north.
+  - The Bairāgīs outnumber the Daśanāmīs in the Punjab and the CP.
+  - These are ascetic counts only, with loose categories.
 
 Open lines:
 - the Bombay and Madras inām records (the Inam Commission's registers) for the Saṅkeśvar and Kudli estates, the
