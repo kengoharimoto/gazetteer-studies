@@ -159,6 +159,44 @@ these sources, for four reasons:
    - The revised volumes care less about castes and more about temples, trusts and pilgrimage.
    - Part of the vanishing is therefore a change of genre, not of practice.
 
+## Rivals: who else held the ground
+
+Noted from the volumes already read; not coded systematically.
+
+- **Vaiṣṇava orders, almost everywhere:**
+  - North: the Rāmānandī Bairāgīs, the Daśanāmīs' direct counterpart. Their akhāṛās fought the Gosāins at Hardwar
+    (1760), expelled them from Hanumāngaṛhī (Ayodhyā), and compete for precedence at the Kumbh.
+  - Bengal and Orissa: the Gauḍīya Vaiṣṇavas.
+  - Gujarat and Mathura: Vallabha and Svāminārāyaṇa.
+  - Coastal Karnataka: the Mādhvas.
+  - Tamil country: the Śrīvaiṣṇavas.
+- **Other Śaiva networks:**
+  - Nāth Jogīs (Gorakhpur to the Punjab; in Karnal they replace the Gosāin temple priests).
+  - Liṅgāyats (Kanara's Kuṇbīs switched to Śṛṅgeri in 1881; procession disputes in the Mysore files).
+  - The Tamil non-Brahmin Śaiva maṭhs.
+- **Punjab:** Udāsīs and Nirmalas.
+- **New rivals the gazetteers barely see:** the Brahmo and Ārya Samāj and the Christian missions. The Ramakrishna
+  order (Belur Math, 1898) took Daśanāmī sannyāsa: a renewal of the tradition, outside the gazetteers' view.
+
+**Benares** (Nevill 1909, pp. 92–93):
+- "Vedantism is the philosophy which almost exclusively prevails". The city's revival began with Śaṅkara, whose
+  "severe monism is still affected by the more highly educated … though few maintain it consistently".
+- Rāmānanda and Vallabha are influential, "but … the shrines dedicated to the cult of Shiva greatly predominate".
+- The district was 89.4% Hindu and 10.3% Muslim (1901).
+- Census 1891: 4,106 Gosāins (1,899 Daśanāmīs), 419 Jogīs, 141 Bairāgīs.
+- Contrast Ayodhyā: Bairāgī-dominated in its gazetteer, yet the census returns 5,371 Daśanāmīs against 2,017
+  Bairāgīs. Enumerators used these words loosely.
+
+**Calcutta:**
+- 3 Atīths and 13 Gosāins in 1901.
+- O'Malley's *24 Parganas* (1914):
+  - its religion section is about Vaiṣṇavism (Khardah, the Gosāin "circles" of "the Vaishnava church");
+  - its main pilgrimage is Kālīghāṭ;
+  - it records 88 Brahmos;
+  - it describes Dakshineswar's temples without mentioning Ramakrishna.
+- The Daśanāmī foundations nearby (Bhot-Bagān at Howrah, Tārakeśvar in Hooghly) were rich and had few followers.
+- Popular religion belonged to Chaitanya Vaiṣṇavism and Kālī, educated religion to the Brahmos.
+
 ## 5. Lessons about the sources
 
 1. **Compilers made the map.**
