@@ -138,16 +138,48 @@ Kudli only as a disputed branch. These files show both maṭhs as institutions:
   - income Rs 35,046-13-6: villages in the State Rs 4,499, villages outside Rs 10,504, sircar lands in the
     State Rs 1,095, outside Rs 6,294, varṣāsana from disciples Rs 1,024;
   - so most of the income came from outside Mysore.
-  - The 1934 list places the outside properties in:
-    - Dharwar (Ranibennur, Karajgi, Hangal, Kod, Shiggaon, Navalgund, Kalghatgi, Dharwar, Hubli, Ron, Gadag);
-    - Bijapur (Badami, Bagalkot, Bagevadi, Bijapur, Sindgi, Hungund);
-    - Belgaum (Parasgad) and North Kanara (Mundgod);
-    - Bellary (Kudligi, Harapanahalli) and Anantapur (Madakasira);
-    - the southern Maratha states (Kolhapur, Ramdurg, Sangli, Miraj, Savanur, Sirasangi, Jamkhandi).
+  - The outside properties are listed in 1934 (see "The Kudli estates, 1934" below).
   - Bombay levied succession nazarana on the Dharwar and Bijapur ināms (Rs 2,745 and Rs 1,167, 1936). The
     ināms were granted to "Shankarbha[rati] and his successors". Bombay records call the maṭh "Kudalgi" or the
     "Uddughatti Mutt", after Udagatti in Ranibennur taluk, where the svāmīs lived.
   - In Mysore it held five jodi villages granted before 1822, and Hangarahalli (Kumsi).
+
+### The Kudli estates, 1934
+
+- **The source.** In March 1934 the Government Agent of the maṭh, H. S. Sampangiramiah, drew up a list of the
+  taluks outside Mysore where the maṭh held property (file coded as K32 in `results/coded/K.tsv`).
+  - It went through the Resident to Bombay, Madras, Hyderabad and the Deccan States, so that their officers would
+    help the Agent collect revenue.
+  - Bombay instructed the Collectors of Dharwar, Kanara, Belgaum and Bijapur (G.R. 17 April and 4 October 1934),
+    and Madras the Collectors of Bellary and Anantapur.
+
+| where | taluks or estates in the list | follow-up |
+|---|---|---|
+| Dharwar District (Bombay) | Ranibennur, Karajgi, Hangal (Hanagallu), Kod, Shiggaon (Siggavi), Navalgund, Kalghatgi, Dharwar, Hubli, Ron, Gadag | nazarana Rs 2,745 on the Dharwar ināms (1936) |
+| Bijapur District (Bombay) | Badami, Bagalkot, Bagevadi, Bijapur, Sindgi, Hungund | nazarana Rs 1,167 (1936) |
+| Belgaum District (Bombay) | Parasgad | |
+| North Kanara (Bombay) | Mundgod | |
+| Bellary District (Madras) | Kudligi, Harapanahalli | |
+| Anantapur District (Madras) | Madakasira | |
+| Kolhapur State | Thoragallu (Torgal), Kankanvadi | |
+| Ramdurg State | Ramdurg | |
+| Sangli State | Shirahatti, with a village (Giddehosapura?) in Shirahatti taluk | a village under attachment; Sangli asked for certified copies of the Agent's powers (1935) |
+| Miraj Senior / Miraj Junior | Lakshmeshwar / Gudageri | |
+| Savanur State; Sirasangi jagir | Savanur; Sirasangi | |
+| Jamkhandi State | Kundgol | |
+| Hyderabad State | Yelburga, Surapura (Shorapur) | no property found in Shorapur, Shahpur or Andola |
+
+- **More properties in other files:**
+  - A 1935 file has the Government Agent recovering sums from one Hutchu Rao "in respect of the properties in
+    Sangli State and Venkatapura Village".
+  - The Bombay inām grants were made to "Shankarbha[rati] and his successors", on condition of nazarana.
+- **Where they lie.** Twenty-seven of the places are mapped as crosses in the Gazetteer Places Finder
+  (`../../map/places_map.html`, the "Kudli estates" filter). Dharwar, Hubli and Bijapur carry the fact in their
+  existing entries. The combined map (`../../map/combined_map.png`) marks all 30 taluks and states. Hyderabad
+  is left out of both maps, since it reported no property.
+- **What it shows.** Nearly all the estates lie between Saṅkeśvar and Kudli, in the Dharwar–Bijapur country and the
+  southern Maratha states. That is where the Bombay gazetteers place the Kudalgi Svāmī's village and temple at
+  Hallur and his procession privilege at Hubli.
 - **Honours.**
   - The *adda-palakki* (crosswise palanquin) was refused in 1884, 1895 and about 1905–07 "as a matter of
     principle and policy". Kudli had held this privilege at Hubli up to the Privy Council (Dharwar gazetteer
