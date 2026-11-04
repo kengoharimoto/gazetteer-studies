@@ -178,6 +178,16 @@ orders in the same tables".
 
 ## What this adds
 
+**Place in the study's verdict** (`../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's
+tradition was regional, not dominant. Śṛṅgeri is the clearest case.
+- **The seat:** the most famous Śaṅkara seat in the study, a subsidised principality in Mysore.
+- **Its following:** led only along the Kanara and South Canara coast, among the non-Brahmin castes and the Marathi
+  Smārtas.
+- **Its own district:** in Kadur, Liṅgāyats outnumber all Brahmans two to one, and Śrīvaiṣṇavas outnumber Smārtas
+  among Brahmans.
+- **Elsewhere:** its name reached far (Nasik, Benares, Rameswaram, Tirupati, Haridwar) through branches and tours,
+  not through followings.
+
 - Śṛṅgeri's reach in the 1880s, the deepest of any Śaṅkara seat in the colonial record, was a reach without
   buildings. The seat was a landed estate in Mysore that the state subsidised. Its following in Bombay and
   Madras was held together by tours, dues and fines.
