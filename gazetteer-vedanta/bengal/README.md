@@ -118,6 +118,26 @@ Rangpur, Hooghly and Howrah.
    - Census 1901 (quoted in the Saran gazetteer): "followers of Sankaracharya", divided into Sannyāsī and
      Gharbārī Atīths, keeping the names Giri, Purī and so on and burying their dead seated.
 
+### Rival seats in Bengal, Bihar and Orissa
+
+From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/coded/S.tsv`, `R.tsv`, `BAM.tsv`):
+
+| place | rival seat (tradition) | what the texts give it | Daśanāmī comparison in the same place |
+|---|---|---|---|
+| Purī | Emār, Dakṣiṇapārśva, Rāghavadāsa and others (Rāmānandī in 1908, "Ramanuj" in 1977) | in 1848, 29 maṭhs drew Rs 1,45,400 a year from land (Hunter: rental £20,000 rising to £27,000); Emār's mahant bought a four-anna share of the Kotdesh zamindari (1896); Uttarapārśva received 15 villages | the Govardhan ("Sankaracharya") maṭh: a library and a place in the temple, no estate figure; about 7 Śaṅkara-line houses of about 130 maṭhs in 1977 |
+| Purī | Gauḍīya maṭhs | 2 in 1908; about 30 of some 130 in 1977; under state endowment control from 1951–74 | as above |
+| Śāntipur, Khardah (Nadia, 24 Parganas) | the Bengal Gosvāmī houses (Gauḍīya) | Bengal divided into circles with officers; initiation fee 20 annas, 16 to the Gosvāmī; they inherit heirless Bairāgīs' property; in Bankura Rs 1-6 per initiation, marriage and death | no Daśanāmī maṭh in these districts |
+| Kenduli (Birbhum) | the Jayadeva fair (Vaiṣṇava) | over 50,000 pilgrims | (none) |
+| Calcutta | Kālīghāṭ (Śākta; householder Haldār priests); the Brahmos | 1,799 Brahmos and 14,079 Baishnabs in 1901; no Sannyāsī heading | Tārakeśvar (Hooghly) and the Bhot-Bagān (Howrah) are the nearby Daśanāmī foundations, rich and with few followers |
+
+- **Headcounts (1872).** Vaiṣṇavas run to tens of thousands per district against Sannyāsīs in tens or hundreds:
+  Midnapur 96,178 against 436, Bardwan 37,362 against 84.
+- **Bihar is the exception.** There the Atīths are numerous (Saran 26,753 in 1901), and the coding found no landed
+  Vaiṣṇava house to match them. The one recorded contest is the Bodh Gayā Mahant's case against the (Buddhist)
+  Mahabodhi Society, decided for the Mahant in 1906.
+- **The pattern.** In Bengal proper and Orissa the landed religious houses are Vaiṣṇava. The Śaṅkara line holds a
+  few rich foundations with little following.
+
 ## 3. Findings in relation to the other presidencies
 
 1. **The eastern pattern repeats the United Provinces.**
