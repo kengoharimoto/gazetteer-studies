@@ -29,7 +29,7 @@ add("Kolaba", "Kolába", "Raigad (district), Alibag (HQ)", "Raigad", "Maharashtr
 add("Thana", "Tána; Thane", "Thane", "Thane; Palghar", "Maharashtra", 19.20, 72.97, "district", B,
     "Places volume XIV (1882) read for the maṭha layer.", "results/; mathas/")
 add("Kanara", "North Kanara; Kánara; Canara", "Uttara Kannada (Karwar HQ)", "Uttara Kannada", "Karnataka", 14.81, 74.13, "district", B,
-    "Śṛṅgeri's stronghold: 32–39% of Hindus in castes asserted Smārta; about 45 caste entries name 'the Smart monastery at Shringeri'. No Śṛṅgeri maṭh located in the district.", "results/; sringeri/")
+    "Śṛṅgeri's stronghold: 32–39% of Hindus in castes asserted Smārta; about 45 caste entries name 'the Smart monastery at Shringeri'. No Śṛṅgeri maṭh located in the district. Rivals: the Konkan Kuṇbīs left a Liṅgāyat guide of Chitaldurg for Śṛṅgeri in 1881.", "results/; sringeri/")
 add("Nasik", "Násik; Nashik", "Nashik", "Nashik", "Maharashtra", 20.00, 73.79, "district;site", B,
     "Panchavati: tomb and monastery of a Śaṅkarācārya 'said to have come from Shringeri' (1883, pp. 518–19); Dr Kurtakoti, Śaṅkarācārya of Karvīr, lived here (1977). A Śṛṅgeri maṭh building at Nasik appears in a 1940 Mysore file.", "results/; mathas/; revised/")
 add("Ahmadnagar", "Ahmednagar; Ahmadnagar", "Ahilyanagar (renamed 2024)", "Ahilyanagar", "Maharashtra", 19.09, 74.74, "district", B,
@@ -75,7 +75,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Nellore", "", "Nellore", "Sri Potti Sriramulu Nellore", "Andhra Pradesh", 14.44, 79.99, ""),
     ("North Arcot", "", "Vellore", "Vellore; Tiruvannamalai; Ranipet; Tirupattur", "Tamil Nadu", 12.92, 79.13, ""),
     ("Salem", "", "Salem", "Salem; Namakkal; Dharmapuri; Krishnagiri", "Tamil Nadu", 11.66, 78.15, "Śṛṅgeri Matam's 'papal bulls' for the Marka Brahmans of Tali (1918)."),
-    ("South Canara", "South Kanara; Dakshina Kannada", "Dakshina Kannada and Udupi", "Dakshina Kannada; Udupi", "Karnataka", 12.87, 74.84, "Śṛṅgeri the guru seat of non-Brahmin castes (Kharvis, Marāṭhās, Servegāras, Ares, Chaptegāras) in Thurston; gone by 1973."),
+    ("South Canara", "South Kanara; Dakshina Kannada", "Dakshina Kannada and Udupi", "Dakshina Kannada; Udupi", "Karnataka", 12.87, 74.84, "Śṛṅgeri the guru seat of non-Brahmin castes (Kharvis, Marāṭhās, Servegāras, Ares, Chaptegāras) in Thurston; gone by 1973. Rivals: the Mādhvas of Uḍupi; by 1973 Tulu Brahmans are 'largely followers of Madhvacharya'."),
     ("Tanjore", "Thanjavur", "Thanjavur", "Thanjavur; Tiruvarur; Nagapattinam", "Tamil Nadu", 10.79, 79.14, "64% of Brahmans in Smārta sub-castes (1891)."),
     ("Travancore", "", "Thiruvananthapuram (former state)", "southern Kerala", "Kerala", 8.52, 76.94, "Princely state."),
     ("Vizagapatam", "Visakhapatnam", "Visakhapatnam", "Visakhapatnam; Vizianagaram", "Andhra Pradesh", 17.69, 83.22, "Carmichael's Manual (1869) on the Smārta line 'at Sringagiri'."),
@@ -97,7 +97,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Meerut", "", "Meerut", "Meerut; Baghpat", "Uttar Pradesh", 28.98, 77.71, "5,326 Gosāins (1872), 5,083 Daśanāmīs (1891)."),
     ("Bulandshahr", "", "Bulandshahr", "Bulandshahr", "Uttar Pradesh", 28.40, 77.85, ""),
     ("Aligarh", "", "Aligarh", "Aligarh; Hathras", "Uttar Pradesh", 27.88, 78.08, ""),
-    ("Muttra", "Mathura", "Mathura", "Mathura", "Uttar Pradesh", 27.49, 77.67, ""),
+    ("Muttra", "Mathura", "Mathura", "Mathura", "Uttar Pradesh", 27.49, 77.67, " Rivals: Vallabha and Gauḍīya Vaiṣṇava centre. Its 17,131 'Gosains' in 1891 are almost all unspecified, i.e. Vaiṣṇava gosvāmīs, not Daśanāmīs."),
     ("Agra", "", "Agra", "Agra", "Uttar Pradesh", 27.18, 78.01, ""),
     ("Farukhabad", "Farrukhabad; Fatehgarh", "Farrukhabad", "Farrukhabad; Kannauj", "Uttar Pradesh", 27.39, 79.58, ""),
     ("Mainpuri", "", "Mainpuri", "Mainpuri", "Uttar Pradesh", 27.23, 79.02, ""),
@@ -117,12 +117,12 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Jhansi", "", "Jhansi", "Jhansi", "Uttar Pradesh", 25.45, 78.57, ""),
     ("Jalaun", "Orai", "Jalaun", "Jalaun", "Uttar Pradesh", 26.15, 79.33, ""),
     ("Lalitpur", "", "Lalitpur", "Lalitpur", "Uttar Pradesh", 24.69, 78.42, ""),
-    ("Benares", "Banaras; Kashi; Varanasi", "Varanasi", "Varanasi; Chandauli; Bhadohi", "Uttar Pradesh", 25.32, 83.01, "Nirañjanī, Jūnā and Nirbānī akhāṛās; a Śṛṅgeri branch maṭh appears in a 1935 Mysore file."),
+    ("Benares", "Banaras; Kashi; Varanasi", "Varanasi", "Varanasi; Chandauli; Bhadohi", "Uttar Pradesh", 25.32, 83.01, "Nirañjanī, Jūnā and Nirbānī akhāṛās; a Śṛṅgeri branch maṭh appears in a 1935 Mysore file. Rivals: Nevill (1909, pp. 92–93): 'Vedantism … almost exclusively prevails'; Rāmānanda's and Vallabha's influence is strong, 'but … the shrines dedicated to the cult of Shiva greatly predominate'. 1891 census: 4,106 Gosāins (1,899 Daśanāmī), 419 Jogīs, 141 Bairāgīs; 89.4% Hindu, 10.3% Muslim (1901)."),
     ("Mirzapur", "", "Mirzapur", "Mirzapur; Sonbhadra", "Uttar Pradesh", 25.15, 82.57, "Mahant Anand Gir's 39 villages; Gosāins owned 44,784 acres."),
     ("Jaunpur", "", "Jaunpur", "Jaunpur", "Uttar Pradesh", 25.75, 82.69, ""),
     ("Ghazipur", "", "Ghazipur", "Ghazipur", "Uttar Pradesh", 25.58, 83.58, ""),
     ("Ballia", "", "Ballia", "Ballia", "Uttar Pradesh", 25.76, 84.15, ""),
-    ("Gorakhpur", "", "Gorakhpur", "Gorakhpur; Deoria; Kushinagar; Maharajganj", "Uttar Pradesh", 26.76, 83.37, "Ram Ratangir's 36 villages; 13,944 Atīths; the Nāth temple."),
+    ("Gorakhpur", "", "Gorakhpur", "Gorakhpur; Deoria; Kushinagar; Maharajganj", "Uttar Pradesh", 26.76, 83.37, "Ram Ratangir's 36 villages; 13,944 Atīths; the Nāth temple. Rivals: the Gorakhnāth temple is the centre of the Nāth Jogīs, the rival Śaiva ascetic network."),
     ("Basti", "", "Basti", "Basti; Siddharthnagar; Sant Kabir Nagar", "Uttar Pradesh", 26.80, 82.73, ""),
     ("Azamgarh", "", "Azamgarh", "Azamgarh; Mau", "Uttar Pradesh", 26.07, 83.18, ""),
     ("Kumaun", "Kumaon", "Kumaon (Almora, Nainital)", "Almora; Nainital; Bageshwar; Pithoragarh", "Uttarakhand", 29.60, 79.66, "8,860 Gosāins (1872); Pinnath Gosāin colony."),
@@ -134,7 +134,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Sitapur", "", "Sitapur", "Sitapur", "Uttar Pradesh", 27.57, 80.68, "Goshains 'before the abolition of zamindari some of them were zamindars' (revised)."),
     ("Hardoi", "", "Hardoi", "Hardoi", "Uttar Pradesh", 27.40, 80.13, ""),
     ("Kheri", "Lakhimpur", "Lakhimpur Kheri", "Lakhimpur Kheri", "Uttar Pradesh", 27.95, 80.78, ""),
-    ("Fyzabad", "Faizabad", "Ayodhya (district renamed 2018)", "Ayodhya; Ambedkar Nagar", "Uttar Pradesh", 26.78, 82.13, "Ayodhyā dominated by the Bairāgī akhāṛās."),
+    ("Fyzabad", "Faizabad", "Ayodhya (district renamed 2018)", "Ayodhya; Ambedkar Nagar", "Uttar Pradesh", 26.78, 82.13, "Ayodhyā dominated by the Bairāgī akhāṛās. Rivals: the gazetteer describes Bairāgī dominance, yet the 1891 census returns 5,371 Daśanāmīs against 2,017 Bairāgīs; enumerators used these words loosely."),
     ("Gonda", "", "Gonda", "Gonda; Balrampur", "Uttar Pradesh", 27.13, 81.97, "Goshains 'followers of Shankaracharya'; 11,478 Daśanāmīs (1891)."),
     ("Bahraich", "", "Bahraich", "Bahraich; Shravasti", "Uttar Pradesh", 27.57, 81.60, ""),
     ("Sultanpur", "", "Sultanpur", "Sultanpur; Amethi", "Uttar Pradesh", 26.26, 82.07, ""),
@@ -146,7 +146,7 @@ for name, var, modern, dist, state, la, lo, note in [
 # ---------------- Bengal, Bihar, Orissa ----------------
 G = "Bengal"
 for name, var, modern, dist, state, la, lo, note in [
-    ("Calcutta", "Kolkata", "Kolkata", "Kolkata", "West Bengal", 22.57, 88.36, ""),
+    ("Calcutta", "Kolkata", "Kolkata", "Kolkata", "West Bengal", 22.57, 88.36, " Rivals: almost no Daśanāmīs (3 Atīths, 13 Gosāins in 1901). The ground belonged to Chaitanya Vaiṣṇavism and Kālī (Kālīghāṭ), and among the educated to the Brahmos (24 Parganas 1914)."),
     ("Murshidabad", "", "Murshidabad", "Murshidabad", "West Bengal", 24.18, 88.27, ""),
     ("Rajshahi", "", "Rajshahi", "Rajshahi", "Bangladesh", 24.37, 88.60, ""),
     ("Jalpaiguri", "", "Jalpaiguri", "Jalpaiguri", "West Bengal", 26.52, 88.72, ""),
@@ -170,7 +170,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Hill Tippera", "Tippera", "Tripura", "Tripura", "Tripura", 23.84, 91.28, "Princely state."),
     ("Hooghly", "Hugli", "Hooghly", "Hooghly", "West Bengal", 22.90, 88.39, "Tārakeśvar lies here."),
     ("Howrah", "Haora", "Howrah", "Howrah", "West Bengal", 22.59, 88.31, "Bhot-Bagān, 'the seat of the Dasanami sect in the district'; a 'Sankar Math' at Ramrajatala (1919)."),
-    ("Puri", "Purushottama Puri; Jagannath Puri; Pooree", "Puri", "Puri", "Odisha", 19.81, 85.83, "Govardhana maṭha: absent in Hunter (1877), 'the Sankaracharya' maṭh in 1908, named Gobardhana in 1977."),
+    ("Puri", "Purushottama Puri; Jagannath Puri; Pooree", "Puri", "Puri", "Odisha", 19.81, 85.83, "Govardhana maṭha: absent in Hunter (1877), 'the Sankaracharya' maṭh in 1908, named Gobardhana in 1977. Rivals: the 70-odd maṭhs of Purī are mostly Vaiṣṇava foundations (Emār, Rāghavadāsa and others)."),
     ("Cuttack", "Katak", "Cuttack", "Cuttack", "Odisha", 20.46, 85.88, ""),
     ("Balasore", "Baleshwar", "Balasore", "Balasore", "Odisha", 21.49, 86.93, ""),
 ]:
@@ -183,7 +183,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Rohtak", "", "Rohtak", "Rohtak; Jhajjar", "Haryana", 28.90, 76.61, ""),
     ("Gurgaon", "", "Gurugram", "Gurugram; Nuh; Rewari", "Haryana", 28.46, 77.03, ""),
     ("Delhi", "Dehli", "Delhi", "Delhi", "Delhi", 28.65, 77.23, ""),
-    ("Karnal", "", "Karnal", "Karnal; Kurukshetra; Kaithal; Panipat", "Haryana", 29.69, 76.99, "Gosain pujaris of Shiva temples; later 'Jogis … of the Kanphara clan'."),
+    ("Karnal", "", "Karnal", "Karnal; Kurukshetra; Kaithal; Panipat", "Haryana", 29.69, 76.99, "Gosain pujaris of Shiva temples; later 'Jogis … of the Kanphara clan'. Rivals: Nāth Jogīs replace the Gosāin temple priests."),
     ("Ambala", "Umballa", "Ambala", "Ambala; Yamunanagar; Rupnagar", "Haryana / Punjab", 30.38, 76.78, ""),
     ("Simla", "", "Shimla", "Shimla", "Himachal Pradesh", 31.10, 77.17, ""),
     ("Kangra", "", "Kangra", "Kangra; Kullu; Lahaul and Spiti; Hamirpur", "Himachal Pradesh", 32.10, 76.27, "Kangra Gosāin traders and lenders."),
@@ -297,7 +297,7 @@ add("Tārakeśvar", "Tarakeswar; Tarakeshwar", "Tarakeswar", "Hooghly", "West Be
 add("Bhot-Bagān", "Bhot Bagan; Ghusuri", "Bhot Bagan (Ghusuri)", "Howrah", "West Bengal", 22.61, 88.35, "site", "Bengal",
     "Tashi Lama's grant to Puran Gir Gosāin (1785); mahant elected 'by the other Dasnami Mahants of Bengal' (1905).", "bengal/; revised/")
 add("Hardwar", "Haridwar; Kankhal", "Haridwar", "Haridwar", "Uttarakhand", 29.95, 78.16, "site", "UP",
-    "Kumbh melā; Kankhal Gosāins (Bhola Gir, 4,024 acres); a Śṛṅgeri maṭh building at Haridwar (Mysore file, 1944).", "north/; revised/; mathas/")
+    "Kumbh melā; Kankhal Gosāins (Bhola Gir, 4,024 acres); a Śṛṅgeri maṭh building at Haridwar (Mysore file, 1944). Rivals: the Gosāin–Bairāgī battle at Hardwar, 1760; precedence among Daśanāmī, Bairāgī and Udāsī akhāṛās at the Kumbh.", "north/; revised/; mathas/")
 add("Bodhan", "", "Bodhan", "Nizamabad", "Telangana", 18.66, 77.88, "site", "Hyderabad",
     "One of four monasteries of Bhāskarācārya, the Komaṭis' 'deputy of Shankaracharya' (Sholapur 1884).", "mathas/")
 add("Nander", "Nanded", "Nanded", "Nanded", "Maharashtra", 19.15, 77.31, "site", "Hyderabad",
@@ -331,7 +331,7 @@ add("Kigga", "", "Kigga", "Chikkamagaluru", "Karnataka", 13.46, 75.21, "site", "
 add("Belavadi", "Belvadi", "Belavadi", "Chikkamagaluru", "Karnataka", 13.27, 75.84, "branch", "Mysore",
     "An inām village of the Śṛṅgeri maṭh (tank, quarry, land disposals 1902–40).", "mathas/")
 add("Ayodhyā", "Ajodhya; Oudh", "Ayodhya", "Ayodhya", "Uttar Pradesh", 26.80, 82.20, "site", "UP",
-    "Dominated by the Bairāgī akhāṛās; the Gosāins appear only in the story of their expulsion from Hanumāngaṛhī.", "north/; revised/")
+    "Dominated by the Bairāgī akhāṛās; the Gosāins appear only in the story of their expulsion from Hanumāngaṛhī. The Rāmānandī Bairāgīs were the Daśanāmīs' direct rival in the north.", "north/; revised/")
 add("Gokarn", "Gokarna", "Gokarna", "Uttara Kannada", "Karnataka", 14.55, 74.32, "site", "Bombay",
     "Pilgrimage centre of Kanara castes; earlier seat of the Havig gurus' line before Sonda.", "results/; mathas/")
 
@@ -396,6 +396,15 @@ add('Sirasangi', '', 'Sirasangi', 'Belagavi', 'Karnataka', 15.68, 75.27, "estate
     "Taluk holding Kudli maṭh property (Sirasangi jagir), in the maṭh Agent's list of March 1934.", "mathas/archives/")
 add('Kundgol', '', 'Kundgol', 'Dharwad', 'Karnataka', 15.26, 75.25, "estate", "Bombay" if 'Jamkhandi State'.find("Bellary")<0 and 'Jamkhandi State'.find("Anantapur")<0 else "Madras",
     "Taluk holding Kudli maṭh property (Jamkhandi State), in the maṭh Agent's list of March 1934.", "mathas/archives/")
+
+add("Kālīghāṭ", "Kalighat", "Kalighat", "Kolkata", "West Bengal", 22.52, 88.34, "site", "Bengal",
+    "Rival centre: the great Kālī pilgrimage of the Calcutta region (24 Parganas 1914).", "SYNTHESIS.md (Rivals)")
+add("Khardah", "Khardaha", "Khardaha", "North 24 Parganas", "West Bengal", 22.72, 88.38, "site", "Bengal",
+    "Rival centre: 'a favourite place of pilgrimage for Vaishnavas, as it was the home of Nityananda' (24 Parganas 1914).", "SYNTHESIS.md (Rivals)")
+add("Dakshineswar", "Dakhineswar", "Dakshineswar", "North 24 Parganas", "West Bengal", 22.65, 88.36, "site", "Bengal",
+    "Rani Rasmani's temples to Kālī and Kṛṣṇa with twelve Śiva shrines; the 1914 gazetteer does not mention Ramakrishna, whose order (Belur Math, 1898) took Daśanāmī sannyāsa.", "SYNTHESIS.md (Rivals)")
+add("Uḍupi", "Udipi; Udupi", "Udupi", "Udupi", "Karnataka", 13.34, 74.75, "site", "Madras",
+    "Rival centre: seat of the Mādhva maṭhs; Kanara and South Canara Vaiṣṇava Brahmans' guru is 'a Tulu Brahman, who lives in celibacy at the Vaishnav monastery at Udipi'.", "results/; madras/")
 
 if __name__ == "__main__":
     import csv

@@ -2,7 +2,7 @@ name	variants	modern	district	state	lat	lon	kinds	region	note	refs
 Ratnagiri	Ratnágiri	Ratnagiri	Ratnagiri	Maharashtra	16.99	73.3	district	Bombay	1872 census returned 99.7% of Hindus as 'Śaiva'; Smārta Shenvis under the Kavaḷe svāmī.	results/; revised/
 Kolaba	Kolába	Raigad (district), Alibag (HQ)	Raigad	Maharashtra	18.64	72.87	district	Bombay		results/
 Thana	Tána; Thane	Thane	Thane; Palghar	Maharashtra	19.2	72.97	district	Bombay	Places volume XIV (1882) read for the maṭha layer.	results/; mathas/
-Kanara	North Kanara; Kánara; Canara	Uttara Kannada (Karwar HQ)	Uttara Kannada	Karnataka	14.81	74.13	district	Bombay	Śṛṅgeri's stronghold: 32–39% of Hindus in castes asserted Smārta; about 45 caste entries name 'the Smart monastery at Shringeri'. No Śṛṅgeri maṭh located in the district.	results/; sringeri/
+Kanara	North Kanara; Kánara; Canara	Uttara Kannada (Karwar HQ)	Uttara Kannada	Karnataka	14.81	74.13	district	Bombay	Śṛṅgeri's stronghold: 32–39% of Hindus in castes asserted Smārta; about 45 caste entries name 'the Smart monastery at Shringeri'. No Śṛṅgeri maṭh located in the district. Rivals: the Konkan Kuṇbīs left a Liṅgāyat guide of Chitaldurg for Śṛṅgeri in 1881.	results/; sringeri/
 Nasik	Násik; Nashik	Nashik	Nashik	Maharashtra	20.0	73.79	district;site	Bombay	Panchavati: tomb and monastery of a Śaṅkarācārya 'said to have come from Shringeri' (1883, pp. 518–19); Dr Kurtakoti, Śaṅkarācārya of Karvīr, lived here (1977). A Śṛṅgeri maṭh building at Nasik appears in a 1940 Mysore file.	results/; mathas/; revised/
 Ahmadnagar	Ahmednagar; Ahmadnagar	Ahilyanagar (renamed 2024)	Ahilyanagar	Maharashtra	19.09	74.74	district	Bombay	'the decrees of Shankaracharya at Shankeshvar' are final; Kuṇbīs 'cannot tell whether they are Smarts or Bhagvats'.	results/; revised/
 Poona	Puna; Pune	Pune	Pune	Maharashtra	18.52	73.86	district;site	Bombay	Brahmans' pontiff the head of Śṛṅgeri; c. 1750 a Śaṅkarācārya allowed a Jain temple in the city (Places, 1885).	results/; mathas/
@@ -35,7 +35,7 @@ Malabar		Kozhikode and neighbouring districts	Kozhikode; Malappuram; Palakkad; K
 Nellore		Nellore	Sri Potti Sriramulu Nellore	Andhra Pradesh	14.44	79.99	district	Madras		madras/; census-images/
 North Arcot		Vellore	Vellore; Tiruvannamalai; Ranipet; Tirupattur	Tamil Nadu	12.92	79.13	district	Madras		madras/; census-images/
 Salem		Salem	Salem; Namakkal; Dharmapuri; Krishnagiri	Tamil Nadu	11.66	78.15	district	Madras	Śṛṅgeri Matam's 'papal bulls' for the Marka Brahmans of Tali (1918).	madras/; census-images/
-South Canara	South Kanara; Dakshina Kannada	Dakshina Kannada and Udupi	Dakshina Kannada; Udupi	Karnataka	12.87	74.84	district	Madras	Śṛṅgeri the guru seat of non-Brahmin castes (Kharvis, Marāṭhās, Servegāras, Ares, Chaptegāras) in Thurston; gone by 1973.	madras/; census-images/
+South Canara	South Kanara; Dakshina Kannada	Dakshina Kannada and Udupi	Dakshina Kannada; Udupi	Karnataka	12.87	74.84	district	Madras	Śṛṅgeri the guru seat of non-Brahmin castes (Kharvis, Marāṭhās, Servegāras, Ares, Chaptegāras) in Thurston; gone by 1973. Rivals: the Mādhvas of Uḍupi; by 1973 Tulu Brahmans are 'largely followers of Madhvacharya'.	madras/; census-images/
 Tanjore	Thanjavur	Thanjavur	Thanjavur; Tiruvarur; Nagapattinam	Tamil Nadu	10.79	79.14	district	Madras	64% of Brahmans in Smārta sub-castes (1891).	madras/; census-images/
 Travancore		Thiruvananthapuram (former state)	southern Kerala	Kerala	8.52	76.94	district	Madras	Princely state.	madras/; census-images/
 Vizagapatam	Visakhapatnam	Visakhapatnam	Visakhapatnam; Vizianagaram	Andhra Pradesh	17.69	83.22	district	Madras	Carmichael's Manual (1869) on the Smārta line 'at Sringagiri'.	madras/; census-images/
@@ -51,7 +51,7 @@ Muzaffarnagar		Muzaffarnagar	Muzaffarnagar; Shamli	Uttar Pradesh	29.47	77.7	dist
 Meerut		Meerut	Meerut; Baghpat	Uttar Pradesh	28.98	77.71	district	UP	5,326 Gosāins (1872), 5,083 Daśanāmīs (1891).	north/; census-images/
 Bulandshahr		Bulandshahr	Bulandshahr	Uttar Pradesh	28.4	77.85	district	UP		north/; census-images/
 Aligarh		Aligarh	Aligarh; Hathras	Uttar Pradesh	27.88	78.08	district	UP		north/; census-images/
-Muttra	Mathura	Mathura	Mathura	Uttar Pradesh	27.49	77.67	district	UP		north/; census-images/
+Muttra	Mathura	Mathura	Mathura	Uttar Pradesh	27.49	77.67	district	UP	 Rivals: Vallabha and Gauḍīya Vaiṣṇava centre. Its 17,131 'Gosains' in 1891 are almost all unspecified, i.e. Vaiṣṇava gosvāmīs, not Daśanāmīs.	north/; census-images/
 Agra		Agra	Agra	Uttar Pradesh	27.18	78.01	district	UP		north/; census-images/
 Farukhabad	Farrukhabad; Fatehgarh	Farrukhabad	Farrukhabad; Kannauj	Uttar Pradesh	27.39	79.58	district	UP		north/; census-images/
 Mainpuri		Mainpuri	Mainpuri	Uttar Pradesh	27.23	79.02	district	UP		north/; census-images/
@@ -71,12 +71,12 @@ Allahabad	Prayag	Prayagraj	Prayagraj; Kaushambi	Uttar Pradesh	25.44	81.85	distri
 Jhansi		Jhansi	Jhansi	Uttar Pradesh	25.45	78.57	district	UP		north/; census-images/
 Jalaun	Orai	Jalaun	Jalaun	Uttar Pradesh	26.15	79.33	district	UP		north/; census-images/
 Lalitpur		Lalitpur	Lalitpur	Uttar Pradesh	24.69	78.42	district	UP		north/; census-images/
-Benares	Banaras; Kashi; Varanasi	Varanasi	Varanasi; Chandauli; Bhadohi	Uttar Pradesh	25.32	83.01	district	UP	Nirañjanī, Jūnā and Nirbānī akhāṛās; a Śṛṅgeri branch maṭh appears in a 1935 Mysore file.	north/; census-images/
+Benares	Banaras; Kashi; Varanasi	Varanasi	Varanasi; Chandauli; Bhadohi	Uttar Pradesh	25.32	83.01	district	UP	Nirañjanī, Jūnā and Nirbānī akhāṛās; a Śṛṅgeri branch maṭh appears in a 1935 Mysore file. Rivals: Nevill (1909, pp. 92–93): 'Vedantism … almost exclusively prevails'; Rāmānanda's and Vallabha's influence is strong, 'but … the shrines dedicated to the cult of Shiva greatly predominate'. 1891 census: 4,106 Gosāins (1,899 Daśanāmī), 419 Jogīs, 141 Bairāgīs; 89.4% Hindu, 10.3% Muslim (1901).	north/; census-images/
 Mirzapur		Mirzapur	Mirzapur; Sonbhadra	Uttar Pradesh	25.15	82.57	district	UP	Mahant Anand Gir's 39 villages; Gosāins owned 44,784 acres.	north/; census-images/
 Jaunpur		Jaunpur	Jaunpur	Uttar Pradesh	25.75	82.69	district	UP		north/; census-images/
 Ghazipur		Ghazipur	Ghazipur	Uttar Pradesh	25.58	83.58	district	UP		north/; census-images/
 Ballia		Ballia	Ballia	Uttar Pradesh	25.76	84.15	district	UP		north/; census-images/
-Gorakhpur		Gorakhpur	Gorakhpur; Deoria; Kushinagar; Maharajganj	Uttar Pradesh	26.76	83.37	district	UP	Ram Ratangir's 36 villages; 13,944 Atīths; the Nāth temple.	north/; census-images/
+Gorakhpur		Gorakhpur	Gorakhpur; Deoria; Kushinagar; Maharajganj	Uttar Pradesh	26.76	83.37	district	UP	Ram Ratangir's 36 villages; 13,944 Atīths; the Nāth temple. Rivals: the Gorakhnāth temple is the centre of the Nāth Jogīs, the rival Śaiva ascetic network.	north/; census-images/
 Basti		Basti	Basti; Siddharthnagar; Sant Kabir Nagar	Uttar Pradesh	26.8	82.73	district	UP		north/; census-images/
 Azamgarh		Azamgarh	Azamgarh; Mau	Uttar Pradesh	26.07	83.18	district	UP		north/; census-images/
 Kumaun	Kumaon	Kumaon (Almora, Nainital)	Almora; Nainital; Bageshwar; Pithoragarh	Uttarakhand	29.6	79.66	district	UP	8,860 Gosāins (1872); Pinnath Gosāin colony.	north/; census-images/
@@ -88,13 +88,13 @@ Rae Bareli	Rai Bareli	Raebareli	Raebareli	Uttar Pradesh	26.23	81.24	district	UP	
 Sitapur		Sitapur	Sitapur	Uttar Pradesh	27.57	80.68	district	UP	Goshains 'before the abolition of zamindari some of them were zamindars' (revised).	north/; census-images/
 Hardoi		Hardoi	Hardoi	Uttar Pradesh	27.4	80.13	district	UP		north/; census-images/
 Kheri	Lakhimpur	Lakhimpur Kheri	Lakhimpur Kheri	Uttar Pradesh	27.95	80.78	district	UP		north/; census-images/
-Fyzabad	Faizabad	Ayodhya (district renamed 2018)	Ayodhya; Ambedkar Nagar	Uttar Pradesh	26.78	82.13	district	UP	Ayodhyā dominated by the Bairāgī akhāṛās.	north/; census-images/
+Fyzabad	Faizabad	Ayodhya (district renamed 2018)	Ayodhya; Ambedkar Nagar	Uttar Pradesh	26.78	82.13	district	UP	Ayodhyā dominated by the Bairāgī akhāṛās. Rivals: the gazetteer describes Bairāgī dominance, yet the 1891 census returns 5,371 Daśanāmīs against 2,017 Bairāgīs; enumerators used these words loosely.	north/; census-images/
 Gonda		Gonda	Gonda; Balrampur	Uttar Pradesh	27.13	81.97	district	UP	Goshains 'followers of Shankaracharya'; 11,478 Daśanāmīs (1891).	north/; census-images/
 Bahraich		Bahraich	Bahraich; Shravasti	Uttar Pradesh	27.57	81.6	district	UP		north/; census-images/
 Sultanpur		Sultanpur	Sultanpur; Amethi	Uttar Pradesh	26.26	82.07	district	UP		north/; census-images/
 Partabgarh	Pratapgarh	Pratapgarh	Pratapgarh	Uttar Pradesh	25.9	81.95	district	UP		north/; census-images/
 Bara Banki	Barabanki	Barabanki	Barabanki	Uttar Pradesh	26.93	81.19	district	UP		north/; census-images/
-Calcutta	Kolkata	Kolkata	Kolkata	West Bengal	22.57	88.36	district	Bengal		bengal/; census-images/
+Calcutta	Kolkata	Kolkata	Kolkata	West Bengal	22.57	88.36	district	Bengal	 Rivals: almost no Daśanāmīs (3 Atīths, 13 Gosāins in 1901). The ground belonged to Chaitanya Vaiṣṇavism and Kālī (Kālīghāṭ), and among the educated to the Brahmos (24 Parganas 1914).	bengal/; census-images/
 Murshidabad		Murshidabad	Murshidabad	West Bengal	24.18	88.27	district	Bengal		bengal/; census-images/
 Rajshahi		Rajshahi	Rajshahi	Bangladesh	24.37	88.6	district	Bengal		bengal/; census-images/
 Jalpaiguri		Jalpaiguri	Jalpaiguri	West Bengal	26.52	88.72	district	Bengal		bengal/; census-images/
@@ -118,14 +118,14 @@ Singhbhum	Chaibasa	Singhbhum	West and East Singhbhum; Seraikela-Kharsawan	Jharkh
 Hill Tippera	Tippera	Tripura	Tripura	Tripura	23.84	91.28	district	Bengal	Princely state.	bengal/; census-images/
 Hooghly	Hugli	Hooghly	Hooghly	West Bengal	22.9	88.39	district	Bengal	Tārakeśvar lies here.	bengal/; census-images/
 Howrah	Haora	Howrah	Howrah	West Bengal	22.59	88.31	district	Bengal	Bhot-Bagān, 'the seat of the Dasanami sect in the district'; a 'Sankar Math' at Ramrajatala (1919).	bengal/; census-images/
-Puri	Purushottama Puri; Jagannath Puri; Pooree	Puri	Puri	Odisha	19.81	85.83	district	Bengal	Govardhana maṭha: absent in Hunter (1877), 'the Sankaracharya' maṭh in 1908, named Gobardhana in 1977.	bengal/; census-images/
+Puri	Purushottama Puri; Jagannath Puri; Pooree	Puri	Puri	Odisha	19.81	85.83	district	Bengal	Govardhana maṭha: absent in Hunter (1877), 'the Sankaracharya' maṭh in 1908, named Gobardhana in 1977. Rivals: the 70-odd maṭhs of Purī are mostly Vaiṣṇava foundations (Emār, Rāghavadāsa and others).	bengal/; census-images/
 Cuttack	Katak	Cuttack	Cuttack	Odisha	20.46	85.88	district	Bengal		bengal/; census-images/
 Balasore	Baleshwar	Balasore	Balasore	Odisha	21.49	86.93	district	Bengal		bengal/; census-images/
 Hissar	Hisar	Hisar	Hisar; Fatehabad; Sirsa; Bhiwani	Haryana	29.15	75.72	district	Punjab	Puri guru at Kharak, Giri guru at Bilak; 1,479 Gusains (1881), 2,318 Gosains (1891).	punjab/; census-images/
 Rohtak		Rohtak	Rohtak; Jhajjar	Haryana	28.9	76.61	district	Punjab		punjab/; census-images/
 Gurgaon		Gurugram	Gurugram; Nuh; Rewari	Haryana	28.46	77.03	district	Punjab		punjab/; census-images/
 Delhi	Dehli	Delhi	Delhi	Delhi	28.65	77.23	district	Punjab		punjab/; census-images/
-Karnal		Karnal	Karnal; Kurukshetra; Kaithal; Panipat	Haryana	29.69	76.99	district	Punjab	Gosain pujaris of Shiva temples; later 'Jogis … of the Kanphara clan'.	punjab/; census-images/
+Karnal		Karnal	Karnal; Kurukshetra; Kaithal; Panipat	Haryana	29.69	76.99	district	Punjab	Gosain pujaris of Shiva temples; later 'Jogis … of the Kanphara clan'. Rivals: Nāth Jogīs replace the Gosāin temple priests.	punjab/; census-images/
 Ambala	Umballa	Ambala	Ambala; Yamunanagar; Rupnagar	Haryana / Punjab	30.38	76.78	district	Punjab		punjab/; census-images/
 Simla		Shimla	Shimla	Himachal Pradesh	31.1	77.17	district	Punjab		punjab/; census-images/
 Kangra		Kangra	Kangra; Kullu; Lahaul and Spiti; Hamirpur	Himachal Pradesh	32.1	76.27	district	Punjab	Kangra Gosāin traders and lenders.	punjab/; census-images/
@@ -207,7 +207,7 @@ Sonda	Sonda; Sunda; Swadi; Svarnavalli; Honalli Math	Sonda (Swarnavalli)	Uttara 
 Bodh Gayā	Bodh Gaya; Buddh Gaya; Budh Gaya	Bodh Gaya	Gaya	Bihar	24.7	84.99	site	Bengal	Giri maṭh, 'one of the seven Saivite orders established by Sankara Acharya' (Gaya 1906); Mahabodhi dispute.	bengal/; mathas/
 Tārakeśvar	Tarakeswar; Tarakeshwar	Tarakeswar	Hooghly	West Bengal	22.89	88.02	site	Bengal	Mahant 'a celibate of the Dasnami order'; a public endowment after 1924; 'governed by the Sankaracharya school of thought' (1972).	bengal/; revised/; mathas/
 Bhot-Bagān	Bhot Bagan; Ghusuri	Bhot Bagan (Ghusuri)	Howrah	West Bengal	22.61	88.35	site	Bengal	Tashi Lama's grant to Puran Gir Gosāin (1785); mahant elected 'by the other Dasnami Mahants of Bengal' (1905).	bengal/; revised/
-Hardwar	Haridwar; Kankhal	Haridwar	Haridwar	Uttarakhand	29.95	78.16	site	UP	Kumbh melā; Kankhal Gosāins (Bhola Gir, 4,024 acres); a Śṛṅgeri maṭh building at Haridwar (Mysore file, 1944).	north/; revised/; mathas/
+Hardwar	Haridwar; Kankhal	Haridwar	Haridwar	Uttarakhand	29.95	78.16	site	UP	Kumbh melā; Kankhal Gosāins (Bhola Gir, 4,024 acres); a Śṛṅgeri maṭh building at Haridwar (Mysore file, 1944). Rivals: the Gosāin–Bairāgī battle at Hardwar, 1760; precedence among Daśanāmī, Bairāgī and Udāsī akhāṛās at the Kumbh.	north/; revised/; mathas/
 Bodhan		Bodhan	Nizamabad	Telangana	18.66	77.88	site	Hyderabad	One of four monasteries of Bhāskarācārya, the Komaṭis' 'deputy of Shankaracharya' (Sholapur 1884).	mathas/
 Nander	Nanded	Nanded	Nanded	Maharashtra	19.15	77.31	site	Hyderabad	Another of Bhāskarācārya's monasteries (Sholapur 1884).	mathas/
 Khanapur		Khanapur	Belagavi	Karnataka	15.64	74.51	site	Bombay	'The Smart svami has a monastery at Khanapur', with two villages: the Shenvi Smārta svāmī (Belgaum 1884, p. 91).	mathas/
@@ -224,7 +224,7 @@ Srirangapatna	Seringapatam; Srirangapatam	Srirangapatna	Mandya	Karnataka	12.42	7
 Nanjangud		Nanjangud	Mysuru	Karnataka	12.12	76.68	site	Mysore	The Śṛṅgeri Jagadguru's endowments to the Śrīkaṇṭheśvara temple (1892, 1907).	mathas/
 Kigga		Kigga	Chikkamagaluru	Karnataka	13.46	75.21	site	Mysore	Ṛṣyaśṛṅga temple, in the Śṛṅgeri jāgīr.	mathas/
 Belavadi	Belvadi	Belavadi	Chikkamagaluru	Karnataka	13.27	75.84	branch	Mysore	An inām village of the Śṛṅgeri maṭh (tank, quarry, land disposals 1902–40).	mathas/
-Ayodhyā	Ajodhya; Oudh	Ayodhya	Ayodhya	Uttar Pradesh	26.8	82.2	site	UP	Dominated by the Bairāgī akhāṛās; the Gosāins appear only in the story of their expulsion from Hanumāngaṛhī.	north/; revised/
+Ayodhyā	Ajodhya; Oudh	Ayodhya	Ayodhya	Uttar Pradesh	26.8	82.2	site	UP	Dominated by the Bairāgī akhāṛās; the Gosāins appear only in the story of their expulsion from Hanumāngaṛhī. The Rāmānandī Bairāgīs were the Daśanāmīs' direct rival in the north.	north/; revised/
 Gokarn	Gokarna	Gokarna	Uttara Kannada	Karnataka	14.55	74.32	site	Bombay	Pilgrimage centre of Kanara castes; earlier seat of the Havig gurus' line before Sonda.	results/; mathas/
 Udagatti	Uddughatti; Uddughatti Mutt	Udagatti	Haveri (Ranibennur taluk)	Karnataka	14.55	75.7	branch	Bombay	Where the Kudli svāmīs lived in the Bombay country; Bombay records call the maṭh 'Kudalgi' or the 'Uddughatti Mutt' (Mysore files, 1936).	mathas/archives/
 Tīrthamuttūr	Tirthamuthur; Tirtha muthur Mutt	Tirthamuttur	Shivamogga (Tirthahalli taluk)	Karnataka	13.7	75.24	branch	Mysore	'a vassal Mutt to the Sringeri Mutt, paying an annual subsidy of Rs 31-4-0'; its svāmīs consecrated at Śṛṅgeri (1923).	mathas/archives/
@@ -255,3 +255,7 @@ Gudageri		Gudageri	Dharwad	Karnataka	15.12	75.37	estate	Bombay	Taluk holding Kud
 Savanur		Savanur	Haveri	Karnataka	14.97	75.33	estate	Bombay	Taluk holding Kudli maṭh property (Savanur State), in the maṭh Agent's list of March 1934.	mathas/archives/
 Sirasangi		Sirasangi	Belagavi	Karnataka	15.68	75.27	estate	Bombay	Taluk holding Kudli maṭh property (Sirasangi jagir), in the maṭh Agent's list of March 1934.	mathas/archives/
 Kundgol		Kundgol	Dharwad	Karnataka	15.26	75.25	estate	Bombay	Taluk holding Kudli maṭh property (Jamkhandi State), in the maṭh Agent's list of March 1934.	mathas/archives/
+Kālīghāṭ	Kalighat	Kalighat	Kolkata	West Bengal	22.52	88.34	site	Bengal	Rival centre: the great Kālī pilgrimage of the Calcutta region (24 Parganas 1914).	SYNTHESIS.md (Rivals)
+Khardah	Khardaha	Khardaha	North 24 Parganas	West Bengal	22.72	88.38	site	Bengal	Rival centre: 'a favourite place of pilgrimage for Vaishnavas, as it was the home of Nityananda' (24 Parganas 1914).	SYNTHESIS.md (Rivals)
+Dakshineswar	Dakhineswar	Dakshineswar	North 24 Parganas	West Bengal	22.65	88.36	site	Bengal	Rani Rasmani's temples to Kālī and Kṛṣṇa with twelve Śiva shrines; the 1914 gazetteer does not mention Ramakrishna, whose order (Belur Math, 1898) took Daśanāmī sannyāsa.	SYNTHESIS.md (Rivals)
+Uḍupi	Udipi; Udupi	Udupi	Udupi	Karnataka	13.34	74.75	site	Madras	Rival centre: seat of the Mādhva maṭhs; Kanara and South Canara Vaiṣṇava Brahmans' guru is 'a Tulu Brahman, who lives in celibacy at the Vaishnav monastery at Udipi'.	results/; madras/
