@@ -219,9 +219,9 @@ function labelVisible(d) {
 }
 function restyle() {
   ptSel.attr("d", shape);
-  lbls.attr("font-size", d => (d.main === "seat" ? 9.5 : 8.5) / k)
-      .attr("stroke-width", 1.6 / k)
-      .attr("dx", 5 / k).attr("dy", 3 / k)
+  lbls.attr("font-size", d => (d.main === "seat" ? 13 : 11.5) / k)
+      .attr("stroke-width", 2 / k)
+      .attr("dx", 6 / k).attr("dy", 4 / k)
       .classed("dim", d => !shown.has(d.id) || !labelVisible(d));
 }
 
