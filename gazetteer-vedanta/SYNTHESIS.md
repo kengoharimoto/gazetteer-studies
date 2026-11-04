@@ -182,7 +182,10 @@ these sources, for four reasons:
      villages and grants of the western Deccan belong to Saṅkeśvar, described as a 1570s secession from
      Śṛṅgeri (`sringeri/README.md`).
    - Across all seats (`mathas/README.md`), Saṅkeśvar is the one network the gazetteers describe in detail
-     (thirty inām villages in seven jurisdictions, Rs 30,000). Dvārkā, Jyotirmaṭh and Purī appear mainly in
+     (thirty inām villages in seven jurisdictions, Rs 30,000, mainly in Kolhapur, Belgaum and the Maratha
+     states). Its neighbour Kudli (Kudalgi), the first maṭh of its origin story, held estates in 30 taluks and
+     states, mainly in Dharwar and Bijapur (1934, Mysore files). Between them the two seats cover the Bombay
+     Karnatak. Dvārkā, Jyotirmaṭh and Purī appear mainly in
      lists of Śaṅkara's four maṭhs; their place entries describe a temple, the Badrinath Rawal's winter seat and
      an unnamed "Sankaracharya" maṭh.
    - The Mysore archive files (`mathas/archives/README.md`) explain the gap. Śṛṅgeri's reach outside its jāgīr
