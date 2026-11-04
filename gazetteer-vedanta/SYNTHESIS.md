@@ -207,6 +207,10 @@ these sources, for four reasons:
 
 ## Rivals: who else held the ground
 
+This section is the evidence for the "elsewhere" in the verdict at the top. Śaṅkara's tradition was regional, not
+dominant. Outside the Kanara coast, the Tamil Brahmans, the eastern Ganges plain and the Bombay Karnatak, the
+traditions below held the larger followings and, usually, the larger estates.
+
 Noted from the volumes already read; not coded systematically.
 
 The census tables read for the Daśanāmīs also count their rivals (persons; `census-images/README.md`):
