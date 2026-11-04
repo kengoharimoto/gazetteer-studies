@@ -88,7 +88,19 @@ Main result of the maṭha layers:
   - Kudli (the gazetteers' "Kudalgi"): estates in 30 taluks and states, mainly in Dharwar and Bijapur, listed by
     its Agent in 1934.
 
+Rivals (noted in the synthesis, "Rivals: who else held the ground", not coded systematically):
+- **Vaiṣṇava orders, almost everywhere.** The Rāmānandī Bairāgīs were the Daśanāmīs' direct rival in the north.
+  Elsewhere it was the region's own Vaiṣṇava house: Gauḍīya, Vallabha and Svāminārāyaṇa, Mādhva, Śrīvaiṣṇava.
+- **Other Śaiva networks:** Nāth Jogīs, Liṅgāyats, the Tamil non-Brahmin maṭhs.
+- **In the Punjab:** Udāsīs and Nirmalas.
+- **Benares:** Advaita among the learned and Daśanāmī institutions, with Śaiva shrines "greatly" predominating
+  over Rāmānandī and Vallabha influence (Nevill 1909).
+- **Calcutta:** almost no Daśanāmīs (3 Atīths, 13 Gosāins in 1901). The ground belonged to Chaitanya Vaiṣṇavism and
+  Kālī, and among the educated to the Brahmos.
+
 Open lines:
 - the Bombay and Madras inām records (the Inam Commission's registers) for the Saṅkeśvar and Kudli estates, the
   Puṣpagiri and Virūpākṣa maṭhs, and Kumbakoṇam. They are not online; see `mathas/README.md`;
 - the maṭhs' own records (Śṛṅgeri, Saṅkeśvar, Kudli, Kumbakoṇam, Bodh Gayā).
+- a comparative coding of the rival groups (Bairāgīs, Jogīs, Udāsīs, the Vaiṣṇava houses, Liṅgāyats) from the
+  volumes and census tables already read, and the Calcutta gazetteer.
