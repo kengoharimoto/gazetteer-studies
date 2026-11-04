@@ -68,6 +68,20 @@ splits between Smārtas and Bhāgavatas (Mādhva/Vaiṣṇava) without proportio
   Ahmadnagar to 48%. That is the main finding for the Deccan, discussed in §3.
 - **Āgrīs.** The Āgrīs of Kolaba (44,191) are likewise "nominally Smarts and Bhagvats", and are excluded.
 
+### Rival sects in the 1872 census
+
+The 1872 sect tables (`../data/sect_census_1872.tsv`, 11 districts) have no Smārta class, but they show the rivals,
+as a share of Hindus:
+
+| region (districts in the table) | Vaiṣṇava | Śaiva | note |
+|---|---|---|---|
+| Gujarat | 36.8% | 3.2% | Vallabha and Svāminārāyaṇa; the rest "mixed" |
+| Deccan (Khandesh, Nasik) | 1.6% | 6.4% | mostly returned as "mixed" |
+| Konkan (Thana, Ratnagiri) | 0.6% | 67.9% | Ratnagiri's 99.7% "Śaiva" |
+
+Gujarat is the Vaiṣṇava presidency division. In the Konkan "Śaiva" absorbs the Smārtas. For the Gosāvī count
+(33,851 in 1881) there is no rival table: the Bombay census returns them under "Devotees".
+
 ## 3. Findings
 
 1. **Kanara is the exception, and it reflects jurisdiction more than doctrine.**

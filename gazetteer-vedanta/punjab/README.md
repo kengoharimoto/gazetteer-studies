@@ -58,6 +58,22 @@ What the numbers show:
 - **In the west there are no Daśanāmīs at all.** The "Gosains/Gusains" there are **Vaiṣṇava gurus of the Kirār
   traders**: the Lalji and Shamji lines sent from Brindaban c. 1600 (Muzaffargarh, Dera Ismail Khan, Leiah).
 
+### Rival orders in the 1891 census
+
+From the 1891 Punjab caste table (`../census-images/results/punjab1891_castes.tsv`), Faqir sub-heads, in persons
+(whole province, including the Native States):
+
+| order | province | British territory | where strongest |
+|---|---|---|---|
+| Gosain | 13,344 | 9,903 | (see above) |
+| Sanniasi | 9,799 | 5,163 | central districts |
+| Jogī-Rawal | 91,937 | 75,469 | Ambala 11,033; Karnal 9,052; Kangra 6,106 |
+| Bairāgī | 47,561 | 34,102 | Rohtak 6,317; Karnal 4,781; Delhi 4,491 |
+| Udāsī | 15,194 | 9,459 | Jalandhar 2,056; Ludhiana 1,865; Firozpur 1,114 |
+
+The Jogīs outnumber the Daśanāmīs (Gosain + Sanniasi) about four to one, the Bairāgīs about two to one. The Udāsīs
+exceed the Gosāins. All Faqirs together number 315,305.
+
 ## 2. Institutions and descriptions
 
 Daśanāmī notes per district are in `results/dasnami_notes.tsv`. The most are in Kangra, Karnal and Hisar,

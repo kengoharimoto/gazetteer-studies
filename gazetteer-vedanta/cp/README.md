@@ -41,6 +41,23 @@ in the north and east, as the Daśanāmī orders: Gosains, Gosavis (Marathi, Ber
   land in Chhattisgarh (156 villages in Bilaspur). Kabirpanthis and Satnamis are the large popular sects of
   Chhattisgarh (Bilaspur Kabirpanthis 99,260).
 
+### Rival orders in the 1891 census
+
+From the 1891 CP caste table, Group VI Devotees (`../census-images/results/cp1891_castes.tsv`), in persons:
+
+| order | British districts | Feudatory States | where strongest |
+|---|---|---|---|
+| Gosain (all sub-heads) | 24,796 | 1,038 | Hoshangabad 3,291; Raipur 3,194; Nagpur 2,914 |
+| Sanyasi | 2,449 | 758 | |
+| Bairāgī | 29,298 | 6,712 | Bilaspur 8,647; Raipur 6,426; Sambalpur 3,646 |
+| of which Ramanandi / Kabirpanthi | 7,731 / 399 | 8 / – | |
+| Jogī | 6,094 | 900 | Bilaspur 1,689; Mandla 1,274 |
+| Nāth | 5,008 | 706 | Hoshangabad 1,909 |
+
+The Bairāgīs outnumber the Gosāins in the British districts and lead by more than six to one in the Feudatory
+States. Chhattisgarh (Bilaspur, Raipur) is Bairāgī country, and its large lay sects are Kabīrpanthī and Satnāmī
+(Bilaspur Kabīrpanthīs 99,260; see above).
+
 ## 2. What they were
 
 1. **Maratha-period grantees, warlords and revenue farmers.** This is the most distinctive CP pattern.

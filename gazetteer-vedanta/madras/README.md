@@ -34,6 +34,20 @@ surveyed but not coded; see §4.
   - South Canara moved from 2:1 to 7:1 (perhaps classification).
 - These figures measure Śaiva vs Vaiṣṇava, mostly non-Brahmin. They do not measure Śaṅkara's following.
 
+### Rival Brahman sects in the 1891 census
+
+From the 1891 Brahman sub-division table, Tamil division
+(`../census-images/results/madras1891_tamil_smarta_vs_aiyangar.tsv`):
+
+| sect | persons | share of Brahmans | where strongest |
+|---|---|---|---|
+| Smārta sub-castes (Thurston's list) | 201,787 | 47.6% | Tanjore 63.8%; Trichinopoly and Tinnevelly about 55% |
+| Aiyaṅgār (Teṅgalai, Vaḍagalai, Śrīvaiṣṇava) | 96,127 | 22.7% | Chingleput 60.3%; Madras 31.8%; Madura 26.1% |
+| Mādhva | 2,650 | 0.6% | Coimbatore 686; Madras 448; Salem 380 |
+
+In the Tamil country the rivalry is between Brahman sects: Smārta against Śrīvaiṣṇava. The ascetic orders that
+compete in the north do not appear. The non-Brahmin Śaiva maṭhs are the other rival institution (section 2).
+
 ## 2. Thurston: who is tied to a Śaṅkara seat
 
 41 rows are coded SMARTA. They fall into two quite different groups:

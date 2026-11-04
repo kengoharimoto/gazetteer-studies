@@ -82,6 +82,24 @@ Reading the numbers:
   considerable proportion of the enumerators as interchangeable". Nevill (1900s) mostly drops separate counts
   and folds ascetics into "Faqirs".
 
+### Rival orders in the 1891 census
+
+From the 1891 NWP and Oudh caste table (`../census-images/results/up1891_ascetics.tsv`, `up1891_goshain.tsv`), in
+persons:
+
+| order | 1891 | where strongest |
+|---|---|---|
+| Goshain–Dasnami | 103,320 | Gonda 11,478; Gorakhpur 7,010; Fyzabad 5,371 |
+| Goshain, unspecified | 38,477 | Muttra 17,131 (Vaiṣṇava gosvāmīs) |
+| Goshain, named Vaiṣṇava sub-heads | 752 | Gauriya 432, Radhavallabhi 252 |
+| Jogī | 78,387 | Saharanpur 13,713; Meerut 11,987; Muzaffarnagar 9,229 |
+| Bairāgī | 31,979 | Aligarh 4,157; Meerut 4,138; Bulandshahr 2,708; Fyzabad 2,017 |
+
+- The Jogīs are almost as numerous as the Daśanāmīs, concentrated in the upper Doab.
+- The Bairāgīs are about a third of the Daśanāmīs. Their ascetic count understates the Rāmānandī presence that
+  the gazetteers describe at Ayodhyā. The 1891 report warns that enumerators used Goshain, Bairagi, Jogi and
+  Saniyasi interchangeably.
+
 ## 2. What they were: institutions, land, arms and trade
 
 Daśanāmī notes per district are tabulated in `results/dasnami_notes.tsv`. The most are in Garhwal, Gonda,

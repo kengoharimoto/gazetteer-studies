@@ -64,6 +64,16 @@ Reading the numbers:
 - **What the later layer gives.** The 1900s gazetteers mostly print only occupational "religious mendicants"
   totals, so the Hunter layer carries the numbers.
 
+### Rival orders in the census
+
+- **1901** (`../census-images/results/bengal1901_atith_gosain.tsv`): Atīth 50,042, against a "Gosain" column of
+  29,534. The Gosain column is mixed: over half is in Chota Nagpur (Ranchi 9,707, Hazaribagh 4,527), and it is
+  largely Vaiṣṇava gurus. It is excluded from the Daśanāmī count.
+- **The Vaiṣṇava counterweight** is in the 1872 table above. Caste-rejecting Vaiṣṇavas (Bairāgī, Boishtom) number
+  in the tens of thousands per district in Bengal proper, against Sannyāsīs in the tens.
+- For the comparison with the other provinces, see `../census-images/README.md`, "Rival orders in the same
+  tables".
+
 ## 2. Institutions and events
 
 Daśanāmī notes per district are in `results/dasnami_notes.tsv`. The most are in Gaya, Bogra, Puri, Saran,
