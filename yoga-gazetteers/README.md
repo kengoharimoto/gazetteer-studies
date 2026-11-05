@@ -103,6 +103,33 @@ and census reports, and did that change by the time of the revised state gazette
    - The writer's judgement is again overwhelmingly neutral. It is negative in 9 Hindu, 13 Muslim and 41
      unspecified-mendicant passages, out of about 1,150.
 
+10. **The ascetic orders were described as institutions and estates, rarely as yogis**
+    (round three: 963 sannyāsī, gosāīn and bairāgī passages; `results/order_coded_all.tsv`).
+    - **Few links to yoga.** Only 38 of 783 relevant passages connect these orders with yoga, yogis or Jogis, and
+      almost always through classification:
+      - census lists lump "Sanyasis, Vairagis, Jogis, Atits or Gosais" together (Kathiawar 1884);
+      - the NWP census of 1891 complains that "the words Goshain, Bairagi, Jogi, Saniyasi were apparently used by a
+        considerable proportion of the enumerators as interchangeable";
+      - Jogis are grouped with "Faqirs" in the UP gazetteers;
+      - Gosains and Jogis share burial in a seated posture: "Gosains and Jogis are buried sitting up in salt; and
+        used to be so buried alive before our rule" (Punjab 1919).
+    - **Few links to practice.** Only three passages link an order to yoga as practice: the Dandis' interest in
+      "the Yoga practices as preached by Patanjali" (Bombay 1901), the Bairāgī's meditation posture on his
+      yoga-daṇḍa (Thurston 1909), and Dayānanda's study of yoga (UP 1911). Any practice at all is described in 10%
+      of passages.
+    - **The orders as householders and landholders.** In 1891–1935, 22% of passages (109 of 496) describe them as
+      **married householders**: Gosain and Bairāgī zamindars, money-lenders and traders, Atīth castes. Writers note
+      that they "have fallen away from the ideas of self-sacrifice and poverty in which the orders originated and hold
+      proprietary rights in a considerable number of villages" (Bilaspur 1910).
+    - **The armed ascetic is historical** (Pinch's claim confirmed). Armed or fighting Gosains, Nāgās and Sannyāsī
+      bands appear in 65 passages in the past tense and in 2 in the present tense. Examples: the Hardwar battles of
+      1760 and 1796, Anupgir Gosain, the Sannyāsī raids in Bengal in the 1780s, Gosavi soldiers under Sindia.
+      "Formerly Gosavis took service as soldiers and had a good name for bravery and loyalty" (Kolaba 1885). The two
+      present-tense passages are the armed Nāgā communities at Benares (Atkinson 1884) and a comparison of the
+      Akālīs with "the Nagas or Gosains" (Rose 1911).
+    - **Negative judgements are again rare** (29 of 783). They concern money-lending, falling away from celibacy,
+      the Vallabha Gosains' authority over their followers, and the historical raiders.
+
 These findings support the broad scholarly narrative of a disreputable "Jogi" replaced by a respectable "yoga"
 (literature: `results/literature.md`). They refine it in four ways:
 - the colonial district record is **neutral and taxonomic** rather than hostile;
@@ -160,6 +187,11 @@ year are given. Page numbers are given where the OCR shows a folio.
   pipeline is `scripts/fakir_passages.py` and `scripts/fakir_merge.py`. All 1,162 quotes were verbatim, 7 repeats
   were excluded, and 15 of 16 randomly checked codes were right; the miss was minor. Religion is coded only where
   the passage states it, so the Hindu share of "fakir" is a lower bound.
+- **Round three** coded 963 sannyāsī, gosāīn/gosāvī/gosvāmī and bairāgī passages with
+  `data/CODING_INSTRUCTIONS_ORDERS.md` (`scripts/order_passages.py`, `scripts/order_merge.py`). All 787 quotes were
+  verbatim, 4 repeats were excluded, and 13 of 14 randomly checked codes were right. The miss was a "no yoga link"
+  for a list that groups Jogis with Sannyāsīs, so the yoga-link count is a lower bound. Many of these passages were
+  coded in `../gazetteer-vedanta/` for Daśanāmī allegiance; this round asks different questions.
 - **The term list is English-spelling based** (yoga, yogi, jogi, jugi, Kanphata, Gorakhnath, samādhi, āsana,
   prāṇāyāma …). Passages that describe yogic practice without these words (e.g. "an ascetic sitting with his arm
-  raised") are not captured. *Sannyāsī*, *gosāīn* and *bairāgī* were counted but not coded.
+  raised") are not captured. *Udāsī*, *nāgā* (as a separate search term) and *aghorī* were not searched separately.
