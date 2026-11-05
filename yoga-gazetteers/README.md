@@ -107,12 +107,12 @@ and census reports, and did that change by the time of the revised state gazette
     (round three: 963 sannyāsī, gosāīn and bairāgī passages; `results/order_coded_all.tsv`).
     - **Few links to yoga.** Only 38 of 783 relevant passages connect these orders with yoga, yogis or Jogis, and
       almost always through classification:
-      - census lists lump "Sanyasis, Vairagis, Jogis, Atits or Gosais" together (Kathiawar 1884);
+      - census lists lump "Sanyasis, Vairagis, Jogis, Atits or Gosais" together (Cutch, Bombay Gazetteer V, 1880);
       - the NWP census of 1891 complains that "the words Goshain, Bairagi, Jogi, Saniyasi were apparently used by a
         considerable proportion of the enumerators as interchangeable";
       - Jogis are grouped with "Faqirs" in the UP gazetteers;
       - Gosains and Jogis share burial in a seated posture: "Gosains and Jogis are buried sitting up in salt; and
-        used to be so buried alive before our rule" (Punjab 1919).
+        used to be so buried alive before our rule" (Karnal 1919).
     - **Few links to practice.** Only three passages link an order to yoga as practice: the Dandis' interest in
       "the Yoga practices as preached by Patanjali" (Bombay 1901), the Bairāgī's meditation posture on his
       yoga-daṇḍa (Thurston 1909), and Dayānanda's study of yoga (UP 1911). Any practice at all is described in 10%
@@ -124,7 +124,7 @@ and census reports, and did that change by the time of the revised state gazette
     - **The armed ascetic is historical** (Pinch's claim confirmed). Armed or fighting Gosains, Nāgās and Sannyāsī
       bands appear in 65 passages in the past tense and in 2 in the present tense. Examples: the Hardwar battles of
       1760 and 1796, Anupgir Gosain, the Sannyāsī raids in Bengal in the 1780s, Gosavi soldiers under Sindia.
-      "Formerly Gosavis took service as soldiers and had a good name for bravery and loyalty" (Kolaba 1885). The two
+      "Formerly Gosavis took service as soldiers and had a good name for bravery and loyalty" (Satara 1885). The two
       present-tense passages are the armed Nāgā communities at Benares (Atkinson 1884) and a comparison of the
       Akālīs with "the Nagas or Gosains" (Rose 1911).
     - **Negative judgements are again rare** (29 of 783). They concern money-lending, falling away from celibacy,
