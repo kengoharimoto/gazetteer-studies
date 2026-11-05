@@ -101,7 +101,7 @@ gazetteers locate the maṭha itself, its branches, estates and visits, in their
 ## Rivals around Śṛṅgeri
 
 Śṛṅgeri's following was won and held against neighbouring gurus. These notes come from the volumes and files already
-read (see also the synthesis, "Rivals: who else held the ground", and `../mathas/README.md`, "Rival maṭhs and
+read (see also the synthesis, "Evidence 3: how many", and `../mathas/README.md`, "Rival maṭhs and
 orders").
 
 - **Liṅgāyats.**
@@ -178,7 +178,7 @@ orders in the same tables".
 
 ## What this adds
 
-**Place in the study's verdict** (`../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's
+**Place in the study's verdict** (`../SYNTHESIS.md`, "The answer"): Śaṅkara's
 tradition was regional, not dominant. Śṛṅgeri is the clearest case.
 - **The seat:** the most famous Śaṅkara seat in the study, a subsidised principality in Mysore.
 - **Its following:** led only along the Kanara and South Canara coast, among the non-Brahmin castes and the Marathi

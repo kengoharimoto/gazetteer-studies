@@ -201,7 +201,7 @@ ax.scatter([e[1] for e in KUDLI_ESTATES], [e[0] for e in KUDLI_ESTATES], marker=
            alpha=0.85, zorder=6)
 ax.annotate("Kudli's Bombay estates\n(1934 list, ×)", (75.9, 16.4), xytext=(77.6, 17.6), fontsize=7.2, color=MUTED, zorder=8,
             arrowprops=dict(arrowstyle="-", color=MUTED, lw=0.6))
-# Rival centres noted in the synthesis ("Rivals: who else held the ground"): (lat, lon, label, dx, dy, ha)
+# Rival centres noted in the synthesis ("Evidence 3: how many"): (lat, lon, label, dx, dy, ha)
 RIVALS = [
     (26.80, 82.20, "Ayodhyā (Bairāgī)", -0.25, -0.6, "right"),
     (27.49, 77.67, "Mathura (Vallabha, Gauḍīya)", -0.3, -0.45, "right"),

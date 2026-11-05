@@ -127,7 +127,7 @@ Sannyasi".
 
 ## Summary
 
-**Place in the study's verdict** (`../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's
+**Place in the study's verdict** (`../SYNTHESIS.md`, "The answer"): Śaṅkara's
 tradition was regional, not dominant, and the third date sharpens this.
 - **What survives:** the seats themselves, and as public institutions: Karvīr, Govardhana, Tārakeśvar, the akhāṛās
   at the melās.

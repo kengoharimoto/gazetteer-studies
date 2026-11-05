@@ -20,257 +20,245 @@ body{background:var(--bg);color:var(--fg);font-family:var(--serif);font-size:18p
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 main{max-width:760px;margin:0 auto;padding-block:48px 72px;display:flex;flex-direction:column;gap:44px}
 header{display:flex;flex-direction:column;gap:14px}
-.eyebrow,.label,th,.chip,.src{font-family:var(--sans);letter-spacing:.04em}
+.eyebrow,th,.chip,.src,dt{font-family:var(--sans);letter-spacing:.04em}
 .eyebrow{font-size:13px;text-transform:uppercase;color:var(--muted)}
 h1{font-size:clamp(34px,6vw,50px);line-height:1.08;margin:0;font-weight:600;text-wrap:balance}
 h2{font-size:26px;line-height:1.2;margin:0 0 6px;font-weight:600;text-wrap:balance}
 h3{font-size:19px;margin:0;font-weight:600}
 p{margin:0}
-.lede{font-size:21px;color:var(--fg)}
-.meta{font-family:var(--sans);font-size:14px;color:var(--muted)}
+.lede{font-size:21px}
 section{display:flex;flex-direction:column;gap:14px}
+.step{font-family:var(--sans);font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:-8px}
 em.ochre{font-style:normal;color:var(--ochre);font-weight:600}
 em.teal{font-style:normal;color:var(--teal);font-weight:600}
+.terms{background:var(--surface);border:1px solid var(--rule);padding:16px 20px;margin:0;display:grid;grid-template-columns:150px 1fr;gap:10px 18px}
+.terms dt{font-size:13px;font-weight:700;text-transform:uppercase;color:var(--muted);padding-top:3px}
+.terms dd{margin:0;font-size:16.5px}
+.answer{background:var(--surface);border:1px solid var(--rule);padding:18px 20px 18px 38px;margin:0;display:flex;flex-direction:column;gap:10px}
 .forms{display:grid;grid-template-columns:1fr 1fr;gap:14px}
 .form{background:var(--surface);border:1px solid var(--rule);border-top:4px solid var(--c);padding:16px 18px;display:flex;flex-direction:column;gap:8px;min-width:0}
 .form.smarta{--c:var(--teal)} .form.dasnami{--c:var(--ochre)}
 .form dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:16px}
-.form dt{font-family:var(--sans);font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);padding-top:3px}
+.form dt{font-size:12px;text-transform:uppercase;color:var(--muted);padding-top:3px}
 .form dd{margin:0}
 figure.map{margin:0;background:#fff;border:1px solid var(--rule);padding:8px}
 figure.map img{display:block;width:100%;height:auto}
 figure.map figcaption{font-family:var(--sans);font-size:14px;line-height:1.5;color:var(--muted);padding:10px 6px 4px}
 .tablewrap{overflow-x:auto;border:1px solid var(--rule);background:var(--surface)}
-table{border-collapse:collapse;width:100%;font-size:15.5px;min-width:560px}
+table{border-collapse:collapse;width:100%;font-size:15.5px;min-width:600px}
 th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--rule);vertical-align:top}
 th{font-size:12px;text-transform:uppercase;color:var(--muted);font-weight:700;background:var(--bg)}
 tr:last-child td{border-bottom:0}
-td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.group td{background:var(--bg);font-family:var(--sans);font-size:12.5px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);padding:6px 12px}
+td.num{font-variant-numeric:tabular-nums}
 .chip{display:inline-block;font-size:11.5px;font-weight:700;text-transform:uppercase;padding:2px 7px;border-radius:3px;white-space:nowrap}
-.chip.d{background:var(--ochre-soft);color:var(--ochre)} .chip.s{background:var(--teal-soft);color:var(--teal)} .chip.w{background:var(--bg);color:var(--muted);border:1px solid var(--rule)}
+.chip.d{background:var(--ochre-soft);color:var(--ochre)} .chip.s{background:var(--teal-soft);color:var(--teal)}
 ol.list,ul.list{margin:0;padding-left:1.2em;display:flex;flex-direction:column;gap:8px}
-.dates{display:flex;flex-direction:column;gap:0;border-left:2px solid var(--rule);margin-left:6px}
-.date{display:grid;grid-template-columns:150px 1fr;gap:14px;padding:8px 0 8px 16px;position:relative}
+.lineage{background:var(--surface);border:1px solid var(--rule);padding:14px 18px;font-family:var(--sans);font-size:15px;line-height:1.7;display:flex;flex-direction:column;gap:2px}
+.lineage .t{color:var(--muted);font-variant-numeric:tabular-nums}
+.dates{display:flex;flex-direction:column;border-left:2px solid var(--rule);margin-left:6px}
+.date{display:grid;grid-template-columns:170px 1fr;gap:14px;padding:8px 0 8px 16px;position:relative}
 .date::before{content:"";position:absolute;left:-6px;top:15px;width:10px;height:10px;border-radius:50%;background:var(--c,var(--ink))}
 .date.d{--c:var(--ochre)} .date.s{--c:var(--teal)}
 .date .when{font-family:var(--sans);font-size:14px;font-weight:700;color:var(--muted);font-variant-numeric:tabular-nums}
-blockquote{margin:0;padding:2px 0 2px 16px;border-left:3px solid var(--ochre);font-style:italic;color:var(--fg)}
-.src{font-size:13px;color:var(--muted)}
+blockquote{margin:0;padding:2px 0 2px 16px;border-left:3px solid var(--teal);font-style:italic}
+.src{font-size:13px;color:var(--muted);font-style:normal}
 footer{font-family:var(--sans);font-size:13.5px;color:var(--muted);border-top:1px solid var(--rule);padding-top:16px;display:flex;flex-direction:column;gap:6px}
-@media (max-width:640px){ body{font-size:17px} .forms{grid-template-columns:1fr} .date{grid-template-columns:1fr;gap:2px} }
+code{font-size:.85em}
+@media (max-width:640px){ body{font-size:17px} .forms{grid-template-columns:1fr} .terms{grid-template-columns:1fr;gap:2px 0} .terms dd{margin-bottom:8px} .date{grid-template-columns:1fr;gap:2px} .answer{padding-left:30px} }
 </style>
 
 <main>
 <header>
-  <div class="eyebrow">Colonial gazetteers of British India, c. 1866–1918 · six regions</div>
+  <div class="eyebrow">Colonial gazetteers of British India, 1866–1918 · revised gazetteers, 1954–1989</div>
   <h1>Śaṅkara’s following in the British gazetteers</h1>
-  <p class="lede">How widespread was allegiance to Śaṅkara’s lineages, region by region, and did it change? Read across about 300 district gazetteers, caste glossaries and census reports, the colonial record shows the tradition in two quite different social forms.</p>
-  <p class="meta">Regions: Bombay, Madras, United Provinces, Bengal–Bihar–Orissa, Punjab, Central Provinces &amp; Berar. Every figure below is quoted, with page, in the regional reports.</p>
+  <p class="lede">Śaṅkara is often presented as the teacher who unified Hinduism: four monasteries at the four corners of India, and Advaita as the mainstream of Hindu thought. Was allegiance to his tradition the dominant allegiance on the ground in the late nineteenth century, or a regional one? The district gazetteers, caste glossaries and census reports of six regions of British India allow an answer.</p>
 </header>
 
 <section>
-  <h2>Dominant everywhere, or regional?</h2>
-  <p><strong>Regional.</strong> Śaṅkara’s tradition is the only one present in some form in every region studied, and it carried the highest learned prestige. As an organised following, though, it led only in a few regions. Elsewhere it usually came second to a Vaiṣṇava, Liṅgāyat or other Śaiva body.</p>
-  <div class="tablewrap"><table>
-    <thead><tr><th>Where it led</th><th>Where it was a minority or nearly absent</th></tr></thead>
-    <tbody>
-      <tr><td>The Kanara and South Canara coast: the main allegiance of many non-Brahmin castes as well as Brahmans (32–39% of Kanara’s Hindus in castes said to be Smārta)</td><td>Gujarat: Vallabhas about 647,000 and Svāminārāyaṇs about 288,000 (1901); Dvārkā has no stated following</td></tr>
-      <tr><td>Tamil Brahmans: Smārtas 48% against 23% Śrīvaiṣṇava (1891), though no maṭh is tied to them</td><td>Bengal proper: Vaiṣṇavas in the tens of thousands per district against Sannyāsīs in the tens; Calcutta 1901 has no Sannyāsī heading</td></tr>
-      <tr><td>Eastern UP and Bihar: the densest Daśanāmī country (103,320 in the NWP, 1891); Benares the one city where it is institutionally present at every date</td><td>Punjab: Bairāgīs 47,561 and the census heading “Jogī-Rawal” 91,937 (about half of it Muslim) against about 23,000 Gosains and Sanniasis; the Nāth and Udāsī seats hold the land</td></tr>
-      <tr><td>The Bombay Karnatak: Saṅkeśvar and Kudli are the richest seats</td><td>Central Provinces: Bairāgīs outnumber Gosāins; Bairāgī states and Kabīrpanthī gaddīs; Mathura and Ayodhyā; the Liṅgāyat Karnatak; Kadur, Śṛṅgeri’s own district, where Liṅgāyats outnumber all Brahmans two to one</td></tr>
-    </tbody>
-  </table></div>
-  <p><strong>Why it can look dominant.</strong> Advaita was the philosophy of the learned (“Vedantism … almost exclusively prevails” in Benares), and the four-maṭh scheme made the tradition pan-Indian in name. “Smārta” and “Śaiva” were broad default labels: the 1901 Bombay census puts “Shaiv or Smart” at nearly 3,000,000 against half a million Vaiṣṇavas, but that is a sect label, not allegiance to a Śaṅkarācārya, and the 1911 report already calls his authority “declining”.</p>
-  <p class="src">Limits: no census measured allegiance to a Śaṅkara seat; the Smārta and Daśanāmī forms count different things; the ascetic tables miss lay followings on every side. Sources: the regional reports, <code>census-images/</code>, <code>mathas/</code>, <code>rivals/</code>.</p>
+  <h2>Terms</h2>
+  <dl class="terms">
+    <dt>Śaṅkarācārya</dt><dd>The title of the head of a monastery (maṭha) that claims descent from Śaṅkara.</dd>
+    <dt>Seat (pīṭha)</dt><dd>Such a monastery, headed by a Śaṅkarācārya. The tradition names four: Śṛṅgeri in the south, Dvārkā in the west, Purī in the east and Jyotirmaṭh in the north. Others claim the rank, such as Kāñcī-Kumbakoṇam, or broke away from one of the four, as Saṅkeśvar and Kudli did from Śṛṅgeri.</dd>
+    <dt>Smārta</dt><dd>Householders, mainly Brahmans, of the non-sectarian “smṛti” worship. Many acknowledge a Śaṅkarācārya as their guru.</dd>
+    <dt>Daśanāmī</dt><dd>The renunciant orders of the “ten names” (Giri, Purī, Bhāratī …) traced to Śaṅkara. The gazetteers call them Gosāins, Atīths or Sannyāsīs, including their married offshoots.</dd>
+  </dl>
 </section>
 
 <section>
+  <h2>The answer</h2>
+  <p><strong>Regional, not dominant.</strong> The tradition was present in some form in every region and carried the highest learned prestige. But as an organised following it led in only four areas.</p>
+  <ol class="list answer">
+    <li><strong>It took two different social forms in two halves of India.</strong> In the south and west it meant <em class="teal">Smārta householders</em> under a seat. In the north, east and centre it meant the <em class="ochre">Daśanāmī orders</em>, which owned land and were turning into a caste.</li>
+    <li><strong>It led in the Kanara coast, among Tamil Brahmans, in the eastern Ganges plain and in the Bombay Karnatak.</strong> Everywhere else a Vaiṣṇava, Liṅgāyat, Nāth or Sikh-linked tradition had the larger following and, usually, the larger estates.</li>
+    <li><strong>The seats were weaker than the name suggests.</strong> Śṛṅgeri was a small principality in Mysore that depended on the Mysore state. The landed weight of the tradition in the west lay with two seats that had broken away from Śṛṅgeri, Saṅkeśvar and Kudli. The other three of the four seats barely appear in the gazetteers.</li>
+    <li><strong>After independence the estates disappeared and the seats became more visible.</strong> The revised gazetteers of 1954–1989 no longer describe landholding Gosāins or castes under a Śaṅkarācārya, but they name the seats.</li>
+  </ol>
+</section>
+
+<section>
+  <div class="step">Evidence 1 · Who followed</div>
   <h2>Two forms of one tradition</h2>
   <div class="forms">
     <div class="form smarta">
       <h3><em class="teal">Smārta householders</em></h3>
       <dl>
-        <dt>Where</dt><dd>South and west: Bombay Deccan &amp; Karnatak, Madras</dd>
-        <dt>Tie</dt><dd>Allegiance to a pīṭha: Śṛṅgeri, Saṅkeśvar, Dvārkā, Kūḍali, Sonda</dd>
-        <dt>Seen as</dt><dd>“Their spiritual teacher is Shankarāchārya”, in caste accounts</dd>
-        <dt>Scale</dt><dd>Mostly under 8% of a district’s Hindus; Kanara 32–39%; Madras Smārta Brahmans ≈ 2.4% (1871)</dd>
+        <dt>Where</dt><dd>South and west: the Bombay Deccan and Karnatak, Kanara, Madras</dd>
+        <dt>Tie</dt><dd>A caste acknowledges a seat’s head as its guru, pays dues, takes disputes to him</dd>
+        <dt>In the texts</dt><dd>“Their spiritual teacher is Shankarāchārya”, in caste-by-caste accounts</dd>
+        <dt>Scale</dt><dd>Mostly under 8% of a district’s Hindus; Kanara 32–39%; Tamil Brahmans 48% (1891)</dd>
       </dl>
     </div>
     <div class="form dasnami">
       <h3><em class="ochre">Daśanāmī orders</em></h3>
       <dl>
-        <dt>Where</dt><dd>North, east and centre: UP, Bihar, Bengal, Punjab, CP</dd>
-        <dt>Tie</dt><dd>The ten names (Giri, Purī, Bhāratī …), maṭhs and akhāṛās, succession by chela</dd>
-        <dt>Seen as</dt><dd>Gosāins, Atīts, Sannyāsīs; landholders, lenders, traders, armed bands</dd>
-        <dt>Scale</dt><dd>UP 103,320 (1891); Bengal Atīths 50,042 (1901); CP c. 40,000 (1911); Punjab a few thousand</dd>
+        <dt>Where</dt><dd>North, east and centre: the UP, Bihar, Bengal, the Punjab, the Central Provinces</dd>
+        <dt>Tie</dt><dd>Membership of an order: the ten names, maṭhs and akhāṛās, succession from guru to disciple</dd>
+        <dt>In the texts</dt><dd>Gosāins, Atīths, Sannyāsīs: landholders, money-lenders, traders, formerly armed bands</dd>
+        <dt>Scale</dt><dd>UP 103,320 (1891); Bihar Atīths 50,042 (1901); CP about 25,000 (1891); Punjab about 15,000</dd>
       </dl>
     </div>
   </div>
-  <p>The two meet where regions touch. In Berar, Gosāvīs serve as village priests under the Mahant of Māhūr. In the Himalaya the gazetteers list the four maṭhas and credit Śaṅkara with Jyotirmaṭh and Badrinath.</p>
+  <p>In both forms the allegiance was <strong>a matter of jurisdiction and property more than of doctrine</strong>. Śṛṅgeri’s agents heard caste disputes and collected dues in Kanara. The northern orders held villages, grants and banking houses (Mirzapur’s Gosaintola). The orders were also turning into a caste: Hunter defines Atīths as Daśanāmīs “who have not resigned the world”, Rose calls Gosāins “a semi-secularised offshoot”, and in Raipur a fighting akhāṛā had become a married zamindār family by 1909.</p>
+  <blockquote>“Till last year (1881) they were followers of the Lingayat guide of Chitaldurg … But the pārupatyagār or agent of the Smārt Jagadguru of Shringeri has persuaded them to acknowledge him as their Teacher.”<br><span class="src">Konkan Kuṇbīs of Kanara. Bombay Gazetteer XV pt 1 (1883), p. 218</span></blockquote>
 </section>
 
 <section>
-  <h2>Where it was strong, and where it was not</h2>
+  <div class="step">Evidence 2 · Where</div>
+  <h2>Region by region</h2>
+  <p>The table lists every region from strongest to weakest. The last column names the traditions that held more followers or land there.</p>
   <div class="tablewrap"><table>
-    <thead><tr><th>Region</th><th>Form</th><th>Strength</th><th>Key evidence</th><th>Main rivals</th></tr></thead>
+    <thead><tr><th>Region</th><th>Form</th><th>How strong, and the evidence</th><th>Who held more</th></tr></thead>
     <tbody>
-      <tr><td>Kanara &amp; South Canara</td><td><span class="chip s">Smārta</span></td><td>Strong, beyond Brahmins</td><td>Fishermen, potters, carpenters, Marāṭhās under the Śṛṅgeri Jagadguru; caste disputes and dues go to the maṭha</td><td>Liṅgāyats (Kanara’s Kuṇbīs left the Chitaldurg Liṅgāyat guide in 1881); Mādhvas of Uḍupi; the Havigs’ own gurus</td></tr>
-      <tr><td>Eastern UP &amp; Bihar</td><td><span class="chip d">Daśanāmī</span></td><td>Densest</td><td class="num">Saran Atīths 18,612 (1872) → 26,753 (1901); Basti 8,214; Gorakhpur 5,284</td><td>Rāmānandī Bairāgīs (Ayodhyā); Nāth Jogīs (Gorakhpur); in Benares Rāmānanda and Vallabha, under Śaiva predominance</td></tr>
-      <tr><td>Rohilkhand &amp; Kumaon</td><td><span class="chip d">Daśanāmī</span></td><td>Dense</td><td class="num">Kumaon 8,860; Bareilly 6,169; Salempur maṭh, 36 villages</td><td>Bairāgī akhāṛās (Hardwar battle, 1760); Kedarnath’s Jangama (Liṅgāyat) maṭh</td></tr>
-      <tr><td>Central Provinces</td><td><span class="chip d">Daśanāmī</span></td><td>Moderate, propertied</td><td>Bhonsla grants and revenue farms: Bheraghat, Seoni, Raipur’s Nāgās</td><td>Bairāgīs (about 38,000, more land in Chhattisgarh); Kabīrpanthīs and Satnāmīs (Bilaspur Kabīrpanthīs 99,260)</td></tr>
-      <tr><td>Bombay Deccan</td><td><span class="chip s">Smārta</span></td><td>Brahman matter</td><td>Kuṇbīs “cannot tell whether they are Smarts or Bhāgvats”</td><td>Bhāgavatas (Vaiṣṇava) among Deshasthas and Kuṇbīs; Mādhva Deshasthas further south</td></tr>
-      <tr><td>Punjab</td><td><span class="chip d">Daśanāmī</span></td><td>Thin; none in the west</td><td>Kangra Gosāin traders and lenders; Jogīs, Udāsīs, Bairāgīs dominate</td><td>Jogīs, Udāsīs and Nirmalas, Bairāgīs</td></tr>
-      <tr><td>Bengal proper</td><td><span class="chip w">Vaiṣṇava</span></td><td>Weak</td><td>Sannyāsīs in tens per district against tens of thousands of Vaiṣṇavas; a few great mahants</td><td>Chaitanya (Gauḍīya) Vaiṣṇavas; Kālī worship; the Brahmos in Calcutta</td></tr>
-      <tr><td>Tamil country</td><td><span class="chip s">Smārta</span></td><td>Many Brahmans, seat without followers</td><td>Thurston ties Tamil Smārtas to no maṭha; the Tanjore gazetteer (1906) describes Śaṅkarācārya’s maṭha at Kumbakoṇam (Rs. 14,000 a year, three temples incl. one at Conjeeveram) but names no followers</td><td>Śrīvaiṣṇavas (Chingleput 60% Aiyaṅgār); non-Brahmin Śaiva maṭhs (Dharmapuram, Tiruvāvaḍuturai)</td></tr>
-      <tr><td>Gujarat</td><td><span class="chip w">Vaiṣṇava</span></td><td>Weak</td><td>Vallabha and Svāminārāyaṇa; Dvārkā is referee only for “Śaivas”</td><td>Vallabha and Svāminārāyaṇa</td></tr>
+      <tr class="group"><td colspan="4">Where Śaṅkara’s tradition led</td></tr>
+      <tr><td>Kanara and South Canara coast</td><td><span class="chip s">Smārta</span></td><td>Strongest anywhere, and beyond Brahmans: fishermen, potters, carpenters and Marāṭhās under Śṛṅgeri’s guru; 32–39% of Kanara’s Hindus</td><td>Liṅgāyats; the Mādhvas of Uḍupi</td></tr>
+      <tr><td>Tamil country</td><td><span class="chip s">Smārta</span></td><td>48% of Tamil Brahmans Smārta against 23% Śrīvaiṣṇava (1891); but no seat is tied to them</td><td>Śrīvaiṣṇavas (Chingleput 60%); non-Brahmin Śaiva maṭhs</td></tr>
+      <tr><td>Eastern UP and Bihar</td><td><span class="chip d">Daśanāmī</span></td><td>The densest Daśanāmī country: Saran Atīths 26,753 (1901), Gonda 11,478 Gosāins (1891); Benares the one city where the tradition is institutionally present at every date</td><td>Rāmānandī Bairāgīs (Ayodhyā); Nāth Jogīs (Gorakhpur)</td></tr>
+      <tr><td>Bombay Karnatak</td><td><span class="chip s">Smārta</span></td><td>Saṅkeśvar and Kudli hold dozens of inām villages; the one region where Śaṅkara houses are richer than their rivals</td><td>Liṅgāyats in numbers, but with smaller maṭhs</td></tr>
+      <tr class="group"><td colspan="4">Where it was a minority</td></tr>
+      <tr><td>Rohilkhand and Kumaon</td><td><span class="chip d">Daśanāmī</span></td><td>Dense locally (Kumaon 8,860; Bareilly 6,169)</td><td>Bairāgī akhāṛās (the Hardwar battle of 1760)</td></tr>
+      <tr><td>Central Provinces</td><td><span class="chip d">Daśanāmī</span></td><td>Propertied, from Bhonsla grants; Gosain 24,796 (1891)</td><td>Bairāgīs, with more land and whole states; Kabīrpanthīs (99,260 in Bilaspur)</td></tr>
+      <tr><td>Bombay Deccan</td><td><span class="chip s">Smārta</span></td><td>Mostly a Brahman matter: Kuṇbīs “cannot tell whether they are Smarts or Bhāgvats”</td><td>Bhāgavata Vaiṣṇavas; Mādhvas further south</td></tr>
+      <tr><td>Punjab</td><td><span class="chip d">Daśanāmī</span></td><td>Thin, and absent in the west: Gosain and Sanniasi about 15,000 (1891)</td><td>Bairāgīs, Udāsīs and Nirmalas, Nāth Jogīs; their seats hold the land</td></tr>
+      <tr><td>Bengal proper and Calcutta</td><td><span class="chip d">Daśanāmī</span></td><td>Sannyāsīs in tens per district; in Calcutta 3 Atīths and 13 Gosāins (1901)</td><td>Chaitanya Vaiṣṇavas in the tens of thousands; Kālī worship; the Brahmos</td></tr>
+      <tr><td>Gujarat</td><td><span class="chip s">Smārta</span></td><td>Dvārkā has no stated following</td><td>Vallabhas about 647,000 and Svāminārāyaṇs about 288,000 (1901)</td></tr>
     </tbody>
   </table></div>
   <figure class="map">
-    <a href="map/combined_map.png"><img src="map/combined_map.png" alt="Map of British India. Ochre circles for Daśanāmī persons form a belt across the Ganges plain, largest in eastern UP and Bihar (Saran, Gorakhpur, Gonda, Champaran), thin in the Central Provinces and the Punjab. Teal circles for Smārta persons cluster on the Bombay Konkan and Karnatak, largest in Kanara and Dharwar, and in the Tamil delta, largest in Tanjore. Black diamonds mark the Śaṅkara seats: Śṛṅgeri, Saṅkeśvar, Kudali, Śivagaṅgā and Kumbakoṇam in the south and west, Dvārkā, Purī and Jyotirmaṭh at the edges." loading="lazy"></a>
-    <figcaption>All six regions on one map. Circle area is proportional to persons. <em class="ochre">Daśanāmīs</em> come from the census: UP, Punjab, CP and Madras 1891, Bengal 1901 (Atīths), and Bombay 1881 Gosāvīs by region only (dashed). <em class="teal">Smārtas</em> come from Bombay castes the 1880s gazetteers call Smārta and from Tamil Madras Smārta Brahman sub-castes (1891). The layers count different things at different dates, and Smārtas are mapped only where the sources allow. Black diamonds mark the Śaṅkara seats the gazetteers locate (1876–1910, Rice’s Mysore included); open diamonds mark their branches, inām villages and temples; small squares mark other Smārta maṭhs and Śaṅkarācārya sites. Triangles mark Śṛṅgeri’s branch maṭhs and houses named in the Mysore government files of 1891–1945 (Rameswaram, Kaladi, Tirupati, Bangalore, Haridwar, Benares, Gaya, Madura, Tīrthamuttūr) and Kudli’s Bombay residence at Udagatti. Small crosses mark the 30 taluks and states outside Mysore that the Kudli maṭh’s Agent listed in 1934 as holding its properties: Dharwar, Bijapur, Belgaum, North Kanara, Bellary, Anantapur and the southern Maratha states. Purple crosses mark the rival centres noted below (“Rivals”): Ayodhyā (Bairāgī), Mathura (Vallabha, Gauḍīya), Gorakhpur and Karnal (Nāth), Uḍupi (Mādhva) and Calcutta (Kālī, Vaiṣṇava, Brahmo). They also mark the rival seats found by the coding of the rivals: Tilla and Bohar (Nāth), Dera Baba Nanak (Udāsī), Nandgaon and Lormi (Bairāgī), Kawardha (Kabīrpanthī), Chitradurga (Liṅgāyat), Vadtal (Svāminārāyaṇa), and Tiruvāvaḍuturai and Dharmapuram (Tamil Śaiva). The inset in the Bay of Bengal compares the 1891 census totals of the Daśanāmīs with the Jogīs, Bairāgīs and Udāsīs in the NWP and Oudh, the Punjab and the Central Provinces. Kolhapur appears as Saṅkeśvar’s branch, since it became the Karvīr Pīṭha only about 1909. Positions are approximate district headquarters.</figcaption>
+    <a href="map/combined_map.png"><img src="map/combined_map.png" alt="Map of British India. Ochre circles for Daśanāmī persons form a belt across the Ganges plain, largest in eastern UP and Bihar, thin in the Central Provinces and the Punjab. Teal circles for Smārta persons cluster on the Bombay Konkan and Karnatak, largest in Kanara and Dharwar, and in the Tamil delta. Diamonds mark the Śaṅkara seats; crosses mark Kudli's estates and the rival seats." loading="lazy"></a>
+    <figcaption>All six regions on one map; circle area is proportional to persons. <em class="ochre">Daśanāmīs</em> come from the census (UP, Punjab, CP and Madras 1891; Bengal 1901; Bombay 1881 by region only, dashed). <em class="teal">Smārtas</em> come from Bombay castes the gazetteers call Smārta and from Tamil Smārta Brahman sub-castes (1891); they are mapped only where the sources allow. Black diamonds mark the Śaṅkara seats, open diamonds their branches and inām villages, triangles Śṛṅgeri’s branch maṭhs in the Mysore files. Small crosses mark the 30 taluks and states where the Kudli maṭh held property in 1934. Purple crosses mark the rival seats named below. The inset compares the 1891 census totals for the Daśanāmīs, Jogīs, Bairāgīs and Udāsīs. Positions are approximate district headquarters.</figcaption>
   </figure>
+  <p class="src">Why the tradition can look dominant: Advaita was the philosophy of the learned (“Vedantism … almost exclusively prevails” in Benares, 1909), the four-seat scheme made it pan-Indian in name, and “Smārta” and “Śaiva” were broad default labels. The 1901 Bombay census puts “Shaiv or Smart” at nearly 3,000,000, but that is a sect label, not allegiance to a seat.</p>
 </section>
 
 <section>
-  <h2>What the allegiance consisted of</h2>
-  <ol class="list">
-    <li><strong>Jurisdiction and property rather than doctrine.</strong> Śṛṅgeri served as an appeal court for caste disputes, with dues collected by agents. The northern orders held villages, revenue-free grants, jāgīrs, banking houses (Mirzapur’s Gosaintola), wholesale trade (opium and wool from Kangra) and armed bands.</li>
-    <li><strong>An order turning into a caste.</strong> Hunter defines Atīts as Daśanāmīs “who have not resigned the world”. Rose calls Gosāins “a semi-secularised offshoot” of the Sannyāsīs. For Russell, “Gosain” now mostly means a married caste. In Raipur the fighting akhāṛā had become a married zamindār line by 1909.</li>
-    <li><strong>Visible where it touched rulers.</strong> The orders appear with the Nawabs of Awadh (Himmat Gir’s Nāgā cavalry), the Bhonslas, the Mughals (Bodh Gayā’s farman), Tibet (the Bhot-Bagān at Howrah) and Nepal (a Punjab mahant as royal guru).</li>
-  </ol>
-  <blockquote>“Till last year (1881) they were followers of the Lingayat guide of Chitaldurg … But the pārupatyagār or agent of the Smārt Jagadguru of Shringeri has persuaded them to acknowledge him as their Teacher.”</blockquote>
-  <p class="src">Konkan Kuṇbīs, Kanara. Bombay Gazetteer XV pt 1 (1883), p. 218</p>
-</section>
-
-<section>
-  <h2>Kudli: a seat in Mysore, estates in Bombay</h2>
-  <p>The Kudli Śṛṅgeri maṭh sits at the meeting of the Tunga and Bhadra in Shimoga, Mysore. The Bombay gazetteers call it “Kudalgi” and tell its founding as part of the secession that produced Saṅkeśvar. Rice’s Mysore gazetteer makes its guru an appointee of Śṛṅgeri. The Mysore government files of 1846–1941 settle where its weight lay: in the Bombay Karnatak.</p>
-  <ul class="list">
-    <li><strong>Its income came mostly from outside Mysore.</strong> In 1933 the Muzrai Commissioner put it at Rs 35,047. Villages and sircar lands outside the State brought Rs 16,798 (Rs 10,504 and Rs 6,294); those inside brought Rs 5,594 (Rs 4,499 and Rs 1,095); disciples’ varṣāsana Rs 1,024.</li>
-    <li><strong>The estates lay in Saṅkeśvar’s country.</strong> Bombay levied succession nazarana on the Dharwar and Bijapur ināms, Rs 2,745 and Rs 1,167 (1936). It named the maṭh “Kudalgi” or the “Uddughatti Mutt”, after Udagatti in Ranibennur taluk, where the svāmīs lived. A Bombay officer asked for Kudli’s svāmī to be exempted from the Arms Act like his “brother Swami of Sankeshwar … who is in no way superior in position” (1896).</li>
-    <li><strong>Its independence was contested and upheld.</strong> In 1846 the Śṛṅgeri side called Kudli “but a branch Matt”, a <em>tondu</em> maṭh. The Huzur Adalat (1847–49) held that it was not, and was “guided by its own laws”.</li>
-  </ul>
+  <div class="step">Evidence 3 · How many</div>
+  <h2>The census numbers, and the rivals in the same tables</h2>
+  <p>No census measured allegiance to a seat. What the censuses did count were the Daśanāmī orders and the other ascetic orders, often in the same table. Each figure below was read from the page images and checked against the printed totals.</p>
   <div class="tablewrap"><table>
-    <thead><tr><th>Where the Kudli maṭh held property (Agent’s list, March 1934)</th><th>Taluks or estates</th></tr></thead>
+    <thead><tr><th>Census</th><th>Daśanāmī</th><th>Rival orders in the same table</th></tr></thead>
     <tbody>
-      <tr><td>Dharwar District</td><td>Ranibennur, Karajgi, Hangal, Kod, Shiggaon, Navalgund, Kalghatgi, Dharwar, Hubli, Ron, Gadag</td></tr>
-      <tr><td>Bijapur District</td><td>Badami, Bagalkot, Bagevadi, Bijapur, Sindgi, Hungund</td></tr>
-      <tr><td>Belgaum and North Kanara</td><td>Parasgad; Mundgod</td></tr>
-      <tr><td>Madras: Bellary and Anantapur</td><td>Kudligi, Harapanahalli; Madakasira</td></tr>
-      <tr><td>Southern Maratha states</td><td>Kolhapur (Torgal), Ramdurg, Sangli (Shirahatti), Miraj Senior (Lakshmeshwar), Miraj Junior (Gudageri), Savanur, Sirasangi, Jamkhandi (Kundgol)</td></tr>
-      <tr><td>Hyderabad State</td><td>listed, but the Nizam’s government found no property</td></tr>
-    </tbody>
-  </table></div>
-  <p>The crosses on the map above mark these taluks. Government managed the maṭh’s properties inside and outside Mysore from 1933, at the Svāmī’s request, until March 1941.</p>
-  <blockquote>“The Kudli Matt as a separate branch of the original Matt at Sringeri came into existence at the Partition of A. D. 1656-57.”</blockquote>
-  <p class="src">The Dewan of Mysore to the Resident, 1895. Mysore Muzrai file; <code>mathas/archives/README.md</code></p>
-</section>
-
-<section>
-  <h2>Evidence of change</h2>
-  <div class="dates">
-    <div class="date s"><div class="when">Kanara, 1881</div><div>Śṛṅgeri’s agent wins the Konkan Kuṇbīs from a Liṅgāyat guru: an expanding jurisdiction.</div></div>
-    <div class="date d"><div class="when">Saran, 1872 → 1901</div><div>Atīths grow from 18,612 to 26,753.</div></div>
-    <div class="date d"><div class="when">Gonda, 1869 → 1905</div><div>Villages under “Mahant Goshain” fall from 89 to 34.</div></div>
-    <div class="date"><div class="when">Madras, 1871 → 1891</div><div>The Śaiva/Vaiṣṇava balance shifts: Vaiṣṇavism gains in Kistna, Śaivism overtakes it in North Arcot.</div></div>
-    <div class="date d"><div class="when">CP, Maratha → 1900s</div><div>Grants and Nāgā bands (Bheraghat, Seoni, Raipur) end up as married family estates.</div></div>
-    <div class="date d"><div class="when">Bodh Gayā, 1877 → 1906</div><div>An anonymous “convent of Sanyāsīs” becomes a named Giri maṭh with a Mughal grant, upheld by the High Court.</div></div>
-    <div class="date s"><div class="when">Kolhapur, 1886 → 1959</div><div>The Kolhapur maṭh, once part of Saṅkeśvar, breaks away about 1909 and becomes the Karvīr Pīṭha.</div></div>
-    <div class="date s"><div class="when">Purī, 1908 → 1977</div><div>“The Sankaracharya” maṭh is named as the Govardhana pīṭha and sits on the Muktimaṇḍapa.</div></div>
-    <div class="date s"><div class="when">South Kanara, 1909 → 1973</div><div>Śṛṅgeri’s jurisdiction over fishermen and cultivators is no longer described.</div></div>
-    <div class="date d"><div class="when">UP and Bihar, 1900s → 1960s–80s</div><div>Gosāin estates and mahants vanish from the texts; Sitapur and Gaya name zamindari abolition as the cause.</div></div>
-  </div>
-</section>
-
-<section>
-  <h2>The third date: after Independence</h2>
-  <p>I checked 37 revised district gazetteers (1954–1989) against what the colonial volumes recorded. Censuses after 1951 no longer count castes, so this layer is descriptive.</p>
-  <ul class="list">
-    <li><strong>Estates vanish.</strong> The landholding mahants of the UP, Bihar and the Central Provinces are mostly not mentioned at all. Neither are the Bihar Atīths as a caste. Where a cause is given, it is zamindari abolition. The remaining maṭhs become registered trusts under the endowment acts of 1950–51.</li>
-    <li><strong>Ceremony and institutions survive.</strong> The akhāṛās still lead the melas at Allahabad, Varanasi, Hardwar and Nasik. Tārakeśvar has been a public endowment since its 1924 court case, and the court called its Dasanāmīs the “school of Sankaracharya”.</li>
-    <li><strong>Seats become more visible, caste jurisdiction disappears.</strong> Karvīr and Govardhana are now named, but no non-Brahmin caste is described as under a Śaṅkarācārya any more. “Smārta” becomes simply a Brahman sect.</li>
-    <li><strong>Read with care.</strong> Several revised volumes reprint the colonial text. They also cared more about temples and trusts than about castes, so part of the vanishing is a change of genre.</li>
-  </ul>
-</section>
-
-<section>
-  <h2>What the census tables add</h2>
-  <p>The census caste tables were read directly from the page images, because their OCR is scrambled. Each transcription was checked against the printed totals.</p>
-  <div class="tablewrap"><table>
-    <thead><tr><th>Census</th><th>Daśanāmī count</th><th>Where concentrated</th><th>Comparison</th></tr></thead>
-    <tbody>
-      <tr><td>UP 1891</td><td class="num">Goshain (Dasnami) 103,320</td><td>Gonda 11,478; Gorakhpur 7,010; Fyzabad 5,371; Meerut 5,083</td><td class="num">Jogi 78,387; Bairagi c. 31,900. Muttra’s 17,131 Goshains are all “unspecified”, with no Bairāgīs or Jogīs returned: probably Braj’s whole ascetic population</td></tr>
-      <tr><td>Bengal 1901</td><td class="num">Atith 50,042</td><td>Bihar: Saran 26,753; Champaran 9,768; Shahabad 7,246</td><td>“Gosain” 29,534 is a mixed column, half of it in Chota Nagpur</td></tr>
-      <tr><td>CP 1891</td><td class="num">Gosain 24,796</td><td>Hoshangabad 3,291; Raipur 3,194; Nagpur 2,914</td><td class="num">Giri 9,333, Puri 6,050, Bharthi 1,412; Bairagi 29,298</td></tr>
-      <tr><td>Bombay 1881</td><td class="num">Gosávi 33,851</td><td>Deccan 19,247; Gujarat 6,036; Konkan 5,269</td><td>Recorded as “Devotees, &amp;c.”</td></tr>
-      <tr><td>Punjab 1891</td><td class="num">Gosain 9,903; Sanniasi 5,163</td><td>Gosains in the south-east and Kangra; Sanniasis in the central districts</td><td class="num">Jogi 75,469; Bairagi 34,102; “Smartak” 123</td></tr>
-    </tbody>
-  </table></div>
-  <p><strong>Madras 1891, Smārta Brahmans.</strong> The census row labelled “Smarta” is tiny (7,021), because Tamil Smārtas were returned under their sub-caste names. Counting the sub-castes Thurston lists as Smārta (Vaḍama, Bṛhaccaraṇam, Vāttiman, Aṣṭasahasram and others), Smārtas are <em class="teal">48%</em> of Tamil-division Brahmans and Aiyaṅgārs 23%. Tanjore is 64% Smārta, and Trichinopoly and Tinnevelly about 55%. Chingleput is the exception at 60% Aiyaṅgār, as the 1871 census had already noted.</p>
-  <p class="src">Two conflations show up in the tables themselves. In 1891 Azamgarh returns no Goshains but 5,764 Jogis; in 1881 it had 2,186 Goshains and 3,456 Atits. The UP report’s “108,320” Daśanāmīs was an OCR misreading of 103,320.</p>
-</section>
-
-<section>
-  <h2>Rivals: who else held the ground</h2>
-  <p>Śaṅkara’s following looks different set against the traditions it competed with. The volumes already read show who those were, region by region.</p>
-  <p><strong>This section is the evidence for the “elsewhere” in the verdict above.</strong> Śaṅkara’s tradition was regional, not dominant: outside the Kanara coast, the Tamil Brahmans, the eastern Ganges plain and the Bombay Karnatak, the traditions below held the larger followings and, usually, the larger estates.</p>
-  <p>The census tables read for the Daśanāmīs also count their rivals (persons; recomputed from <code>census-images/results/</code>):</p>
-  <div class="tablewrap"><table>
-    <thead><tr><th>Census</th><th>Daśanāmī / Gosāin</th><th>Rival orders in the same table</th></tr></thead>
-    <tbody>
-      <tr><td>NWP and Oudh 1891</td><td class="num">103,320</td><td class="num">Jogī 78,387; Bairāgī 31,979; named Vaiṣṇava Goshains 752</td></tr>
-      <tr><td>Punjab 1891 (province)</td><td class="num">Gosain 13,344; Sanniasi 9,799</td><td class="num">Jogī-Rawal 91,937; Bairāgī 47,561; Udāsī 15,194</td></tr>
-      <tr><td>Central Provinces 1891</td><td class="num">Gosain 24,796</td><td class="num">Bairāgī 29,298 (Ramanandi 7,731); Jogī 6,094; Nāth 5,008. Feudatory States: Bairāgī 6,712 against Gosain 1,038</td></tr>
+      <tr><td>NWP and Oudh 1891</td><td class="num">103,320</td><td class="num">Jogī 78,387; Bairāgī 31,979</td></tr>
+      <tr><td>Punjab 1891 (British Territory)</td><td class="num">Gosain 9,903; Sanniasi 5,163</td><td class="num">“Jogi &amp; Rawal” 75,469 (36,718 of them Muslim); Bairāgī 34,102; Udāsī 9,459</td></tr>
+      <tr><td>Central Provinces 1891</td><td class="num">Gosain 24,796</td><td class="num">Bairāgī 29,298; Jogī 6,094; Nāth 5,008</td></tr>
       <tr><td>Bengal 1901</td><td class="num">Atīth 50,042</td><td>“Gosain” 29,534, a mixed column, largely Vaiṣṇava</td></tr>
-      <tr><td>Tamil Madras 1891</td><td class="num">Smārta 47.6% of Brahmans</td><td class="num">Aiyaṅgār (Śrīvaiṣṇava) 22.7%; Mādhva 2,650</td></tr>
+      <tr><td>Tamil Madras 1891</td><td class="num">Smārta 47.6% of Brahmans</td><td class="num">Aiyaṅgār (Śrīvaiṣṇava) 22.7%</td></tr>
     </tbody>
   </table></div>
-  <p>“Jogī” is the largest of these census headings in the north, but it is not a body of Nāth ascetics. In the Punjab the heading is “Jogī &amp; Rawal”, and about half of it (36,718 of 75,469 in British Territory) was Muslim. Hindu Jogīs outnumber Hindu Gosains and Sanniasis about 2.7 to 1, not 4 to 1. In the NWP, where Jogīs come close to the Daśanāmīs, the district gazetteers describe them more often as a householder caste than as ascetics. The Bairāgīs outnumber the Daśanāmīs in the Punjab and the Central Provinces, and the Udāsīs exceed the Gosāins in the Punjab. These are census headings, and they include householders on both sides; the lay Vaiṣṇava sects show only where the census asked (Bilaspur’s 99,260 Kabīrpanthīs). The categories are loose: the 1891 NWP report says enumerators used “Goshain, Bairagi, Jogi, Saniyasi” interchangeably.</p>
   <ul class="list">
-    <li><strong>Vaiṣṇava orders, almost everywhere.</strong> In the north, the Rāmānandī Bairāgīs were the Daśanāmīs’ direct counterpart, with rival akhāṛās: the Gosāin–Bairāgī battle at Hardwar in 1760, the Gosāins’ expulsion from Hanumāngaṛhī in Ayodhyā, precedence at the Kumbh. Elsewhere the rival was the region’s own Vaiṣṇava house: Gauḍīya in Bengal and Orissa (Purī’s 70-odd maṭhs are mostly Vaiṣṇava), Vallabha and Svāminārāyaṇa in Gujarat and Mathura, the Mādhvas in coastal Karnataka (Tulu Brahmans “largely followers of Madhvacharya” by 1973), the Śrīvaiṣṇavas in the Tamil country.</li>
-    <li><strong>Other Śaiva networks.</strong> Nāth Jogīs from Gorakhpur to the Punjab (in Karnal they replace the Gosāin temple priests); Liṅgāyats in the Karnatak (Kanara’s Kuṇbīs left a Liṅgāyat guide for Śṛṅgeri in 1881; procession disputes fill the Mysore files); the Tamil non-Brahmin Śaiva maṭhs.</li>
-    <li><strong>Sikh-linked orders in the Punjab:</strong> Udāsīs and Nirmalas, who outnumber the Gosāins there.</li>
-    <li><strong>New rivals the gazetteers barely see:</strong> the Brahmo Samaj, the Ārya Samāj and the Christian missions. The most successful new Advaita institution, the Ramakrishna order (Belur Math, 1898), took Daśanāmī sannyāsa: a renewal of the tradition, outside the gazetteers’ view.</li>
+    <li><strong>The Bairāgīs outnumber the Daśanāmīs</strong> in the Punjab and the Central Provinces. In the whole Punjab province, native states included, the Udāsīs (15,194) also exceed the Gosains (13,344).</li>
+    <li><strong>“Jogī” is the largest heading in the north, but it is not a body of Nāth ascetics.</strong> In the Punjab about half of it was Muslim. In the UP the gazetteers describe Jogīs more often as a householder caste (see the companion study, <i>Yogis in the Gazetteers</i>).</li>
+    <li><strong>The headings are loose and include householders on both sides.</strong> The 1891 NWP report says enumerators used “Goshain, Bairagi, Jogi, Saniyasi” interchangeably. In 1891 Azamgarh returns no Gosāins but 5,764 Jogīs, where in 1881 it had 2,186 Gosāins and 3,456 Atīths.</li>
+    <li><strong>The Tamil figure needed reconstruction.</strong> The census row labelled “Smarta” has only 7,021 persons, because Tamil Smārtas were returned under sub-caste names; the 48% counts the sub-castes Thurston lists as Smārta.</li>
   </ul>
-  <p><strong>Benares.</strong> Nevill’s gazetteer (1909, pp. 92–93) is the clearest single statement in the study. “Vedantism is the philosophy which almost exclusively prevails”; the city’s revival “began with the itinerant preaching of Shankaracharya”, whose “severe monism is still affected by the more highly educated … though few maintain it consistently”. Rāmānanda’s influence reaches “many who do not avowedly or even consciously adopt him as their master”, and “the power of Vallabhacharya is strongly felt”, “but … the shrines dedicated to the cult of Shiva greatly predominate”. The district was 89.4% Hindu and 10.3% Muslim (1901). In 1891 it returned 4,106 Gosāins (1,899 as Daśanāmīs) against 419 Jogīs and 141 Bairāgīs; the Daśanāmī akhāṛās stood at Shivala and Hanuman ghats. Ayodhyā, a few hours away, is the opposite case: its gazetteer describes Bairāgī dominance, though the census there still returns more Daśanāmīs (5,371) than Bairāgīs (2,017), a sign of how loosely enumerators used these words.</p>
-  <p><strong>Calcutta.</strong> Daśanāmīs were almost absent: 3 Atīths and 13 Gosāins in 1901. The city’s 1901 report counts 1,799 Brahmos and 14,079 Baishnabs, with no Sannyāsī heading. O’Malley’s <em>24 Parganas</em> (1914) gives its religion section to Vaiṣṇavism (Khardah, “the home of Nityananda”, and the Gosāin “circles” of “the Vaishnava church”) and its pilgrimage to Kālīghāṭ; it records 88 Brahmos and Keshab Chandra Sen’s birthplace, and describes Rani Rasmani’s temples at Dakshineswar without mentioning Ramakrishna. The nearby Daśanāmī foundations, the Bhot-Bagān at Howrah and Tārakeśvar in Hooghly, were rich and had few followers. Popular religion here belonged to Chaitanya Vaiṣṇavism and Kālī; educated religion to the Brahmos.</p>
-  <p><strong>What the coding of the rivals adds</strong> (<code>rivals/README.md</code>; 615 coded rows, quotes checked against the OCR):</p>
-  <ul class="list">
-    <li><strong>Where both are described, the rivals are as rich or richer.</strong> Tiruvāvaḍuturai has about Rs 2 lakhs a year against Rs 14,000 for the Kumbakoṇam Śaṅkara maṭh. Purī’s 29 landed maṭhs drew Rs 1,45,400 in 1848, while the Govardhan maṭh has no stated estate. The Bairāgī state of Nandgaon (560 villages) stands against Dharampuri’s 40 Gosāin villages. The Udāsī and Nāth seats hold the Punjab’s sanad lands. The exception is the Bombay Karnatak, where Saṅkeśvar and Kudli out-endow the Liṅgāyat maṭhs.</li>
-    <li><strong>The rival followings are larger and reach beyond Brahmans.</strong> Gujarat had 647,256 Vallabhas and 287,687 Svāminārāyaṇs (1901). In Kadur, Śṛṅgeri’s own district, Liṅgāyats outnumber all Brahmans two to one. In the CP, Kabīrpanthī and Satnāmī gaddīs had lay followings in the hundreds of thousands.</li>
-    <li><strong>Three cities.</strong> Benares is the one place where Śaṅkara’s following is institutionally present at every date, though its Gosāin estates vanish from the 1965 volume. Ayodhyā is a Bairāgī town in every layer, although its district returns 5,371 Daśanāmīs. Mathura has no Śaṅkara following at any date; “Gosāin” there means a Vaiṣṇava temple lineage.</li>
-    <li><strong>Open conflict is rare.</strong> The recorded cases are the Hardwar battle (1760), Hanumāngaṛhī, the Kudalgi palanquin suit and Śṛṅgeri’s 1881 win of the Konkan Kuṇbīs. Most disputes run inside the rival traditions.</li>
-    <li><strong>Reform movements.</strong> Colonial texts count Brahmos and Ārya Samājīs but never set them against a Śaṅkara seat. The revised volumes make the Ramakrishna movement the growth story, and only Puri 1977 files a Ramakrishna house under “Dashnami Sannyasi”.</li>
-  </ul>
-  <p><strong>The rival seats beside the Śaṅkara houses</strong> (also marked on the map):</p>
+  <p>Where the gazetteers describe the rival houses’ wealth, it matches or exceeds the Śaṅkara houses’:</p>
   <div class="tablewrap"><table>
-    <thead><tr><th>Rival seat</th><th>Tradition</th><th>What the texts give it</th><th>Nearest Śaṅkara comparison</th></tr></thead>
+    <thead><tr><th>Rival seat</th><th>Tradition</th><th>What the texts give it</th><th>Nearest Śaṅkara house</th></tr></thead>
     <tbody>
-      <tr><td>Tiruvāvaḍuturai (Tanjore)</td><td>Tamil Śaiva ādhīnam</td><td class="num">about 29,000 acres; Rs 2 lakhs a year</td><td class="num">Kumbakoṇam maṭh, Rs 14,000 and three temples</td></tr>
-      <tr><td>Dharmapuram (Tanjore)</td><td>Tamil Śaiva ādhīnam</td><td>about 2,500 acres and 27 temples; nearby Tiruppanandāḷ (Rs 80,000 a year) was held independent of it in court</td><td>listed before Kumbakoṇam (1906)</td></tr>
-      <tr><td>Chitradurga (Murugha maṭh)</td><td>Liṅgāyat</td><td>supreme Liṅgāyat guru; lost the Konkan Kuṇbīs to Śṛṅgeri in 1881</td><td>Śṛṅgeri; Kudli</td></tr>
-      <tr><td>Nandgaon; Lormi</td><td>Bairāgī</td><td class="num">a state of 560 villages (1723); 104 villages (1826)</td><td class="num">Dharampuri, the largest CP Gosāin estate, 40 villages</td></tr>
-      <tr><td>Kawardha (Damakheda line)</td><td>Kabīrpanthī</td><td class="num">lay following claimed at 500,000</td><td>no Śaṅkara seat in the CP</td></tr>
-      <tr><td>Tilla; Bohar; Dera Baba Nanak</td><td>Nāth; Nāth; Udāsī</td><td>Akbar’s sanad; land; jagir Rs 2,602</td><td>no Śaṅkara seat in the Punjab</td></tr>
-      <tr><td>Vadtal</td><td>Svāminārāyaṇa</td><td class="num">one of two seats; 287,687 followers (1901)</td><td>Dvārkā’s Śāradā pīṭha, no stated following</td></tr>
+      <tr><td>Tiruvāvaḍuturai (Tanjore)</td><td>Tamil Śaiva</td><td class="num">about 29,000 acres; Rs 2 lakhs a year</td><td class="num">Kumbakoṇam maṭh: Rs 14,000 a year</td></tr>
+      <tr><td>Nandgaon; Lormi (CP)</td><td>Bairāgī</td><td class="num">a state of 560 villages; 104 villages</td><td class="num">Dharampuri, the largest Gosāin estate: 40 villages</td></tr>
+      <tr><td>Kawardha (CP)</td><td>Kabīrpanthī</td><td class="num">lay following claimed at 500,000</td><td>none in the CP</td></tr>
+      <tr><td>Tilla; Bohar; Dera Baba Nanak (Punjab)</td><td>Nāth; Nāth; Udāsī</td><td>Akbar’s sanad; land; a jāgīr of Rs 2,602</td><td>none in the Punjab</td></tr>
+      <tr><td>Vadtal (Gujarat)</td><td>Svāminārāyaṇa</td><td class="num">287,687 followers (1901)</td><td>Dvārkā: no stated following</td></tr>
+      <tr><td>Chitradurga (Mysore)</td><td>Liṅgāyat</td><td>supreme Liṅgāyat guru; lost the Konkan Kuṇbīs to Śṛṅgeri in 1881</td><td>Śṛṅgeri</td></tr>
     </tbody>
   </table></div>
-  <p>In the Bombay Karnatak the comparison runs the other way: Saṅkeśvar (30 inām villages, Rs 30,000) and Kudli (Rs 35,047 in 1933) are richer than the Liṅgāyat maṭhs around them, whose largest stated income is Kaneri’s Rs 1,500.</p>
-  <p class="src">Sources: <code>north/README.md</code>, <code>bengal/README.md</code>, <code>punjab/README.md</code>, <code>census-images/</code>; Nevill, <em>Benares</em> (1909); O’Malley, <em>24 Parganas</em> (1914). Not pursued further; a comparative coding of these groups is an open line.</p>
+  <p>The exception is the Bombay Karnatak. There Saṅkeśvar (30 inām villages, Rs 30,000 a year) and Kudli (Rs 35,047 in 1933) are richer than any Liṅgāyat maṭh around them; the largest stated income among those is Kaneri’s Rs 1,500.</p>
+</section>
+
+<section>
+  <div class="step">Evidence 4 · The seats</div>
+  <h2>What the seats actually held</h2>
+  <p>If allegiance to Śaṅkara was organised anywhere, it should show in the seats: their buildings, estates, agents and branches. We searched every volume for each seat.</p>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Seat</th><th>What the colonial gazetteers show</th></tr></thead>
+    <tbody>
+      <tr class="group"><td colspan="2">The four seats of the tradition</td></tr>
+      <tr><td>Śṛṅgeri (Mysore)</td><td>A landed estate in Mysore with one named branch. No maṭh, estate or agent in Bombay or Madras, although Kanara’s castes call its head their guru.</td></tr>
+      <tr><td>Dvārkā (Gujarat)</td><td>One line: the “Shārada Pīth”, endowed by the Gaekwar. No following described.</td></tr>
+      <tr><td>Purī (Orissa)</td><td>Absent in 1877; in 1908 an unnamed “Sankaracharya” maṭh with a library.</td></tr>
+      <tr><td>Jyotirmaṭh (Garhwal)</td><td>Only in lists of the four seats. No Śaṅkarācārya named.</td></tr>
+      <tr class="group"><td colspan="2">Other seats</td></tr>
+      <tr><td>Kumbakoṇam (Tanjore)</td><td>An endowed maṭh (Rs 14,000 a year, three temples) tied to no following. Kāñcī appears only as where Śaṅkara once founded a maṭh.</td></tr>
+      <tr><td>Saṅkeśvar (Belgaum)</td><td>The one network described in detail: thirty inām villages in seven jurisdictions, Rs 30,000 a year, branch maṭhs at Kolhapur and elsewhere, a svāmī who tours to collect dues.</td></tr>
+      <tr><td>Kudli (Shimoga, Mysore)</td><td>Called “Kudalgi” in Bombay; holds villages and temple rights in Dharwar.</td></tr>
+    </tbody>
+  </table></div>
+
+  <h3>Śṛṅgeri and its two offshoots</h3>
+  <p>Śṛṅgeri matters because it is the seat the tradition ranks first in the south, and the one the Kanara castes named as their guru. The gazetteers and 338 Mysore government files show what it actually was.</p>
+  <ul class="list">
+    <li><strong>A small principality in Mysore.</strong> Its head was “proprietor of the surrounding tract”: a jāgīr of over 220 villages, about Rs 50,000 a year plus a monthly grant from the Mysore state. It was chronically in debt, and the Mysore state consecrated its head in 1912 and managed its property from 1936 to 1959.</li>
+    <li><strong>Reach without estates.</strong> Outside Mysore it had branch maṭhs at pilgrimage centres (Rameswaram, Kaladi, Tirupati, Nasik, Haridwar, Benares), some grants and mortgages in the Tamil districts, and tours. It held no land among the Kanara castes who called it their guru. Its jurisdiction there worked through touring agents and caste headmen.</li>
+  </ul>
+  <p>The land in the west belonged to two seats that had broken away from Śṛṅgeri:</p>
+  <div class="lineage">
+    <span><b>Śṛṅgeri</b> <span class="t">(Mysore)</span></span>
+    <span>├ <b>Saṅkeśvar</b> <span class="t">c. 1570: Shankarbhāratī leaves Śṛṅgeri and is refused re-entry (Belgaum 1884)</span></span>
+    <span>│ &nbsp;&nbsp;└ <b>Karvīr</b> <span class="t">Kolhapur, a branch of Saṅkeśvar until it became a separate seat about 1909</span></span>
+    <span>└ <b>Kudli</b> <span class="t">separated 1656–57 (Dewan of Mysore, 1895); independence upheld by the Mysore court, 1847–49</span></span>
+  </div>
+  <p>Saṅkeśvar’s thirty inām villages lay mainly in Kolhapur, Belgaum and the Maratha states. Kudli sat in Mysore, but most of its income came from Bombay: in 1934 its agent listed property in 30 taluks and states, mainly in Dharwar and Bijapur (the small crosses on the map). Between them the two offshoots held the Bombay Karnatak, the only region where Śaṅkara houses out-endowed their rivals. Bombay treated their svāmīs as equals: one officer asked for Kudli’s svāmī to be exempted from the Arms Act like his “brother Swami of Sankeshwar”.</p>
+  <p class="src">Details: <code>sringeri/README.md</code>, <code>mathas/README.md</code>, <code>mathas/archives/README.md</code>.</p>
+</section>
+
+<section>
+  <div class="step">Evidence 5 · Change</div>
+  <h2>Three dates: 1870s, 1900s, after independence</h2>
+  <p>The gazetteers come in three series: the first compilations (1866–1890), the district gazetteers of 1900–1918, and the revised state gazetteers of 1954–1989. Read in sequence, they show the tradition losing its land and its castes, while its seats gained in visibility.</p>
+  <div class="dates">
+    <div class="date s"><div class="when">Kanara, 1881</div><div>Śṛṅgeri’s agent wins the Konkan Kuṇbīs from a Liṅgāyat guru: the caste jurisdiction is still expanding.</div></div>
+    <div class="date d"><div class="when">Saran, 1872 → 1901</div><div>Atīths grow from 18,612 to 26,753.</div></div>
+    <div class="date d"><div class="when">Gonda, 1869 → 1905</div><div>Villages held by a Gosāin mahant fall from 89 to 34.</div></div>
+    <div class="date d"><div class="when">CP, 1800s → 1900s</div><div>Maratha grants to Nāgā bands end as married family estates.</div></div>
+    <div class="date d"><div class="when">Bodh Gayā, 1877 → 1906</div><div>An anonymous “convent of Sanyāsīs” becomes a named Giri maṭh with a Mughal grant, upheld by the High Court.</div></div>
+    <div class="date s"><div class="when">Kolhapur, c. 1909</div><div>Saṅkeśvar’s Kolhapur branch breaks away and becomes the Karvīr seat.</div></div>
+    <div class="date s"><div class="when">Śṛṅgeri, 1912; 1936–59</div><div>The Mysore state consecrates a new head, then manages the maṭh for 23 years.</div></div>
+    <div class="date d"><div class="when">UP and Bihar, 1960s–80s</div><div>Gosāin estates and mahants vanish from the revised volumes; Sitapur and Gaya name zamindari abolition as the cause.</div></div>
+    <div class="date s"><div class="when">South Kanara, 1973</div><div>Śṛṅgeri’s jurisdiction over fishermen and cultivators is no longer described.</div></div>
+    <div class="date s"><div class="when">Purī, 1977</div><div>The unnamed maṭh of 1908 is now the Govardhana seat; the Kāñcī Kāmakoṭi seat founds an ashram there.</div></div>
+  </div>
+  <p>The revised gazetteers (37 checked) show what survived independence:</p>
+  <ul class="list">
+    <li><strong>The estates did not.</strong> Landholding mahants and the Bihar Atīth caste are mostly not mentioned at all. Remaining maṭhs become trusts under the endowment acts of 1950–51.</li>
+    <li><strong>Ceremony and institutions did.</strong> The akhāṛās still lead the melas at Allahabad, Varanasi, Hardwar and Nasik. Tārakeśvar became a public endowment after its 1924 court case.</li>
+    <li><strong>The seats became visible, the castes under them did not.</strong> Karvīr and Govardhana are named, but no non-Brahmin caste is any longer described as under a Śaṅkarācārya. “Smārta” becomes simply a Brahman sect.</li>
+    <li><strong>A new Advaita order appears in their place:</strong> the Ramakrishna Mission, which took Daśanāmī sannyāsa but stands outside the old seats.</li>
+  </ul>
 </section>
 
 <section>
   <h2>Reading the sources with care</h2>
   <ul class="list">
     <li><strong>The compilers made the map.</strong> Volumes that asked every caste about its guru (Kanara, Dharwar) show strong Smārta allegiance; neighbours that did not ask show almost none. The 1872 census filed similar Marathi populations as 99.7% “Śaiva” in Ratnagiri and 88% “unsectarian” in Nasik.</li>
-    <li><strong>“Gosain” is a trap.</strong> In Bengal, Gujarat, Brindaban and the western Punjab it means a Vaiṣṇava guru; elsewhere a deity or a royal title. Every count was classified by context.</li>
-    <li><strong>The seats are fainter than their followers.</strong> Purī’s Govardhana maṭha is absent from Hunter (1877) and appears in 1908 only as a “Saiva” maṭh with a library. The Kumbakoṇam maṭha is an endowed institution in the Tanjore gazetteer (1906) but is tied to no Tamil Smārta following, and Kāñcī appears only as where Śaṅkara once founded a maṭha (Crole 1879). The name Kāñcī Kāmakoṭi first appears in 1977, at Purī. Śṛṅgeri itself is located in no Bombay or Madras Places chapter: it appears as a subsidised estate in Mysore with one branch at Kudali, while the maṭhs, inām villages and grants of the western Deccan belong to Saṅkeśvar, which the Belgaum volume describes as a secession from Śṛṅgeri about 1570. Across all the seats, Saṅkeśvar is the one maṭh network the gazetteers describe in detail (thirty inām villages in seven jurisdictions, Rs 30,000 a year, mainly in Kolhapur, Belgaum and the Maratha states). Its neighbour Kudli (Kudalgi), the first maṭh of Saṅkeśvar’s own origin story, held estates in 30 taluks and states, mainly in Dharwar and Bijapur (1934, Mysore files); between them the two seats cover the Bombay Karnatak. Dvārkā, Jyotirmaṭh and Purī appear mainly in lists of Śaṅkara’s four maṭhs; their own place entries describe a temple, the Badrinath Rawal’s winter seat and an unnamed “Sankaracharya” maṭh. The Mysore government files explain the gap: Śṛṅgeri’s reach outside its jāgīr was a matter of grants, mortgages and branch maṭhs at pilgrimage centres (Rameswaram, Kaladi, Tirupati, Nasik, Haridwar, Benares), while Kudli drew most of its income from ināms in Dharwar, Bijapur and the Maratha states, and the Mysore state consecrated, managed and ranked both seats.</li>
-    <li><strong>Headcounts are soft.</strong> The 1891 UP census admits that “Goshain, Bairagi, Jogi, Saniyasi” were used interchangeably, and later gazetteers drop the caste tables.</li>
+    <li><strong>“Gosāin” is a trap.</strong> In Bengal, Gujarat, Brindaban and the western Punjab it means a Vaiṣṇava guru lineage. Every count was classified by context.</li>
+    <li><strong>The census headings are loose</strong> and include householders, as above. No census counts lay followers of a seat.</li>
+    <li><strong>The revised gazetteers changed genre.</strong> Several reprint colonial text, and they care more about temples and trusts than about castes, so part of what vanishes after 1954 is a change of interest, not of fact.</li>
   </ul>
 </section>
 
 <footer>
-  <div>Method: OCR text of each volume from the Internet Archive; sentences mentioning sects or orders were extracted and coded caste by caste or district by district, with a verbatim quote and page for every row. In spot checks of each region, 29–30 of 30 sampled quotes were found word for word in the scans.</div>
-  <div>Census caste tables for UP, Bengal, Bombay, the Punjab, the Central Provinces and Madras were read from page images and reconciled with the printed totals. The revised state gazetteers (1954–1989) were coded as a third date. Next step: test the gazetteers against maṭha records and inām registers.</div>
+  <div>Method: OCR text of about 300 colonial volumes and 37 revised gazetteers from the Internet Archive. Statements about sects, orders and maṭhs were coded caste by caste and district by district, each with a verbatim quotation and page; spot checks found 29–30 of 30 quotations word for word in each region. Census caste tables were read from page images and reconciled with the printed totals. 338 Karnataka State Archives files on Śṛṅgeri and Kudli were coded.</div>
+  <div>Repository: <code>research/gazetteer-vedanta/</code>. Regional reports in each folder; seats in <code>sringeri/</code> and <code>mathas/</code>; rivals in <code>rivals/</code>; census tables in <code>census-images/</code>. Places finder: <code>map/places_map.html</code>.</div>
 </footer>
 </main>

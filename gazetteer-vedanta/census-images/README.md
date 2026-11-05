@@ -16,7 +16,7 @@ Page images and the downloaded OCR XML are in `pages/` (kept out of git).
 
 ## What the census says about the study's question
 
-The study's verdict (synthesis, "Dominant everywhere, or regional?") is that Śaṅkara's tradition was **regional,
+The study's verdict (synthesis, "The answer") is that Śaṅkara's tradition was **regional,
 not dominant**. These tables give the numbers behind it.
 - **Where it led:**
   - the Daśanāmīs are densest in eastern UP and Bihar (NWP 103,320 in 1891; Bengal Atīths 50,042 in 1901);
@@ -99,7 +99,7 @@ not dominant**. These tables give the numbers behind it.
 ## Rival orders in the same tables
 
 The tables read for the Daśanāmīs also count their rivals. All figures below are persons, recomputed from the TSVs
-in `results/`. The synthesis's "Rivals: who else held the ground" and "Main rivals" table use them.
+in `results/`. The synthesis's "Evidence 3: how many" uses them.
 
 | province, census | Daśanāmī / Gosāin | rival orders in the same table |
 |---|---|---|

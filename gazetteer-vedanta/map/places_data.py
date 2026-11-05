@@ -406,7 +406,7 @@ add("Dakshineswar", "Dakhineswar", "Dakshineswar", "North 24 Parganas", "West Be
 add("Uḍupi", "Udipi; Udupi", "Udupi", "Udupi", "Karnataka", 13.34, 74.75, "site", "Madras",
     "Rival centre: seat of the Mādhva maṭhs; Kanara and South Canara Vaiṣṇava Brahmans' guru is 'a Tulu Brahman, who lives in celibacy at the Vaishnav monastery at Udipi'.", "results/; madras/")
 
-# ---------------- Rivals: notes appended to place entries (synthesis, "Rivals: who else held the ground") ----------------
+# ---------------- Rivals: notes appended to place entries (synthesis, "Evidence 3: how many") ----------------
 _PUNJAB = "Rivals: in the Punjab the Bairāgīs, the Sikh-linked Udāsīs and the Jogīs dominate (the census heading 'Jogī & Rawal' is about half Muslim); Daśanāmīs are thin, none in the west (punjab/README.md)."
 _GUJ = "Rivals: Gujarat is Vaiṣṇava (Vallabha, Svāminārāyaṇa); the Dvārkā Śaṅkarācārya is referee only for its 'Śaivas'."
 _BENGAL = "Rivals: Bengal proper is a Vaiṣṇava landscape; Sannyāsīs number in the tens per district against tens of thousands of caste-rejecting Vaiṣṇavas (Hunter, 1872)."

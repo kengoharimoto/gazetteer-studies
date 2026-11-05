@@ -119,7 +119,7 @@ rivals held more land than the Daśanāmīs:
 
 ## 3. Findings in relation to the other regions
 
-**Place in the study's verdict (`../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's tradition was regional, not dominant.**
+**Place in the study's verdict (`../SYNTHESIS.md`, "The answer"): Śaṅkara's tradition was regional, not dominant.**
 - **Minority or at best parity.**
   - Bairāgīs (29,298) outnumber Gosāins (24,796) in 1891.
   - Two Bairāgī lines reached princely rank.

@@ -25,7 +25,7 @@ gazetteer (1968) and four Calcutta texts.
 
 ## Results
 
-**The study's verdict** (synthesis, "Dominant everywhere, or regional?"): Śaṅkara's tradition was **regional, not
+**The study's verdict** (synthesis, "The answer"): Śaṅkara's tradition was **regional, not
 dominant**. This layer supplies most of the "elsewhere".
 - In Gujarat, Bengal, the Punjab, the Central Provinces, Mathura, Ayodhyā and the Liṅgāyat Karnatak, the rival
   traditions coded here held the larger followings and, usually, the larger estates.

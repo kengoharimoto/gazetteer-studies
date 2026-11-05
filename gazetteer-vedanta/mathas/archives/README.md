@@ -206,7 +206,7 @@ Kudli only as a disputed branch. These files show both maṭhs as institutions:
 
 ## What this adds to the study
 
-**Place in the study's verdict** (`../../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"): Śaṅkara's
+**Place in the study's verdict** (`../../SYNTHESIS.md`, "The answer"): Śaṅkara's
 tradition was regional, not dominant. These files show what that meant for the two Mysore seats.
 - **Śṛṅgeri:** its reach outside its own jāgīr was made of branches at pilgrimage centres, debts and tours, not
   landed followings. Even in its own district the Liṅgāyats and Śrīvaiṣṇavas were the larger bodies.

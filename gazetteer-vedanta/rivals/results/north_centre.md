@@ -1,6 +1,6 @@
 # Rival ascetic orders in the north and centre: institutions and estates
 
-> **The study's verdict** (`../../SYNTHESIS.md`, "Overall: dominant everywhere, or regional?"; `../README.md`): Śaṅkara's
+> **The study's verdict** (`../../SYNTHESIS.md`, "The answer"; `../README.md`): Śaṅkara's
 > tradition was regional, not dominant. This report supplies part of the evidence for the "elsewhere".
 
 

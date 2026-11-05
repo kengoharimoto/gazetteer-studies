@@ -112,7 +112,7 @@ when they place a maṭha somewhere.
 ## Rival maṭhs and orders
 
 The Śaṅkara maṭhs in these sources keep meeting other institutions. These records are where they appear. The
-regional picture is in the synthesis, "Rivals: who else held the ground". None of this is coded systematically.
+regional picture is in the synthesis, "Evidence 3: how many". None of this is coded systematically.
 
 - **Mādhva maṭhs (the Karnatak, Mysore).**
   - The Mysore files record complaints by the Uttarādi maṭh (Hole Narsipur, 1906) and the Ahobila maṭh (Mysore,
@@ -180,7 +180,7 @@ regional picture is in the synthesis, "Rivals: who else held the ground". None o
 
 ## Findings
 
-**Overall verdict of the study** (synthesis, "Dominant everywhere, or regional?"): Śaṅkara's tradition was
+**Overall verdict of the study** (synthesis, "The answer"): Śaṅkara's tradition was
 **regional, not dominant**. The maṭha evidence is part of why.
 - **Where the seats were strong.** Its seats were richly endowed only where it also led as an organised following:
   Saṅkeśvar and Kudli in the Bombay Karnatak, Śṛṅgeri in Mysore, and the Daśanāmī estates of the Ganges plain.

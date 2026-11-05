@@ -93,7 +93,7 @@ All six regions are coded and reported. The census caste tables are read for all
 (1954–1989) are coded as a third date. The Śaṅkara maṭhs are located across all volumes (`sringeri/`, `mathas/`), and
 338 Mysore government files on Śṛṅgeri and Kudli are coded (`mathas/archives/`).
 
-Overall answer to the study's question (synthesis, "Dominant everywhere, or regional?"):
+Overall answer to the study's question (synthesis, "The answer"):
 - **Regional, not dominant across British India.** Śaṅkara's tradition is present in some form in every region and
   carries the highest learned prestige.
 - **Where it led as an organised following:** the Kanara and South Canara coast, Tamil Brahmans (48% Smārta), the
@@ -110,7 +110,7 @@ Main result of the maṭha layers:
   - Kudli (the gazetteers' "Kudalgi"): estates in 30 taluks and states, mainly in Dharwar and Bijapur, listed by
     its Agent in 1934.
 
-Rivals (synthesis, "Rivals: who else held the ground"; coded in `rivals/`: 615 rows):
+Rivals (synthesis, "Evidence 3: how many"; coded in `rivals/`: 615 rows):
 - **Vaiṣṇava orders, almost everywhere.** The Rāmānandī Bairāgīs were the Daśanāmīs' direct rival in the north.
   Elsewhere it was the region's own Vaiṣṇava house: Gauḍīya, Vallabha and Svāminārāyaṇa, Mādhva, Śrīvaiṣṇava.
 - **Other Śaiva networks:** Nāth Jogīs, Liṅgāyats, the Tamil non-Brahmin maṭhs.
