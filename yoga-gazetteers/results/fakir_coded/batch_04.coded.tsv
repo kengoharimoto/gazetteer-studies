@@ -1,0 +1,161 @@
+id	referent	religion	attitude	practice	tags	page	quote	note
+F00930	NAME	unclear	neu	no		108		Guru Sadhu Singh, Sodhi of Kartarpur; jagirs
+F00931	NAME	unclear	neu	no				Guru Sadhu Singh; succession
+F00932	NAME	unclear	neu	no				Sadhu Singh, guardian of the Granth
+F00933	NAME	unclear	neu	no				Guru Sadhu Singh
+F00934	HINDU_ASCETIC	sikh	neu	no	beggar,land,order,fakir_for_hindu		They are occupied by Udasi Fakirs, who here are considered Sikhs, though not orthodox.	dharmsala sadhs beg alms; revenue-free grants
+F00935	MUSLIM_RELIGIOUS	muslim	neu	no	beggar		they give alms, principally to fakirs (devotees) and nmllas , sometimes to the poor	fakirs as almsreceivers
+F00936	MUSLIM_RELIGIOUS	muslim	neg	no	crime		The holy man is said often to be no better than he should be and to entertain guests whose vocation is more than doubtful.	takia of fakir in Muhammadan village
+F00937	GENERIC_MENDICANT	unclear	neu	no			on the fakir of a fa lei a leaving, it was converted into a Sikh dhann*dla, and, after the Sdrfh had left, came into the possession of some orthodox Hindu ascetic.	fakir's place passes to Sikh then Hindu ascetic
+F00938	GENERIC_MENDICANT	mixed	neu	no	magic,healing		a joi/i or Sanyasx or Muhammadan fakir, who knows the proper incantations, is called in, and proceeds to exorcise the illness.	exorcism of cattle disease
+F00939	SAINT_SHRINE	muslim	neu	no	sanctity		He is vene- rated by both Hindus and Muhammadans and his tomb is looked after by a jmjriri who describes himself as a Qadria Faqir of the Ahl-i-Hadis.	Shah Fatah Ali tomb, Nur Mahal
+F00940	SAINT_SHRINE	muslim	neu	no	sanctity		Near a Muhammadan faqir a tabid (shrine or cell) at Nur Mahal, much reverenced by Muhammadans and Hindus, is a well with steps leading down to it.	also Pir Ghaib legend converting a Jogi
+F00941	HINDU_ASCETIC	hindu	neu	no	order,fakir_for_hindu		The Hindu Holi festival held at a Gurdwara of Bairagi Fakirs, which is said to be 300 years old.	
+F00942	GENERIC_MENDICANT	unclear	neu	no	beggar		It is a general custom to leave some grain unmeasured, which goes to the village menials and fakirs.	
+F00943	GENERIC_MENDICANT	unclear	neg	no	crime,order		they behave as violently as a sect of Fakirs of that name, who used to go about extorting money from the people.	Diwana sect of fakirs
+F00944	GENERIC_MENDICANT	unclear	neg	no	magic,healing		incantation by a Fakir or Brahman is also practised ; the operator is a professional sorcerer, and sprinkles the cattle with milk and water	cattle charms
+F00945	HINDU_ASCETIC	unclear	neu	no	householder,order		The Ud&si Fakirs of Jullundur are not presumed to have abandoned worldly affairs nor are they excluded from their rights of inheritance	Udasi inheritance custom
+F00946	GENERIC_MENDICANT	unclear	neu	no	beggar		giving alms to fakirs, and paying the costs incurred by lambardars when attending Government offices.	village common fund
+F00947	SAINT_SHRINE	unclear	neu	no	sanctity		The successors of a Sadhu Faqir, Bawa, Bari Das, live here.	local saint Samir Parbat mentioned
+F00948	SAINT_SHRINE	sikh	neu	no	fakir_for_hindu		Guru Hargobird s sword, the Kartarpur. Tegha Sahib, and Gurd Nanak’s Faqir’s cap (seli)	relic of Guru Nanak; Sadhu is Guru Sadhu Singh
+F00949	OTHER	unclear	neu	no				proverb: Jat becomes a fakir in Bhadon sunshine
+F00950	JUNK	unclear	neu	no				glossary table line
+F00951	GENERIC_MENDICANT	unclear	neu	no			The dwelling of a Fakir ; a cattle. house for travellers	glossary takia; also Sadh a devotee
+F00952	NAME	unclear	neu	no				Sadhu Singh, Ahluwalia ancestor
+F00919	HINDU_ASCETIC	hindu	neu	no	fakir_for_hindu		With the exception of the Muhials and a few Jagirdars and faqirs	faqirs counted among Hindus; unsure
+F00920	SAINT_SHRINE	muslim	neu	no	sanctity,order		Pfr Farman Shah, of Ziarat, and Fakir Ahmed of Maira in Pindi- gheb.	list of Pirs; shrines with monk colleges
+F00921	SAINT_SHRINE	unclear	neg	no	magic,fraud,sanctity		Living faqirs drive a brisk trade in charms and amulets to serve all sorts of purposes.	faqir graves protect trees; miracle to order
+F00922	HINDU_ASCETIC	hindu	neg	no	healing,fakir_for_hindu		Saiii/dsis : these are chiefly Hindu faqirs, who go from place to place treating venereal diseases, impotence, sterility and phthisis.	use dangerous drugs
+F00923	JUNK	unclear	neu	no				map label faqir's hut
+F00915	GENERIC_MENDICANT	unclear	neg	no	fraud,beggar,crime		Any rascal who is discontended at home, or prefers beg- ging to work, wraps a brown pagri round his head and calling hfm- self Shah da fakir	Shah da fakirs at Daira Din Panah shrine
+F00916	GENERIC_MENDICANT	unclear	neg	no	magic,healing		superstitions, as getting a fakir to charm the animal, and taking it to a shrine	cattle remedies
+F00918	HINDU_ASCETIC	hindu	neu	no	learning,fakir_for_hindu		it is not uncommon for some Sikhs and Hindfs to send their boys to the fakir presiding at the dharamsdla for education.	fakir at dharamsala teaches boys
+F00908	HINDU_ASCETIC	hindu	neu	no	fakir_for_hindu		But the closing years of his life he spent as a fakir after abdicating in favour of his son	Raja Bhim Chand turns fakir
+F00909	CENSUS_CATEGORY	muslim	neu	no	numbers		There are a few Muhammadans, the descendants of certain Chandel Réjptits, who were converted to Islam some generations ago, and some Barhais, Telis, Fakirs, etc.	
+F00910	SAINT_SHRINE	hindu	neu	no	sanctity,fakir_for_hindu		They tell how many years ago a very holy fakir came to this place to worship Shiv.	legend: fakir turned to rock
+F00911	SAINT_SHRINE	hindu	neu	no	sanctity,land,order,fakir_for_hindu		The temple was erected over the tomb of an Uddsi fakir of noted piety. It is a resort of Uddsis, and the local people have converted the original saint into a god.	temples aided by revenue grants
+F00912	SAINT_SHRINE	hindu	neu	no	sanctity,fakir_for_hindu		soon gave it up and began to travel about the hills as a fakir, welcomed and reverenced wherever he went.	Raja Bijai Pal became fakir, then deota
+F01115	SAINT_SHRINE	muslim	neu	no	political,sanctity		Influenced by a faqir named Sabar Shah he took the title of Durr-i-durran, ‘ pearl of pearls.’	Ahmad Shah; also Aghori Gosains entry
+F01116	SAINT_SHRINE	unclear	neu	no	magic		Cursed by a faqir the town became desolate and the Aroras fled by its three gates	legend of Arorkot
+F01117	GENERIC_MENDICANT	unclear	neu	no	healing,magic		The power was conferred on Seth Hari, the ancestor of the section, by faqirs.	healing charm for sprain
+F01118	CENSUS_CATEGORY	unclear	neu	no	low_status		In Peshdwar the Aw^ns are included in the hamsdya ov faqir class.	
+F01119	SAINT_SHRINE	hindu	neu	no	magic,sanctity		Baba Lit Daeyai, a sect, followers of a sadhu whose shrine is on the Chendb in the WaziraMd tahsil of Gujrdnwdld, and who miraculously turned water into food.	sadhu and Bairagi miracles
+F01120	HINDU_ASCETIC	hindu	neu	no	order,fakir_for_hindu		just as the Bhngauti faqir imitates the dress,! dance, etc., of Krishna.	Bairagi devotee of Vishnu, leopard-skin
+F01121	GENERIC_MENDICANT	unclear	neu	no			lalkd in the east of the Punjab is used as equivalent to chela, for ‘ the disciple of &faqir.’	glossary
+F01122	SAINT_SHRINE	unclear	neu	no	magic		Another curious legend is that of the prophet Dris (fr. Arab. Idris) who by a faqir’s sarcastic blessing obtained 40 sons at a birth.	legend
+F01123	GENERIC_MENDICANT	unclear	neg	no	fraud,crime		they are skilful burglars and wander great distances, disguised as faqirs and butchers.	Baloch burglars use faqir disguise
+F01124	GENERIC_MENDICANT	unclear	neu	no	beggar		This is either given to faqirs or eaten by them- selves.	offering to Lal Beg
+F01125	SAINT_SHRINE	unclear	neu	no	sanctity		released at the intercession of a faqir whose shrine is still pointed out at Chbapar on the bank of that river.	
+F01126	HINDU_ASCETIC	hindu	neu	no	order,fakir_for_hindu		Bhekh-dhaeI, bhkkhi, a faqir, a sadhu: from bhekh, dress, disguise, and so ' a sect of Hindu faqirs’	glossary; bhikhari a beggar
+F01127	SAINT_SHRINE	unclear	neu	no	magic,sanctity		a faqir appeared to him and told him that in nine months he should have a son, and after showing his miraculous power by drawing milk from a calf, vanished	Bishnoi legend, Jambaji's birth
+F01128	SAINT_SHRINE	hindu	neu	yes	austerity,sanctity,fakir_for_hindu		becoming a faqir or religious mendicant, is said to have remained seated upon a sandhill called Samrathal in Bikdner, for a space of 51 years.	Jambaji sits 51 years on sandhill
+F01129	MUSLIM_RELIGIOUS	muslim	neu	no	order,sanctity		Chet Ram became a disciple of Mahbnb Shah, a 3a\d\i faqir, of the Chishtia sect. After his death Chet Ram slept upon his tomb and there had a vision of Christ	Chet-rami founder was disciple of Chishti faqir
+F01130	CENSUS_CATEGORY	unclear	neu	no	low_status		The Chitralis are divided into three classes — Adamzadas, Arbabzfidas and Faqir-Miskin.	Chitral class
+F01131	CENSUS_CATEGORY	unclear	neu	no	low_status		The Arbabzfidas and Faqir-Miskin are really one and the same, but the latter are the very poor class, some having barely sufficient to live on.	Chitral class
+F01132	CENSUS_CATEGORY	unclear	mixed	no	crime		The Khos of Faqir-Miskin status, however, are Indo-Aryans of a high type	reputation as expert thieves
+F01133	GENERIC_MENDICANT	unclear	neu	yes	austerity,magic,healing,order		They go naked for twelve years, having the person smeared with ashes.	naked twelve years, ashes; faqirs expel spirits with mantras
+F01134	GENERIC_MENDICANT	unclear	neu	no	magic		Faqirs have power over spirits and receive information from them of the designs of the spirit world.	Chuhra beliefs; faqirs and pirs drive away spirits
+F01135	GENERIC_MENDICANT	unclear	neu	no	magic		Ths faqir found her out, how- ever, being set to do it by the dyer’s friends. Usne use qdbu karliyd (he caught her).	faqir catches churel
+F01136	GENERIC_MENDICANT	unclear	neu	no	magic,healing		The faqir beats the dram, another person beats the gharidl, and others sing.	exorcism by drum music; magic confined to faqirs and pirs
+F01137	GENERIC_MENDICANT	unclear	neg	no	magic,healing		A faqir takes some of the ashes from the burning pile, goes to the hills for a certain plant, and makes bread of these two ingredients	cure for barrenness, called repulsive
+F01138	GENERIC_MENDICANT	unclear	neu	yes	magic,healing,austerity		Jhiondd is an iron whip which a faqir beats himself with for the sake of another, so that the evil-spirit in him may be troubled and flee.	self-flogging, hand in hot oil, millstone on body
+F01139	CENSUS_CATEGORY	unclear	neg	no	beggar,fraud,land,low_status	254	the Faqir ’ class generally have in their hands the 254 Faqir miskin — Firdusi. custody of petty shrines, the menial service of village temples and mosques	false mendicants are mere beggars; shrine servants get land grants
+F01140	NAME	unclear	neu	no				Faqir as clan name meaning beggar
+F01141	SAINT_SHRINE	sikh	neu	no	order,fakir_for_hindu		Ganj-bakhsh was a faqir of Gurdaspur who received a blessing from Guru Amar	Ganj-bakhshi Sikh sect
+F01142	SAINT_SHRINE	unclear	neu	no	magic,sanctity		when once a faqir to test him demanded his head he stooped so that the faqir might cut it off, which he did.	legend of generosity
+F01143	HINDU_ASCETIC	sikh	neu	yes	austerity,order,fakir_for_hindu		about 70 years ago he discarded a faqir’a nudity for ordinary raiment, proclaiming that he had had a vision which convinced him that he had no religious superior	Gulabdasi sect; faqir's nudity given up
+F01144	HINDU_ASCETIC	sikh	neu	yes	austerity,order,fakir_for_hindu		about 70 years ago he discarded a faqir’s nudity for ordinary raiment, proclaiming that he had had a vision which convinced him that he had no religious superior	Gulabdasi sect; faqir's nudity given up
+F01145	GENERIC_MENDICANT	unclear	neu	no	order		Haedasia, a small religious sect or order of faqirs.	glossary
+F01146	HINDU_ASCETIC	unclear	neu	yes	austerity,order	342	The sddhus are itinerant monks, never halting at any place save to recover from fatigue, regain strength, or to preach to the people.	Jain sadhus: no coin, razor, shoes; Jain not Hindu
+F01147	HINDU_ASCETIC	unclear	pos	yes	austerity,order,sanctity		The sadhtis are admittedly superior in religious merit to the jatis, and if a jati meet a sadhu the former makes obeisance to the latter.	Jain sadhus; no shoes, no night travel
+F01148	GENERIC_MENDICANT	unclear	neu	no			or have since been selected by some shrivelled faqir as the place suitable for a solitary life.	solitary life on Jat mounds
+F01149	SAINT_SHRINE	unclear	neu	no	sanctity		rubbed earth on his body, so as to look like afaqir, closed his eyes and sat down near the bank of the river.	Kalu, a Rajput, feigns then becomes faqir
+F01150	GENERIC_MENDICANT	mixed	neg	no	fraud,beggar,low_status,magic		Every rascally beggar who pretends to be able to tell fortunes, or to practise astrological and necromantic arts in however small a degree, buys himself a drum	low-caste faqirs called Jogis, Hindu and Muslim; also Gorakhnathi Jogis respectable
+F01151	HINDU_ASCETIC	hindu	neg	no	crime,order,fakir_for_hindu	402	Aghori or Ghor-panthis who are cannibal faqirs of a singularly repnlsive tjrpe	Jogis said to live centuries by austerities
+F01152	HINDU_ASCETIC	hindu	neu	no	order,fakir_for_hindu	408	when Rdnjha, iu his love for Hir, adopted the guise of &faqir and wandered till he came to Tdla, he became Pir B4la Ndth’a disciple	Rawal Jogis, Ranjha legend
+F01153	SAINT_SHRINE	hindu	neu	no	magic,sanctity		a Brahman’s wife craved the boon of a son, and used to do homage to her sadhu for one.	Ramanand/Kabir birth legend
+F01154	HINDU_ASCETIC	unclear	neu	no	order,fakir_for_hindu		The Kahfrpanthi sddha or faqirs in this Province wear generally clothes dyed with brickdust colour {gem) ; and both they and the laity abstain from flesh and spirits.	Kabirpanthi sadhs; tag set though religion unclear
+F01155	CENSUS_CATEGORY	unclear	neu	no	low_status		They speak the KdMsh language and are Faqir Miskiu by status.	Kalash in Chitral
+F01156	SAINT_SHRINE	unclear	neu	no	sanctity		Jhullan was a Bodla faqir to whom they paid special reverence and after whom they named their villages, and his descendant Ihsan Ali is still greatly revered by the Hindus.	also Kambohs carried cash disguised as faqirs
+F01157	SAINT_SHRINE	hindu	neu	no	sanctity,fakir_for_hindu		affect the cult of Bhuman Shah, an Udasi faqir whose shrine is at the village of that name in Dipdlpur tahsfl.	patron saint of Kambohs
+F01158	MUSLIM_RELIGIOUS	mixed	neu	no	order		On the death of Faqir Sayyid Mir Sh^h, also styled Mian Mir (from whom the Cantonment of Lahore took its former name), Sayyid Bhfiwan Shdh of Nurpnr Chaumak in Jammu succeeded him as faqir	Kesarshahi sect admits Hindus and Muslims
+F01159	HINDU_ASCETIC	hindu	neu	no	beggar,fakir_for_hindu		carry a fakir’s wallet [hagli). He cries Alakh (the mendicant’s cry) and his kinswomen give him alms.	boy mimics mendicant at maunan rite
+F01160	HINDU_ASCETIC	hindu	neu	no	beggar,fakir_for_hindu		and he is then disguised as a faqir with a munj rope (tragi) round his loins	boy disguised as faqir begs alms at janeo rite
+F01161	NAME	unclear	neu	no				Sadhu a Kohja sept name
+F01162	HINDU_ASCETIC	hindu	neu	no	fakir_for_hindu		Rdmjdt hd Bdngra, Kishnjdt kd Ahir, BraJimmd jdt Kumhdr hai, Sheo hi jdt faqir.	proverb calls Shiva a faqir
+F01163	SAINT_SHRINE	unclear	neu	yes	meditation,political,sanctity		Giving himself up to religious meditation as a lad, Hdkim Singh who was a J&X, wandered about for several years as a faqir visiting shrines	Hakim Singh, Jat prophet; meditation and shrine wandering
+F01012	MUSLIM_RELIGIOUS	muslim	neu	no	beggar		The Muhammadans perform this kind of charity to fakirs on the twentieth and fortieth days.	death-rite alms
+F01013	GENERIC_MENDICANT	unclear	neu	no	land		provided it be done by a Brahmin, fakir, or other holy person.	dohli land grant for religious service
+F01014	GENERIC_MENDICANT	unclear	neu	no	land,sanctity		This is generally con- nected with religion in the shape of a fakir's hut, or grave or a re- ligious shrine	wood reserved around fakir's hut or grave
+F01015	NAME	unclear	neu	no				Fakir Chand & Co., ivory firm
+F01016	CENSUS_CATEGORY	unclear	neu	no	numbers		The distribution of the more important castes among the chaukiddr s is Fakirs 164, Gujars 77, Brahmans 67, Sheikhs 62, Jogis 63.	village watchmen by caste
+F01164	SAINT_SHRINE	unclear	neu	no	sanctity		Their refusal cut him to the quick and lie turned faqir.	legend of robber Balmik
+F01165	GENERIC_MENDICANT	unclear	neu	no	order,low_status		The offerings made to it are given to Bhangi faqirs, who are recruited from the Chuhras.	Balmik shrine offerings
+F01166	GENERIC_MENDICANT	unclear	neu	no	order,low_status		Offerings made to it are given to Bhangi faqirs who are taken from the ranks of the Chuhras.	Balmik shrine offerings
+F01167	GENERIC_MENDICANT	unclear	neu	no	beggar,order		Lali Shah, a sect of faqirs .* They are dressed in rags with a number of bells stitched on to the ankles or round their waists.	carry thonged whip and begging bowl
+F01168	MUSLIM_RELIGIOUS	muslim	neu	yes	beggar,performer,burial		LaLLHi, a class of Muhammadan fakirs who dance when they go to beg in houses.	burial alive offered as choice to Thakuria (Lal Das succession)
+F01169	MUSLIM_RELIGIOUS	muslim	neu	no	beggar,performer,order		Mastani, a sect of faqir s who wear anklets of bells ( ghungrus ) on their feet and dance in the streets	Mastana a Muhammadan faqir
+F01170	GENERIC_MENDICANT	unclear	neu	no	performer		most of the men who play the musical instruments of the Punjab are either Mirdsis, Jogis or faqirs.	
+F01171	SAINT_SHRINE	muslim	neu	no	sanctity		wherever fakirs or Minins have died, or a deed of peculiar atrocity has invested the victim with the sympathy of the people, a flag is erected	ziarats; descendants of Mazub Baba collect offerings
+F01172	SAINT_SHRINE	unclear	neu	no	sanctity		One of the faqirs, his guests, further bade him ask for anything he desired, so S&in begged that a refectory might be opened	Sain Bhagat legend; faqirs as guests
+F01173	MUSLIM_RELIGIOUS	muslim	neu	no			It i« said to have been named Mecca by a faqir, one Muhammad, who had been there	place name legend
+F01174	GENERIC_MENDICANT	unclear	neu	no	magic,performer		So the Nats went to a faqir for aid and he bad a monkey Hanum&n who taught them feats of dexterity	
+F01175	SAINT_SHRINE	unclear	neu	no	magic,sanctity		a faqir came to Ndhan and cried out against the Rdja’s treachery. For this he was expelled the palace	legend; cow yields milk, town doomed
+F01176	MUSLIM_RELIGIOUS	muslim	neu	no	order		Naushahi. — A Muhammadan order (regular, bnt mystical in its tendencies) and an offshoot of the Qadiris	Naushahi order founder became faqir as bridegroom
+F01177	MUSLIM_RELIGIOUS	muslim	neu	no	sanctity		In Gujr&nwAla many of them are faqirs, and they generally bear a semi-religious character.	Nekokara sacred clan
+F01178	GENERIC_MENDICANT	unclear	neu	no	order		Nikalsaini, oe Nakangkaria, a sect of faqirs whose origin is thus described	origin story of Sikh soldiers after 1849
+F01179	GENERIC_MENDICANT	unclear	neu	no	land,order,political		it was by no means uncommon for faqirs to receive, through the good offices of the karddrs or district officers, assignments of land-revenue from the central government at Lahore	Nikalsaini mahant praises Nicholson; Sikh-era grants to faqirs
+F01180	GENERIC_MENDICANT	unclear	neg	no	fraud,land,order,political		these men, by calling themselves Nikalsaiui faqirs, were under the idea that the Deputy Commissioner of the District would feel flattered	Nikalsaini faqirs hope for jagir, were flogged
+F01181	GENERIC_MENDICANT	unclear	neu	no	order,numbers		I never heard of any Nikal- saini faqirs there :* indeed, I never heard of the existence of any since 1852 or 1853	sect extinct
+F01182	SAINT_SHRINE	muslim	neu	no	magic,sanctity		Zidrat Tor Faqir —Is another shrine in the same village. This miracle-working saint is held in high esteem by the Sunni claas in this neighbourhood.	other shrines also listed
+F01183	MUSLIM_RELIGIOUS	muslim	neu	no	low_status		Pirdhin, a non-descript kind of faqir who acts Z circnmcisor	glossary
+F01184	GENERIC_MENDICANT	unclear	neu	no	performer,order,numbers		Some of them have a sort of pretence to a religious character ; but their ostensible occupation is that of leading about bears, monkeys, and other performing animals	Qalandars; maybe faqirs of Shah Chokha shrine
+F01185	SAINT_SHRINE	unclear	neu	no	sanctity		The AlltLhbeli were so named by a faqir who blessed them with the words : Alldhbeli, ‘may God be your friend.’	clan-name legend
+F01186	HINDU_ASCETIC	hindu	neu	no	beggar		Any sadhu or beggar who visits Maldna gets food and a blanket if he wants it.	Malana hospitality
+F01187	GENERIC_MENDICANT	unclear	neu	no	healing,magic		A faqir gave one of their ancestors, by name Sangu, the bar or power to cure small-pox and this gift was inherited	inoculation power
+F01188	SAINT_SHRINE	muslim	neu	no	learning		the grandfather of the present faqir of Shaikh Sfibu J in ■that tract made the following rhyme	faqir at Shaikh Sabu shrine composes verse
+F01189	GENERIC_MENDICANT	unclear	neu	no	learning		Sake faqir Murid, jit yih ckdp banal. Saith faqir Murid, who made this poem.	faqir as poet
+F01190	GENERIC_MENDICANT	unclear	neu	no	beggar		Ramaiga, a wanderer, fr. ramnd, to wander (cf. ramta, 'peripatetic/ a faqir)	glossary; some say Ramaiga are begging fagirs who pierce ears
+F01191	HINDU_ASCETIC	unclear	neu	no	order,sanctity		These three darbars are in the possession of UdAsi SAdhus.	darbars of Sahibs
+F01192	MUSLIM_RELIGIOUS	muslim	neu	no	beggar,healing,learning		A thorough knowledge of the lore of the Hindu Jogis added to that acquired by BJubammadan faqirs has enabled them to acquire their present position	Muslim Rawal Jogis, beggars, hakims, surgeons
+F01193	GENERIC_MENDICANT	mixed	neg	no	fraud,healing,fakir_for_hindu		In other parts of India they pose as great physicians, saints or Hindu fakirs of some respectable order.	Rawals pass as Hindus; notorious cheats
+F01194	GENERIC_MENDICANT	unclear	neu	no			Rodd sadhu a faqir who has his head entirely shaved.	glossary
+F01195	HINDU_ASCETIC	hindu	neu	no	order,fakir_for_hindu		Rukhab, a class of Sanidsi faqirs.-^PanjdbiPiety., p. 976.	glossary
+F01196	HINDU_ASCETIC	hindu	neu	no	order,fakir_for_hindu		sadh is properly nothing more than the Hindu equivalent of the Mussalmdn word vir , or rather sadh applies only to a Hindu devotee	sadh as disciple of a faqir; Sadh sect of Birbhan
+F01197	HINDU_ASCETIC	hindu	neu	no	order		Sadhu, a monk or saint :t apparently synonymous with sadh (q.v.). The term is applied to members of many Hindu orders and sects	glossary; Gharibdasi, Ghisa-panthi
+F01198	HINDU_ASCETIC	hindu	neu	no	order,crime,political,fakir_for_hindu	355	In the correspondence of Warren Hastings they are frequently mentioned under the name of Sanyasis or Fakirs	militant Sanyasis plundered Dacca 1760s
+F01199	SAINT_SHRINE	unclear	neu	no	magic		obtained from a faqir a promise of offspring on condition that she should beg from Hindus and Mussalmans alike	Sansi origin legend
+F01200	GENERIC_MENDICANT	unclear	neu	no			Her father drove her forth but, protected by a faqir, she gave birth to Sahns Mai in the Jangal.	Sansi origin legend
+F01201	SAINT_SHRINE	unclear	pos	no	sanctity,magic		They gave up plundering, became faqirs (ascetics) and devoted themselves to God. Their prayers were accepted and their prophecies always came true	Sansi saints Hemu and Toto; Mai Lakhi ascetic in jungle
+F01202	SAINT_SHRINE	unclear	neu	no	sanctity		he lived in the jungle long ago as a pious faqir whose prayers were accepted by God.	Baba Malang Shah, Sansi
+F01203	OTHER	unclear	neu	no	magic			incantation text; Jain Khan sadhu a name
+F01204	GENERIC_MENDICANT	unclear	neu	no			She fled to the Lakhi Jaugal, and sheltered by a faqir gave birth to a son who was Sahns Mai	Sansi origin legend
+F01205	GENERIC_MENDICANT	unclear	neg	no	beggar,fraud		Sewa-dar, a bard : a faqir or a Brahman, who levies contributions on individuals and ceases not to worry them till payment is made	glossary; also Secra a faqir of the Jain sect
+F01206	GENERIC_MENDICANT	unclear	neu	no	order		(2) a title assumed by certain orders of faqirs, and especially by Sayyids	glossary, title Shah
+F01207	SAINT_SHRINE	hindu	neu	no	sanctity,beggar,fakir_for_hindu		Faqirs of Sidh Nath’s family live there and the Jdts put much faith in them, paying them a rupee at every wedding and supplying them with food.	tomb of Sidh Nath, Sadhanwa
+F01208	HINDU_ASCETIC	hindu	neu	no	beggar,fakir_for_hindu		A Hindu faqir is first fed with it and then the Sheoran themselves eat of it.	offering of churma
+F01209	SAINT_SHRINE	muslim	neu	no	magic,sanctity		A faqir is said to have in some way_ or other offended the holy man in charge of the above- mentioned shrine who changed him into a tree	legend of baobab; list of Largha shrines
+F01210	HINDU_ASCETIC	hindu	neu	no	order,fakir_for_hindu		Siami, the name of a class of faqirs called Bairdgis.	glossary
+F01211	HINDU_ASCETIC	sikh	neu	no	order,magic,fakir_for_hindu		Suthra Shahi. An order of Sikh devotees whose origin is thus described : — When Tegh Sh&h* faqir was alive	Tegh Shah, miraculous powers before Aurangzeb
+F01212	HINDU_ASCETIC	mixed	neu	no	order,fakir_for_hindu		The Suthrd mockingly asks him where are now his troops, and why he persecutes the Hindu faqirs.	Suthra Shahi panth admits Hindus and Muslims
+F01213	GENERIC_MENDICANT	unclear	neg	no	crime		secret language, J which, however, appears to be used by other faqirs also.	thieving tribe; faqirs share argot
+F01214	GENERIC_MENDICANT	unclear	neg	no	fraud,beggar,low_status		They receive alms from all classes, and are especially addicted to cheating women by false prophecies.	Tati Raja faqirs
+F01215	SAINT_SHRINE	muslim	neu	no	sanctity		Budhan Shih, a Muhammadan faqir, to whom Baba Ninak had entrusted some milk till his successor should come to claim it.	Gurditta legend
+F01216	NAME	unclear	neu	no				Darwesh Khel; Musa nicknamed Darwesh (faqir) for being religious
+F01217	CENSUS_CATEGORY	unclear	neu	no	low_status		The Wurgara are often styled a faqir qaum, and are descended from the hill tribe	
+F00960	SAINT_SHRINE	hindu	neu	no	sanctity,fakir_for_hindu		These temiiles are noAV revered by the Hindus as the samadh of that fakir, Avhois knoAA'n as Naga Arjan or Kaga Uddliar.	fakir cremated, samadh on hill
+F00961	SAINT_SHRINE	muslim	neu	no	sanctity		Trees or clusters of trees, called jhangis, under which a faqir is known to have lived for some time, are also held sacred to that faqir	ziarats of pirs
+F00962	HINDU_ASCETIC	hindu	neu	no	order		The Sewaks reverence Gosains or Bairagi Sadhus. In marriage and other ceremonies the Hindus	Gosains complain disciples slack in contributions
+F00963	SAINT_SHRINE	hindu	neu	yes	austerity,sanctity,magic,fakir_for_hindu		Afaqir, named Naga Arjan or Naga Uddhar, is said to have done his penance on this hill long ago.	penance unspecified; samadh pilgrimage; Bairagi sadhus
+F00964	GENERIC_MENDICANT	unclear	neg	no	magic,healing,fraud		This is Avhy the j>irs and faqirs are enabled to obtain such great influence among them.	exorcism of jins
+F00955	SAINT_SHRINE	unclear	neu	no	magic,healing,sanctity		In 1865 a miraculous bridge of sand was built over the Jumna in this district at the prayer of a faqir, of such rare virtue that lepers passing over it and bathing at both ends Ax ere cured.	
+F00956	HINDU_ASCETIC	hindu	pos	no	order,householder,land		Tlie monastic communities are poAver- ful, are exceedingly Avell conducted, often very Avealthy, and exercise a great deal of hospitality.	Bairagi monasteries; some Bairagis married
+F00957	GENERIC_MENDICANT	unclear	neu	no	beggar		doles by way of cliarity to Brahmins and Fakirs.	harvest customary payments
+F00958	SAINT_SHRINE	muslim	neu	no	land,sanctity		Faqir Shah Karnal is said to have come from Baghdad 250 years ago; the tomb was erected by his descendants	lands and well released for shrine
+F00959	SAINT_SHRINE	muslim	neu	no	land,sanctity		Services are maintained by a faqir and the shrine is in part supported by muafi grants.	shrine of Bu Ali Shah Qalandar
+F01039	HINDU_ASCETIC	hindu	neg	no	order,fakir_for_hindu		Thes=> cannibal faqirs are also called Aghor- panthi, and appear to be sometimes confused with the Oghar.	Aghori
+F01040	MUSLIM_RELIGIOUS	muslim	neu	no	sanctity		These shrines are Muhammadan in form, and the offerings, which are made on Thursdays, are taken by Muhammadan faqirs.	Sayyid shrines
+F01041	GENERIC_MENDICANT	unclear	neu	no	beggar		if one appears subscriptions are raised to feed Brahmans and faqirs	comet belief
+F01042	SAINT_SHRINE	unclear	neu	no	sanctity		refounded by a faqir Jalandharnath, in the days of Vikramaditya	city legend
+F01043	GENERIC_MENDICANT	unclear	neu	no	beggar		16 goats are sacrificed at the Rati and 13 at Kharif, sddhis and faqirs being entertained.	Nag worship in Kangra
+F01044	NAME	unclear	neu	no				Faqir Pujara of Jadun, a temple priest named Faqir

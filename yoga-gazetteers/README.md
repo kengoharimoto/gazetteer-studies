@@ -83,6 +83,26 @@ and census reports, and did that change by the time of the revised state gazette
    - The many "physical culture" clubs listed in these volumes are vyāyāmaśālās and gymnasia, not yoga.
    - The positive revaluation is therefore visible, but yoga as mass exercise is not yet a gazetteer subject.
 
+8. **"Fakir" was a general word for religious mendicants and ascetics, not a Muslim one**
+   (round two: 1,332 "fakir/faqir" and "sādhu" passages; `results/fakir_coded_all.tsv`).
+   - Where the passage states the referent's religion, Hindu or Sikh ascetics are called "fakir" in about 30% of
+     cases in 1866–1890 (40 against 95 Muslim) and about 24% in 1891–1935 (90 against 285). Examples include "the
+     caste of faqirs called Sattnami" (Oudh 1877) and the Udāsī "fakirs" of Guru Ram Rai (Dehra Dun 1911).
+   - About half of all colonial "fakir" passages do not identify a religion at all. In them "fakirs" are simply
+     the mendicant class to be fed, given land or counted.
+   - **"Sādhu" is rare before independence** (78 colonial passages against 942 for "fakir"). In the revised
+     gazetteers it rises to a third of the passages (43 of 128), and "fakir" narrows to Muslims.
+9. **The gazetteers rarely describe ascetic practice, and almost never as spectacle.**
+   - Only 5% of the relevant fakir/sādhu passages (58 of about 1,150) describe any bodily or contemplative practice.
+   - Most of those are Sufi practices recorded by the glossaries: dhikr, the forty-day chilla, ecstatic ḥāl, and
+     self-wounding to extract alms (Russell & Hira Lal 1916; Rose 1919). Others are saints' legends: twelve years in
+     the Chenab, fifty-one years on a sandhill.
+   - The **spectacle-ascetic of the travel and missionary literature is nearly absent**: the raised arm, the bed of
+     nails, the fakir buried alive. There is one bed of thorns (Thurston 1909), and hook-swinging appears only as
+     a practice "stopped by Akbar" (Allahabad 1911).
+   - The writer's judgement is again overwhelmingly neutral. It is negative in 9 Hindu, 13 Muslim and 41
+     unspecified-mendicant passages, out of about 1,150.
+
 These findings support the broad scholarly narrative of a disreputable "Jogi" replaced by a respectable "yoga"
 (literature: `results/literature.md`). They refine it in four ways:
 - the colonial district record is **neutral and taxonomic** rather than hostile;
@@ -136,6 +156,10 @@ year are given. Page numbers are given where the OCR shows a folio.
   (Punjab) and Thurston (Madras) weigh heavily in G2.
 - **Attitude is coded conservatively**, from the writer's own wording. Reported opinions ("the people revere him")
   are neutral.
+- **Round two** coded 1,332 "fakir/faqir/fakeer" and "sādhu" passages with `data/CODING_INSTRUCTIONS_FAKIR.md`. Its
+  pipeline is `scripts/fakir_passages.py` and `scripts/fakir_merge.py`. All 1,162 quotes were verbatim, 7 repeats
+  were excluded, and 15 of 16 randomly checked codes were right; the miss was minor. Religion is coded only where
+  the passage states it, so the Hindu share of "fakir" is a lower bound.
 - **The term list is English-spelling based** (yoga, yogi, jogi, jugi, Kanphata, Gorakhnath, samādhi, āsana,
   prāṇāyāma …). Passages that describe yogic practice without these words (e.g. "an ascetic sitting with his arm
-  raised") are not captured. *Fakir*, *sannyāsī*, *gosāīn*, *bairāgī* and *sādhu* were counted but not coded.
+  raised") are not captured. *Sannyāsī*, *gosāīn* and *bairāgī* were counted but not coded.

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Merge the core hits of results/kwic.tsv into passages for coding.
+(The fakir/sadhu round uses scripts/fakir_passages.py, a variant of this script.)
 
 Hits in the same volume less than 500 characters apart form one passage; the passage text runs
 from 450 characters before the first hit to 450 after the last. Passages that look like an index
