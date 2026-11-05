@@ -3,6 +3,8 @@
 What did "yoga", "yogi" and "Jogi" mean to the people who wrote the colonial district gazetteers, caste glossaries
 and census reports, and did that change by the time of the revised state gazetteers after independence?
 
+**Synthesis page:** `SYNTHESIS.html`, published at https://claude.ai/artifact/SxskLHSxdoBHtVTZ5U9znQ.
+
 ## Answer in brief
 
 1. **In the colonial texts (1866–1935) the yogi is not usually a yogi in the modern sense.**
