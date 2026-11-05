@@ -27,6 +27,47 @@ Nanak (Udāsī), Lormi (Bairāgī), Tiruvāvaḍuturai and Dharmapuram (Tamil Ś
 The finder opens with the study's verdict: Śaṅkara's tradition was regional, not dominant. Its rival seats (purple
 crosses) show where other traditions held the larger followings.
 
+## The answer
+
+As in the synthesis (`SYNTHESIS.md`, "The answer"; published page `SYNTHESIS.html`). **Regional, not dominant.** The
+tradition was present in some form in every region and carried the highest learned prestige, but as an organised
+following it led in only four areas.
+
+1. **Two social forms in two halves of India.** In the south and west: Smārta householders under a seat (a maṭha
+   headed by a Śaṅkarācārya). In the north, east and centre: the Daśanāmī orders, which owned land and were turning
+   into a caste.
+2. **It led on the Kanara coast, among Tamil Brahmans (48% Smārta), in the eastern Ganges plain and in the Bombay
+   Karnatak.** Everywhere else a Vaiṣṇava, Liṅgāyat, Nāth or Sikh-linked tradition had the larger following and,
+   usually, the larger estates.
+3. **The seats were weaker than the name suggests.** Śṛṅgeri was a small, indebted principality in Mysore that
+   depended on the Mysore state, with branches at pilgrimage centres but no land among the castes who called it their
+   guru. The landed weight in the west lay with two seats that broke away from Śṛṅgeri: Saṅkeśvar (c. 1570; thirty
+   inām villages) and Kudli (1656–57; estates in 30 taluks and states, mainly Dharwar and Bijapur). The other three
+   of the four seats barely appear.
+4. **After independence the estates disappeared and the seats became more visible.**
+
+## The evidence, and where it is
+
+The synthesis presents five kinds of evidence:
+
+| Evidence | What it shows | Detail |
+|---|---|---|
+| 1. Who followed | the two forms; allegiance as jurisdiction and property; orders turning into a caste | regional reports; `results/README.md` (Bombay) |
+| 2. Where | region by region, strongest to weakest, with who held more | regional reports; `map/` |
+| 3. How many | census counts of the Daśanāmīs and the rival orders in the same tables; rival houses' wealth | `census-images/README.md`; `rivals/README.md` (615 coded rows) |
+| 4. The seats | what each seat held; Śṛṅgeri and its two offshoots | `sringeri/README.md`; `mathas/README.md`; `mathas/archives/README.md` |
+| 5. Change | three dates: 1866–1890, 1900–1918, 1954–1989 | regional reports; `revised/README.md` |
+
+Two cautions carried through the study:
+- **Census headings are not followings.** "Jogī" is the largest heading in the north, but it is not a body of Nāth
+  ascetics: in the Punjab "Jogī & Rawal" was about half Muslim (36,718 of 75,469 in British Territory, 1891), and in
+  the UP the gazetteers describe Jogīs more often as a householder caste (`../yoga-gazetteers/`). The headings
+  include householders on both sides, and enumerators used "Goshain, Bairagi, Jogi, Saniyasi" interchangeably (NWP
+  1891).
+- **Rival houses were as rich or richer** where both are described (Tiruvāvaḍuturai Rs 2 lakhs a year against
+  Kumbakoṇam's Rs 14,000; the Bairāgī state of Nandgaon, 560 villages, against Dharampuri's 40), except in the Bombay
+  Karnatak, where Saṅkeśvar and Kudli out-endow the Liṅgāyat maṭhs.
+
 ## Regions
 
 | region | object | main sources | folder / report |
@@ -93,59 +134,8 @@ All six regions are coded and reported. The census caste tables are read for all
 (1954–1989) are coded as a third date. The Śaṅkara maṭhs are located across all volumes (`sringeri/`, `mathas/`), and
 338 Mysore government files on Śṛṅgeri and Kudli are coded (`mathas/archives/`).
 
-Overall answer to the study's question (synthesis, "The answer"):
-- **Regional, not dominant across British India.** Śaṅkara's tradition is present in some form in every region and
-  carries the highest learned prestige.
-- **Where it led as an organised following:** the Kanara and South Canara coast, Tamil Brahmans (48% Smārta), the
-  eastern Ganges plain (the densest Daśanāmī country, with Benares) and the Bombay Karnatak (Saṅkeśvar, Kudli).
-- **Where it was a minority:** Gujarat, Bengal, the Punjab, the Central Provinces, Mathura and Ayodhyā, and the
-  Liṅgāyat Karnatak. There the Vaiṣṇava, Nāth, Udāsī, Bairāgī or Liṅgāyat bodies held the larger followings and,
-  usually, the larger estates.
+## Open lines
 
-Main result of the maṭha layers:
-- Śṛṅgeri held a subsidised jāgīr in Mysore and branches at pilgrimage centres, but no estates among its caste
-  followers in Bombay and Madras.
-- The western Deccan's Śaṅkara estates belonged to the two seats that separated from it:
-  - Saṅkeśvar: thirty inām villages, mainly in Kolhapur, Belgaum and the Maratha states;
-  - Kudli (the gazetteers' "Kudalgi"): estates in 30 taluks and states, mainly in Dharwar and Bijapur, listed by
-    its Agent in 1934.
-
-Rivals (synthesis, "Evidence 3: how many"; coded in `rivals/`: 615 rows):
-- **Vaiṣṇava orders, almost everywhere.** The Rāmānandī Bairāgīs were the Daśanāmīs' direct rival in the north.
-  Elsewhere it was the region's own Vaiṣṇava house: Gauḍīya, Vallabha and Svāminārāyaṇa, Mādhva, Śrīvaiṣṇava.
-- **Other Śaiva networks:** Nāth Jogīs, Liṅgāyats, the Tamil non-Brahmin maṭhs.
-- **In the Punjab:** Udāsīs and Nirmalas.
-- **Benares:** Advaita among the learned and Daśanāmī institutions, with Śaiva shrines "greatly" predominating
-  over Rāmānandī and Vallabha influence (Nevill 1909).
-- **Wealth:** where both are described, the rival houses are as rich as the Śaṅkara houses or richer
-  (Tiruvāvaḍuturai Rs 2 lakhs against Kumbakoṇam's Rs 14,000; the Bairāgī state of Nandgaon, 560 villages). The
-  Bombay Karnatak, where Saṅkeśvar and Kudli out-endow the Liṅgāyat maṭhs, is the exception.
-- **Rival seats** (on the combined map, in the places finder, and tabulated beside the Śaṅkara houses in the
-  synthesis and `mathas/README.md`):
-  - Tiruvāvaḍuturai and Dharmapuram (Tamil Śaiva);
-  - Chitradurga (Liṅgāyat);
-  - Nandgaon and Lormi (Bairāgī);
-  - Kawardha (Kabīrpanthī);
-  - Tilla, Bohar (Nāth) and Dera Baba Nanak (Udāsī);
-  - Vadtal (Svāminārāyaṇa).
-- **Calcutta:** almost no Daśanāmīs (3 Atīths, 13 Gosāins in 1901). The ground belonged to Chaitanya Vaiṣṇavism and
-  Kālī, and among the educated to the Brahmos.
-- **Census totals of rival orders** (persons; `census-images/README.md`, "Rival orders in the same tables"):
-
-  | census | Daśanāmī / Gosāin | rival orders in the same table |
-  |---|---|---|
-  | NWP and Oudh 1891 | 103,320 | Jogī 78,387; Bairāgī 31,979 |
-  | Punjab 1891 | Gosain 13,344; Sanniasi 9,799 | Jogī-Rawal 91,937; Bairāgī 47,561; Udāsī 15,194 |
-  | Central Provinces 1891 | Gosain 24,796 | Bairāgī 29,298; Jogī 6,094; Nāth 5,008 |
-  | Tamil Madras 1891 | Smārta 47.6% of Brahmans | Aiyaṅgār 22.7%; Mādhva 2,650 |
-
-  - "Jogī" is the largest of these headings in the north, but it is not a body of Nāth ascetics. In the Punjab
-    ("Jogī & Rawal") about half are Muslim; in the NWP the gazetteers describe Jogīs more often as a householder
-    caste (`../yoga-gazetteers/`).
-  - The Bairāgīs outnumber the Daśanāmīs in the Punjab and the CP.
-  - These are census headings with loose categories, and they include householders on both sides.
-
-Open lines:
 - the Bombay and Madras inām records (the Inam Commission's registers) for the Saṅkeśvar and Kudli estates, the
   Puṣpagiri and Virūpākṣa maṭhs, and Kumbakoṇam. They are not online; see `mathas/README.md`;
 - the maṭhs' own records (Śṛṅgeri, Saṅkeśvar, Kudli, Kumbakoṇam, Bodh Gayā).
