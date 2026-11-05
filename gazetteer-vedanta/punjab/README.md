@@ -71,7 +71,10 @@ From the 1891 Punjab caste table (`../census-images/results/punjab1891_castes.ts
 | Bairāgī | 47,561 | 34,102 | Rohtak 6,317; Karnal 4,781; Delhi 4,491 |
 | Udāsī | 15,194 | 9,459 | Jalandhar 2,056; Ludhiana 1,865; Firozpur 1,114 |
 
-The Jogīs outnumber the Daśanāmīs (Gosain + Sanniasi) about four to one, the Bairāgīs about two to one. The Udāsīs
+The census heading Jogī-Rawal outnumbers the Daśanāmīs (Gosain + Sanniasi) about four to one, the Bairāgīs about two
+to one. But "Jogī & Rawal" is not a body of Nāth ascetics: in British Territory 36,718 of its 75,469 were Musalmān
+(the Rawals and Muhammadan Jogīs of Rose's *Glossary*). Hindu Jogīs outnumber Hindu Gosains and Sanniasis about 2.7
+to 1, and they include householders. The Udāsīs
 exceed the Gosāins. All Faqirs together number 315,305.
 
 ## 2. Institutions and descriptions

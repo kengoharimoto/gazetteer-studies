@@ -139,9 +139,11 @@ Rivals (synthesis, "Rivals: who else held the ground"; coded in `rivals/`: 615 r
   | Central Provinces 1891 | Gosain 24,796 | Bairāgī 29,298; Jogī 6,094; Nāth 5,008 |
   | Tamil Madras 1891 | Smārta 47.6% of Brahmans | Aiyaṅgār 22.7%; Mādhva 2,650 |
 
-  - The Nāth Jogīs are the largest ascetic body in the north.
+  - "Jogī" is the largest of these headings in the north, but it is not a body of Nāth ascetics. In the Punjab
+    ("Jogī & Rawal") about half are Muslim; in the NWP the gazetteers describe Jogīs more often as a householder
+    caste (`../yoga-gazetteers/`).
   - The Bairāgīs outnumber the Daśanāmīs in the Punjab and the CP.
-  - These are ascetic counts only, with loose categories.
+  - These are census headings with loose categories, and they include householders on both sides.
 
 Open lines:
 - the Bombay and Madras inām records (the Inam Commission's registers) for the Saṅkeśvar and Kudli estates, the

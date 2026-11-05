@@ -2,32 +2,31 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
 <style>
-/* Layout: one reading column (~68ch), as in the companion Śaṅkara study; two senses colour-coded throughout:
+/* Layout: one reading column (~68ch), as in the companion Śaṅkara study. Two senses are colour-coded throughout:
    indigo for "yoga" of the books (Patañjali), madder-red for the living Jogi of the districts. */
 :root{
   --bg:#f5f5f2; --surface:#ffffff; --fg:#1c2027; --muted:#5b636e; --rule:#d8dad5;
   --indigo:#34508a; --indigo-soft:#dfe5f2; --madder:#a2412f; --madder-soft:#f3dfda;
-  --c-caste:#a2412f; --c-ascetic:#c27c2c; --c-saint:#6d7a3a; --c-mend:#8a8f97; --c-yoga:#34508a; --c-modern:#2f7d7a;
+  --c-caste:#a2412f; --c-ascetic:#c27c2c; --c-saint:#6d7a3a; --c-mend:#8a8f97;
   --serif:"Newsreader","Iowan Old Style",Georgia,serif;
   --sans:"Atkinson Hyperlegible","Segoe UI",system-ui,sans-serif;
 }
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
   --bg:#14161b; --surface:#1b1e25; --fg:#e6e4de; --muted:#a2a8b1; --rule:#2d323b;
   --indigo:#9fb3e6; --indigo-soft:#222c43; --madder:#e48a77; --madder-soft:#3b2420;
-  --c-caste:#d9705b; --c-ascetic:#dd9d4f; --c-saint:#a3b266; --c-mend:#8d939c; --c-yoga:#8ea6e0; --c-modern:#5fb5b1; color-scheme:dark }}
+  --c-caste:#d9705b; --c-ascetic:#dd9d4f; --c-saint:#a3b266; --c-mend:#8d939c; color-scheme:dark }}
 :root[data-theme="dark"]{
   --bg:#14161b; --surface:#1b1e25; --fg:#e6e4de; --muted:#a2a8b1; --rule:#2d323b;
   --indigo:#9fb3e6; --indigo-soft:#222c43; --madder:#e48a77; --madder-soft:#3b2420;
-  --c-caste:#d9705b; --c-ascetic:#dd9d4f; --c-saint:#a3b266; --c-mend:#8d939c; --c-yoga:#8ea6e0; --c-modern:#5fb5b1; color-scheme:dark }
+  --c-caste:#d9705b; --c-ascetic:#dd9d4f; --c-saint:#a3b266; --c-mend:#8d939c; color-scheme:dark }
 body{background:var(--bg);color:var(--fg);font-family:var(--serif);font-size:18px;line-height:1.6;
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 main{max-width:760px;margin:0 auto;padding-block:48px 72px;display:flex;flex-direction:column;gap:44px}
 header{display:flex;flex-direction:column;gap:14px}
-.eyebrow,th,.chip,.src,.legend,.bar-label{font-family:var(--sans);letter-spacing:.04em}
+.eyebrow,th,.chip,.src,.legend,.bar-label,.label{font-family:var(--sans);letter-spacing:.04em}
 .eyebrow{font-size:13px;text-transform:uppercase;color:var(--muted)}
 h1{font-size:clamp(34px,6vw,50px);line-height:1.08;margin:0;font-weight:600;text-wrap:balance}
 h2{font-size:26px;line-height:1.2;margin:0 0 6px;font-weight:600;text-wrap:balance}
-h3{font-size:19px;margin:0;font-weight:600}
 p{margin:0}
 .lede{font-size:21px}
 .meta{font-family:var(--sans);font-size:14px;color:var(--muted)}
@@ -35,10 +34,11 @@ section{display:flex;flex-direction:column;gap:14px}
 em.y{font-style:normal;color:var(--indigo);font-weight:600}
 em.j{font-style:normal;color:var(--madder);font-weight:600}
 ol.list,ul.list{margin:0;padding-left:1.2em;display:flex;flex-direction:column;gap:8px}
+.answer{background:var(--surface);border:1px solid var(--rule);padding:18px 20px 18px 36px}
 .pair{display:grid;grid-template-columns:1fr 1fr;gap:14px}
 .card{background:var(--surface);border:1px solid var(--rule);border-top:4px solid var(--c);padding:16px 18px;display:flex;flex-direction:column;gap:10px;min-width:0}
 .card.y{--c:var(--indigo)} .card.j{--c:var(--madder)}
-.card .label{font-family:var(--sans);font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.label{font-size:12px;text-transform:uppercase;color:var(--muted)}
 .card blockquote{font-size:16.5px}
 blockquote{margin:0;padding:2px 0 2px 16px;border-left:3px solid var(--rule);font-style:italic}
 blockquote.y{border-color:var(--indigo)} blockquote.j{border-color:var(--madder)}
@@ -52,7 +52,7 @@ figcaption{font-family:var(--sans);font-size:14px;line-height:1.5;color:var(--mu
 .bar{display:flex;height:30px;border-radius:2px;overflow:hidden;min-width:0}
 .bar span{display:block;height:100%;background:var(--c);border-right:1px solid var(--surface)}
 .bar span:last-child{border-right:0}
-.k-caste{--c:var(--c-caste)} .k-ascetic{--c:var(--c-ascetic)} .k-saint{--c:var(--c-saint)} .k-mend{--c:var(--c-mend)} .k-yoga{--c:var(--c-yoga)} .k-modern{--c:var(--c-modern)}
+.k-caste{--c:var(--c-caste)} .k-ascetic{--c:var(--c-ascetic)} .k-saint{--c:var(--c-saint)} .k-mend{--c:var(--c-mend)}
 .legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px;color:var(--fg)}
 .legend span{display:inline-flex;align-items:center;gap:6px}
 .legend i{width:12px;height:12px;border-radius:2px;background:var(--c);display:inline-block}
@@ -63,57 +63,78 @@ th{font-size:12px;text-transform:uppercase;color:var(--muted);font-weight:700;ba
 tr:last-child td{border-bottom:0}
 td.num{font-variant-numeric:tabular-nums;white-space:nowrap;text-align:right}
 th.num{text-align:right}
-.chip{display:inline-block;font-size:11.5px;font-weight:700;text-transform:uppercase;padding:2px 7px;border-radius:3px;white-space:nowrap}
-.chip.ok{background:var(--indigo-soft);color:var(--indigo)} .chip.mod{background:var(--madder-soft);color:var(--madder)} .chip.new{background:var(--bg);color:var(--fg);border:1px solid var(--rule)}
+.chip{display:inline-block;font-size:11.5px;font-weight:700;text-transform:uppercase;padding:2px 7px;border-radius:3px;white-space:nowrap;margin-right:6px}
+.chip.ok{background:var(--indigo-soft);color:var(--indigo)} .chip.mod{background:var(--madder-soft);color:var(--madder)}
 .dates{display:flex;flex-direction:column;border-left:2px solid var(--rule);margin-left:6px}
 .date{display:grid;grid-template-columns:132px 1fr;gap:14px;padding:8px 0 8px 16px;position:relative}
 .date::before{content:"";position:absolute;left:-6px;top:15px;width:10px;height:10px;border-radius:50%;background:var(--madder)}
-.date.y::before{background:var(--indigo)}
 .date .when{font-family:var(--sans);font-size:14px;font-weight:700;color:var(--muted);font-variant-numeric:tabular-nums}
 .date .what{display:flex;flex-direction:column;gap:4px}
 footer{font-family:var(--sans);font-size:13.5px;color:var(--muted);border-top:1px solid var(--rule);padding-top:16px;display:flex;flex-direction:column;gap:6px}
 code{font-size:.85em}
-@media (max-width:640px){ body{font-size:17px} .pair{grid-template-columns:1fr} .date{grid-template-columns:1fr;gap:2px} .barrow{grid-template-columns:1fr;gap:4px} }
+@media (max-width:640px){ body{font-size:17px} .pair{grid-template-columns:1fr} .date{grid-template-columns:1fr;gap:2px} .barrow{grid-template-columns:1fr;gap:4px} .answer{padding-left:30px} }
 </style>
 
 <main>
 <header>
   <div class="eyebrow">British Indian gazetteers, glossaries and census, 1866–1935 · revised gazetteers, 1954–1989</div>
   <h1>Yoga, yogis and Jogis in the gazetteers</h1>
-  <p class="lede">What did “yoga”, “yogi” and “Jogi” mean to the officials who wrote the district gazetteers, caste glossaries and census reports? Did that change after independence? We coded 3,558 passages from about 350 volumes to find out.</p>
-  <p class="meta">Regions: Bombay and Sind, Madras, United Provinces, Bengal–Bihar–Orissa, Punjab, Central Provinces, Mysore and Kanara, Rajputana; the revised state gazetteers. Every quotation below was checked verbatim against the scanned text.</p>
+  <p class="lede">Historians of modern yoga describe a colonial yogi who was despised, a fakir and a showman, and a respectable “yoga” that was rebuilt from texts. Their evidence comes mostly from travel writing, missionary tracts and the press. This study reads a different kind of source: the administrative record that district officials wrote about the people they governed.</p>
 </header>
 
 <section>
-  <h2>The answer in brief</h2>
-  <ol class="list">
-    <li><strong>The colonial word was <em class="j">Jogi</em>, not yogi.</strong> “Jogi” occurs 11–22 times per million words; “yoga” 1–2 times. In the coded passages the Jogi is a caste, a member of a Nāth order, a local saint or a beggar. Yoga as a philosophy or practice is 4–5% of the colonial passages.</li>
-    <li><strong>The writers themselves separate the two.</strong> <em class="y">Yoga</em> is Patañjali’s school, learned and respectable. The <em class="j">Jogi</em> of the district is its degenerate namesake.</li>
-    <li><strong>The district record is neutral, not hostile.</strong> The writer’s own judgement is neutral in 94% of the colonial passages. Contempt is concentrated in the criminal-caste literature and in a few quoted authorities.</li>
-    <li><strong>The spectacle-yogi of the travel books is almost absent.</strong> Ascetic practice is rarely described at all, and the raised arm and the bed of nails nearly never.</li>
-    <li><strong>The revaluation of “yogi” came from below.</strong> Between 1891 and 1931 the Jugi weavers of Bengal and Assam campaigned to be called Nath, Jogi and finally Yogi, as a claim to ascetic descent.</li>
-    <li><strong>After independence, yoga is respectable but still scholarly.</strong> Yoga as exercise first appears in the revised gazetteers of the 1950s–60s.</li>
+  <h2>Sources</h2>
+  <p>The district gazetteers, the caste glossaries (Risley, Rose, Russell and Hira Lal, Thurston, Enthoven) and the census reports were written by officials, mostly British, who collected information district by district. Their task was to classify people: by caste, sect, occupation and land. The revised state gazetteers of 1954–1989 continued the series after independence, written by Indian officials.</p>
+  <p>We searched about 350 volumes from nine regions for <i>yoga, yogi, Jogi, Jugi, Kānphaṭa, Gorakhnāth</i> and practice terms, and then for <i>fakir, sādhu, sannyāsī, gosāīn</i> and <i>bairāgī</i>. 3,558 passages were coded for what the word referred to and for the writer’s own judgement, and each coding cites a verbatim quotation. Details of the method are at the end of the page.</p>
+</section>
+
+<section>
+  <h2>The answer</h2>
+  <ol class="list answer">
+    <li><strong>The record split “yogi” into two words.</strong> <em class="y">Yoga</em> was Patañjali’s philosophical school, learned and respectable. <em class="j">Jogi</em> named living people: a caste, a Nāth order, a census heading. The officials drew this line themselves when they defined the words, and blurred it when they counted people.</li>
+    <li><strong>The record is taxonomic, not hostile.</strong> The writer’s own judgement is neutral in 94% of colonial passages. The fakir-showman of the travel books, with his raised arm and bed of nails, hardly appears. Contempt is confined to the criminal-caste literature and a few quoted authorities.</li>
+    <li><strong>The split ran the same way for everyone.</strong> The Jugi weavers of Bengal and Assam used it from below: between 1891 and 1931 they claimed the names Nath, Jogi and finally Yogi, as a sign of ascetic descent. After independence the revised gazetteers keep yoga as philosophy and spirituality. Yoga as exercise appears only in the 1950s and 1960s.</li>
   </ol>
 </section>
 
 <section>
-  <h2>Who the Jogi was</h2>
-  <p>In each period we coded every passage containing yoga, yogi, Jogi, Jugi, Kānphaṭa or Gorakhnāth, or a practice term such as samādhi or āsana. The chart shows what the term referred to. Passages where it was only a name, an astronomical unit or OCR noise are left out.</p>
+  <h2>Two words</h2>
+  <p>When officials defined the words, they kept them apart. Several say outright that the living Jogi bears the name of a philosophy he no longer represents.</p>
+  <div class="pair">
+    <div class="card y">
+      <div class="label">Yoga: the school</div>
+      <blockquote class="y">In its literal and much-respected sense, Yogi means a follower of Patanjali’s Yoga school who is devoted to divine meditation.<span class="src">Bombay Gazetteer IX-1, 1901</span></blockquote>
+      <blockquote class="y">The term Jogi is derived from the Sanskrit yoga, union, and means a follower of the Yoga or Patanjal school of philosophy.<span class="src">Bombay Census 1911; Enthoven, Tribes and Castes of Bombay II, 1922</span></blockquote>
+    </div>
+    <div class="card j">
+      <div class="label">Jogi: the people</div>
+      <blockquote class="j">Used more precisely, it indicates a low class of people who make silk thread, string ornaments and sell strings to be worn as charms round the neck or waist. Many of them are strolling beggars.<span class="src">Gait, Census of Bengal 1901, para. 787</span></blockquote>
+      <blockquote class="j">First are the Jogis proper, a regular religious order of Hindus, which includes both the Aughar Jogis and the Kanphatta Jogi ascetics.<span class="src">Rose, Glossary II, 1911. His second class is the low-caste Jogis, whom he calls rascally beggars.</span></blockquote>
+    </div>
+  </div>
+  <p>Atkinson’s NWP Gazetteer (1879) opens its Jogi entry the same way: “The Jogi is, strictly speaking, a Shaiva, and a follower of the Yoga, or philosophical school of Patanjali”. The same entry then describes Jogis as mountebanks.</p>
+  <p>When officials <em>counted</em> people, the line blurred. Gait admits that “Yogi or Jogi is a word of much greater ambiguity … used in a very wide sense of any ascetic”. The NWP and Oudh census of 1891 found that “the words Goshain, Bairagi, Jogi, Saniyasi were apparently used by a considerable proportion of the enumerators as interchangeable”. The census filed Jogis under “Faqir” and merged them with “Rawal” and “Nath”. The distinction was clear in definition and muddled in classification.</p>
+  <p>Yoga as something practised in the present is rare and means meditation or trance: Dayānanda’s yoga vidyā, the Bairāgī’s meditation on his yoga-daṇḍa, prāṇāyāma in the Brahman’s sandhyā. No colonial passage treats posture as exercise.</p>
+</section>
+
+<section>
+  <h2>What “Jogi” named</h2>
+  <p>The chart counts only the passages on Jogis (Jogi, Jugi, Kānphaṭa, Gorakhnāthī). It shows what each passage says the Jogi was.</p>
   <figure>
-    <div class="bars" role="img" aria-label="Share of senses per period. 1866–1890: caste 44%, ascetic order 33%, saint 11%, mendicant 8%, yoga 4%. 1891–1935: caste 26%, ascetic order 40%, saint 17%, mendicant 8%, yoga 5%, modern 5%. 1954–1989: caste 10%, ascetic order 12%, saint 24%, mendicant 3%, yoga 9%, modern 42%.">
-      <div class="barrow"><div class="bar-label"><b>1866–1890</b>301 passages</div>
-        <div class="bar"><span class="k-caste" style="width:43.9%"></span><span class="k-ascetic" style="width:32.6%"></span><span class="k-saint" style="width:10.6%"></span><span class="k-mend" style="width:8.3%"></span><span class="k-yoga" style="width:4.3%"></span><span class="k-modern" style="width:0.3%"></span></div></div>
-      <div class="barrow"><div class="bar-label"><b>1891–1935</b>434 passages</div>
-        <div class="bar"><span class="k-caste" style="width:25.6%"></span><span class="k-ascetic" style="width:39.6%"></span><span class="k-saint" style="width:16.8%"></span><span class="k-mend" style="width:7.6%"></span><span class="k-yoga" style="width:5.1%"></span><span class="k-modern" style="width:5.3%"></span></div></div>
-      <div class="barrow"><div class="bar-label"><b>1954–1989</b>214 passages</div>
-        <div class="bar"><span class="k-caste" style="width:9.8%"></span><span class="k-ascetic" style="width:12.1%"></span><span class="k-saint" style="width:23.8%"></span><span class="k-mend" style="width:2.8%"></span><span class="k-yoga" style="width:9.3%"></span><span class="k-modern" style="width:42.1%"></span></div></div>
+    <div class="bars" role="img" aria-label="Jogi passages by sense. 1866–1890: caste 50%, ascetic order 30%, saint 11%, beggar 9%. 1891–1935: caste 30%, ascetic order 42%, saint 19%, beggar 9%. 1954–1989: caste 40%, ascetic order 28%, saint 22%, beggar 10%.">
+      <div class="barrow"><div class="bar-label"><b>1866–1890</b>266 passages</div>
+        <div class="bar"><span class="k-caste" style="width:49.6%"></span><span class="k-ascetic" style="width:30.5%"></span><span class="k-saint" style="width:11.3%"></span><span class="k-mend" style="width:8.6%"></span></div></div>
+      <div class="barrow"><div class="bar-label"><b>1891–1935</b>356 passages</div>
+        <div class="bar"><span class="k-caste" style="width:30.1%"></span><span class="k-ascetic" style="width:41.9%"></span><span class="k-saint" style="width:19.1%"></span><span class="k-mend" style="width:9.0%"></span></div></div>
+      <div class="barrow"><div class="bar-label"><b>1954–1989</b>50 passages</div>
+        <div class="bar"><span class="k-caste" style="width:40%"></span><span class="k-ascetic" style="width:28%"></span><span class="k-saint" style="width:22%"></span><span class="k-mend" style="width:10%"></span></div></div>
     </div>
     <div class="legend">
-      <span class="k-caste"><i></i>Caste</span><span class="k-ascetic"><i></i>Ascetic order</span><span class="k-saint"><i></i>Saint or shrine</span><span class="k-mend"><i></i>Beggar or performer</span><span class="k-yoga"><i></i>Yoga: philosophy or practice</span><span class="k-modern"><i></i>Modern movements</span>
+      <span class="k-caste"><i></i>Caste</span><span class="k-ascetic"><i></i>Ascetic order</span><span class="k-saint"><i></i>Saint or shrine</span><span class="k-mend"><i></i>Beggar or performer</span>
     </div>
-    <figcaption>Share of coded passages by sense. “Modern” after 1954 is mostly Vivekananda, Aurobindo and the Ramakrishna Mission, together with many “physical culture” clubs that have nothing to do with yoga. It does not measure yoga as exercise.</figcaption>
+    <figcaption>Share of coded passages on Jogis by sense. The rise of “ascetic order” after 1891 comes largely from the long Jogi articles in Rose’s Punjab glossary (1911–19). After 1954, Jogis are rarely mentioned at all.</figcaption>
   </figure>
-  <p>The balance differs by region. Before 1935 the Jogi was mainly a <strong>caste</strong> in Bengal, Madras, the Central Provinces and the UP. He was mainly a <strong>member of a Nāth order or a saint</strong> in the Punjab, home of the Tilla monastery, and in Mysore and Kanara. In Bombay he was as often a beggar or performer.</p>
+  <p>The answer depends on region more than on date. Before 1935 the Jogi was mainly a <strong>caste</strong> in Bengal, Madras, the Central Provinces and the UP. He was mainly a <strong>Nāth ascetic or a saint</strong> in the Punjab, home of the Tilla monastery, and in Mysore and Kanara. In Bombay he was as often a beggar or performer. In the Punjab, about half of the census heading “Jogi &amp; Rawal” was Muslim in 1891.</p>
   <div class="tablewrap"><table>
     <thead><tr><th>Region (1866–1935)</th><th class="num">Caste</th><th class="num">Ascetic order</th><th class="num">Saint</th><th class="num">Beggar</th></tr></thead>
     <tbody>
@@ -130,98 +151,76 @@ code{font-size:.85em}
 </section>
 
 <section>
-  <h2>Two words, kept apart</h2>
-  <p>The officials did not confuse the yogi of the books with the Jogi of the district. Several say outright that the living Jogi bears the name of a philosophy he no longer represents.</p>
-  <div class="pair">
-    <div class="card y">
-      <div class="label">Yoga: the school</div>
-      <blockquote class="y">In its literal and much-respected sense, Yogi means a follower of Patanjali’s Yoga school who is devoted to divine meditation.<span class="src">Bombay Gazetteer IX-1, 1901</span></blockquote>
-      <blockquote class="y">The term Jogi is derived from the Sanskrit yoga, union, and means a follower of the Yoga or Patanjal school of philosophy.<span class="src">Bombay Census 1911; Enthoven, Tribes and Castes of Bombay II, 1922</span></blockquote>
-    </div>
-    <div class="card j">
-      <div class="label">Jogi: the people</div>
-      <blockquote class="j">Used more precisely, it indicates a low class of people who make silk thread, string ornaments and sell strings to be worn as charms round the neck or waist. Many of them are strolling beggars.<span class="src">Gait, Census of Bengal 1901, para. 787</span></blockquote>
-      <blockquote class="j">First are the Jogis proper, a regular religious order of Hindus, which includes both the Aughar Jogis and the Kanphatta Jogi ascetics.<span class="src">Rose, Glossary II, 1911. His second class is the low-caste Jogis, whom he calls rascally beggars.</span></blockquote>
-    </div>
-  </div>
-  <p>The same split appears in Atkinson’s NWP Gazetteer (1879): “The Jogi is, strictly speaking, a Shaiva, and a follower of the Yoga, or philosophical school of Patanjali”. The same entry then describes Jogis as mountebanks. It appears again in the NWP and Oudh census of 1891, where Jogis “derive the name from a Yoga school of philosophy”. Yoga as something practised today is almost always meditation or trance. Before 1935 no passage treats posture as exercise.</p>
-</section>
-
-<section>
-  <h2>Where the hostility is</h2>
-  <p>Modern scholarship (Singleton, White, De Michelis) describes a colonial yogi lumped with the fakir and despised. The district record is calmer. Of 735 colonial passages on yoga and Jogis, the writer’s own judgement is negative in 27. Those 27 cluster in three places:</p>
+  <h2>How they were judged</h2>
+  <p>Of 735 colonial passages on yoga and Jogis, the writer’s own judgement is negative in 27. These cluster in three places:</p>
   <ul class="list">
-    <li><strong>The criminal-caste literature.</strong> Thurston on the Telugu Jogis (1909), the Central Provinces gazetteers (1907, 1909), the Etah police circle (1911).</li>
+    <li><strong>The criminal-caste literature:</strong> Thurston on the Telugu Jogis (1909), the Central Provinces gazetteers (1907, 1909), the Etah police circle (1911).</li>
     <li><strong>Rose’s Punjab glossary</strong>, on the Rawals and Muhammadan Jogis.</li>
-    <li><strong>A single authority, quoted twice.</strong> L. D. Barnett wrote that “the Yoga system in its practical side is largely based upon vulgar ideas of magic and Shamanism, and hence many of its professors have always been vulgar charlatans”. The Damoh gazetteer quoted it in 1911, and the revised Amravati gazetteer reprinted it unchanged in 1968.</li>
+    <li><strong>One authority, quoted twice.</strong> L. D. Barnett wrote that “the Yoga system in its practical side is largely based upon vulgar ideas of magic and Shamanism, and hence many of its professors have always been vulgar charlatans”. The Damoh gazetteer quoted it in 1911, and the revised Amravati gazetteer reprinted it unchanged in 1968.</li>
   </ul>
-  <p>The same holds for the other words for ascetics. Among about 1,250 fakir and sādhu passages and about 880 sannyāsī, gosāīn and bairāgī passages, negative judgements are 5% and 3%.</p>
-</section>
-
-<section>
-  <h2>Fakir, sādhu and the orders</h2>
+  <p>Contempt and spectacle might have been recorded under other words, so we coded those too: about 1,250 fakir and sādhu passages and about 880 sannyāsī, gosāīn and bairāgī passages. They show the same thing.</p>
   <ul class="list">
-    <li><strong>“Fakir” was not a Muslim word.</strong> Where the religion is stated, Hindu or Sikh ascetics make up 29% of “fakir” passages in 1866–1890 (41 against 99 Muslim) and 24% in 1891–1935 (90 against 292). Half of all colonial “fakir” passages name no religion: fakirs are simply the mendicants who are fed, endowed or counted. The census filed Jogis under “Faqir”.</li>
-    <li><strong>“Sādhu” is rare before independence</strong> (113 colonial passages against 974 for fakir). Rajputana is the exception: its census treated “the ascetic caste of Sadhus” as a caste, with tables of literacy and blindness. After 1954 “sādhu” becomes the usual word and “fakir” narrows to Muslims.</li>
-    <li><strong>Practice is rarely described.</strong> Only 5% of fakir and sādhu passages and 10% of order passages describe any practice. Most of these are Sufi practices (dhikr, the forty-day chilla, ecstatic ḥāl) or saints’ legends. The bed of points appears once, in a medical officer’s neutral account of Dādūpanthī sādhus (Adams, <i>Western Rajputana States</i>, 1899).</li>
-    <li><strong>The orders are institutions and estates.</strong> In 1891–1935 a fifth of sannyāsī, gosāīn and bairāgī passages describe married householders: zamindars, money-lenders, an Atīth caste. Only 45 of 883 connect the orders with yoga or Jogis, nearly always through census classification. In the NWP and Oudh census of 1891, “the words Goshain, Bairagi, Jogi, Saniyasi were apparently used by a considerable proportion of the enumerators as interchangeable”.</li>
-    <li><strong>The armed ascetic is history.</strong> Fighting Gosains, Nāgās and Sannyāsī raiders appear 72 times in the past tense and twice in the present. This bears out Pinch’s account of the demilitarised ascetic, at district level.</li>
+    <li><strong>Judgement is neutral there too.</strong> Negative in 5% of fakir and sādhu passages and 3% of order passages.</li>
+    <li><strong>Practice is rarely described.</strong> Only 5% of fakir and sādhu passages and 10% of order passages describe any practice. Most of these are Sufi exercises (dhikr, the forty-day chilla, ecstatic ḥāl) or saints’ legends. The bed of points appears once, in a medical officer’s neutral account of Dādūpanthī sādhus (Adams, <i>Western Rajputana States</i>, 1899).</li>
+    <li><strong>“Fakir” was not a Muslim word.</strong> Where a religion is stated, Hindu or Sikh ascetics are 29% of “fakir” passages in 1866–1890 and 24% in 1891–1935. Half of all colonial “fakir” passages name no religion. Fakirs are simply the mendicants who are fed, endowed or counted. After 1954 “sādhu” replaces “fakir” for Hindu ascetics.</li>
+    <li><strong>The orders are institutions and estates.</strong> A fifth of sannyāsī, gosāīn and bairāgī passages in 1891–1935 describe married householders: zamindars, money-lenders, an Atīth caste. Only 45 of 883 connect the orders with yoga or Jogis, nearly always through census classification. Armed ascetics appear only as history (72 passages in the past tense, 2 in the present).</li>
   </ul>
+  <p>The reason is the kind of writing. A district officer recording castes, land and revenue had little use for the exotic ascetic of travel writing. He recorded who the Jogis were, how many there were, what they owned and how they married. Where he passed judgement, it was usually on crime or on lapsed celibacy, not on yogic practice.</p>
 </section>
 
 <section>
-  <h2>The Jugis who became Yogis</h2>
-  <p>The weaving caste called Jugi or Jogi in eastern Bengal and Assam turned “yogi” from a label of low status into a claim to rank. The census reports record each step.</p>
+  <h2>Claiming the name</h2>
+  <p>The weaving caste called Jugi or Jogi in eastern Bengal and Assam turned the split to its own advantage. If <em class="j">Jugi</em> was a low weaver and <em class="y">Yogi</em> a renunciant of Brahman or Nāth descent, the caste wanted to be recorded as the second. The census reports record each step.</p>
   <div class="dates">
     <div class="date"><div class="when">1872–1877</div><div class="what"><span>Counted with the Patuas; in Hunter’s <i>Statistical Account</i> a despised weaving caste, “Jogi or Jugi”.</span></div></div>
-    <div class="date"><div class="when">1891</div><div class="what"><span>Risley: legends of descent from Siddhas and Yoginīs, or from Nātha ascetics and Brahman widows. “In the Presidency districts the Jugis are assuming the sacred thread en masse.”</span></div></div>
+    <div class="date"><div class="when">1891</div><div class="what"><span>Risley records legends of descent from Siddhas and Yoginīs, or from Nātha ascetics and Brahman widows. “In the Presidency districts the Jugis are assuming the sacred thread en masse.”</span></div></div>
     <div class="date"><div class="when">1901</div><div class="what"><span>“The Jogis strongly objected to the ordinary spelling of their caste name (Jugi) which is popularly derived from Jungi.” They call themselves Nath and their wives Debi. Gait adopts “Jogi” but rejects the Brahman claim.</span><span class="src">Census of Bengal 1901, para. 613, p. 381</span></div></div>
     <div class="date"><div class="when">1910–1911</div><div class="what"><span>District gazetteers: “Most Jugis call themselves Nath”; “the Jugis, or Jogis as they prefer to be called”. The 1911 census lists the name “Yogi” among the names claimed.</span><span class="src">Census of Bengal 1911, para. 828, p. 442</span></div></div>
-    <div class="date"><div class="when">1921</div><div class="what"><span>Bengal: a Brahman enumerator “would rather cut off his hand than write down a Jugi as Jogi and his wife with the title of Debya like a Brahman woman”. Assam adopts <b>Yogi</b> as the caste name. The leaders chose the spelling “to emphasise their ascetic origin”.</span><span class="src">Census of Bengal 1921, p. 349; Census of Assam 1921, ch. XI</span></div></div>
+    <div class="date"><div class="when">1921</div><div class="what"><span>Bengal: a Brahman enumerator “would rather cut off his hand than write down a Jugi as Jogi and his wife with the title of Debya like a Brahman woman”. Assam adopts <b>Yogi</b> as the caste name. Its leaders chose the spelling “to emphasise their ascetic origin”.</span><span class="src">Census of Bengal 1921, p. 349; Census of Assam 1921, ch. XI</span></div></div>
     <div class="date"><div class="when">1931</div><div class="what"><span>The caste claims “Yogi” again. Its priests ask to be recorded “merely as Brahmans”, and are refused. Bengal keeps the heading “Jogi and Jugi” (384,634 persons).</span><span class="src">Census of Bengal 1931, pp. 428, 467–468</span></div></div>
   </div>
-  <p>These dates are earlier than those in the current literature. The objection to “Jungi” belongs to 1901, not 1911. The 1931 Brahman claim was the priests’, not the whole caste’s. The claim rested on lineage (Gorakhnāth, the Nāth ascetics, seated burial), never on bodily practice.</p>
+  <p>The claim rested on lineage (Gorakhnāth, the Nāth ascetics, burial in a seated posture), never on bodily practice. It is a regional case. It shows how the word’s prestige was used, not where that prestige came from.</p>
 </section>
 
 <section>
   <h2>After independence</h2>
-  <p>In the revised gazetteers (1954–1989) the Jogi caste and the mendicant largely disappear. Yoga appears in three ways:</p>
+  <p>The revised gazetteers (1954–1989) rarely mention Jogis. Yoga appears in three ways:</p>
   <ul class="list">
     <li><strong>In Sanskrit learning:</strong> “Sankhya, Yoga, Nyaya, Vedanta” in college curricula, and Patañjali manuscripts in private libraries.</li>
-    <li><strong>Through Vivekananda, Aurobindo and the Ramakrishna Mission</strong>, always respectfully. The earliest such account is colonial: the Howrah gazetteer of 1909 says Vivekananda “travelled in America, expounding the doctrines of yoga and Vedântism”.</li>
-    <li><strong>In a few institutions, and only here as exercise:</strong> Kaivalyadhāma’s “Physical Culture and Yoga School” at Lonavla (Poona 1954). The Alwar glossary (1968) defines “Hath-yogi” as “a person following Yoga as a means of physical cultures”.</li>
+    <li><strong>Through Vivekananda, Aurobindo and the Ramakrishna Mission</strong>, always respectfully. One colonial gazetteer already has this: Howrah, 1909, where the Mission had its headquarters, says Vivekananda “travelled in America, expounding the doctrines of yoga and Vedântism”.</li>
+    <li><strong>As exercise, late and in few places:</strong> Kaivalyadhāma’s “Physical Culture and Yoga School” at Lonavla (Poona 1954). The Alwar glossary (1968) defines “Hath-yogi” as “a person following Yoga as a means of physical cultures”.</li>
   </ul>
 </section>
 
 <section>
-  <h2>What this adds to the literature</h2>
-  <p>No published study has used the gazetteers, glossaries and census systematically for this question; Briggs (1938) comes closest. The corpus tests several claims made in the literature:</p>
+  <h2>Against the literature</h2>
+  <p>No published study has used the gazetteers, glossaries and census systematically on this question; Briggs (1938) comes closest. This corpus tests several claims made in the literature:</p>
   <div class="tablewrap"><table>
     <thead><tr><th>Claim</th><th>Source</th><th>Gazetteer evidence</th></tr></thead>
     <tbody>
-      <tr><td>Respectable yoga was Patañjali’s; the living yogi was despised</td><td>De Michelis; Singleton; White</td><td><span class="chip ok">Supported</span> The split is drawn by the officials themselves, through the spelling yogi/Jogi. The contempt is narrower than claimed.</td></tr>
-      <tr><td>The haṭha yogin was merged with the fakir, mendicant and showman</td><td>Singleton, ch. 2–3</td><td><span class="chip mod">Qualified</span> Jogis were filed under Faqir, but the showman is rare. The usual Jogi is a caste.</td></tr>
-      <tr><td>The armed ascetic had dropped out of view by 1900</td><td>Pinch 2006</td><td><span class="chip ok">Supported</span> 72 past-tense passages against 2 present-tense.</td></tr>
-      <tr><td>Yoga as health and exercise appears only from the 1920s</td><td>Alter; Singleton</td><td><span class="chip ok">Supported</span> Absent from the colonial gazetteers; first seen in 1954 and 1968.</td></tr>
-      <tr><td>The Jugis adopted “Yogi” around 1911; Brahman claim in 1931</td><td>Debnath (unchecked snippet)</td><td><span class="chip mod">Corrected</span> Spelling campaign from 1901; Yogi tabulated in Assam 1921; 1931 claim by the priests.</td></tr>
-      <tr><td>Colonial “Jogi” meant mainly a caste</td><td>Ondračka; Bordeaux</td><td><span class="chip ok">Supported</span> Caste in 44% of passages before 1890, with strong regional variation.</td></tr>
+      <tr><td>Respectable yoga was Patañjali’s; the living yogi was despised</td><td>De Michelis; Singleton; White</td><td><span class="chip ok">Supported, narrowed</span>The split is drawn by the officials themselves, but the contempt is confined to a few kinds of text.</td></tr>
+      <tr><td>The haṭha yogin was merged with the fakir, mendicant and showman</td><td>Singleton, ch. 2–3</td><td><span class="chip mod">Qualified</span>Jogis were filed under “Faqir”, but the showman is rare. The Jogi is a caste or a Nāth ascetic, depending on region.</td></tr>
+      <tr><td>Colonial “Jogi” meant mainly a caste</td><td>Ondračka; Bordeaux</td><td><span class="chip mod">Regional</span>True for Bengal, Madras, the CP and the UP; not for the Punjab, where Jogis are mainly Nāth ascetics and saints.</td></tr>
+      <tr><td>The armed ascetic had dropped out of view by 1900</td><td>Pinch 2006</td><td><span class="chip ok">Supported</span>72 passages in the past tense, 2 in the present.</td></tr>
+      <tr><td>Yoga as health and exercise appears only from the 1920s</td><td>Alter; Singleton</td><td><span class="chip ok">Supported</span>Absent from the colonial volumes; first seen in 1954 and 1968.</td></tr>
+      <tr><td>The Jugis adopted “Yogi” around 1911 and claimed Brahman status in 1931</td><td>Debnath (unchecked snippet)</td><td><span class="chip mod">Corrected</span>The spelling campaign dates from 1901; Assam tabulated “Yogi” in 1921; the 1931 Brahman claim was the priests’.</td></tr>
     </tbody>
   </table></div>
 </section>
 
 <section>
-  <h2>Reading the sources with care</h2>
+  <h2>Method and caveats</h2>
   <ul class="list">
-    <li>Counts are of passages, not of opinions. A single glossary article (Rose, Thurston, Russell) yields many passages and weighs heavily in 1891–1935.</li>
-    <li>Attitude was coded from the writer’s own wording. Opinions reported from others count as neutral.</li>
-    <li>Religion, and links to yoga, were coded only where the passage states them, so the Hindu share of “fakir” is a lower bound.</li>
-    <li>The search terms are English spellings. Passages that describe ascetics without any of the words searched for are not captured. Madras is thin before 1935, and Hyderabad and Kashmir are not covered.</li>
-    <li>Coding was done by language-model coders under written rules. Every quotation was checked verbatim by script. Random samples (20, 16 and 14 passages) were reread by hand, with one minor miscode in each of the last two.</li>
+    <li><strong>Corpus.</strong> 352 volumes: 299 colonial gazetteers, glossaries and census reports (1866–1935) and 53 revised gazetteers (1954–1989), plus the Bengal and Assam census reports for the Jugi study.</li>
+    <li><strong>Coding.</strong> Language-model coders followed written rules. Every quotation was checked verbatim against the scan by script, and random samples (20, 16 and 14 passages) were reread by hand, with one minor miscode in each of the last two.</li>
+    <li><strong>Counts are of passages, not opinions.</strong> One long glossary article (Rose, Thurston, Russell) yields many passages, and these weigh heavily in 1891–1935.</li>
+    <li><strong>Judgement</strong> was coded from the writer’s own wording; opinions reported from others count as neutral. <strong>Religion and links to yoga</strong> were coded only where stated, so the Hindu share of “fakir” is a lower bound.</li>
+    <li><strong>Coverage.</strong> The search terms are English spellings, so ascetics described without any of these words are missed. Madras is thin before 1935; Hyderabad and Kashmir are not covered.</li>
   </ul>
 </section>
 
 <footer>
-  <span>Repository: <code>research/yoga-gazetteers/</code>. Full report <code>README.md</code>; census study <code>census/README.md</code>; literature check <code>results/literature.md</code>; coded data <code>results/coded_all.tsv</code>, <code>fakir_coded_all.tsv</code>, <code>order_coded_all.tsv</code>.</span>
-  <span>Companion study: Śaṅkara’s following in the British gazetteers (<code>research/gazetteer-vedanta/</code>).</span>
+  <span>Repository: <code>research/yoga-gazetteers/</code>. Full report <code>README.md</code>; Jugi census study <code>census/README.md</code>; literature check <code>results/literature.md</code>; coded data <code>results/coded_all.tsv</code>, <code>fakir_coded_all.tsv</code>, <code>order_coded_all.tsv</code>.</span>
+  <span>Companion study: Śaṅkara’s following in the British gazetteers (<code>research/gazetteer-vedanta/</code>). Its census comparisons of Jogīs with Daśanāmīs now take account of this study.</span>
 </footer>
 </main>

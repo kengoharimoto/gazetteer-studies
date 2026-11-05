@@ -169,10 +169,11 @@ regional picture is in the synthesis, "Rivals: who else held the ground". None o
   | Punjab | Gosain 13,344; Sanniasi 9,799 | Jogī-Rawal 91,937; Bairāgī 47,561; Udāsī 15,194 |
   | Central Provinces | Gosain 24,796; Sanyasi 2,449 | Bairāgī 29,298; Jogī 6,094; Nāth 5,008 |
 
-  - The akhāṛā and maṭh rivalries above are between orders of comparable size. The Nāth Jogīs are the largest
-    ascetic body in the north.
+  - The akhāṛā and maṭh rivalries above are between orders of comparable size. "Jogī" is the largest census heading in the
+    north, but it is not a body of Nāth ascetics: about half Muslim in the Punjab, and in the NWP described more often
+    as a householder caste (`../yoga-gazetteers/`).
   - The Bairāgīs outnumber the Daśanāmīs in the Punjab and the CP.
-  - These are ascetic counts with loose categories. In Tamil Madras the comparable figure is the Brahman shares:
+  - These are census headings with loose categories, householders included. In Tamil Madras the comparable figure is the Brahman shares:
     Smārta 47.6%, Aiyaṅgār 22.7%, Mādhva 2,650 persons.
 - **Calcutta.** No Śaṅkara maṭh is located in the city. The Daśanāmī foundations nearby (Bhot-Bagān, Tārakeśvar)
   stand in a landscape of Gauḍīya Vaiṣṇava "circles" and Kālī worship (24 Parganas 1914).

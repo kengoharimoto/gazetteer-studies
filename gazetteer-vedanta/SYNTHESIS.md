@@ -30,7 +30,8 @@ second to a Vaiṣṇava, Liṅgāyat or other Śaiva body.
 - **Where it was a minority or nearly absent:**
   - Gujarat: Vallabhas about 647,000 and Svāminārāyaṇs about 288,000; Dvārkā has no stated following.
   - Bengal proper and Calcutta: Vaiṣṇava, Śākta and Brahmo.
-  - Punjab: Jogīs 91,937 and Bairāgīs 47,561 against about 23,000 Gosains and Sanniasis.
+  - Punjab: Bairāgīs 47,561 and the census heading "Jogī-Rawal" 91,937 (about half of it Muslim) against about
+    23,000 Gosains and Sanniasis.
   - Central Provinces: Bairāgīs and Kabīrpanthīs lead.
   - Mathura and Ayodhyā.
   - The Liṅgāyat Karnatak, and even Kadur, Śṛṅgeri's own district, where Liṅgāyats outnumber all Brahmans two to
@@ -223,11 +224,15 @@ The census tables read for the Daśanāmīs also count their rivals (persons; `c
 | Bengal 1901 | Atīth 50,042 | "Gosain" 29,534, a mixed column, largely Vaiṣṇava |
 | Tamil Madras 1891 | Smārta 47.6% of Brahmans | Aiyaṅgār (Śrīvaiṣṇava) 22.7%; Mādhva 2,650 |
 
-- **Nāth Jogīs:** the largest ascetic body in the north. They outnumber the Daśanāmīs about four to one in the
-  Punjab, and come close to them in the NWP.
+- **Census "Jogīs":** the largest of these headings in the north, but not an ascetic body. In the Punjab the
+  heading is "Jogī & Rawal", and 36,718 of its 75,469 persons (British Territory) were Musalmān. Hindu Jogīs outnumber
+  Hindu Gosains and Sanniasis about 2.7 to 1, not 4 to 1. In the NWP, where the Jogīs (78,387) come close to the
+  Daśanāmīs, the district gazetteers describe Jogīs more often as a householder caste than as Nāth ascetics
+  (`../yoga-gazetteers/README.md`).
 - **Bairāgīs:** they outnumber the Daśanāmīs in the Punjab and the CP.
 - **Udāsīs:** they exceed the Gosāins in the Punjab.
-- **Ascetic counts only:** the lay Vaiṣṇava sects show only where the census asked (Bilaspur's 99,260
+- **Ascetic headings, not ascetics:** the headings include householders on both sides (Gharbārī Gosains and Atīths,
+  Jogī castes). The lay Vaiṣṇava sects show only where the census asked (Bilaspur's 99,260
   Kabīrpanthīs).
 - **Loose categories:** the 1891 NWP report says enumerators used "Goshain, Bairagi, Jogi, Saniyasi"
   interchangeably.

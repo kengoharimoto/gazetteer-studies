@@ -110,8 +110,11 @@ in `results/`. The synthesis's "Rivals: who else held the ground" and "Main riva
 | Madras Tamil division, 1891 | Smārta Brahman sub-castes 201,787 (47.6% of Brahmans) | Aiyaṅgār (Śrīvaiṣṇava) 96,127 (22.7%); Mādhva 2,650 |
 
 What this shows:
-- **The Nāth Jogīs are the largest ascetic body in the north.** They outnumber the Daśanāmīs in the Punjab by about
-  4 to 1 (with Sanniasis), and come close to them in the NWP.
+- **"Jogī" is the largest of these headings in the north, but it is not a body of Nāth ascetics.** In the Punjab
+  the heading is "Jogi & Rawal": 36,718 of its 75,469 (British Territory) were Musalmán. Hindu Jogīs (38,530)
+  outnumber Hindu Gosains and Sanniasis (14,254) about 2.7 to 1. The whole heading against Gosain and Sanniasi is
+  about 4 to 1. In the NWP the Jogīs come close to the Daśanāmīs, but the district gazetteers describe them more often
+  as a householder caste than as ascetics (`../../yoga-gazetteers/README.md`).
 - **The Bairāgīs are about a third of the Daśanāmīs in the NWP, and outnumber them in the Punjab and the CP.** In
   the CP Feudatory States they lead by more than six to one.
 - **The Udāsīs exceed the Gosāins in the Punjab.**
