@@ -54,6 +54,8 @@ and census reports, and did that change by the time of the revised state gazette
      - 1891: the thread and Brahman-descent legends (Risley);
      - 1901: objection to the spelling "Jugi" (Gait, Bengal);
      - 1911: the name "Yogi" formally claimed (O'Malley, Bengal);
+     - 1921, Bengal: a Brahman enumerator "would rather cut off his hand than write down a Jugi as Jogi and his wife
+       with the title of Debya like a Brahman woman" (Thompson);
      - 1921: "Yogi" adopted as the tabulated caste name, in Assam only, "to emphasise their ascetic origin" (Lloyd);
      - 1931: the caste's priests ask to be recorded as Brahmans, and are refused (Porter, Bengal).
 
