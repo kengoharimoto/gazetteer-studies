@@ -6,16 +6,18 @@ Reads data/fakir_passages.tsv and results/fakir_coded/*.coded.tsv. Writes
                                         in the same generation)
   results/fakir_referent_by_gen.tsv    referent x religion x generation
   results/fakir_tags_by_gen.tsv        attitude, practice and tags by generation (relevant referents only)
+Includes the regional supplement (scripts/region_passages.py; results/region_coded/).
 Usage (from research/): python3 -I yoga-gazetteers/scripts/fakir_merge.py
 """
-import csv, glob, re, collections
+import csv, glob, os, re, collections
 
 norm = lambda s: re.sub(r"\s+", " ", s).strip().lower()
-P = {p["id"]: p for p in csv.DictReader(open("yoga-gazetteers/data/fakir_passages.tsv", encoding="utf-8"), delimiter="\t")}
+P = {p["id"]: p for src in ("yoga-gazetteers/data/fakir_passages.tsv", "yoga-gazetteers/data/region_fakir_passages.tsv")
+     if os.path.exists(src) for p in csv.DictReader(open(src, encoding="utf-8"), delimiter="\t")}
 REFS = {"MUSLIM_RELIGIOUS", "HINDU_ASCETIC", "GENERIC_MENDICANT", "CENSUS_CATEGORY", "SAINT_SHRINE", "NAME", "OTHER", "JUNK"}
 IRRELEVANT = {"NAME", "OTHER", "JUNK"}
 rows, seen = [], set()
-for path in sorted(glob.glob("yoga-gazetteers/results/fakir_coded/*.coded.tsv")):
+for path in sorted(glob.glob("yoga-gazetteers/results/fakir_coded/*.coded.tsv") + glob.glob("yoga-gazetteers/results/region_coded/fakir_*.coded.tsv")):
     for r in csv.DictReader(open(path, encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE):
         i = (r.get("id") or "").strip()
         if i not in P or i in seen:

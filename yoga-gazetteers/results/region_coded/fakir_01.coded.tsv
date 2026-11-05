@@ -1,0 +1,127 @@
+id	referent	religion	attitude	practice	tags	page	quote	note
+FR00022	CENSUS_CATEGORY	unclear	neu	no	numbers		like Atit, Biwa and Sadhu, where the vaste, if it be right to denominate these classes as such, is chiefly composed of males	Sadhu a small caste, mostly male
+FR00025	CENSUS_CATEGORY	unclear	neu	no	order		Atit or Gosavi or Gosai. Jogi. Sadhu. Bairagi or Vairagi. Das or Devdas. Hijda or Pavaya. Sanyasi.	Sadhu in list headed Religious Orders or Brotherhoods
+FR00014	MUSLIM_RELIGIOUS	muslim	neu	no	political,order		of the Fakirs” assembled and elected Sarafraz K hail, the son of Ghulam Shah, to succeed him	Kalhora fakirs choose the ruler
+FR00015	MUSLIM_RELIGIOUS	muslim	neg	no	fraud,political		kissed the Kuran, put it on his head, swore to be faithful and true, and cast the spell of the fakir once more on those fearless but infatuated men	Kalhora ruler Abdul Nabi; fakir as pious pose
+FR00016	GENERIC_MENDICANT	unclear	neu	no	order,beggar		Khadras, whether originally Hindu or Musalman, dress like women, call themselves Fakirs, acknowledge a headman, have a creed of their own	eunuch order calling themselves Fakirs, worship Bakrasar Devi
+FR00012	SAINT_SHRINE	hindu	pos	no	sanctity,learning,magic		Jnaneshvar was a celebrated Sadhu, born in 1271, who is said to have died at Alandi in 1300.	miracles, tomb, pilgrimage
+FR00013	MUSLIM_RELIGIOUS	muslim	neu	no	political,order,sanctity		the family rose into notice through the sanctity of one Adam Shah, the chief of a large sect of mendicants in Chanduka	Kalhora fakirs descended from Adam Shah, warlike
+FR00026	MUSLIM_RELIGIOUS	mixed	neu	no			employ a Fakir, who is maintained for this purpose by the community, at marriage and death ceremonies	Fakir serves syncretic Pirana community, performs nika
+FR00017	SAINT_SHRINE	mixed	neu	no	sanctity,political	57	but Shah Inayat’s fakirs were too strong for him : so he made peace and gained his end afterwards by assassination in 1717 A.D.	Sufi Shah Inayat, disciples Hindu and Muslim; shrine fair
+FR00018	HINDU_ASCETIC	hindu	neu	no	sanctity		The former is the seat of a Hindu hereditary Sadhu who daily feeds fifty followers	held in highest respect in Sind
+FR00001	SAINT_SHRINE	hindu	neu	no	sanctity		They chiefly reverence the Mdndvi saint, Sadhu Laldas, to whom they yearly make presents of money and grain.	
+FR00002	HINDU_ASCETIC	hindu	neu	no	beggar		The Sadhu and Atit Bhats dress like Atit and Sadhu beggars.	
+FR00003	CENSUS_CATEGORY	unclear	neu	no			11. Ranimanga. 12. Sadhu. 13. Vahivancha. None of these divisions eat together or intermarry.	Sadhu an endogamous division of Bhats
+FR00004	NAME	unclear	neu	no				Fakir a personal name
+FR00005	HINDU_ASCETIC	hindu	neu	no	burial		Sadhus (ascetics), and small Doath children who have not cut their teeth, are buried. The Sadhus are monies, buried iu a sitting posture facing the north.	dead sadhus buried seated facing north
+FR00006	HINDU_ASCETIC	hindu	neu	no			A lucky day for the marriage is chosen by a holy man or sadhu of their own caste. Each sadhu has a group of from twelve to thirty villages in his charge.	caste sadhu as ritual specialist
+FR00007	HINDU_ASCETIC	hindu	neu	no			In some places, Gos&vis, BMts or Sadhus of their own caste officiate at all their ceremonies.	
+FR00008	MUSLIM_RELIGIOUS	mixed	neu	no			The Musalman ceremony is performed by a Fakir, and the Hindu rite of chori or altar-worship by a Brahman.	
+FR00009	HINDU_ASCETIC	hindu	neu	no			Their priests are ascetic sadhus of their own caste who officiate at all their ceremonies except at marriage.?	
+FR00010	CENSUS_CATEGORY	unclear	neu	no			SADA. —A sub-division of Sonars and Ling&yats. SADHU. — A sub-division of Bhats. SAGARS,*	glossary entry
+FR00011	HINDU_ASCETIC	hindu	neu	no	burial		Children under eighteen months, lepers, DeMli and sadhus (saints) are buried.	sadhus buried seated facing north
+FR00019	NAME	unclear	neu	no				Mian Fakir jo pir, market name
+FR00020	MUSLIM_RELIGIOUS	muslim	neu	no			a mean tomb ascribed to him half a mile south in a hollow, which the Kalhora Fakirs keep in repair	
+FR00021	SAINT_SHRINE	muslim	neu	no			may have been one of the fakir custodians of the shrine	shrine of Shah Makkai, venerated
+FR00027	HINDU_ASCETIC	hindu	neu	no	political,order		The Udasi Sadhus urged that they should be treated as Hindus and not as Sikhs.	Udasis asked to be returned as Hindus rather than Sikhs
+FR00033	CENSUS_CATEGORY	unclear	neu	no	beggar		The whole: Beggars, devotees, The terms given are not	Bava, Atit, Bairagi, Gosavi, Sadhu listed as mostly occupational terms
+FR00034	CENSUS_CATEGORY	mixed	neu	no	beggar,fakir_for_hindu		Hindus as well as Muslims. Presidency. . ’ i An occupational name.	Fakir listed as a begging occupational name
+FR00035	CENSUS_CATEGORY	unclear	neu	no	beggar		Fakir Throughout Presidency. the' Beggars . . An occupational name.	
+FR00036	CENSUS_CATEGORY	mixed	neu	no	beggar,fakir_for_hindu		Fakir VII All over Sind Beggars Both Hindus as well as Mus-	Fakir a functional term not a caste
+FR00049	CENSUS_CATEGORY	unclear	neu	no	land		8 castes hold one village can. Milos, Seyyid, Pathan, Mogul, Bunjéré, Ahir, Fakeer, and Christian.	Fakeer listed as a landowning caste
+FR00050	SAINT_SHRINE	unclear	neu	no			According to one it was after a Fakir, Nasir Shah, whom the General found living in the place.	Nasirabad named after a fakir
+FR00037	SAINT_SHRINE	unclear	neu	no	magic,sanctity		the descendants of Lalsingh (who became a: fakir and ts said to have performed miracles) call themselves sddh	Meo ancestor turned fakir, miracles
+FR00038	SAINT_SHRINE	muslim	neu	no	sanctity		The tomb of Shah Sarafabdal, a faqir who is stated to have come to Dholpur about.the middle of the sixteenth century	Hindu ascetic Munisidh lived in a cave nearby, friendly with him
+FR00039	CENSUS_CATEGORY	unclear	neu	no	land		eight castes hold one village each,—Christian, Mah, Sayyid, Pathan, Mughal, Banjéraé, Ahir, and Fakir.	Fakir listed as a landowning caste
+FR00040	SAINT_SHRINE	unclear	neu	no			According to one, it was after a fakir, Nasir Shah, whom tho general found living in the place.	Nasirabad named after a fakir
+FR00041	HINDU_ASCETIC	hindu	neu	no	fakir_for_hindu,order		he and she escape punish- ment by going to a temple and putting on fakir’s costumc—dust- colorcd clothes.	priests or Gosains in temple wear fakir dress as penance after intrigue
+FR00043	NAME	muslim	neu	no				Malik Fakir-udin, a personal name
+FR00044	MUSLIM_RELIGIOUS	muslim	neu	no	magic,political	185	Wherever he caught a fakir he is - said to have given him the option of performing a miracle, or of having his nose and ears cut off.	Hindu ruler persecutes Muslim fakirs; ruler described as deranged
+FR00045	MUSLIM_RELIGIOUS	muslim	neu	no			Fakirs are of varions races; they are usually “ mudérias,” or attendants of shrines ; they make the salars, or flaga, of the saint Saiyad Masatid.	village fakir circumcises and guards new graves
+FR00046	OTHER	unclear	neu	no				fakir in a romance (Hir Ranja)
+FR00047	SAINT_SHRINE	muslim	neu	no	land,sanctity		the fakir of which brought a brick from Mecca one hundred years ago, and a grant was made him by two villages in consequence	hermitage fakir given two villages
+FR00048	SAINT_SHRINE	unclear	neu	no	magic	267	The ruin of the Khandelwal and the rise of the Mahiur is attributed to the curse of a fakir	
+FR00051	HINDU_ASCETIC	hindu	neu	no	order,austerity		the others are known by the general name of Sadhu or Swami, among whom is the particular section called Naga	Dadu-panthis: celibacy, vegetarianism, self-denial; Nagas scantily dressed
+FR00052	HINDU_ASCETIC	hindu	neu	no	order,land		open to Sadhus of all creeds as places of rest while on their pilgrimages	Dadu-panthi Nagas trained from boyhood; celibate; recruits from Hindus and Mussalmans
+FR00054	CENSUS_CATEGORY	muslim	neu	no	numbers		Rajput converts . ° ; . ° ; ; . 4 Saids and Fakirs : ‘ ° ° ‘ ° . x 4	Saids and Fakirs 4 percent of Mussulmans
+FR00056	HINDU_ASCETIC	hindu	neu	no	fraud,political		Mulldhs and other Mahomedans holding office, having assumed the garb of «Sadhus,” left the country in disguise	Muslims flee Jodhpur disguised as sadhus, 1707
+FR00057	HINDU_ASCETIC	hindu	mixed	yes	austerity,magic,learning		Many of them can perform great feats of endurance, some never requiring to sleep in the recumbent position, others being able to withstand all weathers without clothes, lie on sharp points	never lying down to sleep, nakedness in all weathers, bed of points; claim occult knowledge
+FR00058	HINDU_ASCETIC	hindu	neu	no			Panther skins are much sought after by Sadhus, for use as praying carpets.	
+FR00059	HINDU_ASCETIC	hindu	neu	no			Peacocks are considered birds of good omen, and their tail-feathers are much prized by Sadhus and temple keepers.	
+FR00060	HINDU_ASCETIC	hindu	neu	no	health		The first case occurred in a Sadhu, back from a pilgrimage to Hardwar.	cholera case in a sadhu returning from Hardwar
+FR00067	HINDU_ASCETIC	hindu	neu	no	order,austerity		who profess to have entirely renounced the world and its pleasures, who live on alms and spend their time in contemplation	Dadupanthi Viraktas; Sadhus or Swamis with Naga section
+FR00068	HINDU_ASCETIC	unclear	neu	no	order,austerity		The Jains have two classes — the Tatis or Sadhus, ascetic and celibate devotees, and the Sarawaks or laity.	Jain sadhus
+FR00071	CENSUS_CATEGORY	hindu	neu	no	numbers,order		but the Sadhus, Bairagis, Gosains, Naths and Jogis are fairly numerous. The Nagas and Dadupanthis number 8,972.	
+FR00072	CENSUS_CATEGORY	muslim	neu	no	numbers		The most numerous tribes in this group are the Meos, Fakirs, Musalman Rajputs	Fakirs counted among Musalman tribes
+FR00075	JUNK	unclear	neu	no				table
+FR00076	JUNK	unclear	neu	no				table
+FR00061	CENSUS_CATEGORY	unclear	neu	no	land		8 castes hold one village each — Mali, Sayyid, Pathan, Mughal, Bunjaras, Ahir, Fakir and Christian.	Fakir listed as a landowning caste
+FR00065	NAME	unclear	neu	no				Sadhu a Rajput ancestor name, Sadhani clan
+FR00066	HINDU_ASCETIC	hindu	neu	no	order,austerity		and the Sadhus or Swamis, including the section called Naga.	Dadupanthis; celibate; Nagas trained in arms; recruits from Hindus and Mussalmans
+FR00062	HINDU_ASCETIC	hindu	neu	no	order,austerity		the Viraktas or ascetics and the Sadhus or Swcimis, i.e. celibates, and the latter are not entirely cut off from temporal affairs, several of them being money-lenders	Dadupanthis; celibacy, vegetarianism
+FR00063	HINDU_ASCETIC	hindu	neu	no	order		some line old temples and buildings belonging to the Sadhus of the Nirnnjnni sect	Niranjani sadhus with yearly fair
+FR00064	NAME	unclear	neu	no				Fakir Das, a personal name
+FR00078	CENSUS_CATEGORY	unclear	neu	no	numbers		Among Sadhus, one of: the great ascvtic castes, one naturally looks for a low proportion of male children	Sadhus a great ascetic caste, few females
+FR00081	CENSUS_CATEGORY	hindu	neu	no	numbers		Excluding the ascetic caste of Sadhus (684), among whom, naturally, one would find fewer women	
+FR00083	CENSUS_CATEGORY	unclear	neu	no	numbers		it is noticeable that the Sadhus and Bairagis are devotee castes, and the Darogas, Chakars	many widows among Sadhus and Bairagis
+FR00085	JUNK	unclear	neu	no				table
+FR00086	CENSUS_CATEGORY	unclear	pos	no	learning,numbers		come in Kajputana the Musalman tribe of Saiyad, the ascetic Sadhus, and the Brahmans, all of whom have a proportion of over 100 literate per mille.	Sadhus well educated
+FR00087	CENSUS_CATEGORY	unclear	neu	no	learning,numbers		Meos, Gujars, Minas, Malis, Jats, Kasais, Ahirs, Nais, and Fakirs, none of whom have a proportion of over 10.	Fakirs least educated; Sadhus among best female literacy
+FR00090	CENSUS_CATEGORY	unclear	neu	no	health,numbers		and among females the Fakirs, Kaimkhanis, Kasais, Kolis, Lakheras,	Fakirs free of leprosy
+FR00091	CENSUS_CATEGORY	unclear	neu	no	health,numbers		there is a ve: high proportion of insane males among the following castes, namely Fakirs (217), Kasais (182), Dhobis (135)	
+FR00092	CENSUS_CATEGORY	unclear	neu	no	beggar,health,numbers		Here again the high figure among the ascetics or religious begging castes of Sads and Swamis is noticeable.	blindness high among Gosains, Swamis, Sadhus, Bairagis, Fakirs
+FR00093	CENSUS_CATEGORY	unclear	neu	no	numbers		In 1901 they were included among Sadhus, but the enquiries	new caste Sad separated from Sadhus
+FR00094	CENSUS_CATEGORY	unclear	neu	no	beggar,order		Here, too, . they are said to be quite distinct from Sadhus, but their principal occupation in this State is still that of religious mendicancy and asceticism.	Sads, a sect in Marwar
+FR00098	CENSUS_CATEGORY	unclear	neu	no	health,numbers,beggar		The proportion of the Blind is the highest in the Sadhu caste in the males (732) of Ajmer-Merwara	Sadhu caste: deaf-mutes and blind
+FR00100	CENSUS_CATEGORY	unclear	neu	no	numbers		Fakir . . . 64,219 1 2,767; -t- 16-2 j +58 0	Fakir population figures
+FR00101	CENSUS_CATEGORY	mixed	neu	no	numbers,fakir_for_hindu		Fakirs have been returned both as Hindus and Musalnians and are found in each and every State in more ur less niimbers.	
+FR00149	HINDU_ASCETIC	hindu	neu	no	healing,magic,fakir_for_hindu		(d) fakirs or Bairagi sadhus who claimed to be able to cure disease through occult powers	fakirs equated with Bairagi sadhus as healers
+FR00150	JUNK	unclear	neu	no				table of contents
+FR00151	HINDU_ASCETIC	hindu	neu	no	order,political	44	the State, like many others in Rajcs‘han, acc uired the services of about 300 Bairagi Sadhus to serve as police guards.	Bairagi sadhus as akhada militia
+FR00152	HINDU_ASCETIC	hindu	neu	yes	order,austerity,householder	44	while the tyagis believe in penance and smear bhasmi or ashes on their bodies	tyagi Bairagis: penance, ash-smearing; many settled as farmers
+FR00153	HINDU_ASCETIC	hindu	neu	no	order	45	Gosain sadhus are among the Das-Namis as Giris, Puris, Bhartis, Van, etc.	maths, Naga sanyasis, akhada affiliations
+FR00154	HINDU_ASCETIC	hindu	neu	no	order,performer,householder	45	There is a number of Nath sadhus belonging to the nine sub-sects	Naths now traders, farmers, snake-charmers; Gosain maths; Ram Sanehis
+FR00155	MUSLIM_RELIGIOUS	muslim	neu	no	beggar	46	Fakirs: Muslim fakirs are also to be found near mosques in the towns and villages.	Jain sadhus stay in sthanakas during the rains
+FR00156	GENERIC_MENDICANT	mixed	neg	no	beggar,fraud,crime	46	There are begging classes among both Hindus and Muslims. Apart from those Brahmans who by custom depend for a living on public charity, cther Hindu beggars are Nath babas and Garudias.	Mundcheer fakirs threatened to shed own blood for alms; now gone
+FR00157	HINDU_ASCETIC	hindu	neg	no	fraud,beggar	47	A fairly common sight is a group of bogus sadhus driving along a few cattle and seeking alms in the name of fictitious gaushalas.	
+FR00131	GENERIC_MENDICANT	unclear	neu	no	political	89	emissaries from Delhi in the shape of fakirs	fakirs as rebellion emissaries 1857
+FR00132	HINDU_ASCETIC	hindu	neu	no	burial		The exceptions are devotees of Ram Deoji in Merwara and Sadhus and Balais of some sects who bury their dead.	
+FR00133	CENSUS_CATEGORY	unclear	neu	no		652	Scheduled Castes who have zo, Rebhan embraced Christian _ reli- z1. Sadhu gion. 22, Teli	Sadhu in list of castes
+FR00134	NAME	unclear	neu	no				Sadhu Singh, a personal name
+FR00135	GENERIC_MENDICANT	unclear	neu	no		704	Some people say that the name is so as the fakirs from … different places took up their temporary residence here when visiting, Ajmer.	fakirs lodging at the Adhai-din-ka-jhonpara
+FR00136	SAINT_SHRINE	muslim	neu	no	sanctity		A Musalman Faqir, named Soonda, who lived in the ruins of a morcha (entranchment) of the fort of Taragarh, is said to have gone: from Ajmer to Baghdad	Bara Pir shrine; Hindus and Muslims built dargah; pious life
+FR00137	SAINT_SHRINE	hindu	neu	no	burial		Near the temple, there are samadhis of Hindu sadhus resembling tombs	
+FR00138	SAINT_SHRINE	unclear	neu	no			in the same way as the cell of Soonda faqir, has come to be called-Piran Pir-or Bada Pir.	Chilla of Salar Ghazi; Soonda faqir's cell
+FR00139	SAINT_SHRINE	hindu	neu	no		733	the marble footprints of a sadhu, who from the inscription engraved on it, appears to be Jaita Amarjika, pupil of Swami Ramdasaji of the Devamutara sakha	footprints memorial
+FR00141	MUSLIM_RELIGIOUS	muslim	neu	no	magic,political		Major Powlett states that he gave fakirs the option of their noses cut off or of performing miracles	Rao persecutes Muslims; ruler described as deranged
+FR00142	MUSLIM_RELIGIOUS	muslim	neu	no			The rite of circumcision is-performed by the village barber (Nai) and the village Fakir who also guards a-new grave for some days	Meo ceremonies
+FR00143	CENSUS_CATEGORY	unclear	neu	no	numbers		Others, numerically unimportant social groups are the following:3 Kumhars or potters, Fakirs, Kulis and Julahas (weavers),	footnote says such caste names include Hindus as well as Muslims
+FR00144	MUSLIM_RELIGIOUS	muslim	neu	no			The shawls etc. are removed and given to the fakir present there.	Muslim burial rite
+FR00145	GENERIC_MENDICANT	unclear	neu	no	magic,healing		Certain sadhus and fagirs called Tantriks are believed to possess magical powers to,remove fevers, evil effects of ghosts, or of evil eye.	
+FR00147	JUNK	unclear	neu	no				glossary list
+FR00148	HINDU_ASCETIC	hindu	neu	no			Same as Sadhu, a hermit A holy man among Hindus	glossary definition
+FR00163	CENSUS_CATEGORY	muslim	neu	no	numbers		9. Dholi, 10. Fakir, 11, Mali, 12. Rang- rez, 13. Dhobi, 14. Jat	Fakir listed among Muslim convert castes
+FR00164	SAINT_SHRINE	unclear	neu	no			There are some cenotaphs around the town built in memory of heroes and Sadhus	
+FR00166	GENERIC_MENDICANT	unclear	neu	no	magic,healing	102	Certain Sadhus and Fagirs called Tantrikas, are said lo possess magical powers to remove fevers, evil effects of ghosts, or of evil eyc.	
+FR00168	HINDU_ASCETIC	hindu	neu	no	healing,magic		Some Sadhus used both types of medici- nes and magical spells to exorcise diseases	
+FR00169	HINDU_ASCETIC	unclear	neu	no	sanctity	436	A preparation of jowar, bajra, maize or barley flour. Saintly persons. Era. A deed.	glossary definition of Sadhus
+FR00170	NAME	unclear	neu	no				Sadhu Sita Ram, a personal name
+FR00171	OTHER	unclear	neu	no				Sadhu Margi, a Jain sect
+FR00172	HINDU_ASCETIC	hindu	neu	no	burial		The exceptions are devotees of Ram Deoji, Sadhus of certain areas and Balais who bury their dead.	
+FR00173	NAME	unclear	neu	no				Sadhu Sita Ram Dass, movement leader
+FR00175	MUSLIM_RELIGIOUS	muslim	neu	no			Funeral feasts are arranged for the relatives and fakirs on the third, tenth, twentieth, thirtieth and fortieth days	fakirs fed at funeral feasts
+FR00176	HINDU_ASCETIC	unclear	neu	no			Wall paintings in the Jain temples depict important events in the life of Lord Mahavir, Parsavanath & c. and of Jain Sadhus	Jain sadhus in temple paintings
+FR00177	HINDU_ASCETIC	unclear	neu	no		124	Wooden pots used by Jain Sadhus were manufactured at Kucha- man.	Jain sadhus
+FR00178	HINDU_ASCETIC	hindu	neu	no	land		Sasan lands were those which were granted in cha- tity to the Brahmans, Charans, Naths, Sadhus etc. and were held rent-free	
+FR00179	SAINT_SHRINE	hindu	pos	no	sanctity,learning	392	He commanded great fame and respect in his area and made many disciples who followed the sect kaown as Niranjani.	Haripurushji of Kaprod; Sadhu Devadass published his work
+FR00180	HINDU_ASCETIC	mixed	neu	no	healing,magic		Religion was closely associated with the art of healing and priests (Sadhus and Maulvis) functioned as medicine-men.	fairs at Tejaji, Ramdeoji, Muslim shrine
+FR00181	HINDU_ASCETIC	hindu	neu	no	order		where we come across some old fine temples and buildings belonging to the Sadhus of the Niranjani sect	Nath sect stronghold also nearby
+FR00182	JUNK	unclear	neu	no				glossary list
+FR00185	HINDU_ASCETIC	unclear	pos	no	learning		The classes which enjoyed the greatest facilities for education and consequently had the greatest. proportion of literates were the Brahmans and Jain Sadhus3	Jain sadhus generally literate
+FR00186	JUNK	unclear	neu	no				glossary list
+FR00187	MUSLIM_RELIGIOUS	muslim	neu	no			A funeral feast is arranged by the chief mourner for the relatives and the fakirs on the third, tenth, tweatieth and fortieth days.	fakirs fed at funeral feast
+FR00188	SAINT_SHRINE	unclear	neu	no			There are ruins of a monastery said to have been built by Bhav Brahm Sadhu.	
+FR00190	NAME	unclear	neu	no				Sadhu Shaikhawat, ancestor of Sadhani chiefs
+FR00191	NAME	unclear	neu	no				Sadhu, ancestor of the Sadhani sept
+FR00192	MUSLIM_RELIGIOUS	muslim	neu	no			A funeral feast is arranged by the chief mourner for the relatives and the fakirs, on the third, tenth, twentieth and fortieth days.	fakirs fed at funeral feast
+FR00194	MUSLIM_RELIGIOUS	muslim	neu	no			A funeral feast is arranged by the chief mourner for the relatives and fakirs on the third, tenth, twentieth and fortieth days after the death.	fakirs fed at funeral feast

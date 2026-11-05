@@ -1,0 +1,47 @@
+path	ident	region	vol	district	year	gen	kind	role	dup	note	bytes
+yoga-gazetteers/regions/data/ia_ocr/dli.csl.8508.txt	dli.csl.8508	Bombay	EN1	Bombay (all)	1920	G2	glossary	primary		Enthoven, Tribes and Castes of Bombay I	1017997
+yoga-gazetteers/regions/data/ia_ocr/dli.csl.7823.txt	dli.csl.7823	Bombay	EN2	Bombay (all)	1922	G2	glossary	primary		Enthoven, Tribes and Castes of Bombay II	1332259
+yoga-gazetteers/regions/data/ia_ocr/dli.csl.8518.txt	dli.csl.8518	Bombay	EN3	Bombay (all)	1922	G2	glossary	primary		Enthoven, Tribes and Castes of Bombay III	1193235
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.120369.txt	in.ernet.dli.2015.120369	Bombay	IGB1	Bombay (all)	1909	G2	gazetteer	primary		Imperial Gazetteer, Provincial Series, Bombay I	1496140
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.146789.txt	in.ernet.dli.2015.146789	Bombay	IGB2	Bombay (all)	1909	G2	gazetteer	primary		Imperial Gazetteer, Provincial Series, Bombay II	1915035
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.62034.txt	in.ernet.dli.2015.62034	Bombay	SIND07	Sind	1907	G2	gazetteer	primary		Gazetteer of the Province of Sind (Aitken)	1375434
+yoga-gazetteers/regions/data/ia_ocr/dli.csl.3395.txt	dli.csl.3395	Bombay	SINDK	Karachi	1919	G2	gazetteer	primary		Sind Gazetteer B vol I, Karachi	379004
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.34603.txt	in.ernet.dli.2015.34603	Bombay	SINDS	Sukkur	1919	G2	gazetteer	primary		Sind Gazetteer B vol III, Sukkur	195315
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.281433.txt	in.ernet.dli.2015.281433	Bombay	SINDH	Hyderabad (Sind)	1927	G2	gazetteer	primary		Sind Gazetteer B vol II, Hyderabad	205422
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.71789.txt	in.ernet.dli.2015.71789	Bombay	NAS13	Nasik	1913	G2	gazetteer	primary		Bombay Gazetteer XV, Nasik and Surgana (1913)	56746
+yoga-gazetteers/regions/data/ia_ocr/wbsl.4318.txt	wbsl.4318	Bombay	BC1891	Bombay (all)	1892	G2	census	primary		Census 1891 Bombay report (Baines)	810195
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.55938.txt	in.ernet.dli.2015.55938	Bombay	BC1901	Bombay (all)	1902	G2	census	primary		Census 1901 Bombay report (Enthoven)	748665
+yoga-gazetteers/regions/data/ia_ocr/india.history.resource.92542.txt	india.history.resource.92542	Bombay	BC1911	Bombay (all)	1912	G2	census	primary		Census 1911 Bombay report (Mead and Macgregor)	1231207
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.116048.txt	in.ernet.dli.2015.116048	Bombay	BC1921	Bombay (all)	1922	G2	census	primary		Census 1921 Bombay report (Sedgwick)	1281675
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.56028.txt	in.ernet.dli.2015.56028	Bombay	BC1931	Bombay (all)	1933	G2	census	primary		Census 1931 Bombay report (Dracup and Sorley)	1926559
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08635.txt	dli.ministry.08635	Rajputana	RG1	Rajputana (all)	1879	G1	gazetteer	primary		Rajputana Gazetteer I	735708
+yoga-gazetteers/regions/data/ia_ocr/wbsl.15419.txt	wbsl.15419	Rajputana	RG2	Rajputana (all)	1879	G1	gazetteer	primary		Rajputana Gazetteer II	774479
+yoga-gazetteers/regions/data/ia_ocr/india.history.resource.85100.txt	india.history.resource.85100	Rajputana	RG3	Mewar, Partabgarh, Sirohi	1880	G1	gazetteer	primary		Rajputana Gazetteer III	804159
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.13313.txt	dli.ministry.13313	Rajputana	AJM75	Ajmer-Merwara	1875	G1	gazetteer	primary		Gazetteer of Ajmer-Merwara (La Touche)	330411
+yoga-gazetteers/regions/data/ia_ocr/india.history.resource.52251.txt	india.history.resource.52251	Rajputana	RC1881	Rajputana (all)	1882	G1	census	primary		Census of the Native States of Rajputana 1881	126213
+yoga-gazetteers/regions/data/ia_ocr/wbsl.3642.txt	wbsl.3642	Rajputana	RC1891	Rajputana (all)	1892	G2	census	primary		Census 1891 Rajputana report	893619
+yoga-gazetteers/regions/data/ia_ocr/india.history.resource.482.txt	india.history.resource.482	Rajputana	WRS99	Western Rajputana States	1899	G2	gazetteer	primary		Adams, The Western Rajputana States	794978
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.34676.txt	in.ernet.dli.2015.34676	Rajputana	AJM04	Ajmer-Merwara	1904	G2	gazetteer	primary		Rajputana District Gazetteers I-A (Watson)	440507
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08162.txt	dli.ministry.08162	Rajputana	ERAJ	Bharatpur, Dholpur, Karauli	1906	G2	gazetteer	primary		Gazetteer of Eastern Rajputana (Drake-Brockman)	605702
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.62799.txt	in.ernet.dli.2015.62799	Rajputana	MEW08	Mewar Residency	1908	G2	gazetteer	primary		Rajputana Gazetteers II-A, Mewar Residency (Erskine)	646855
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.115959.txt	in.ernet.dli.2015.115959	Rajputana	WRB09	Western Rajputana States and Bikaner	1909	G2	gazetteer	primary		Rajputana Gazetteers III-A (Erskine)	638843
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08251.txt	dli.ministry.08251	Rajputana	IGR	Rajputana (all)	1908	G2	gazetteer	primary		Imperial Gazetteer, Provincial Series, Rajputana	1426073
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.55972.txt	in.ernet.dli.2015.55972	Rajputana	RC1901	Rajputana (all)	1902	G2	census	primary		Census 1901 Rajputana report	744517
+yoga-gazetteers/regions/data/ia_ocr/india.history.resource.92352.txt	india.history.resource.92352	Rajputana	RC1911	Rajputana (all)	1913	G2	census	primary		Census 1911 Rajputana report	1073743
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.56015.txt	in.ernet.dli.2015.56015	Rajputana	RC1921	Rajputana (all)	1923	G2	census	primary		Census 1921 Rajputana report	941481
+yoga-gazetteers/regions/data/ia_ocr/in.ernet.dli.2015.105322.txt	in.ernet.dli.2015.105322	Rajputana	RC1931	Rajputana (all)	1932	G2	census	primary		Census 1931 Rajputana Agency report and tables	1350699
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08617.txt	dli.ministry.08617	Revised	RJ01	Ajmer	1966	G3	gazetteer	primary		region=Rajasthan	1620049
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08619.txt	dli.ministry.08619	Revised	RJ02	Alwar	1968	G3	gazetteer	primary		region=Rajasthan	1496410
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08622.txt	dli.ministry.08622	Revised	RJ03	Bundi	1964	G3	gazetteer	primary		region=Rajasthan	620542
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08627.txt	dli.ministry.08627	Revised	RJ04	Jhalawar	1964	G3	gazetteer	primary		region=Rajasthan	670341
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08633.txt	dli.ministry.08633	Revised	RJ05	Sirohi	1967	G3	gazetteer	primary		region=Rajasthan	891100
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08624.txt	dli.ministry.08624	Revised	RJ06	Churu	1970	G3	gazetteer	primary		region=Rajasthan	721070
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08626.txt	dli.ministry.08626	Revised	RJ07	Ganganagar	1972	G3	gazetteer	primary		region=Rajasthan	1197718
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08625.txt	dli.ministry.08625	Revised	RJ08	Dungarpur	1974	G3	gazetteer	primary		region=Rajasthan	800070
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08620.txt	dli.ministry.08620	Revised	RJ09	Banswara	1974	G3	gazetteer	primary		region=Rajasthan	879298
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08621.txt	dli.ministry.08621	Revised	RJ10	Bhilwara	1975	G3	gazetteer	primary		region=Rajasthan	1085455
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08629.txt	dli.ministry.08629	Revised	RJ11	Nagaur	1975	G3	gazetteer	primary		region=Rajasthan	1080341
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08630.txt	dli.ministry.08630	Revised	RJ12	Pali	1976	G3	gazetteer	primary		region=Rajasthan	637533
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08623.txt	dli.ministry.08623	Revised	RJ13	Chittaurgarh	1977	G3	gazetteer	primary		region=Rajasthan	937803
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08632.txt	dli.ministry.08632	Revised	RJ14	Sikar	1978	G3	gazetteer	primary		region=Rajasthan	984130
+yoga-gazetteers/regions/data/ia_ocr/dli.ministry.08628.txt	dli.ministry.08628	Revised	RJ15	Jodhpur	1979	G3	gazetteer	primary		region=Rajasthan	1133869

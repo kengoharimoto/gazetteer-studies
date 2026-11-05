@@ -6,16 +6,18 @@ Reads data/order_passages.tsv and results/order_coded/*.coded.tsv. Writes
                                         in the same generation)
   results/order_referent_by_gen.tsv    referent x order x generation
   results/order_tags_by_gen.tsv        attitude, practice, yoga link, armed and tags by referent and generation
+Includes the regional supplement (scripts/region_passages.py; results/region_coded/).
 Usage (from research/): python3 -I yoga-gazetteers/scripts/order_merge.py
 """
-import csv, glob, re, collections
+import csv, glob, os, re, collections
 
 norm = lambda s: re.sub(r"\s+", " ", s).strip().lower()
-P = {p["id"]: p for p in csv.DictReader(open("yoga-gazetteers/data/order_passages.tsv", encoding="utf-8"), delimiter="\t")}
+P = {p["id"]: p for src in ("yoga-gazetteers/data/order_passages.tsv", "yoga-gazetteers/data/region_order_passages.tsv")
+     if os.path.exists(src) for p in csv.DictReader(open(src, encoding="utf-8"), delimiter="\t")}
 REFS = {"RENUNCIANT", "HOUSEHOLDER", "VAISHNAVA_GURU", "CENSUS_CATEGORY", "SAINT_SHRINE", "NAME", "OTHER", "JUNK"}
 IRRELEVANT = {"NAME", "OTHER", "JUNK"}
 rows, seen = [], set()
-for path in sorted(glob.glob("yoga-gazetteers/results/order_coded/*.coded.tsv")):
+for path in sorted(glob.glob("yoga-gazetteers/results/order_coded/*.coded.tsv") + glob.glob("yoga-gazetteers/results/region_coded/order_*.coded.tsv")):
     for r in csv.DictReader(open(path, encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE):
         i = (r.get("id") or "").strip()
         if i not in P or i in seen:

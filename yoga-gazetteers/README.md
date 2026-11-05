@@ -130,6 +130,33 @@ and census reports, and did that change by the time of the revised state gazette
     - **Negative judgements are again rare** (29 of 783). They concern money-lending, falling away from celibacy,
       the Vallabha Gosains' authority over their followers, and the historical raiders.
 
+11. **The regional supplement fills the gaps without changing the picture.** It covers Bombay after 1890,
+    Rajputana and revised Rajasthan: 46 volumes, 389 passages coded in all three rounds
+    (`scripts/region_passages.py`, ids PR, FR and SR).
+    - **Bombay 1891–1935** (Enthoven's *Tribes and Castes*, the Sind gazetteers, the census reports):
+      - Jogi is again a caste or an order, with judgements neutral in 37 of 39 passages.
+      - The Patañjali definition becomes standard text: "The term Jogi is derived from the Sanskrit yoga, union, and
+        means a follower of the Yoga or Patanjal school of philosophy" (Census 1911; repeated in Enthoven, II, 1922).
+      - Sind puts it more bluntly: "the word Jogi, or Yogi, simply means one who practises yog, i.e., an ascetic"
+        (Sind Gazetteer 1907).
+      - Modern movements appear only as census returns: Theosophists (1901–31), and the Radhasoami "practice of
+        yoga according to the modified forms taught by the gurus" (Census 1901).
+    - **Rajputana 1875–1931:**
+      - "Yoga" does not occur in the colonial volumes at all.
+      - Jogis are Kānphaṭa temple priests (Pushkar), officiants at Bhil death rites, a low burying caste, and a
+        "wandering tribe" blamed for spreading smallpox (Adams 1899).
+      - The census uniquely treats **"Sadhu" as a caste**: "the ascetic caste of Sadhus" (Census 1911), with
+        tables of their literacy, blindness and sex ratio. It also merges "Jogi" with "Nath" (1931).
+      - The one detailed account of ascetic feats in the whole corpus is from Rajputana: Dādūpanthī sādhus
+        "never requiring to sleep in the recumbent position, others being able to withstand all weathers without
+        clothes, lie on sharp points" (Adams 1899). Even this is a medical officer's neutral observation.
+      - Armed ascetics are again only historical. The Dādūpanthī Nāgās are "trained in arms" as an
+        institution, not described in action.
+    - **Rajasthan, revised gazetteers 1964–79:**
+      - Yoga as exercise is first defined in the corpus here: the Alwar glossary (1968) gives "Hath-yogi: a person
+        following Yoga as a means of physical cultures" beside "Yoga: a discipline of meditation".
+      - A "Patanjal Yoga Ashram" figures among rural-uplift institutions (Churu 1970).
+
 These findings support the broad scholarly narrative of a disreputable "Jogi" replaced by a respectable "yoga"
 (literature: `results/literature.md`). They refine it in four ways:
 - the colonial district record is **neutral and taxonomic** rather than hostile;
@@ -150,8 +177,17 @@ Cornell scans of Atkinson are copies of AT01, AT02 and AT11 by text overlap (`sc
 | G2 | 1891–1935 | 165 | 21.2 M | UP (Nevill), Bengal, Bihar and Orissa, CP, Punjab and Madras district gazetteers; Rose, Russell & Hira Lal, Thurston; census reports (NWP 1891, Madras, Bombay 1901) |
 | G3 | 1954–1989 | 38 | 9.6 M | revised state gazetteers (Maharashtra, Karnataka, Madras, UP, Bihar, West Bengal, Orissa, Haryana, MP) |
 
-Regional gaps: Bombay has almost no G2 volume; Madras G1 and G2 are thin; there is no Assam, Sind, Rajputana,
-Hyderabad or Kashmir.
+A regional supplement adds 46 volumes (`regions/data/selection.tsv`; OCR gitignored, re-fetch with
+`scripts/fetch.py`; catalogue `data/corpus_regions.tsv`; term counts `results/term_counts_regions.tsv`):
+- **Bombay 1891–1935 (G2):** Enthoven's *Tribes and Castes of Bombay* (1920–22), the *Imperial Gazetteer* Bombay
+  volumes (1909), the Sind gazetteers (1907, 1919, 1927), Nasik (1913), and the census reports 1891–1931.
+- **Rajputana 1875–1931 (G1, G2):** the *Rajputana Gazetteer* (1879–80), Ajmer-Merwara (1875, 1904), Adams's
+  *Western Rajputana States* (1899), Eastern Rajputana (1906), Erskine's Mewar (1908) and Western Rajputana and
+  Bikaner (1909) volumes, the *Imperial Gazetteer* Rajputana volume (1908), and the census reports 1881–1931.
+- **Revised Rajasthan district gazetteers (G3):** 15 volumes, 1964–79.
+
+Remaining gaps: Madras G1 and G2 are thin; there is no Hyderabad, Kashmir or Assam gazetteer volume (Assam is
+covered only through the census, in `census/`).
 
 ## Method
 

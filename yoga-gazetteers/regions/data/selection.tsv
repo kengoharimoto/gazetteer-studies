@@ -1,0 +1,47 @@
+vol	region	district	year	primary	backup	kind	note
+EN1	Bombay	Bombay (all)	1920	dli.csl.8508	bk616	glossary	Enthoven, Tribes and Castes of Bombay I
+EN2	Bombay	Bombay (all)	1922	dli.csl.7823	bk617	glossary	Enthoven, Tribes and Castes of Bombay II
+EN3	Bombay	Bombay (all)	1922	dli.csl.8518	bk618	glossary	Enthoven, Tribes and Castes of Bombay III
+IGB1	Bombay	Bombay (all)	1909	in.ernet.dli.2015.120369	in.ernet.dli.2015.146787	gazetteer	Imperial Gazetteer, Provincial Series, Bombay I
+IGB2	Bombay	Bombay (all)	1909	in.ernet.dli.2015.146789	in.ernet.dli.2015.120371	gazetteer	Imperial Gazetteer, Provincial Series, Bombay II
+SIND07	Bombay	Sind	1907	in.ernet.dli.2015.62034	in.ernet.dli.2015.181584	gazetteer	Gazetteer of the Province of Sind (Aitken)
+SINDK	Bombay	Karachi	1919	dli.csl.3395	dli.ministry.08180	gazetteer	Sind Gazetteer B vol I, Karachi
+SINDS	Bombay	Sukkur	1919	in.ernet.dli.2015.34603		gazetteer	Sind Gazetteer B vol III, Sukkur
+SINDH	Bombay	Hyderabad (Sind)	1927	in.ernet.dli.2015.281433	in.gov.ignca.30450	gazetteer	Sind Gazetteer B vol II, Hyderabad
+NAS13	Bombay	Nasik	1913	in.ernet.dli.2015.71789		gazetteer	Bombay Gazetteer XV, Nasik and Surgana (1913)
+BC1891	Bombay	Bombay (all)	1892	wbsl.4318		census	Census 1891 Bombay report (Baines)
+BC1901	Bombay	Bombay (all)	1902	in.ernet.dli.2015.55938	in.ernet.dli.2015.48684	census	Census 1901 Bombay report (Enthoven)
+BC1911	Bombay	Bombay (all)	1912	india.history.resource.92542		census	Census 1911 Bombay report (Mead and Macgregor)
+BC1921	Bombay	Bombay (all)	1922	in.ernet.dli.2015.116048	in.ernet.dli.2015.62763	census	Census 1921 Bombay report (Sedgwick)
+BC1931	Bombay	Bombay (all)	1933	in.ernet.dli.2015.56028	in.gov.ignca.31109	census	Census 1931 Bombay report (Dracup and Sorley)
+RG1	Rajputana	Rajputana (all)	1879	dli.ministry.08635	dli.csl.3371	gazetteer	Rajputana Gazetteer I
+RG2	Rajputana	Rajputana (all)	1879	wbsl.15419	rajputanagazett00agegoog	gazetteer	Rajputana Gazetteer II
+RG3	Rajputana	Mewar, Partabgarh, Sirohi	1880	india.history.resource.85100	wbsl.15442	gazetteer	Rajputana Gazetteer III
+AJM75	Rajputana	Ajmer-Merwara	1875	dli.ministry.13313	wbsl.15557	gazetteer	Gazetteer of Ajmer-Merwara (La Touche)
+RC1881	Rajputana	Rajputana (all)	1882	india.history.resource.52251	wbsl.3782	census	Census of the Native States of Rajputana 1881
+RC1891	Rajputana	Rajputana (all)	1892	wbsl.3642	india.history.resource.112411	census	Census 1891 Rajputana report
+WRS99	Rajputana	Western Rajputana States	1899	india.history.resource.482	westernrajputana00adam	gazetteer	Adams, The Western Rajputana States
+AJM04	Rajputana	Ajmer-Merwara	1904	in.ernet.dli.2015.34676	in.gov.ignca.30748	gazetteer	Rajputana District Gazetteers I-A (Watson)
+ERAJ	Rajputana	Bharatpur, Dholpur, Karauli	1906	dli.ministry.08162	dli.csl.3312	gazetteer	Gazetteer of Eastern Rajputana (Drake-Brockman)
+MEW08	Rajputana	Mewar Residency	1908	in.ernet.dli.2015.62799	in.ernet.dli.2015.515153	gazetteer	Rajputana Gazetteers II-A, Mewar Residency (Erskine)
+WRB09	Rajputana	Western Rajputana States and Bikaner	1909	in.ernet.dli.2015.115959	in.ernet.dli.2015.211091	gazetteer	Rajputana Gazetteers III-A (Erskine)
+IGR	Rajputana	Rajputana (all)	1908	dli.ministry.08251	dli.csl.2893	gazetteer	Imperial Gazetteer, Provincial Series, Rajputana
+RC1901	Rajputana	Rajputana (all)	1902	in.ernet.dli.2015.55972	in.gov.ignca.31039	census	Census 1901 Rajputana report
+RC1911	Rajputana	Rajputana (all)	1913	india.history.resource.92352	in.ernet.dli.2015.48671	census	Census 1911 Rajputana report
+RC1921	Rajputana	Rajputana (all)	1923	in.ernet.dli.2015.56015	in.gov.ignca.31094	census	Census 1921 Rajputana report
+RC1931	Rajputana	Rajputana (all)	1932	in.ernet.dli.2015.105322	in.gov.ignca.28197	census	Census 1931 Rajputana Agency report and tables
+RJ01	Revised	Ajmer	1966	dli.ministry.08617	dli.csl.3349	gazetteer	region=Rajasthan
+RJ02	Revised	Alwar	1968	dli.ministry.08619	dli.csl.2940	gazetteer	region=Rajasthan
+RJ03	Revised	Bundi	1964	dli.ministry.08622	dli.csl.3295	gazetteer	region=Rajasthan
+RJ04	Revised	Jhalawar	1964	dli.ministry.08627	dli.csl.3317	gazetteer	region=Rajasthan
+RJ05	Revised	Sirohi	1967	dli.ministry.08633	dli.csl.3293	gazetteer	region=Rajasthan
+RJ06	Revised	Churu	1970	dli.ministry.08624	dli.csl.3355	gazetteer	region=Rajasthan
+RJ07	Revised	Ganganagar	1972	dli.ministry.08626	dli.csl.3351	gazetteer	region=Rajasthan
+RJ08	Revised	Dungarpur	1974	dli.ministry.08625	dli.csl.3359	gazetteer	region=Rajasthan
+RJ09	Revised	Banswara	1974	dli.ministry.08620	dli.csl.3376	gazetteer	region=Rajasthan
+RJ10	Revised	Bhilwara	1975	dli.ministry.08621	dli.csl.3372	gazetteer	region=Rajasthan
+RJ11	Revised	Nagaur	1975	dli.ministry.08629	dli.csl.3398	gazetteer	region=Rajasthan
+RJ12	Revised	Pali	1976	dli.ministry.08630	dli.csl.3356	gazetteer	region=Rajasthan
+RJ13	Revised	Chittaurgarh	1977	dli.ministry.08623	dli.csl.3374	gazetteer	region=Rajasthan
+RJ14	Revised	Sikar	1978	dli.ministry.08632	dli.csl.3334	gazetteer	region=Rajasthan
+RJ15	Revised	Jodhpur	1979	dli.ministry.08628	dli.csl.3288	gazetteer	region=Rajasthan

@@ -6,12 +6,14 @@ Reads data/passages.tsv and results/coded/*.coded.tsv. Writes
   results/sense_by_gen.tsv     counts of sense by generation x term family group
   results/tags_by_gen.tsv      counts of tags by generation x term group (relevant senses only)
 and prints missing ids, bad codes and unverified quotes.
+Includes the regional supplement (scripts/region_passages.py; results/region_coded/).
 Usage (from research/): python3 -I yoga-gazetteers/scripts/merge.py
 """
-import csv, glob, re, collections
+import csv, glob, os, re, collections
 
 norm = lambda s: re.sub(r"\s+", " ", s).strip().lower()
-P = {p["id"]: p for p in csv.DictReader(open("yoga-gazetteers/data/passages.tsv", encoding="utf-8"), delimiter="\t")}
+P = {p["id"]: p for src in ("yoga-gazetteers/data/passages.tsv", "yoga-gazetteers/data/region_core_passages.tsv")
+     if os.path.exists(src) for p in csv.DictReader(open(src, encoding="utf-8"), delimiter="\t")}
 SENSES = {"PHIL", "DISCIPLINE", "MODERN", "ASCETIC", "MENDICANT", "CASTE", "SAINT", "PRACTICE_OTHER",
           "NAME", "ASTRO", "OTHER", "JUNK"}
 IRRELEVANT = {"NAME", "ASTRO", "OTHER", "JUNK", "PRACTICE_OTHER"}
@@ -25,7 +27,7 @@ def group(fams):
     return "practice"
 
 rows, seen = [], set()
-for path in sorted(glob.glob("yoga-gazetteers/results/coded/*.coded.tsv")):
+for path in sorted(glob.glob("yoga-gazetteers/results/coded/*.coded.tsv") + glob.glob("yoga-gazetteers/results/region_coded/core_*.coded.tsv")):
     for r in csv.DictReader(open(path, encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE):
         i = (r.get("id") or "").strip()
         if i not in P:

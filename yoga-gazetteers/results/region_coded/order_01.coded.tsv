@@ -1,0 +1,112 @@
+id	referent	order	attitude	practice	yoga_link	armed	tags	page	quote	note
+SR00040	RENUNCIANT	mixed	neu	no	yes	none	order		Ascetics of other castes are distinguished as Gosavis, Bairagis, Jogis, Fandarams, &c.	Gosavis, Bairagis grouped with Jogis as non-Brahman ascetics
+SR00041	CENSUS_CATEGORY	mixed	neu	no	yes	none	order	193	Atit or Gosavi or Gosai. Jogi. Sadhu. Bairagi or Vairagi.	List of religious orders and brotherhoods; Gosavi, Jogi, Bairagi, Sanyasi listed together
+SR00029	RENUNCIANT	unclear	neu	no	yes	none	order	164	The exclusive worship of Shiva is confined to Biahmans othei than those alieady mentioned, Jogis, Samasis and Gosains	Gosains grouped with Jogis and Sannyasis as Shiva worshippers
+SR00030	RENUNCIANT	bairagi	neu	no	no	none	order		the sign employed by the Bairagis is two white or yellow upright lines enclosing a red streak	Sectarian mark of Bairagis
+SR00031	RENUNCIANT	bairagi	neu	no	no	none	beggar,order,numbers		The word Baiiagi denotes a person devoid of passion and is applied to a religious order of mendicants	Not a caste; Nad celibate and Bindi married divisions; Vishnu worshippers; 2,187 in 1901
+SR00032	RENUNCIANT	unclear	neu	yes	no	none	beggar,order,burial,numbers	184	Gosains, of whom 1,619 were enumerated in 1901, form a rehgious order of mendicants and not a caste.	Shiva worshippers, may marry within the order; dead buried seated with salt
+SR00033	RENUNCIANT	unclear	neu	yes	no	none	burial		aie buried instead of bemg burned, and so aie Sanyasis	Sanyasis buried, not burned
+SR00035	JUNK	unclear	neu	no	no	none				Index entry
+SR00038	RENUNCIANT	unclear	neu	no	yes	none	order		Shaivas .i sect of Hinduism, 163 , com- liosed chiefly of Jogis, Sanmsis ana Gosains	Index entry; Shaiva sect composed of Jogis, Sannyasis, Gosains
+SR00025	OTHER	unclear	neu	no	no	none				Gosain only a thief in a legend about a grindstone
+SR00026	VAISHNAVA_GURU	vaishnava_gosain	neu	no	no	none			Gosavi Maha- raja	Temple of the Gosavi Maharaja at Surat rebuilt after fire
+SR00027	RENUNCIANT	bairagi	neu	no	no	none			sanctioned by Government towards the maintenance of a Brahman almshouse ( anna-chhatra ), and Rs. 48 towards a Bairagi almshouse	Government grant for Bairagi almshouse
+SR00028	SAINT_SHRINE	unclear	pos	no	no	none	sanctity		built by Aka Bai and Divakar Gosavi, two disciples of the Swami	Ramdas Swami tomb and temple at Parli; Gosavi is a disciple's name
+SR00042	CENSUS_CATEGORY	bairagi	neu	no	no	none	beggar		Devotees, religious beg-) Gosain	Table: Bairagi, devotees and religious beggars, synonym Gosain
+SR00001	RENUNCIANT	unclear	neu	no	no	none	order		The religious teachers of the caste are Gosavis. Their spiritual head is fehankaracharya.	Gosavis as religious teachers of a caste
+SR00002	RENUNCIANT	bairagi	neu	no	no	none	order		BAIRAGI. —A term applied to a sect of Hindu ascetics, mostly Vaishnavites.	Glossary entry
+SR00003	RENUNCIANT	dasnami	neu	no	no	none	order		The Kanara Bhandaris are the disciples of Gosavis of the Giri sect.	Gosavi initiates Bhandari families with a mantra
+SR00004	HOUSEHOLDER	unclear	neu	no	no	none	householder,numbers		BHARADIS, also called Daure Gosavi, numbered 4,353 at the Name, census of 1901.	Bharadis a caste
+SR00005	HOUSEHOLDER	unclear	neu	no	no	none	beggar,householder		The Bharadis or Daure Gosavis are said by Grant-Duff to have formed part of the original Deccan village community	Wander begging in scarcity
+SR00006	RENUNCIANT	unclear	neu	no	no	none	order		Their religious teacher is a kdnfatya or slit-ear Gosavi, whose post is elective and falls to the worthiest disciple.	Slit-ear Gosavi as teacher of Bharadis
+SR00007	HOUSEHOLDER	unclear	neu	no	no	none	beggar,performer,householder		Bharadis are called Daure Gosavi because they play on the daur, which they worship.	Begging and Gondhal dance
+SR00008	RENUNCIANT	bairagi	neu	no	no	none	order		a religious head, who is an ascetic or Bairagi of their own sect, and who whispers a sacred verse	Bairagi as guru of Vaishnava Bhats, initiation by whispered verse
+SR00009	RENUNCIANT	unclear	neu	no	no	none	order		Musalman saints are venerated. Their religious teachers are Gosavis.	Gosavis as religious teachers of Bhistis
+SR00010	RENUNCIANT	unclear	neu	no	no	none	order		The religious teachers of the Khandesh Bhois are Gosavis.	Gosavis as teachers of a caste
+SR00011	HOUSEHOLDER	unclear	neu	no	no	none	householder		BABRE GOSAVI. —See Bharadi or Daure Gosavi.	Glossary cross-reference to Bharadi caste
+SR00012	RENUNCIANT	mixed	neu	no	no	none	order	352	Their Religious teachers are Gosavis or Bairagis.	Gosavis or Bairagis as teachers of a shepherd caste
+SR00013	RENUNCIANT	bairagi	neu	no	no	none	order		Their religious teachers are Bairagis or ascetics, or Vdrkaris of their own or higher castes.	Bairagis as teachers of Gavandis
+SR00014	RENUNCIANT	unclear	neu	no	no	none	order		Their priests are Deshasth Brahmans and their religious teachers are Gosavis.	Gosavis as teachers of Jire Gavandis
+SR00015	RENUNCIANT	unclear	neu	no	no	none	order		The religious teachers of the caste are Uddsis, a sect of GosAvis from the Punjab, who are NAnakpanthis in belief and have a monastery, akhdda or math, at Trimbak.	Udasi Gosavis with akhada at Trimbak
+SR00016	RENUNCIANT	unclear	neu	no	no	none	order		Their spiritual guides* are Kanphate Gosavis.- Their original priests were Rival Gosavie, Lingayats by religion	Kanphate Gosavis as guides; Raval Gosavis Lingayat priests supplanted by Brahmans
+SR00017	RENUNCIANT	unclear	neu	no	no	none	order		Vairagi . — These include both men and women. They have to lead a strict celibate life.	Vairagi division of Manbhavs, celibate, heads shaved
+SR00018	RENUNCIANT	unclear	neu	no	no	none	order,householder	431	They are initiated into the order by the mystic words or mantras being whispered into their ears by Bairagi Manbh&vs.	Manbhav Bairagi initiate lay Shishya division; Gharbhari division marries
+SR00019	OTHER	unclear	neu	no	no	none				Gosain is a priest giving upadesh at Od funeral
+SR00020	RENUNCIANT	unclear	neu	no	no	none	order		The spiritual teachers of R&moshis are Gos&vis. After a man is married he becomes a disciple of one of the Gosavis	Gosavis as hereditary teachers of Ramoshis
+SR00021	HOUSEHOLDER	unclear	neu	no	yes	none	beggar,performer,householder		They are bards, beggars, MIN/$r*y carriers, and weavers of tape, and some are agriculturists. They are sometimes known as Jogis.	Ravals, with a Gosavi proper division, a caste sometimes called Jogis
+SR00022	RENUNCIANT	unclear	neu	no	no	none	order		Their religious teachers are Gosavis. Of late sonn have become disciples of Brahman saints.	Gosavis as teachers of Rauls
+SR00023	RENUNCIANT	unclear	neu	no	no	none	order	455	Their teachers are Gosavis. Their priests are Deshasth Brahmans	Gosavis as teachers of Vellala
+SR00024	RENUNCIANT	dasnami	neu	no	no	none	order		Their religious teacher is a Gosavi, who belongs either to the Giri, Puri, or Bhd rati sect.	Gosavi teacher of Virs, Giri Puri Bharati sects
+SR00064	CENSUS_CATEGORY	bairagi	neu	no	no	none		521	Bahurupi Deccan, Konkan Strolling actors. Bairagi See Bava. Bailkambar Belgaum	Appendix table cross-reference
+SR00065	CENSUS_CATEGORY	mixed	neu	no	no	none	beggar		Bava, Atit, Bairagi, The whole: Beggars, devotees, The terms given are not	Table: Bava, Atit, Bairagi, Gosavi, Sadhu; terms not synonymous, occupational
+SR00066	CENSUS_CATEGORY	unclear	neu	no	no	none	beggar		Bhand Kathiawar, Sind Actors, mimes. Bharadi, Daure Gosavi . . Deccan Religious beggars.	Table line for Bharadi caste
+SR00067	CENSUS_CATEGORY	unclear	neu	no	no	none		525	Daure Gosavi . . ;	Table cross-reference to Bharadi
+SR00069	CENSUS_CATEGORY	unclear	neu	no	no	none	beggar		Sanyasi The whole Presi-: Ascetics . .! An occupational name, not dency. 1 a caste.	Sanyasi an occupational name, not a caste
+SR00079	RENUNCIANT	unclear	neu	no	no	past	order,crime		a large body of sannyasis came to bathe in Pushkar; they disapproved of the Gujars being in possession of the ghats, killed them all	Legend: sannyasis massacre Gujars and displace Kanphata Jogi priests, Pushkar
+SR00070	RENUNCIANT	unclear	neu	no	no	past	order,crime		a large body ef Sanyasis came to bathe in Pushkar ; they disapproved of the Gujars being in possession of the ghits, killed them all	Legend: Sanyasis kill Gujars and displace Kanphata Jogi priests, Pushkar
+SR00082	RENUNCIANT	unclear	neu	no	no	past	order,crime		a large body of Sanyasis came to bathe in Pushkar ; they disapproved of the Gojors being in possession of the ghats, lulled them all	Legend: Sanyasis kill Gujars and displace Kanphata Jogi priests, Pushkar
+SR00071	SAINT_SHRINE	unclear	neu	no	yes	none	sanctity,political		intercession of a jogi, or holy man, named Deonath—the proenomen signifying the deity, and tho latter a tribe of Gosains	Deonath, jogi and Gosain, gained influence over Man Singh of Jodhpur
+SR00072	RENUNCIANT	dasnami	neu	yes	no	none	order,burial,householder,beggar		There are twelve different classes of Gosains, of whom ten are in Mallani, viz.—Giri, Puri, Bharti, Ban, Sarswati, SAgar, Parit, Parghat, Arun, and Runkhar.	Gosains both celibate and married, mostly beggars; buried sitting or full length; Naths distinguished
+SR00073	CENSUS_CATEGORY	mixed	neu	no	no	none	order	279	Sanjogi Shami. Gosains. Naths. Jatis (Jains). Khatris. Malis.	Caste list heading; Gosain disciple and priest remark precedes
+SR00074	HOUSEHOLDER	unclear	neu	no	no	none	land		SAdsan includes charitable and religious grants to Brahmans, Gosains, and other priestly castes from motives of piety	Gosains among priestly castes holding sasan land grants
+SR00075	RENUNCIANT	unclear	neu	yes	no	none	order,burial,austerity		They smear the body with ashes and use gar- ments dyed of an orange hue. They bury their dead in a sitting posture	Eklingji priests called Gosains, perpetual celibacy, ashes, orange dress, seated burial
+SR00076	RENUNCIANT	mixed	neu	no	no	none	order		Gosains are worshippers of Shiva, and Bairdgis of Vishnu.	Gosains and Bairagis in Sirohi are not castes but recruited as chelas by gurus
+SR00078	VAISHNAVA_GURU	vaishnava_gosain	neu	no	no	none	order		The Vishnu Gosain of Kiama is the hereditary guru, or spiri- tual guide, of the house	Hereditary guru of Alwar ruling house; jogi and Shakta also gurus
+SR00081	RENUNCIANT	unclear	neu	yes	no	none	burial		A few Hindus, such as Sannyasis, Gusains, Kabirpanthis, Bishnois, and Naths, are buried	Burial instead of cremation
+SR00101	CENSUS_CATEGORY	mixed	neu	no	yes	none	numbers,order		There are comparatively few members of the higher orders of devotees but the Sadhus, Bairagis, Gosains, Naths and Jogis are fairly numerous.	Census group of devotees; Nagas and Dadupanthis counted 8,972
+SR00102	RENUNCIANT	unclear	neu	yes	no	none	burial		they bury their dead at full length, usually at the threshold of the house itself or in the adjoining cattle shed, or in a sitting posture like the Hindu Sanyasis	Sanyasis buried sitting; passage about Bishnois
+SR00083	HOUSEHOLDER	unclear	neu	no	no	none	householder		where the here- ditary chaudris of the Durbar and Gosains respectively reside	Gosainpura quarter of Karauli town
+SR00084	SAINT_SHRINE	bairagi	pos	no	no	none	learning		a pandit named Chatr Dass Bairagi had a réputation for Sanskrit learning	Individual Bairagi pandit at Machilpur
+SR00085	VAISHNAVA_GURU	unclear	neu	no	no	none	western,learning	375	The English teacher is a Bengalee related to the Gosain of one of the temples	Teacher related to a temple Gosain, Karauli
+SR00086	RENUNCIANT	unclear	neu	yes	no	none	burial		but some of tho ascetics, roch as Gosains and Sanyflais, are buried and genera 11) in a sitting posture	Gosains and Sanyasis buried seated
+SR00087	RENUNCIANT	dasnami	neu	no	no	none	order,beggar,householder		Gosdins are both celibate and mained The latter gro called gharbdr/, and they engage m agneuituial and worldly occupations	Sections gir, puri, tirath etc under gurus; celibate matdan and wandering beggars with alms rules
+SR00088	RENUNCIANT	dasnami	neu	no	no	none	order		The Gosains aie goneially clad in garments coloured pink with geru Dddupanthis aTe a sect of fahfis distinct from Gosdins	Gosain sections gurus at Kharak and Balak; Dadupanthis distinct
+SR00089	VAISHNAVA_GURU	vaishnava_gosain	neu	no	no	none	land,order		The Mnhilmj Gosain is the head of the VallabhAchAryn sect of Brfthmans and is descended from the eldest son of Bithal Jsdth	Maharaj Gosain of Nathdwara, Vallabha lineage
+SR00092	RENUNCIANT	unclear	neu	yes	no	none	burial		infants who die before they are weaned, and Sany4sis, Gosains, Bishnois, and Naths, are buried	Burial instead of cremation
+SR00093	HOUSEHOLDER	unclear	neu	no	no	none	land		Sésan or medf lands are those given to Brahmans, Gosains, and other priestly castes, as well as to Charans and Bhats	Gosains among priestly castes with rent-free land
+SR00094	VAISHNAVA_GURU	vaishnava_gosain	neu	no	no	none	land		the head- quarters of a Gosain who is a descendant of Vallabhacharya	Kankroli estate held rent-free by Gosain
+SR00095	RENUNCIANT	unclear	neu	no	no	past	political		the armed band of Sanyasis or ascetics, who formed the garrison, revolted	Sanyasis garrisoned Kumbhalgarh fort, revolted about 1818 over arrears of pay
+SR00096	VAISHNAVA_GURU	vaishnava_gosain	neu	no	no	none	health	141	and the Maharaj Gosain of Nathdwara maintains a dispensary	Maharaj Gosain of Nathdwara runs dispensary at Nathdwara town
+SR00097	VAISHNAVA_GURU	vaishnava_gosain	neu	no	no	none	land,order		The guardian of the temple is termed Maharaj Gosain, and is the head of the Vallabhacharya sect of Brahmans	Vallabha descendants at Nathdwara hold villages and estates
+SR00098	VAISHNAVA_GURU	vaishnava_gosain	neu	no	no	none	land	141	the large endowment of the guardian, the Maharaj Gosain, 141	Index entry; Dadupanthi Nagas as State infantry in another entry, not the matched term
+SR00090	RENUNCIANT	unclear	neu	yes	no	none	burial		are buried, as also are .Sanyasis, Hosnins, ICabirpanthis, Bishnois and Naths	Sanyasis and Gosains buried
+SR00091	RENUNCIANT	unclear	neu	yes	no	none	burial		but ascetics like the Go.'inins and Sanyasis, as well as Jasnathis, Bishnois, worshippers of Ramdeojii and sometimes Malis who die unmarried are buried	Ascetics buried
+SR00107	CENSUS_CATEGORY	bairagi	neu	no	no	none	reform		Of these, the Bairagis and Bishnois do so owing to their revolt against the Brahms- nical supremacy.	Bairagis deny Brahman supremacy per census enquiry
+SR00109	CENSUS_CATEGORY	bairagi	neu	no	no	none	numbers	139	Kayastha (838), Gujar (846), Jat (851), Bairagi (851), Ahir (854), Mina (880)	Bairagi female proportion 851 per 1,000 males
+SR00111	CENSUS_CATEGORY	bairagi	neu	no	no	none	numbers		it is noticeable that the Sadhus and Bairagis are devotee castes	Bairagi widows above 200 per 1,000 females
+SR00114	CENSUS_CATEGORY	bairagi	neu	no	no	none	health,numbers,beggar		the Bairagis, Swamis, and Sads, are of the ascetic or devotee or religious beggar kind	High deaf-mutism among Bairagis
+SR00115	CENSUS_CATEGORY	bairagi	neu	no	no	none	health,numbers		The Bairagis are strongest in Mewar, which has a smaller proportion of deaf-mutes	Distribution and deaf-mutism of Bairagis
+SR00116	CENSUS_CATEGORY	unclear	neu	no	no	none	health,numbers		and of females among the Gosains (235) and Rebaris (106) of Ajmer-Merwara	Insanity figure for Gosain females
+SR00117	CENSUS_CATEGORY	mixed	neu	no	no	none	health,numbers,beggar		some of the other religious castes have high proportions also, notably the Gosains (628), Swamis (592), Sadhus (470), Bairagis (446)	Blindness among Gosains, Bairagis and other religious castes
+SR00122	CENSUS_CATEGORY	mixed	neu	no	no	none	numbers		Gosain . . . 27,526 j 941 ; —10 j +4-2	Table: Bairagi 49,597 and Gosain 27,526 in Rajputana, with variation
+SR00138	HOUSEHOLDER	unclear	neu	no	no	none	householder		Vegetarians comprise Brahmins and Vaishya classes and also Chhipas, Darjis, Khatis, Sunars, Telis, Tambolis, Lakarharas, Thatheras, Gosains and Ahirs	Gosains listed among vegetarian castes
+SR00139	NAME	unclear	neu	no	no	none				Goswami Jagdish Lal, a poet
+SR00140	RENUNCIANT	bairagi	neu	no	no	none	healing,magic		fakirs or Bairagi sadhus who claimed to be able to cure disease through occult powers	Bairagi sadhus as traditional healers
+SR00142	JUNK	unclear	neu	no	no	none				Table of contents line
+SR00143	RENUNCIANT	bairagi	neu	no	no	past	political,order	44	acc uired the services of about 300 Bairagi Sadhus to serve as police guards	Bairagi sadhus hired as State guards with four akhadas under Jhalawar rulers
+SR00144	RENUNCIANT	bairagi	neu	yes	no	past	austerity,order,political		The acharyas believe in sandhya puja, tarpana and hawan while the tyagis believe in penance and smear bhasmi or ashes on their bodies.	State militia of Bairagi sadhus abolished; four mathas; tyagis practise penance and ashes
+SR00145	RENUNCIANT	mixed	neu	no	no	none	order	45	Gosain sadhus are among the Das-Namis as Giris, Puris, Bhartis, Van, etc.	Bairagi maths, Gosain Dasnami maths, Naga sanyasi sthan; Naths treated separately
+SR00128	SAINT_SHRINE	bairagi	neu	no	no	none		134	went to the cell of a certain Bairagi, named Rug Das, who lived in a cave in the mountain now called Mukat	Legend of Bairagi Rug Das and origin of Motis
+SR00129	SAINT_SHRINE	unclear	pos	no	no	none	sanctity		in his old age, became a sanyasi, retired to this place and passed the evening of his life in religious devotion	King Ajaipal turned sanyasi at Ajaipal, a sacred spot
+SR00130	RENUNCIANT	unclear	neu	no	no	past	order,political		a body of Sanyasis fell upon them on the night of the Dewali, and killing them all, restored. the place to the Brahmans	Sanyasis kill Gujars at Pushkar in 1157 and leave representatives in temples
+SR00131	RENUNCIANT	dasnami	neu	no	no	none	order	739	The attendants of the temple are Puri Gosains. The temple of Savitri is built on the north of the lake	Puri Gosains attend Brahma temple at Pushkar
+SR00147	SAINT_SHRINE	unclear	neu	no	no	none	political,reform		A sanyasi, named Govind set up a ‘Samp-Sabha’ about 1905 A.D.	Sanyasi Govind leads Bhil movement and uprising suppressed 1908
+SR00148	OTHER	bairagi	neu	no	no	none	performer			Gaur dance imitates the look of an ascetic or Bairagi; not actual Bairagis
+SR00149	JUNK	unclear	neu	no	no	none				Misaligned glossary list
+SR00133	JUNK	unclear	neu	no	no	none				Table of contents line
+SR00134	RENUNCIANT	unclear	neu	yes	no	none	burial		but the bodies of Gosains, Sanyasis and worshippers of Ramdevji are burried	Burial instead of cremation
+SR00135	RENUNCIANT	unclear	pos	yes	no	none	burial,sanctity		When a sanyasi or an ascetic dies, he receives a burial with great ceremony performed by his disciples.	Sanyasi funeral: burial, samadhi visited ten days, earth linga, sanyasis fed
+SR00136	JUNK	unclear	neu	no	no	none				Misaligned glossary list
+SR00150	RENUNCIANT	unclear	neu	yes	no	none	burial		bury their dead, sometimes in a sitting posture like the Sanyasis	Sanyasis buried seated; passage about Bishnois
+SR00151	SAINT_SHRINE	unclear	neu	no	no	none	reform,sanctity		he came in contact with Rajgiri Gosain. Charmed by the Gosain, Govinda became Govind)'Giri.	Govind Giri, Banjara turned Gosain disciple, reformer of Bhils
+SR00152	VAISHNAVA_GURU	vaishnava_gosain	neu	no	no	none	order	53	Mavji built a temple at Sabla, which is the permanent resi- dence of the Goswami, the successor.	Hereditary Goswami successor of Mavji at Sabla
+SR00153	VAISHNAVA_GURU	vaishnava_gosain	neu	no	no	none	order		Mavaji built a temple at Sabla which is the permanent residence of the Goswami, a descendent of Mavji	Goswami descendant of Mavji at Sabla
+SR00156	SAINT_SHRINE	unclear	neu	no	no	none	reform	34	a sanyasi, Govind Giri by name, set himself to introduce reforms of a religious nature among the Bhils	Govind Giri as religious reformer
+SR00158	RENUNCIANT	unclear	neu	no	no	none		436	Saintly persons. Era. A deed. Sanhemp A recluse, A house of pilgrims	Glossary definition of Sanyasi as recluse, alignment inferred
+SR00159	NAME	unclear	neu	no	no	none				Swami Bhawani Dayal Sanyasi, commission head
+SR00160	HOUSEHOLDER	unclear	neu	no	no	none	land	286	This tenure was granted to Brahmans, Gosains and other priestly castes, as well as to Charansand Bhats.	Gosains among priestly castes with sasan grants
+SR00163	RENUNCIANT	unclear	neu	yes	no	none	burial		but ascetics like the Gosains and Sanyasis and some sects like Jasnathis, Bishnois, the worshippers of Jambhaji, and sometimes Malis who die un- married are buried	Ascetics buried
+SR00165	HOUSEHOLDER	unclear	neu	no	no	none	land		Land was granted on the Sasan or Muofi tenure to Brahmins, Gosains, Charans or Bhats.	Gosains among sasan grantees
+SR00167	HOUSEHOLDER	unclear	neu	no	no	none	householder	70	It is more prominent among the Jats, Malis, Gujars, Ahirs, Minas, Khatis, Nais, Jogis, Gosains, Kumhars and Muslims.	Widow remarriage common among Gosains and Jogis, listed among many castes
+SR00168	RENUNCIANT	bairagi	neu	no	no	none	healing,magic		Bairagis believed in driving out the disease by the aid of a Jharu (broom stick) and charms	Bairagis as traditional healers
+SR00170	NAME	unclear	neu	no	no	none				Goswami in a magazine title
