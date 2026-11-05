@@ -1,0 +1,559 @@
+path	ident	region	vol	district	year	gen	kind	role	dup	note	bytes
+gazetteer-vedanta/bengal/data/ia_ocr/dli.csl.3063.txt	dli.csl.3063	Bengal	BG36	Santal Parganas	1910	G2	gazetteer	backup	dli.ministry.07432	Bengal/Bihar & Orissa District Gazetteer	792667
+gazetteer-vedanta/bengal/data/ia_ocr/dli.csl.3103.txt	dli.csl.3103	Bengal	BG06	Burdwan	1910	G2	gazetteer	backup		Bengal/Bihar & Orissa District Gazetteer	568088
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07372.txt	dli.ministry.07372	Bengal	BG01	24 Parganas	1914	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	700690
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07377.txt	dli.ministry.07377	Bengal	BG14	Bakarganj	1918	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	427958
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07379.txt	dli.ministry.07379	Bengal	BG38	Balasore	1907	G2	gazetteer	backup	in.ernet.dli.2015.206861	Bengal/Bihar & Orissa District Gazetteer	583466
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07381.txt	dli.ministry.07381	Bengal	BG07	Bankura	1908	G2	gazetteer	backup	in.ernet.dli.2015.206862	Bengal/Bihar & Orissa District Gazetteer	502441
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07382.txt	dli.ministry.07382	Bengal	BG14	Bakarganj	1918	G2	gazetteer	backup	dli.ministry.07377	Bengal/Bihar & Orissa District Gazetteer	437479
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07383.txt	dli.ministry.07383	Bengal	BG34	Bhagalpur	1911	G2	gazetteer	backup	in.ernet.dli.2015.206863	Bengal/Bihar & Orissa District Gazetteer	150576
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07387.txt	dli.ministry.07387	Bengal	BG30	Champaran	1907	G2	gazetteer	backup	in.ernet.dli.2015.206865	Bengal/Bihar & Orissa District Gazetteer	508461
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07391.txt	dli.ministry.07391	Bengal	BG13	Faridpur	1908	G2	gazetteer	backup		Bengal/Bihar & Orissa District Gazetteer	317292
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07392.txt	dli.ministry.07392	Bengal	BG10	Hooghly	1912	G2	gazetteer	backup	in.ernet.dli.2015.206870	Bengal/Bihar & Orissa District Gazetteer	132543
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07395.txt	dli.ministry.07395	Bengal	BG11	Howrah	1909	G2	gazetteer	backup	in.ernet.dli.2015.206872	Bengal/Bihar & Orissa District Gazetteer	496689
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07397.txt	dli.ministry.07397	Bengal	BG03	Jessore	1912	G2	gazetteer	backup	in.ernet.dli.2015.206873	Bengal/Bihar & Orissa District Gazetteer	469921
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07398.txt	dli.ministry.07398	Bengal	BG04	Khulna	1908	G2	gazetteer	backup	in.ernet.dli.2015.206874	Bengal/Bihar & Orissa District Gazetteer	124894
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07401.txt	dli.ministry.07401	Bengal	BG24	Malda	1918	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	120252
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07402.txt	dli.ministry.07402	Bengal	BG24	Malda	1918	G2	gazetteer	backup	dli.ministry.07401	Bengal/Bihar & Orissa District Gazetteer	261189
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07405.txt	dli.ministry.07405	Bengal	BG09	Midnapore	1911	G2	gazetteer	backup	in.ernet.dli.2015.206876	Bengal/Bihar & Orissa District Gazetteer	144232
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07407.txt	dli.ministry.07407	Bengal	BG33	Monghyr	1909	G2	gazetteer	backup	in.ernet.dli.2015.206877	Bengal/Bihar & Orissa District Gazetteer	348329
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07409.txt	dli.ministry.07409	Bengal	BG05	Murshidabad	1914	G2	gazetteer	backup	in.ernet.dli.2015.206878	Bengal/Bihar & Orissa District Gazetteer	611864
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07412.txt	dli.ministry.07412	Bengal	BG31	Muzaffarpur	1907	G2	gazetteer	backup	in.ernet.dli.2015.206879	Bengal/Bihar & Orissa District Gazetteer	454089
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07414.txt	dli.ministry.07414	Bengal	BG12	Mymensingh	1917	G2	gazetteer	backup	in.ernet.dli.2015.206880	Bengal/Bihar & Orissa District Gazetteer	142309
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07416.txt	dli.ministry.07416	Bengal	BG02	Nadia	1910	G2	gazetteer	backup	in.ernet.dli.2015.206881	Bengal/Bihar & Orissa District Gazetteer	518691
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07420.txt	dli.ministry.07420	Bengal	BG44	Palamau	1907	G2	gazetteer	backup	in.ernet.dli.2015.206883	Bengal/Bihar & Orissa District Gazetteer	453664
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07422.txt	dli.ministry.07422	Bengal	BG39	Puri	1908	G2	gazetteer	backup	in.ernet.dli.2015.206884	Bengal/Bihar & Orissa District Gazetteer	416434
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07425.txt	dli.ministry.07425	Bengal	BG35	Purnea	1911	G2	gazetteer	backup	in.ernet.dli.2015.206885	Bengal/Bihar & Orissa District Gazetteer	547226
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07426.txt	dli.ministry.07426	Bengal	BG18	Rajshahi	1916	G2	gazetteer	backup	in.ernet.dli.2015.206886	Bengal/Bihar & Orissa District Gazetteer	489157
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07429.txt	dli.ministry.07429	Bengal	BG41	Sambalpur	1909	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	189288
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07432.txt	dli.ministry.07432	Bengal	BG36	Santal Parganas	1910	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	789798
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07435.txt	dli.ministry.07435	Bengal	BG28	Shahabad	1906	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	474641
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07436.txt	dli.ministry.07436	Bengal	BG46	Singhbhum	1910	G2	gazetteer	backup		Bengal/Bihar & Orissa District Gazetteer	685223
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07446.txt	dli.ministry.07446	Bengal	BG42	Hazaribagh	1917	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	502325
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07447.txt	dli.ministry.07447	Bengal	BG26	Patna	1907	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	589105
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07448.txt	dli.ministry.07448	Bengal	BG43	Ranchi	1917	G2	gazetteer	primary		retry narrative volume	621955
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07911.txt	dli.ministry.07911	Bengal	BG22	Bogra	1910	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	498888
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07913.txt	dli.ministry.07913	Bengal	BG15	Chittagong	1909	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	293342
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07915.txt	dli.ministry.07915	Bengal	BG20	Jalpaiguri	1911	G2	gazetteer	backup		Bengal/Bihar & Orissa District Gazetteer	452613
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07917.txt	dli.ministry.07917	Bengal	BG16	Noakhali	1911	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	190510
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.07920.txt	dli.ministry.07920	Bengal	BG17	Tippera	1910	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	339365
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.16781.txt	dli.ministry.16781	Bengal	BG45	Manbhum	1911	G2	gazetteer	backup	in.ernet.dli.2015.206875	Bengal/Bihar & Orissa District Gazetteer	802734
+gazetteer-vedanta/bengal/data/ia_ocr/dli.ministry.27986.txt	dli.ministry.27986	Bengal	BG23	Pabna	1905	G2	gazetteer	backup		Bengal/Bihar & Orissa District Gazetteer	107285
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.105555.txt	in.ernet.dli.2015.105555	Bengal	BG28	Shahabad	1906	G2	gazetteer	backup	dli.ministry.07435	Bengal/Bihar & Orissa District Gazetteer	477136
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.107978.txt	in.ernet.dli.2015.107978	Bengal	HU12	Gaya, Shahabad	1875-77	G1	gazetteer	primary		Hunter vol 12	738142
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.107979.txt	in.ernet.dli.2015.107979	Bengal	HU14	Bhagalpur, Santal Parganas	1875-77	G1	gazetteer	backup	wbsl.19252	Hunter vol 14	995736
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.107980.txt	in.ernet.dli.2015.107980	Bengal	HU15	Monghyr, Purniah	1875-77	G1	gazetteer	backup	wbsl.15832	Hunter vol 15	1103939
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.14586.txt	in.ernet.dli.2015.14586	Bengal	HU02	Nadiya, Jessor	1875-77	G1	gazetteer	backup	wbsl.19323	Hunter vol 2	798820
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.17070.txt	in.ernet.dli.2015.17070	Bengal	HU01	24 Parganas, Sundarbans	1875-77	G1	gazetteer	backup		Hunter vol 1	986763
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206859.txt	in.ernet.dli.2015.206859	Bengal	BG40	Angul	1908	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	460547
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206861.txt	in.ernet.dli.2015.206861	Bengal	BG38	Balasore	1907	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	582139
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206862.txt	in.ernet.dli.2015.206862	Bengal	BG07	Bankura	1908	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	503083
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206863.txt	in.ernet.dli.2015.206863	Bengal	BG34	Bhagalpur	1911	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	472879
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206864.txt	in.ernet.dli.2015.206864	Bengal	BG08	Birbhum	1910	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	352064
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206865.txt	in.ernet.dli.2015.206865	Bengal	BG30	Champaran	1907	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	510652
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206866.txt	in.ernet.dli.2015.206866	Bengal	BG37	Cuttack	1906	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	643764
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206867.txt	in.ernet.dli.2015.206867	Bengal	BG32	Darbhanga	1907	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	513684
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206868.txt	in.ernet.dli.2015.206868	Bengal	BG25	Darjeeling	1907	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	617185
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206869.txt	in.ernet.dli.2015.206869	Bengal	BG27	Gaya	1906	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	676747
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206870.txt	in.ernet.dli.2015.206870	Bengal	BG10	Hooghly	1912	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	868937
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206872.txt	in.ernet.dli.2015.206872	Bengal	BG11	Howrah	1909	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	566553
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206873.txt	in.ernet.dli.2015.206873	Bengal	BG03	Jessore	1912	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	471009
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206874.txt	in.ernet.dli.2015.206874	Bengal	BG04	Khulna	1908	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	542096
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206875.txt	in.ernet.dli.2015.206875	Bengal	BG45	Manbhum	1911	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	913072
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206876.txt	in.ernet.dli.2015.206876	Bengal	BG09	Midnapore	1911	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	615326
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206877.txt	in.ernet.dli.2015.206877	Bengal	BG33	Monghyr	1909	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	722586
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206878.txt	in.ernet.dli.2015.206878	Bengal	BG05	Murshidabad	1914	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	614605
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206879.txt	in.ernet.dli.2015.206879	Bengal	BG31	Muzaffarpur	1907	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	514095
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206880.txt	in.ernet.dli.2015.206880	Bengal	BG12	Mymensingh	1917	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	429309
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206881.txt	in.ernet.dli.2015.206881	Bengal	BG02	Nadia	1910	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	520371
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206883.txt	in.ernet.dli.2015.206883	Bengal	BG44	Palamau	1907	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	455853
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206884.txt	in.ernet.dli.2015.206884	Bengal	BG39	Puri	1908	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	833072
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206885.txt	in.ernet.dli.2015.206885	Bengal	BG35	Purnea	1911	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	623617
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.206886.txt	in.ernet.dli.2015.206886	Bengal	BG18	Rajshahi	1916	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	490886
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.228203.txt	in.ernet.dli.2015.228203	Bengal	BG21	Rangpur	1911	G2	gazetteer	backup		Bengal/Bihar & Orissa District Gazetteer	476808
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.228204.txt	in.ernet.dli.2015.228204	Bengal	BG15	Chittagong	1909	G2	gazetteer	backup	dli.ministry.07913	Bengal/Bihar & Orissa District Gazetteer	605671
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.228205.txt	in.ernet.dli.2015.228205	Bengal	BG19	Dinajpur	1912	G2	gazetteer	backup	in.ernet.dli.2015.55783	Bengal/Bihar & Orissa District Gazetteer	451251
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.279432.txt	in.ernet.dli.2015.279432	Bengal	HU07	Maldah, Rangpur, Dinajpur	1875-77	G1	gazetteer	backup	wbsl.19226	Hunter vol 7	1297576
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.279951.txt	in.ernet.dli.2015.279951	Bengal	BG22	Bogra	1910	G2	gazetteer	backup	dli.ministry.07911	Bengal/Bihar & Orissa District Gazetteer	566491
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.281276.txt	in.ernet.dli.2015.281276	Bengal	BG29	Saran	1905	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	465330
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.37452.txt	in.ernet.dli.2015.37452	Bengal	HU04	Bardwan, Bankura, Birbhum	1875-77	G1	gazetteer	backup	wbsl.19577	Hunter vol 4	1306875
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.37454.txt	in.ernet.dli.2015.37454	Bengal	HU06	Chittagong, Noakhali, Tipperah	1875-77	G1	gazetteer	primary		Hunter vol 6	1351662
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.38293.txt	in.ernet.dli.2015.38293	Bengal	HU08	Rajshahi, Bogra	1875-77	G1	gazetteer	backup	wbsl.19253	Hunter vol 8	820412
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.38535.txt	in.ernet.dli.2015.38535	Bengal	HU18	Cuttack, Balasor	1875-77	G1	gazetteer	backup	wbsl.19592	Hunter vol 18	923210
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.39091.txt	in.ernet.dli.2015.39091	Bengal	HU06	Chittagong, Noakhali, Tipperah	1875-77	G1	gazetteer	backup	in.ernet.dli.2015.37454	Hunter vol 6	1312185
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.39535.txt	in.ernet.dli.2015.39535	Bengal	HU03	Midnapur, Hugli, Howrah	1875-77	G1	gazetteer	primary		Hunter vol 3	1099672
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.42966.txt	in.ernet.dli.2015.42966	Bengal	HU09	Murshidabad, Pabna	1875-77	G1	gazetteer	backup	wbsl.19217	Hunter vol 9	1094490
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.42967.txt	in.ernet.dli.2015.42967	Bengal	HU11	Patna, Saran	1875-77	G1	gazetteer	backup	wbsl.15844	Hunter vol 11	927980
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.42971.txt	in.ernet.dli.2015.42971	Bengal	HU16	Hazaribagh, Lohardaga	1875-77	G1	gazetteer	backup	wbsl.19214	Hunter vol 16	1293136
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.47088.txt	in.ernet.dli.2015.47088	Bengal	BG29	Saran	1905	G2	gazetteer	backup	in.ernet.dli.2015.281276	Bengal/Bihar & Orissa District Gazetteer	474129
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.48666.txt	in.ernet.dli.2015.48666	Bengal	BG42	Hazaribagh	1917	G2	gazetteer	backup	dli.ministry.07446	Bengal/Bihar & Orissa District Gazetteer	505117
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.534064.txt	in.ernet.dli.2015.534064	Bengal	HU03	Midnapur, Hugli, Howrah	1875-77	G1	gazetteer	backup	in.ernet.dli.2015.39535	Hunter vol 3	1090419
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.534065.txt	in.ernet.dli.2015.534065	Bengal	HU05	Dacca, Bakarganj, Faridpur, Maimansinh	1875-77	G1	gazetteer	backup	wbsl.19244	Hunter vol 5	1251105
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.534073.txt	in.ernet.dli.2015.534073	Bengal	HU19	Puri, Orissa tributary states	1875-77	G1	gazetteer	backup	wbsl.3	Hunter vol 19	832024
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.55775.txt	in.ernet.dli.2015.55775	Bengal	BG25	Darjeeling	1907	G2	gazetteer	backup	in.ernet.dli.2015.206868	Bengal/Bihar & Orissa District Gazetteer	617042
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.55783.txt	in.ernet.dli.2015.55783	Bengal	BG19	Dinajpur	1912	G2	gazetteer	primary		Bengal/Bihar & Orissa District Gazetteer	514759
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.55784.txt	in.ernet.dli.2015.55784	Bengal	BG17	Tippera	1910	G2	gazetteer	backup	dli.ministry.07920	Bengal/Bihar & Orissa District Gazetteer	350134
+gazetteer-vedanta/bengal/data/ia_ocr/in.ernet.dli.2015.55887.txt	in.ernet.dli.2015.55887	Bengal	HU13	Tirhut, Champaran	1875-77	G1	gazetteer	backup	wbsl.19269	Hunter vol 13	803417
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.15832.txt	wbsl.15832	Bengal	HU15	Monghyr, Purniah	1875-77	G1	gazetteer	primary		Hunter vol 15	1115934
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.15844.txt	wbsl.15844	Bengal	HU11	Patna, Saran	1875-77	G1	gazetteer	primary		Hunter vol 11	825139
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19214.txt	wbsl.19214	Bengal	HU16	Hazaribagh, Lohardaga	1875-77	G1	gazetteer	primary		Hunter vol 16	240693
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19217.txt	wbsl.19217	Bengal	HU09	Murshidabad, Pabna	1875-77	G1	gazetteer	primary		Hunter vol 9	913636
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19226.txt	wbsl.19226	Bengal	HU07	Maldah, Rangpur, Dinajpur	1875-77	G1	gazetteer	primary		Hunter vol 7	622484
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19242.txt	wbsl.19242	Bengal	HU10	Darjiling, Jalpaiguri, Kuch Behar	1875-77	G1	gazetteer	primary		Hunter vol 10	999667
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19244.txt	wbsl.19244	Bengal	HU05	Dacca, Bakarganj, Faridpur, Maimansinh	1875-77	G1	gazetteer	primary		Hunter vol 5	1240499
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19252.txt	wbsl.19252	Bengal	HU14	Bhagalpur, Santal Parganas	1875-77	G1	gazetteer	primary		Hunter vol 14	1012238
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19253.txt	wbsl.19253	Bengal	HU08	Rajshahi, Bogra	1875-77	G1	gazetteer	primary		Hunter vol 8	825848
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19269.txt	wbsl.19269	Bengal	HU13	Tirhut, Champaran	1875-77	G1	gazetteer	primary		Hunter vol 13	786422
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19323.txt	wbsl.19323	Bengal	HU02	Nadiya, Jessor	1875-77	G1	gazetteer	primary		Hunter vol 2	731254
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19462.txt	wbsl.19462	Bengal	HU17	Singhbhum, Chutia Nagpur states, Manbhum	1875-77	G1	gazetteer	primary		Hunter vol 17	785402
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19577.txt	wbsl.19577	Bengal	HU04	Bardwan, Bankura, Birbhum	1875-77	G1	gazetteer	primary		Hunter vol 4	849295
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.19592.txt	wbsl.19592	Bengal	HU18	Cuttack, Balasor	1875-77	G1	gazetteer	primary		Hunter vol 18	607116
+gazetteer-vedanta/bengal/data/ia_ocr/wbsl.3.txt	wbsl.3	Bengal	HU19	Puri, Orissa tributary states	1875-77	G1	gazetteer	primary		Hunter vol 19	833369
+gazetteer-vedanta/census-images/data/ia_ocr/in.ernet.dli.2015.55938.txt	in.ernet.dli.2015.55938	census				?	census	unselected			748665
+gazetteer-vedanta/census-images/data/ia_ocr/india.history.resource.92542.txt	india.history.resource.92542	census				?	census	unselected			1231207
+gazetteer-vedanta/census-images/data/ia_ocr/wbsl.4318.txt	wbsl.4318	census				?	census	unselected			810195
+gazetteer-vedanta/cp/data/ia_ocr/TheTribesAndCastesOfTheCentralProvincesOfIndiaVolII.txt	TheTribesAndCastesOfTheCentralProvincesOfIndiaVolII	CP	RUS2	Central Provinces (all)	1916	G2	glossary	backup	in.ernet.dli.2015.506862	Russell & Hira Lal vol II	1422174
+gazetteer-vedanta/cp/data/ia_ocr/dli.csl.3164.txt	dli.csl.3164	CP	CP14	Raipur	1909	G2	gazetteer	backup	dli.ministry.07870	Central Provinces District Gazetteer Vol A	741850
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07845.txt	dli.ministry.07845	CP	CP18	Akola	1910	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	773376
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07849.txt	dli.ministry.07849	CP	CP17	Amraoti	1911	G2	gazetteer	backup	in.ernet.dli.2015.279833	Central Provinces District Gazetteer Vol A	974971
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07851.txt	dli.ministry.07851	CP	CP09	Betul	1907	G2	gazetteer	backup		Central Provinces District Gazetteer Vol A	556309
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07853.txt	dli.ministry.07853	CP	CP19	Buldana	1910	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	886542
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07854.txt	dli.ministry.07854	CP	CP19	Buldana	1910	G2	gazetteer	backup	dli.ministry.07853	Central Provinces District Gazetteer Vol A	886803
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07857.txt	dli.ministry.07857	CP	CP10	Chhindwara	1907	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	493702
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07859.txt	dli.ministry.07859	CP	CP16	Drug	1910	G2	gazetteer	backup	in.ernet.dli.2015.206909	Central Provinces District Gazetteer Vol A	383846
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07861.txt	dli.ministry.07861	CP	CP03	Jubbulpore	1909	G2	gazetteer	backup	in.ernet.dli.2015.206914	Central Provinces District Gazetteer Vol A	202376
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07863.txt	dli.ministry.07863	CP	CP12	Nagpur	1908	G2	gazetteer	backup	in.ernet.dli.2015.206916	Central Provinces District Gazetteer Vol A; backup dli.ministry.07863 is really the Thane District Gazetteer (revised 1982), found Nov 2026; primary is correct	2946229
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07867.txt	dli.ministry.07867	CP	CP08	Nimar	1908	G2	gazetteer	backup	dli.ministry.07868	Central Provinces District Gazetteer Vol A; backup dli.ministry.07867 is really the Balaghat gazetteer (found Nov 2026)	677686
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07868.txt	dli.ministry.07868	CP	CP08	Nimar	1908	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A; backup dli.ministry.07867 is really the Balaghat gazetteer (found Nov 2026)	535937
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07870.txt	dli.ministry.07870	CP	CP14	Raipur	1909	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	740881
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07871.txt	dli.ministry.07871	CP	CP05	Seoni	1907	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	410051
+gazetteer-vedanta/cp/data/ia_ocr/dli.ministry.07873.txt	dli.ministry.07873	CP	CP20	Yeotmal	1908	G2	gazetteer	backup	in.ernet.dli.2015.39422	Central Provinces District Gazetteer Vol A	463744
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.14272.txt	in.ernet.dli.2015.14272	CP	CP18	Akola	1910	G2	gazetteer	backup	dli.ministry.07845	Central Provinces District Gazetteer Vol A	787124
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.14274.txt	in.ernet.dli.2015.14274	CP	CP05	Seoni	1907	G2	gazetteer	backup	dli.ministry.07871	Central Provinces District Gazetteer Vol A	421001
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.181110.txt	in.ernet.dli.2015.181110	CP	CP07	Hoshangabad	1908	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	768375
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.181807.txt	in.ernet.dli.2015.181807	CP	GRANT	Central Provinces (all)	1870	G1	gazetteer	primary		Grant, Gazetteer of the Central Provinces, 2nd ed.	2257507
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.206909.txt	in.ernet.dli.2015.206909	CP	CP16	Drug	1910	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	383712
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.206910.txt	in.ernet.dli.2015.206910	CP	CP11	Wardha	1906	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	572122
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.206912.txt	in.ernet.dli.2015.206912	CP	CP06	Narsinghpur	1906	G2	gazetteer	backup	in.ernet.dli.2015.279835	Central Provinces District Gazetteer Vol A	519715
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.206913.txt	in.ernet.dli.2015.206913	CP	CP15	Bilaspur	1910	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	848314
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.206914.txt	in.ernet.dli.2015.206914	CP	CP03	Jubbulpore	1909	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	929010
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.206916.txt	in.ernet.dli.2015.206916	CP	CP12	Nagpur	1908	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A; backup dli.ministry.07863 is really the Thane District Gazetteer (revised 1982), found Nov 2026; primary is correct	715406
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.211519.txt	in.ernet.dli.2015.211519	CP	RUS1	Central Provinces (all)	1916	G2	glossary	primary		Russell & Hira Lal vol I	1139624
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.211522.txt	in.ernet.dli.2015.211522	CP	RUS4	Central Provinces (all)	1916	G2	glossary	primary		Russell & Hira Lal vol IV	1391946
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.279832.txt	in.ernet.dli.2015.279832	CP	CP02	Damoh	1906	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	488076
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.279833.txt	in.ernet.dli.2015.279833	CP	CP17	Amraoti	1911	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	1047490
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.279834.txt	in.ernet.dli.2015.279834	CP	CP13	Bhandara	1908	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	563532
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.279835.txt	in.ernet.dli.2015.279835	CP	CP06	Narsinghpur	1906	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	580325
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.279836.txt	in.ernet.dli.2015.279836	CP	CP01	Saugor	1905	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	613769
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.281327.txt	in.ernet.dli.2015.281327	CP	CP10	Chhindwara	1907	G2	gazetteer	backup	dli.ministry.07857	Central Provinces District Gazetteer Vol A	364425
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.39422.txt	in.ernet.dli.2015.39422	CP	CP20	Yeotmal	1908	G2	gazetteer	primary		Central Provinces District Gazetteer Vol A	465887
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.49153.txt	in.ernet.dli.2015.49153	CP	CP07	Hoshangabad	1908	G2	gazetteer	backup	in.ernet.dli.2015.181110	Central Provinces District Gazetteer Vol A	768375
+gazetteer-vedanta/cp/data/ia_ocr/in.ernet.dli.2015.506862.txt	in.ernet.dli.2015.506862	CP	RUS2	Central Provinces (all)	1916	G2	glossary	primary		Russell & Hira Lal vol II	1227892
+gazetteer-vedanta/cp/data/ia_ocr/russell_vol3_gutenberg.txt	russell_vol3_gutenberg	CP				?	glossary	unselected			1345556
+gazetteer-vedanta/data/ia_ocr/b29353397_0009.txt	b29353397_0009	Bombay			1877	G1	gazetteer	unselected		The Gazetteer of Bombay Presidency	1197242
+gazetteer-vedanta/data/ia_ocr/b29353397_0011.txt	b29353397_0011	Bombay	XI	Kolaba and Janjira	1883	G1	gazetteer	primary		Konkan	1927906
+gazetteer-vedanta/data/ia_ocr/b29353397_0012.txt	b29353397_0012	Bombay	XII	Khandesh	1880	G1	gazetteer	primary		Deccan	2427866
+gazetteer-vedanta/data/ia_ocr/b29353397_0016.txt	b29353397_0016	Bombay	XVI	Nasik	1883	G1	gazetteer	primary		Deccan	2595798
+gazetteer-vedanta/data/ia_ocr/cu31924070623545.txt	cu31924070623545	Bombay	VI	Rewa Kantha, Narukot, Cambay, Surat States	1880	G1	gazetteer	primary		Gujarat	860068
+gazetteer-vedanta/data/ia_ocr/cu31924070623578.txt	cu31924070623578	Bombay	X	Ratnagiri and Savantvadi	1880	G1	gazetteer	primary		Konkan	1824440
+gazetteer-vedanta/data/ia_ocr/cu31924070623594.txt	cu31924070623594	Bombay	XII	Khandesh	1880	G1	gazetteer	backup	b29353397_0012	Deccan	2426613
+gazetteer-vedanta/data/ia_ocr/cu31924070623651.txt	cu31924070623651	Bombay	XVI	Nasik	1883	G1	gazetteer	backup	b29353397_0016	Deccan	2616793
+gazetteer-vedanta/data/ia_ocr/cu31924070623701.txt	cu31924070623701	Bombay	XIX	Satara	1885	G1	gazetteer	primary		Deccan	2594149
+gazetteer-vedanta/data/ia_ocr/cu31924070623719.txt	cu31924070623719	Bombay	XX	Sholapur	1884	G1	gazetteer	primary		Deccan	2104374
+gazetteer-vedanta/data/ia_ocr/cu31924070623727.txt	cu31924070623727	Bombay	XXI	Belgaum	1884	G1	gazetteer	primary		Karnatak	2472077
+gazetteer-vedanta/data/ia_ocr/cu31924070623743.txt	cu31924070623743	Bombay	XXIII	Bijapur	1884	G1	gazetteer	primary		Karnatak	2749926
+gazetteer-vedanta/data/ia_ocr/dli.csl.3218.txt	dli.csl.3218	Bombay	XXII	Dharwar	1884	G1	gazetteer	backup	wbsl.15453	Karnatak	2890885
+gazetteer-vedanta/data/ia_ocr/dli.csl.3307.txt	dli.csl.3307	Bombay	XIII-1	Thana pt 1	1882	G1	gazetteer	backup	dli.ministry.08142	Konkan	1408338
+gazetteer-vedanta/data/ia_ocr/dli.csl.3335.txt	dli.csl.3335	Bombay	X	Ratnagiri and Savantvadi	1880	G1	gazetteer	backup	cu31924070623578	Konkan	1833098
+gazetteer-vedanta/data/ia_ocr/dli.ernet.106190.txt	dli.ernet.106190	Bombay	III	Kaira and Panch Mahals	1879	G1	gazetteer	backup	in.gov.ignca.17319	Gujarat	1000923
+gazetteer-vedanta/data/ia_ocr/dli.ernet.11430.txt	dli.ernet.11430	Bombay	XXIII	Bijapur	1884	G1	gazetteer	backup	cu31924070623743	Karnatak	2882409
+gazetteer-vedanta/data/ia_ocr/dli.ministry.08142.txt	dli.ministry.08142	Bombay	XIII-1	Thana pt 1	1882	G1	gazetteer	primary		Konkan	1386293
+gazetteer-vedanta/data/ia_ocr/dli.ministry.08145.txt	dli.ministry.08145	Bombay	IV	Ahmedabad	1879	G1	gazetteer	primary		Gujarat	1207990
+gazetteer-vedanta/data/ia_ocr/dli.ministry.08151.txt	dli.ministry.08151	Bombay	XVIII-1	Poona pt 1	1885	G1	gazetteer	primary		Deccan; wbsl.19792 is partial (780k chars)	2032272
+gazetteer-vedanta/data/ia_ocr/dli.ministry.13320.txt	dli.ministry.13320	Bombay			1883	G1	gazetteer	unselected		Gazetteer of the Bombay presidency	1933044
+gazetteer-vedanta/data/ia_ocr/dli.ministry.13326.txt	dli.ministry.13326	Bombay	II	Surat and Broach	1877	G1	gazetteer	backup	in.gov.ignca.17317	Gujarat	1696896
+gazetteer-vedanta/data/ia_ocr/gazetteerbombay00enthgoog.txt	gazetteerbombay00enthgoog	Bombay			1877	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency	2071730
+gazetteer-vedanta/data/ia_ocr/gazetteerbombay00unkngoog.txt	gazetteerbombay00unkngoog	Bombay			1877	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency	2354588
+gazetteer-vedanta/data/ia_ocr/gazetteerbombay04enthgoog.txt	gazetteerbombay04enthgoog	Bombay			1877	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency	1897216
+gazetteer-vedanta/data/ia_ocr/gazetteerbombay04unkngoog.txt	gazetteerbombay04unkngoog	Bombay			1877	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency	1924102
+gazetteer-vedanta/data/ia_ocr/gazetteerbombay05enthgoog.txt	gazetteerbombay05enthgoog	Bombay			1877	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency	2970650
+gazetteer-vedanta/data/ia_ocr/gazetteerbombay09enthgoog.txt	gazetteerbombay09enthgoog	Bombay			1877	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency	214451
+gazetteer-vedanta/data/ia_ocr/gazetteerbombay10enthgoog.txt	gazetteerbombay10enthgoog	Bombay			1877	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency	2499232
+gazetteer-vedanta/data/ia_ocr/gazetteerbombay12enthgoog.txt	gazetteerbombay12enthgoog	Bombay			1877	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency	3101690
+gazetteer-vedanta/data/ia_ocr/gazetteerbombay13enthgoog.txt	gazetteerbombay13enthgoog	Bombay			1877	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency	2591009
+gazetteer-vedanta/data/ia_ocr/gazetteerbombay22enthgoog.txt	gazetteerbombay22enthgoog	Bombay			1877	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency	1856892
+gazetteer-vedanta/data/ia_ocr/gazetteerbombay25enthgoog.txt	gazetteerbombay25enthgoog	Bombay			1877	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency	686404
+gazetteer-vedanta/data/ia_ocr/in.ernet.dli.2015.106191.txt	in.ernet.dli.2015.106191	Bombay	V	Cutch, Palanpur, Mahi Kantha	1880	G1	gazetteer	primary		Gujarat	1678027
+gazetteer-vedanta/data/ia_ocr/in.ernet.dli.2015.106198.txt	in.ernet.dli.2015.106198	Bombay	XV-1	Kanara pt 1	1883	G1	gazetteer	primary		Karnatak; 280091 download failed twice (SSL)	1553625
+gazetteer-vedanta/data/ia_ocr/in.ernet.dli.2015.113147.txt	in.ernet.dli.2015.113147	Bombay	IX-1	Gujarat Population: Hindus	1901	G2	gazetteer	primary		Gujarat; caste accounts for all Gujarat	2568925
+gazetteer-vedanta/data/ia_ocr/in.ernet.dli.2015.280090.txt	in.ernet.dli.2015.280090	Bombay	VII	Baroda	1883	G1	gazetteer	primary		Gujarat	2213800
+gazetteer-vedanta/data/ia_ocr/in.ernet.dli.2015.281420.txt	in.ernet.dli.2015.281420	Bombay	IX-1	Gujarat Population: Hindus	1901	G2	gazetteer	backup	in.ernet.dli.2015.113147	Gujarat; caste accounts for all Gujarat	2538564
+gazetteer-vedanta/data/ia_ocr/in.ernet.dli.2015.281422.txt	in.ernet.dli.2015.281422	Bombay	VIII	Kathiawar	1884	G1	gazetteer	primary		Gujarat	2341048
+gazetteer-vedanta/data/ia_ocr/in.ernet.dli.2015.281424.txt	in.ernet.dli.2015.281424	Bombay	XI	Kolaba and Janjira	1883	G1	gazetteer	backup	b29353397_0011	Konkan	1900912
+gazetteer-vedanta/data/ia_ocr/in.ernet.dli.2015.281426.txt	in.ernet.dli.2015.281426	Bombay	XIX	Satara	1885	G1	gazetteer	backup	cu31924070623701	Deccan	2526922
+gazetteer-vedanta/data/ia_ocr/in.ernet.dli.2015.281427.txt	in.ernet.dli.2015.281427	Bombay	XX	Sholapur	1884	G1	gazetteer	backup	cu31924070623719	Deccan	1787084
+gazetteer-vedanta/data/ia_ocr/in.ernet.dli.2015.511663.txt	in.ernet.dli.2015.511663	Bombay	XXIV	Kolhapur	1886	G1	gazetteer	backup	wbsl.16117	Deccan; backup has no usable OCR	1413432
+gazetteer-vedanta/data/ia_ocr/in.ernet.dli.2015.73271.txt	in.ernet.dli.2015.73271	Bombay	IV	Ahmedabad	1879	G1	gazetteer	backup	dli.ministry.08145	Gujarat	1217949
+gazetteer-vedanta/data/ia_ocr/in.gov.ignca.17317.txt	in.gov.ignca.17317	Bombay	II	Surat and Broach	1877	G1	gazetteer	primary		Gujarat	1845310
+gazetteer-vedanta/data/ia_ocr/in.gov.ignca.17319.txt	in.gov.ignca.17319	Bombay	III	Kaira and Panch Mahals	1879	G1	gazetteer	primary		Gujarat	952765
+gazetteer-vedanta/data/ia_ocr/in.gov.ignca.17323.txt	in.gov.ignca.17323	Bombay	V	Cutch, Palanpur, Mahi Kantha	1880	G1	gazetteer	backup	in.ernet.dli.2015.106191	Gujarat	1365885
+gazetteer-vedanta/data/ia_ocr/in.gov.ignca.17325.txt	in.gov.ignca.17325	Bombay	VI	Rewa Kantha, Narukot, Cambay, Surat States	1880	G1	gazetteer	backup	cu31924070623545	Gujarat	778059
+gazetteer-vedanta/data/ia_ocr/in.gov.ignca.17327.txt	in.gov.ignca.17327	Bombay	VII	Baroda	1883	G1	gazetteer	backup	in.ernet.dli.2015.280090	Gujarat	2024809
+gazetteer-vedanta/data/ia_ocr/india.history.resource.89706.txt	india.history.resource.89706	Bombay	XVII	Ahmadnagar	1884	G1	gazetteer	backup	wbsl.17015	Deccan; dli.ministry.13320 (earlier backup) is in fact Nasik vol XVI	2513223
+gazetteer-vedanta/data/ia_ocr/wbsl.15453.txt	wbsl.15453	Bombay	XXII	Dharwar	1884	G1	gazetteer	primary		Karnatak	2851391
+gazetteer-vedanta/data/ia_ocr/wbsl.16117.txt	wbsl.16117	Bombay	XXIV	Kolhapur	1886	G1	gazetteer	primary		Deccan; backup has no usable OCR	1425480
+gazetteer-vedanta/data/ia_ocr/wbsl.17015.txt	wbsl.17015	Bombay	XVII	Ahmadnagar	1884	G1	gazetteer	primary		Deccan; dli.ministry.13320 (earlier backup) is in fact Nasik vol XVI	2562840
+gazetteer-vedanta/data/ia_ocr/wbsl.17016.txt	wbsl.17016	Bombay	XXI	Belgaum	1884	G1	gazetteer	backup	cu31924070623727	Karnatak	2071941
+gazetteer-vedanta/data/ia_ocr/wbsl.19792.txt	wbsl.19792	Bombay	XVIII-1	Poona pt 1	1885	G1	gazetteer	backup	dli.ministry.08151	Deccan; wbsl.19792 is partial (780k chars)	785545
+gazetteer-vedanta/madras/data/census/in.ernet.dli.2015.47396.txt	in.ernet.dli.2015.47396	Madras	C1871	all	1874	G1	census	backup	wbsl.3754	1871 report	1580068
+gazetteer-vedanta/madras/data/census/india.history.resource.52256.txt	india.history.resource.52256	Madras				?	census	unselected			1974492
+gazetteer-vedanta/madras/data/census/india.history.resource.52257.txt	india.history.resource.52257	Madras	C1891T	all	1893	G2	census	primary		1891 tables	1770036
+gazetteer-vedanta/madras/data/census/madras_1891_report.txt	madras_1891_report	Madras				?	census	unselected			2204508
+gazetteer-vedanta/madras/data/census/wbsl.3640.txt	wbsl.3640	Madras	C1891T	all	1893	G2	census	backup	india.history.resource.52257	1891 tables	923164
+gazetteer-vedanta/madras/data/census/wbsl.3654.txt	wbsl.3654	Madras				?	census	unselected			1938534
+gazetteer-vedanta/madras/data/census/wbsl.3754.txt	wbsl.3754	Madras	C1871	all	1874	G1	census	primary		1871 report	1389502
+gazetteer-vedanta/madras/data/ia_ocr/dli.csl.3304.txt	dli.csl.3304	Madras	G-SAR	South Arcot	1906	G2	gazetteer	primary		Francis, Gazetteer	1221154
+gazetteer-vedanta/madras/data/ia_ocr/dli.csl.3363.txt	dli.csl.3363	Madras	G-MAL	Malabar	1908	G2	gazetteer	primary		Innes/Evans, Gazetteer	1470087
+gazetteer-vedanta/madras/data/ia_ocr/dli.ministry.04158.txt	dli.ministry.04158	Madras	M-MAL	Malabar	1887	G1	gazetteer	primary		Logan, Manual (1906 reprint)	2732526
+gazetteer-vedanta/madras/data/ia_ocr/dli.ministry.08439.txt	dli.ministry.08439	Madras	G-SAR	South Arcot	1906	G2	gazetteer	backup	dli.csl.3304	Francis, Gazetteer	1218606
+gazetteer-vedanta/madras/data/ia_ocr/dli.ministry.16823.txt	dli.ministry.16823	Madras	M-NAR	North Arcot	1881	G1	gazetteer	backup	wbsl.15630	Cox, Manual	1294286
+gazetteer-vedanta/madras/data/ia_ocr/dli.ministry.16838.txt	dli.ministry.16838	Madras	M-TIN	Tinnevelly	1879	G1	gazetteer	backup	wbsl.19734	Stuart, Manual	658682
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.13345.txt	in.ernet.dli.2015.13345	Madras	G-TAN	Tanjore	1906	G2	gazetteer	backup	in.ernet.dli.2015.210633	Hemingway, Gazetteer vol I	988490
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.13347.txt	in.ernet.dli.2015.13347	Madras	G-TIN	Tinnevelly	1917	G2	gazetteer	backup	in.ernet.dli.2015.212653	Pate, Gazetteer vol I	1657297
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.13348.txt	in.ernet.dli.2015.13348	Madras	G-VIZ	Vizagapatam	1907	G2	gazetteer	backup	in.ernet.dli.2015.207070	Francis, Gazetteer vol I	1005634
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.177161.txt	in.ernet.dli.2015.177161	Madras	G-BEL	Bellary	1904	G2	gazetteer	backup	in.ernet.dli.2015.207069	Francis, Gazetteer vol I (1916 reprint as backup)	1097811
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.177162.txt	in.ernet.dli.2015.177162	Madras	G-CUD	Cuddapah	1915	G2	gazetteer	backup	in.ernet.dli.2015.280832	Gazetteer vol I	667992
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.177463.txt	in.ernet.dli.2015.177463	Madras	G-MAD	Madura	1906	G2	gazetteer	primary		Francis, Gazetteer (no manual on IA in this search)	950166
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.177470.txt	in.ernet.dli.2015.177470	Madras	G-SAL	Salem	1918	G2	gazetteer	primary		Richards, Gazetteer vol I pt I	1051392
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.180805.txt	in.ernet.dli.2015.180805	Madras	M-BEL	Bellary	1872	G1	gazetteer	primary		Kelsall, Manual	853922
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.207069.txt	in.ernet.dli.2015.207069	Madras	G-BEL	Bellary	1904	G2	gazetteer	primary		Francis, Gazetteer vol I (1916 reprint as backup)	969410
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.207070.txt	in.ernet.dli.2015.207070	Madras	G-VIZ	Vizagapatam	1907	G2	gazetteer	primary		Francis, Gazetteer vol I	1117047
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.210633.txt	in.ernet.dli.2015.210633	Madras	G-TAN	Tanjore	1906	G2	gazetteer	primary		Hemingway, Gazetteer vol I	976590
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.212653.txt	in.ernet.dli.2015.212653	Madras	G-TIN	Tinnevelly	1917	G2	gazetteer	primary		Pate, Gazetteer vol I	1464906
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.280832.txt	in.ernet.dli.2015.280832	Madras	G-CUD	Cuddapah	1915	G2	gazetteer	primary		Gazetteer vol I	794800
+gazetteer-vedanta/madras/data/ia_ocr/in.ernet.dli.2015.61943.txt	in.ernet.dli.2015.61943	Madras	G-SAL	Salem	1918	G2	gazetteer	backup	in.ernet.dli.2015.177470	Richards, Gazetteer vol I pt I	979754
+gazetteer-vedanta/madras/data/ia_ocr/india.history.resource.107742.txt	india.history.resource.107742	Madras	M-SAR	South Arcot	1878	G1	gazetteer	backup	wbsl.19855	Garstin, Manual	909006
+gazetteer-vedanta/madras/data/ia_ocr/pli.kerala.rare.12205.txt	pli.kerala.rare.12205	Madras	M-VIZ	Vizagapatam	1869	G1	gazetteer	backup	wbsl.15629	Carmichael, Manual	867495
+gazetteer-vedanta/madras/data/ia_ocr/pli.kerala.rare.12210.txt	pli.kerala.rare.12210	Madras	M-CUD	Cuddapah	1875	G1	gazetteer	backup	wbsl.15463	Manual	865692
+gazetteer-vedanta/madras/data/ia_ocr/pli.kerala.rare.12216.txt	pli.kerala.rare.12216	Madras	M-SAL	Salem	1883	G1	gazetteer	backup	wbsl.16377	Le Fanu, Manual vol I	345369
+gazetteer-vedanta/madras/data/ia_ocr/wbsl.15463.txt	wbsl.15463	Madras	M-CUD	Cuddapah	1875	G1	gazetteer	primary		Manual	906092
+gazetteer-vedanta/madras/data/ia_ocr/wbsl.15629.txt	wbsl.15629	Madras	M-VIZ	Vizagapatam	1869	G1	gazetteer	primary		Carmichael, Manual	875651
+gazetteer-vedanta/madras/data/ia_ocr/wbsl.15630.txt	wbsl.15630	Madras	M-NAR	North Arcot	1881	G1	gazetteer	primary		Cox, Manual	1284453
+gazetteer-vedanta/madras/data/ia_ocr/wbsl.15723.txt	wbsl.15723	Madras	M-BEL	Bellary	1872	G1	gazetteer	backup	in.ernet.dli.2015.180805	Kelsall, Manual	866261
+gazetteer-vedanta/madras/data/ia_ocr/wbsl.16053.txt	wbsl.16053	Madras	M-CHI	Chingleput	1879	G1	gazetteer	primary		Crole, Manual	1160677
+gazetteer-vedanta/madras/data/ia_ocr/wbsl.16377.txt	wbsl.16377	Madras	M-SAL	Salem	1883	G1	gazetteer	primary		Le Fanu, Manual vol I	1791868
+gazetteer-vedanta/madras/data/ia_ocr/wbsl.19734.txt	wbsl.19734	Madras	M-TIN	Tinnevelly	1879	G1	gazetteer	primary		Stuart, Manual	668381
+gazetteer-vedanta/madras/data/ia_ocr/wbsl.19855.txt	wbsl.19855	Madras	M-SAR	South Arcot	1878	G1	gazetteer	primary		Garstin, Manual	966796
+gazetteer-vedanta/madras/data/thurston/vol1.txt	vol1	Madras	THU1	Madras (all)	1909	G2	glossary	primary		Thurston & Rangachari, Castes and Tribes	826530
+gazetteer-vedanta/madras/data/thurston/vol2.txt	vol2	Madras	THU2	Madras (all)	1909	G2	glossary	primary		Thurston & Rangachari, Castes and Tribes	914854
+gazetteer-vedanta/madras/data/thurston/vol3.txt	vol3	Madras	THU3	Madras (all)	1909	G2	glossary	primary		Thurston & Rangachari, Castes and Tribes	923277
+gazetteer-vedanta/madras/data/thurston/vol4.txt	vol4	Madras	THU4	Madras (all)	1909	G2	glossary	primary		Thurston & Rangachari, Castes and Tribes	921314
+gazetteer-vedanta/madras/data/thurston/vol5.txt	vol5	Madras	THU5	Madras (all)	1909	G2	glossary	primary		Thurston & Rangachari, Castes and Tribes	893582
+gazetteer-vedanta/madras/data/thurston/vol6.txt	vol6	Madras	THU6	Madras (all)	1909	G2	glossary	primary		Thurston & Rangachari, Castes and Tribes	835833
+gazetteer-vedanta/madras/data/thurston/vol7.txt	vol7	Madras	THU7	Madras (all)	1909	G2	glossary	primary		Thurston & Rangachari, Castes and Tribes	803286
+gazetteer-vedanta/north/data/census/in.ernet.dli.2015.62746.txt	in.ernet.dli.2015.62746	UP	C1901T	all	1902	G2	census	primary		1901 tables	804610
+gazetteer-vedanta/north/data/census/india.history.resource.110233.txt	india.history.resource.110233	UP	C1891R	all	1894	G2	census	primary		1891 report	1780707
+gazetteer-vedanta/north/data/census/india.history.resource.117715.txt	india.history.resource.117715	UP	C1891C	all	1894	G2	census	primary		1891 imperial caste tables	1622509
+gazetteer-vedanta/north/data/census/wbsl.4279.txt	wbsl.4279	UP	C1891R	all	1894	G2	census	backup	india.history.resource.110233	1891 report	1633148
+gazetteer-vedanta/north/data/census/wbsl.4454.txt	wbsl.4454	UP	C1891C	all	1894	G2	census	backup	india.history.resource.117715	1891 imperial caste tables	1734752
+gazetteer-vedanta/north/data/ia_ocr/cu31924023947736.txt	cu31924023947736	UP	ATcu1	unidentified	1874	G1	gazetteer	primary		Cornell, identify	2220820
+gazetteer-vedanta/north/data/ia_ocr/cu31924023947744.txt	cu31924023947744	UP	ATcu2	unidentified	1874	G1	gazetteer	primary		Cornell, identify	2227783
+gazetteer-vedanta/north/data/ia_ocr/cu31924023947751.txt	cu31924023947751	UP	ATcu3	unidentified	1874	G1	gazetteer	primary		Cornell, identify	2802952
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2873.txt	dli.csl.2873	UP	UP33	Lucknow	1904	G2	gazetteer	backup	dli.ministry.08417	Nevill series	674834
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2876.txt	dli.csl.2876	UP	UP22	Jalaun	1909	G2	gazetteer	primary		Nevill series	596196
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2878.txt	dli.csl.2878	UP	UP18	Banda	1909	G2	gazetteer	primary		Nevill series	789230
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2882.txt	dli.csl.2882	UP	UP39	Fyzabad	1905	G2	gazetteer	backup	dli.ministry.07929	Nevill series	756519
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2887.txt	dli.csl.2887	UP	UP17	Fatehpur	1916	G2	gazetteer	primary		Nevill series	880744
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2915.txt	dli.csl.2915	UP	UP19	Hamirpur	1909	G2	gazetteer	backup		Nevill series	597923
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2925.txt	dli.csl.2925	UP	UP31	Almora	1911	G2	gazetteer	primary		Nevill series	850603
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2926.txt	dli.csl.2926	UP	UP36	Sitapur	1905	G2	gazetteer	primary		Nevill series	614896
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2951.txt	dli.csl.2951	UP	UP40	Gonda	1905	G2	gazetteer	backup		Nevill series	815772
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2954.txt	dli.csl.2954	UP	UP25	Ghazipur	1909	G2	gazetteer	backup	dli.ministry.08198	Nevill series	699225
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2974.txt	dli.csl.2974	UP	UP07	Muttra	1911	G2	gazetteer	primary		Nevill series	991792
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.2977.txt	dli.csl.2977	UP	UP02	Saharanpur	1921	G2	gazetteer	primary		Nevill series	889870
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.3017.txt	dli.csl.3017	UP	UP13	Budaun	1907	G2	gazetteer	backup	dli.ministry.07479	Nevill series	723859
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.3045.txt	dli.csl.3045	UP			1909	G2	gazetteer	unselected		Aligarh: a Gazetteer of the District Gazetteers of United Provinces of Agra and 	351740
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.3051.txt	dli.csl.3051	UP	UP01	Dehra Dun	1911	G2	gazetteer	backup	dli.ministry.07898	Nevill series	679755
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.3066.txt	dli.csl.3066	UP	UP27	Gorakhpur	1909	G2	gazetteer	primary		Nevill series	867144
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.3084.txt	dli.csl.3084	UP	UP11	Bareilly	1911	G2	gazetteer	primary		Nevill series	696824
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.3098.txt	dli.csl.3098	UP	OU2	Oudh H–M	1877	G1	gazetteer	backup	wbsl.16127	Gazetteer of the Province of Oudh vol II	1586536
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.3111.txt	dli.csl.3111	UP	UP09	Farrukhabad	1911	G2	gazetteer	primary		Nevill series	699808
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.3132.txt	dli.csl.3132	UP	UP32	Garhwal	1910	G2	gazetteer	primary		Nevill series	539295
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.3145.txt	dli.csl.3145	UP	UP12	Bijnor	1908	G2	gazetteer	primary		Nevill series	813157
+gazetteer-vedanta/north/data/ia_ocr/dli.csl.3191.txt	dli.csl.3191	UP	UP26	Ballia	1907	G2	gazetteer	backup	dli.ministry.07349	Nevill series	688547
+gazetteer-vedanta/north/data/ia_ocr/dli.ernet.523334.txt	dli.ernet.523334	UP			1879	G1	gazetteer	unselected		Gazetteer Of The North Western Provinces Aligarh District	861499
+gazetteer-vedanta/north/data/ia_ocr/dli.ernet.523339.txt	dli.ernet.523339	UP	AT04c	Mainpuri	1876	G1	gazetteer	primary		Atkinson vol IV offprint	1002425
+gazetteer-vedanta/north/data/ia_ocr/dli.ernet.523402.txt	dli.ernet.523402	UP			1801	G1	gazetteer	unselected		Gazetteer Basti District	801888
+gazetteer-vedanta/north/data/ia_ocr/dli.ernet.523459.txt	dli.ernet.523459	UP			1875	G1	gazetteer	unselected		Gazetteer N.w.p Bulandshahr District(1875)	653935
+gazetteer-vedanta/north/data/ia_ocr/dli.ernet.523547.txt	dli.ernet.523547	UP	AT04b	Etah	1876	G1	gazetteer	primary		Atkinson vol IV offprint (catalogue year 1933)	699523
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.03529.txt	dli.ministry.03529	UP	UP38	Kheri	1905	G2	gazetteer	primary		retry	645226
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.04553.txt	dli.ministry.04553	UP	UP03	Muzaffarnagar	1903	G2	gazetteer	primary		Nevill series	823190
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.06564.txt	dli.ministry.06564	UP	UP42	Sultanpur	1903	G2	gazetteer	primary		Nevill series	536354
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07294.txt	dli.ministry.07294	UP	UP06	Aligarh	1909	G2	gazetteer	primary		Nevill 1909; Atkinson = dli.ernet.523334 (earlier layer)	712138
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07295.txt	dli.ministry.07295	UP	UP20	Allahabad	1911	G2	gazetteer	backup		Nevill series	834793
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07296.txt	dli.ministry.07296	UP	UP31	Almora	1911	G2	gazetteer	backup	dli.csl.2925	Nevill series	740371
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07349.txt	dli.ministry.07349	UP	UP26	Ballia	1907	G2	gazetteer	primary		Nevill series	682502
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07350.txt	dli.ministry.07350	UP	UP18	Banda	1909	G2	gazetteer	backup	dli.csl.2878	Nevill series	791492
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07357.txt	dli.ministry.07357	UP	UP11	Bareilly	1911	G2	gazetteer	backup	dli.csl.3084	Nevill series	717786
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07358.txt	dli.ministry.07358	UP	UP28	Basti	1907	G2	gazetteer	primary		Nevill; Atkinson = dli.ernet.523402 (earlier layer)	715972
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07469.txt	dli.ministry.07469	UP	UP12	Bijnor	1908	G2	gazetteer	backup	dli.csl.3145	Nevill series	819212
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07478.txt	dli.ministry.07478	UP	UP32	Garhwal	1910	G2	gazetteer	backup	dli.csl.3132	Nevill series	542065
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07479.txt	dli.ministry.07479	UP	UP13	Budaun	1907	G2	gazetteer	primary		Nevill series	723029
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07843.txt	dli.ministry.07843	UP	UP16	Cawnpore	1909	G2	gazetteer	backup		Nevill series	898110
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07898.txt	dli.ministry.07898	UP	UP01	Dehra Dun	1911	G2	gazetteer	primary		Nevill series	684852
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07921.txt	dli.ministry.07921	UP	UP10	Etawah	1911	G2	gazetteer	backup	in.ernet.dli.2015.279953	Nevill series	602281
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07925.txt	dli.ministry.07925	UP	UP09	Farrukhabad	1911	G2	gazetteer	backup	dli.csl.3111	Nevill series	699514
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07928.txt	dli.ministry.07928	UP	UP17	Fatehpur	1916	G2	gazetteer	backup	dli.csl.2887	Nevill series	762530
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.07929.txt	dli.ministry.07929	UP	UP39	Fyzabad	1905	G2	gazetteer	primary		Nevill series	754243
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.08198.txt	dli.ministry.08198	UP	UP25	Ghazipur	1909	G2	gazetteer	primary		Nevill series	691651
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.08200.txt	dli.ministry.08200	UP	UP27	Gorakhpur	1909	G2	gazetteer	backup	dli.csl.3066	Nevill series	851822
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.08381.txt	dli.ministry.08381	UP	UP22	Jalaun	1909	G2	gazetteer	backup	dli.csl.2876	Nevill series	521175
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.08388.txt	dli.ministry.08388	UP	UP24	Jaunpur	1908	G2	gazetteer	backup	in.ernet.dli.2015.206932	Nevill series	822455
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.08392.txt	dli.ministry.08392	UP	UP21	Jhansi	1909	G2	gazetteer	backup	in.ernet.dli.2015.79753	Nevill series	879048
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.08417.txt	dli.ministry.08417	UP	UP33	Lucknow	1904	G2	gazetteer	primary		Nevill series	683579
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.08507.txt	dli.ministry.08507	UP	UP03	Muzaffarnagar	1903	G2	gazetteer	backup	dli.ministry.04553	Nevill series	847305
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.08573.txt	dli.ministry.08573	UP	UP15	Pilibhit	1909	G2	gazetteer	backup		Nevill series	601505
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.08616.txt	dli.ministry.08616	UP	UP35	Rae Bareli	1905	G2	gazetteer	backup	in.ernet.dli.2015.35020	Nevill series	610529
+gazetteer-vedanta/north/data/ia_ocr/dli.ministry.08644.txt	dli.ministry.08644	UP	UP02	Saharanpur	1921	G2	gazetteer	backup	dli.csl.2977	Nevill series	900179
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.113191.txt	in.ernet.dli.2015.113191	UP	UP34	Unao	1903	G2	gazetteer	primary		Nevill series	614271
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.113213.txt	in.ernet.dli.2015.113213	UP	UP42	Sultanpur	1903	G2	gazetteer	backup	dli.ministry.06564	Nevill series	551516
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.113224.txt	in.ernet.dli.2015.113224	UP			1911	G2	gazetteer	unselected		Benaras: A Gazetteer, Being Volume Xlvi Of The District Gazetteers Of The United	273479
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.113235.txt	in.ernet.dli.2015.113235	UP	UP44	Bara Banki	1903	G2	gazetteer	primary		Nevill series	808864
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.115606.txt	in.ernet.dli.2015.115606	UP	UP37	Hardoi	1904	G2	gazetteer	backup	in.ernet.dli.2015.35019	Nevill series	755579
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.115611.txt	in.ernet.dli.2015.115611	UP	UP43	Partabgarh	1904	G2	gazetteer	backup	in.ernet.dli.2015.281840	Nevill series	565339
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.13275.txt	in.ernet.dli.2015.13275	UP	UP06	Aligarh	1909	G2	gazetteer	primary		Nevill 1909; dli.ministry.07294 is a 1916 Fyzabad supplement (mislabelled); Atkinson = dli.ernet.523334	802257
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.13314.txt	in.ernet.dli.2015.13314	UP	UP46	Etah	1911	G2	gazetteer	primary		Nevill 1911; 224024 is a 69k fragment	607575
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.1361.txt	in.ernet.dli.2015.1361	UP	UP05	Bulandshahr	1875	G1	gazetteer	primary		Nevill vol V (1922 issue); Atkinson 1875 = dli.ernet.523459 (earlier layer)	871989
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.16071.txt	in.ernet.dli.2015.16071	UP	UP04	Meerut	1904	G2	gazetteer	backup	in.ernet.dli.2015.206941	Nevill series	945240
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.181620.txt	in.ernet.dli.2015.181620	UP	UP47	Moradabad	1911	G2	gazetteer	backup	in.ernet.dli.2015.224680	Nevill series	805403
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.206932.txt	in.ernet.dli.2015.206932	UP	UP24	Jaunpur	1908	G2	gazetteer	primary		Nevill series	889455
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.206941.txt	in.ernet.dli.2015.206941	UP	UP04	Meerut	1904	G2	gazetteer	primary		Nevill series	806247
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.206944.txt	in.ernet.dli.2015.206944	UP	UP23	Benares	1911	G2	gazetteer	primary		Nevill 1909; 113224 is only the B-volume notes	1079334
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.206945.txt	in.ernet.dli.2015.206945	UP	UP48	Mirzapur	1911	G2	gazetteer	primary		retry	1022035
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.224680.txt	in.ernet.dli.2015.224680	UP	UP47	Moradabad	1911	G2	gazetteer	primary		Nevill series	725806
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.231466.txt	in.ernet.dli.2015.231466	UP	UP30	Naini Tal	1904	G2	gazetteer	primary		Nevill series	950509
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.261690.txt	in.ernet.dli.2015.261690	UP	UP08	Agra	1903	G2	gazetteer	primary		Nevill 1905; 113235/460071 are Bara Banki	880769
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.279953.txt	in.ernet.dli.2015.279953	UP	UP10	Etawah	1911	G2	gazetteer	primary		Nevill series	595685
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.279962.txt	in.ernet.dli.2015.279962	UP	UP14	Shahjahanpur	1910	G2	gazetteer	primary		Nevill series	634470
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.281260.txt	in.ernet.dli.2015.281260	UP	UP29	Azamgarh	1911	G2	gazetteer	primary		Nevill series	805015
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.281265.txt	in.ernet.dli.2015.281265	UP	UP41	Bahraich	1921	G2	gazetteer	primary		Nevill series	534122
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.281840.txt	in.ernet.dli.2015.281840	UP	UP43	Partabgarh	1904	G2	gazetteer	primary		Nevill series	551405
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.35019.txt	in.ernet.dli.2015.35019	UP	UP37	Hardoi	1904	G2	gazetteer	primary		Nevill series	665624
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.35020.txt	in.ernet.dli.2015.35020	UP	UP35	Rae Bareli	1905	G2	gazetteer	primary		Nevill series	671188
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.460071.txt	in.ernet.dli.2015.460071	UP			1903	G2	gazetteer	unselected		District Gazetteers Of The United Provinces Of Agra And Oudh	743884
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.47993.txt	in.ernet.dli.2015.47993	UP	UP23	Benares	1911	G2	gazetteer	backup	in.ernet.dli.2015.206944	Nevill 1909; 113224 is only the B-volume notes	947845
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.48066.txt	in.ernet.dli.2015.48066	UP	UP46	Etah	1911	G2	gazetteer	backup	in.ernet.dli.2015.13314	Nevill 1911; 224024 is a 69k fragment	569127
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.48097.txt	in.ernet.dli.2015.48097	UP	UP45	Mainpuri	1910	G2	gazetteer	primary		Nevill series	750630
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.523321.txt	in.ernet.dli.2015.523321	UP	AT14	Benares, Mirzapur, Jaunpur	1884	G1	gazetteer	backup	india.history.resource.107123	Atkinson vol XIV	478978
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.55978.txt	in.ernet.dli.2015.55978	UP	OU3	Oudh N–Z	1878	G1	gazetteer	backup	wbsl.15715	Gazetteer of the Province of Oudh vol III	1758992
+gazetteer-vedanta/north/data/ia_ocr/in.ernet.dli.2015.79753.txt	in.ernet.dli.2015.79753	UP	UP21	Jhansi	1909	G2	gazetteer	primary		Nevill series	873678
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.107123.txt	india.history.resource.107123	UP	AT14	Benares, Mirzapur, Jaunpur	1884	G1	gazetteer	primary		Atkinson vol XIV	1534198
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.107125.txt	india.history.resource.107125	UP	AT05	Rohilkhand division	1879	G1	gazetteer	primary		Atkinson vol V	2388262
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.107126.txt	india.history.resource.107126	UP	AT06	vol VI	1881	G1	gazetteer	primary		Atkinson vol VI	2460992
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.107165.txt	india.history.resource.107165	UP	AT13	Azamgarh, Ghazipur, Ballia	1883	G1	gazetteer	primary		Atkinson vol XIII	1380400
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.107166.txt	india.history.resource.107166	UP	AT01	Bundelkhand (Banda, Hamirpur, Jhansi, Jalaun)	1874	G1	gazetteer	primary		Atkinson vol I	1936266
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.107167.txt	india.history.resource.107167	UP	AT02	Meerut division pt 1	1875	G1	gazetteer	primary		Atkinson vol II	1762094
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.107169.txt	india.history.resource.107169	UP	AT09	Shahjahanpur, Moradabad	1883	G1	gazetteer	primary		Atkinson vol IX	1419046
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.107170.txt	india.history.resource.107170	UP	AT08	Muttra, Allahabad, Fatehpur	1884	G1	gazetteer	primary		Atkinson vol VIII	1683412
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.107696.txt	india.history.resource.107696	UP	AT11	Himalayan districts II	1884	G1	gazetteer	primary		Atkinson vol XI	2418394
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.111252.txt	india.history.resource.111252	UP	AT07	Farukhabad and Agra	1884	G1	gazetteer	primary		Atkinson vol VII	2306446
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.117682.txt	india.history.resource.117682	UP	AT10	Himalayan districts I	1882	G1	gazetteer	primary		Atkinson vol X	1902227
+gazetteer-vedanta/north/data/ia_ocr/india.history.resource.89506.txt	india.history.resource.89506	UP	AT03	Meerut division pt 2	1876	G1	gazetteer	primary		Atkinson vol III	2236414
+gazetteer-vedanta/north/data/ia_ocr/wbsl.15501.txt	wbsl.15501	UP	AT03	Meerut division pt 2	1876	G1	gazetteer	backup	india.history.resource.89506	Atkinson vol III	2273227
+gazetteer-vedanta/north/data/ia_ocr/wbsl.15506.txt	wbsl.15506	UP	AT08	Muttra, Allahabad, Fatehpur	1884	G1	gazetteer	backup	india.history.resource.107170	Atkinson vol VIII	1642255
+gazetteer-vedanta/north/data/ia_ocr/wbsl.15575.txt	wbsl.15575	UP	AT10	Himalayan districts I	1882	G1	gazetteer	backup	india.history.resource.117682	Atkinson vol X	1865722
+gazetteer-vedanta/north/data/ia_ocr/wbsl.15711.txt	wbsl.15711	UP	AT07	Farukhabad and Agra	1884	G1	gazetteer	backup	india.history.resource.111252	Atkinson vol VII	2243775
+gazetteer-vedanta/north/data/ia_ocr/wbsl.15712.txt	wbsl.15712	UP	AT11	Himalayan districts II	1884	G1	gazetteer	backup	india.history.resource.107696	Atkinson vol XI	2375567
+gazetteer-vedanta/north/data/ia_ocr/wbsl.15715.txt	wbsl.15715	UP	OU3	Oudh N–Z	1878	G1	gazetteer	primary		Gazetteer of the Province of Oudh vol III	1694773
+gazetteer-vedanta/north/data/ia_ocr/wbsl.16041.txt	wbsl.16041	UP	AT13	Azamgarh, Ghazipur, Ballia	1883	G1	gazetteer	backup	india.history.resource.107165	Atkinson vol XIII	1360690
+gazetteer-vedanta/north/data/ia_ocr/wbsl.16127.txt	wbsl.16127	UP	OU2	Oudh H–M	1877	G1	gazetteer	primary		Gazetteer of the Province of Oudh vol II	1575036
+gazetteer-vedanta/north/data/ia_ocr/wbsl.16472.txt	wbsl.16472	UP	AT02	Meerut division pt 1	1875	G1	gazetteer	backup	india.history.resource.107167	Atkinson vol II	1907780
+gazetteer-vedanta/north/data/ia_ocr/wbsl.16789.txt	wbsl.16789	UP	AT01	Bundelkhand (Banda, Hamirpur, Jhansi, Jalaun)	1874	G1	gazetteer	backup	india.history.resource.107166	Atkinson vol I	1889605
+gazetteer-vedanta/north/data/ia_ocr/wbsl.18393.txt	wbsl.18393	UP	OU1	Oudh A–G	1877	G1	gazetteer	primary		Gazetteer of the Province of Oudh vol I	2020645
+gazetteer-vedanta/north/data/ia_ocr/wbsl.19224.txt	wbsl.19224	UP	AT05	Rohilkhand division	1879	G1	gazetteer	backup	india.history.resource.107125	Atkinson vol V	2176878
+gazetteer-vedanta/north/data/ia_ocr/wbsl.19297.txt	wbsl.19297	UP	AT12	Himalayan districts III	1886	G1	gazetteer	primary		Atkinson vol XII	1557951
+gazetteer-vedanta/north/data/ia_ocr/wbsl.21304.txt	wbsl.21304	UP	AT09	Shahjahanpur, Moradabad	1883	G1	gazetteer	backup	india.history.resource.107169	Atkinson vol IX	1415192
+gazetteer-vedanta/punjab/data/ia_ocr/dli.csl.2908.txt	dli.csl.2908	Punjab	PB04	Ludhiana	1907	G2	gazetteer	backup		Punjab District Gazetteer, revised (Part A)	924333
+gazetteer-vedanta/punjab/data/ia_ocr/dli.ministry.08589.txt	dli.ministry.08589	Punjab	PB02	Karnal	1919	G2	gazetteer	backup	in.ernet.dli.2015.105615	Punjab District Gazetteer, revised (Part A)	587703
+gazetteer-vedanta/punjab/data/ia_ocr/dli.ministry.08593.txt	dli.ministry.08593	Punjab	PB06	Jalandhar	1908	G2	gazetteer	backup	in.ernet.dli.2015.105605	Punjab District Gazetteer, revised (Part A)	1160593
+gazetteer-vedanta/punjab/data/ia_ocr/dli.ministry.13353.txt	dli.ministry.13353	Punjab	PB18	Peshawar	1899	G2	gazetteer	backup	in.ernet.dli.2015.35247	Punjab District Gazetteer, revised (Part A)	1132118
+gazetteer-vedanta/punjab/data/ia_ocr/dli.pahar.1916.txt	dli.pahar.1916	Punjab	PB05	Simla	1911	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	901731
+gazetteer-vedanta/punjab/data/ia_ocr/gaz-amritsar-1883.txt	gaz-amritsar-1883	Punjab	PA10	Amritsar	1883	G1	gazetteer	backup	wbsl.16182	Punjab District Gazetteer 1883-84	295135
+gazetteer-vedanta/punjab/data/ia_ocr/gaz-bannu-district-1883.txt	gaz-bannu-district-1883	Punjab	PA26	Bannu	1883	G1	gazetteer	backup	wbsl.15487	Punjab District Gazetteer 1883-84	1445436
+gazetteer-vedanta/punjab/data/ia_ocr/gaz-dera-ismail-khan-1883.txt	gaz-dera-ismail-khan-1883	Punjab	PA24	Dera Ismail Khan	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	808995
+gazetteer-vedanta/punjab/data/ia_ocr/gaz-hazara-1883.txt	gaz-hazara-1883	Punjab	PA28	Hazara	1883	G1	gazetteer	backup	wbsl.15210	Punjab District Gazetteer 1883-84	723532
+gazetteer-vedanta/punjab/data/ia_ocr/gaz-hisar-1883.txt	gaz-hisar-1883	Punjab	PA04	Hisar	1884	G1	gazetteer	backup	wbsl.16187	Punjab District Gazetteer 1883-84	287908
+gazetteer-vedanta/punjab/data/ia_ocr/gaz-karnal-1883.txt	gaz-karnal-1883	Punjab	PA03	Karnal	1884	G1	gazetteer	backup	wbsl.16138	Punjab District Gazetteer 1883-84	1000880
+gazetteer-vedanta/punjab/data/ia_ocr/gaz-montgomery-1883.txt	gaz-montgomery-1883	Punjab	PA22	Montgomery	1884	G1	gazetteer	backup	wbsl.16495	Punjab District Gazetteer 1883-84	693665
+gazetteer-vedanta/punjab/data/ia_ocr/gaz-mooltan-1883.txt	gaz-mooltan-1883	Punjab	PA20	Mooltan	1884	G1	gazetteer	backup	wbsl.19320	Punjab District Gazetteer 1883-84	646333
+gazetteer-vedanta/punjab/data/ia_ocr/gaz-rawalpindi-1883.txt	gaz-rawalpindi-1883	Punjab	PA16	Rawalpindi	1883	G1	gazetteer	backup	wbsl.15730	Punjab District Gazetteer 1883-84	489535
+gazetteer-vedanta/punjab/data/ia_ocr/gazetteer-dera-ghazi-khan-1883.txt	gazetteer-dera-ghazi-khan-1883	Punjab	PA25	Dera Ghazi Khan	1883	G1	gazetteer	backup	wbsl.15067	Punjab District Gazetteer 1883-84	536653
+gazetteer-vedanta/punjab/data/ia_ocr/gazetteer-gujranwala-1883.txt	gazetteer-gujranwala-1883	Punjab	PA14	Gujranwala	1883	G1	gazetteer	backup	wbsl.15673	Punjab District Gazetteer 1883-84	363570
+gazetteer-vedanta/punjab/data/ia_ocr/gazetteer-gurgaon-1883.txt	gazetteer-gurgaon-1883	Punjab	PA02	Gurgaon	1884	G1	gazetteer	backup	wbsl.15069	Punjab District Gazetteer 1883-84	553423
+gazetteer-vedanta/punjab/data/ia_ocr/gazetteer-hoshiarpur-1883.txt	gazetteer-hoshiarpur-1883	Punjab	PA08	Hoshiarpur	1884	G1	gazetteer	backup	wbsl.19737	Punjab District Gazetteer 1883-84	542476
+gazetteer-vedanta/punjab/data/ia_ocr/gazetteer-muzaffargarh-1883.txt	gazetteer-muzaffargarh-1883	Punjab	PA23	Muzaffargarh	1884	G1	gazetteer	backup	wbsl.16156	Punjab District Gazetteer 1883-84	518552
+gazetteer-vedanta/punjab/data/ia_ocr/gazetteer-muzaffargarh-1908.txt	gazetteer-muzaffargarh-1908	Punjab	PB17	Muzaffargarh	1910	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	696565
+gazetteer-vedanta/punjab/data/ia_ocr/gazetteer-muzaffargarh-leiah-1916.txt	gazetteer-muzaffargarh-leiah-1916	Punjab	PB17	Muzaffargarh	1910	G2	gazetteer	backup	gazetteer-muzaffargarh-1908	Punjab District Gazetteer, revised (Part A)	251183
+gazetteer-vedanta/punjab/data/ia_ocr/gazetteer-peshawar-1883.txt	gazetteer-peshawar-1883	Punjab	PA27	Peshawar	1883	G1	gazetteer	backup	wbsl.15490	Punjab District Gazetteer 1883-84	856441
+gazetteer-vedanta/punjab/data/ia_ocr/gazetteer-simla-1904.txt	gazetteer-simla-1904	Punjab	PB05	Simla	1911	G2	gazetteer	backup	dli.pahar.1916	Punjab District Gazetteer, revised (Part A)	419424
+gazetteer-vedanta/punjab/data/ia_ocr/glossaryoftribes03rose.txt	glossaryoftribes03rose	Punjab	ROSE3	Punjab (all)	1914	G2	glossary	backup	in.ernet.dli.2015.69674	Rose, Glossary vol III L-Z; backup glossaryoftribes03rose is really vol II (found Nov 2026)	2231768
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105588.txt	in.ernet.dli.2015.105588	Punjab	PA06	Ambala	1883	G1	gazetteer	backup	wbsl.16754	Punjab District Gazetteer 1883-84	329371
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105590.txt	in.ernet.dli.2015.105590	Punjab	PB19	Attock	1909	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	904009
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105591.txt	in.ernet.dli.2015.105591	Punjab	PB21	Lyallpur	1905	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	910662
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105593.txt	in.ernet.dli.2015.105593	Punjab	PB01	Delhi	1913	G2	gazetteer	backup	in.ernet.dli.2015.531221	Punjab District Gazetteer, revised (Part A)	697096
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105594.txt	in.ernet.dli.2015.105594	Punjab	PA15	Ferozepore	1883	G1	gazetteer	backup	wbsl.16568	Punjab District Gazetteer 1883-84	361343
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105602.txt	in.ernet.dli.2015.105602	Punjab	PB09	Gurdaspur	1913	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	145099
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105603.txt	in.ernet.dli.2015.105603	Punjab	PB03	Hisar	1903	G2	gazetteer	backup	in.ernet.dli.2015.531227	Punjab District Gazetteer, revised (Part A)	924681
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105604.txt	in.ernet.dli.2015.105604	Punjab	PB07	Hoshiarpur	1905	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	779779
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105605.txt	in.ernet.dli.2015.105605	Punjab	PB06	Jalandhar	1908	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	1171583
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105607.txt	in.ernet.dli.2015.105607	Punjab	PA21	Jhang	1884	G1	gazetteer	backup	wbsl.15488	Punjab District Gazetteer 1883-84	702638
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105610.txt	in.ernet.dli.2015.105610	Punjab	PB13	Jhelam	1907	G2	gazetteer	backup	in.ernet.dli.2015.531232	Punjab District Gazetteer, revised (Part A)	1030577
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105612.txt	in.ernet.dli.2015.105612	Punjab	PB08	Kangra	1899	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	806985
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105613.txt	in.ernet.dli.2015.105613	Punjab	PB08	Kangra	1899	G2	gazetteer	backup	in.ernet.dli.2015.105612	Punjab District Gazetteer, revised (Part A)	981438
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105615.txt	in.ernet.dli.2015.105615	Punjab	PB02	Karnal	1919	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	592367
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105622.txt	in.ernet.dli.2015.105622	Punjab	PB20	Mianwali	1915	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	703860
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105623.txt	in.ernet.dli.2015.105623	Punjab	PB16	Montgomery	1900	G2	gazetteer	backup	in.ernet.dli.2015.531240	Punjab District Gazetteer, revised (Part A)	802497
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105626.txt	in.ernet.dli.2015.105626	Punjab	PB12	Rawalpindi	1895	G2	gazetteer	backup	in.ernet.dli.2015.281435	Punjab District Gazetteer, revised (Part A)	845364
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105630.txt	in.ernet.dli.2015.105630	Punjab	PA05	Rohtak	1883	G1	gazetteer	backup	wbsl.15368	Punjab District Gazetteer 1883-84	562720
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.105634.txt	in.ernet.dli.2015.105634	Punjab	PB10	Sialkot	1895	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	709351
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.210023.txt	in.ernet.dli.2015.210023	Punjab	ROSE1	Punjab (all)	1919	G2	glossary	backup	in.ernet.dli.2015.69651	Rose, Glossary vol I (religion)	2973322
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.279310.txt	in.ernet.dli.2015.279310	Punjab	ROSE2	Punjab (all)	1911	G2	glossary	backup	in.ernet.dli.2015.69652	Rose, Glossary vol II A-K	1999967
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.281435.txt	in.ernet.dli.2015.281435	Punjab	PB12	Rawalpindi	1895	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	851917
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.281436.txt	in.ernet.dli.2015.281436	Punjab	PB14	Shahpur	1897	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	806485
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.281870.txt	in.ernet.dli.2015.281870	Punjab	PB20	Mianwali	1915	G2	gazetteer	backup	in.ernet.dli.2015.105622	Punjab District Gazetteer, revised (Part A)	662511
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.281871.txt	in.ernet.dli.2015.281871	Punjab	PB11	Lahore	1916	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	136283
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.35247.txt	in.ernet.dli.2015.35247	Punjab	PB18	Peshawar	1899	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	1340986
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.35249.txt	in.ernet.dli.2015.35249	Punjab	PA13	Lahore	1883	G1	gazetteer	backup	wbsl.15489	Punjab District Gazetteer 1883-84	825246
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.35252.txt	in.ernet.dli.2015.35252	Punjab	PA07	Jalandhar	1884	G1	gazetteer	backup	wbsl.15674	Punjab District Gazetteer 1883-84	308328
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.35269.txt	in.ernet.dli.2015.35269	Punjab	PA18	Gujrat	1884	G1	gazetteer	backup	wbsl.16366	Punjab District Gazetteer 1883-84	520964
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.46837.txt	in.ernet.dli.2015.46837	Punjab	PB15	Mooltan	1902	G2	gazetteer	backup		Punjab District Gazetteer, revised (Part A)	1252676
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.531218.txt	in.ernet.dli.2015.531218	Punjab	PB19	Attock	1909	G2	gazetteer	backup	in.ernet.dli.2015.105590	Punjab District Gazetteer, revised (Part A)	793190
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.531219.txt	in.ernet.dli.2015.531219	Punjab	PB21	Lyallpur	1905	G2	gazetteer	backup	in.ernet.dli.2015.105591	Punjab District Gazetteer, revised (Part A)	912222
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.531221.txt	in.ernet.dli.2015.531221	Punjab	PB01	Delhi	1913	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	795173
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.531226.txt	in.ernet.dli.2015.531226	Punjab	PB09	Gurdaspur	1913	G2	gazetteer	backup	in.ernet.dli.2015.105602	Punjab District Gazetteer, revised (Part A)	145099
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.531227.txt	in.ernet.dli.2015.531227	Punjab	PB03	Hisar	1903	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	924681
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.531229.txt	in.ernet.dli.2015.531229	Punjab	PB07	Hoshiarpur	1905	G2	gazetteer	backup	in.ernet.dli.2015.105604	Punjab District Gazetteer, revised (Part A)	882558
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.531232.txt	in.ernet.dli.2015.531232	Punjab	PB13	Jhelam	1907	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	906542
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.531236.txt	in.ernet.dli.2015.531236	Punjab	PB11	Lahore	1916	G2	gazetteer	backup	in.ernet.dli.2015.281871	Punjab District Gazetteer, revised (Part A)	765546
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.531240.txt	in.ernet.dli.2015.531240	Punjab	PB16	Montgomery	1900	G2	gazetteer	primary		Punjab District Gazetteer, revised (Part A)	805332
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.531248.txt	in.ernet.dli.2015.531248	Punjab	PB10	Sialkot	1895	G2	gazetteer	backup	in.ernet.dli.2015.105634	Punjab District Gazetteer, revised (Part A)	634903
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.62821.txt	in.ernet.dli.2015.62821	Punjab	PA01	Delhi	1884	G1	gazetteer	backup	wbsl.18787	Punjab District Gazetteer 1883-84	893127
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.69651.txt	in.ernet.dli.2015.69651	Punjab	ROSE1	Punjab (all)	1919	G2	glossary	primary		Rose, Glossary vol I (religion)	3424318
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.69652.txt	in.ernet.dli.2015.69652	Punjab	ROSE2	Punjab (all)	1911	G2	glossary	primary		Rose, Glossary vol II A-K	2136339
+gazetteer-vedanta/punjab/data/ia_ocr/in.ernet.dli.2015.69674.txt	in.ernet.dli.2015.69674	Punjab	ROSE3	Punjab (all)	1914	G2	glossary	primary		Rose, Glossary vol III L-Z; backup glossaryoftribes03rose is really vol II (found Nov 2026)	1935735
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15067.txt	wbsl.15067	Punjab	PA25	Dera Ghazi Khan	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	498173
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15069.txt	wbsl.15069	Punjab	PA02	Gurgaon	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	540208
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15210.txt	wbsl.15210	Punjab	PA28	Hazara	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	747627
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15368.txt	wbsl.15368	Punjab	PA05	Rohtak	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	542399
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15487.txt	wbsl.15487	Punjab	PA26	Bannu	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	831877
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15488.txt	wbsl.15488	Punjab	PA21	Jhang	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	619252
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15489.txt	wbsl.15489	Punjab	PA13	Lahore	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	732739
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15490.txt	wbsl.15490	Punjab	PA27	Peshawar	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	790309
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15558.txt	wbsl.15558	Punjab	PA09	Kangra	1883	G1	gazetteer	backup	wbsl.15849	Punjab District Gazetteer 1883-84	511434
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15559.txt	wbsl.15559	Punjab	PA12	Sialkot	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	401285
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15648.txt	wbsl.15648	Punjab	PA11	Gurdaspur	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	395475
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15673.txt	wbsl.15673	Punjab	PA14	Gujranwala	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	362860
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15674.txt	wbsl.15674	Punjab	PA07	Jalandhar	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	295049
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15675.txt	wbsl.15675	Punjab	PA19	Shahpur	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	425939
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15730.txt	wbsl.15730	Punjab	PA16	Rawalpindi	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	491351
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.15849.txt	wbsl.15849	Punjab	PA09	Kangra	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	935656
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.16138.txt	wbsl.16138	Punjab	PA03	Karnal	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	977184
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.16156.txt	wbsl.16156	Punjab	PA23	Muzaffargarh	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	518818
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.16182.txt	wbsl.16182	Punjab	PA10	Amritsar	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	281562
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.16187.txt	wbsl.16187	Punjab	PA04	Hisar	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	307803
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.16366.txt	wbsl.16366	Punjab	PA18	Gujrat	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	466177
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.16495.txt	wbsl.16495	Punjab	PA22	Montgomery	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	690166
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.16515.txt	wbsl.16515	Punjab	PA17	Jhelam	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	554700
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.16568.txt	wbsl.16568	Punjab	PA15	Ferozepore	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	329632
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.16754.txt	wbsl.16754	Punjab	PA06	Ambala	1883	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	325825
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.18787.txt	wbsl.18787	Punjab	PA01	Delhi	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	739803
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.19320.txt	wbsl.19320	Punjab	PA20	Mooltan	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	442241
+gazetteer-vedanta/punjab/data/ia_ocr/wbsl.19737.txt	wbsl.19737	Punjab	PA08	Hoshiarpur	1884	G1	gazetteer	primary		Punjab District Gazetteer 1883-84	470117
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.2866.txt	dli.csl.2866	Revised	RV10	Almora	1981	G3	gazetteer	primary		region=UP	740192
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.2885.txt	dli.csl.2885	Revised	RV15	Gorakhpur	1987	G3	gazetteer	backup	dli.ministry.08745	region=UP	739560
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.2902.txt	dli.csl.2902	Revised	RV11	Azamgarh	1989	G3	gazetteer	backup	dli.ministry.08721	region=UP	746760
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.2964.txt	dli.csl.2964	Revised	RV16	Meerut	1959	G3	gazetteer	primary		region=UP	128938
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.2972.txt	dli.csl.2972	Revised	RV21	Varanasi	1965	G3	gazetteer	backup	in.ernet.dli.2015.6537	region=UP	1313711
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.2984.txt	dli.csl.2984	Revised	RV22	Bhagalpur	1962	G3	gazetteer	backup	in.ernet.dli.2015.128751	region=Bengal	1759668
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3001.txt	dli.csl.3001	Revised	RV13	Faizabad	1960	G3	gazetteer	primary		region=UP	1065832
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3005.txt	dli.csl.3005	Revised	RV19	Saharanpur	1981	G3	gazetteer	backup	dli.ministry.08775	region=UP	1101878
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3006.txt	dli.csl.3006	Revised	RV26	Howrah	1972	G3	gazetteer	primary		region=Bengal	1765309
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3013.txt	dli.csl.3013	Revised	RV38	Raipur	1973	G3	gazetteer	primary		region=CP	1924546
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3023.txt	dli.csl.3023	Revised	RV23	Champaran	1960	G3	gazetteer	backup	in.ernet.dli.2015.128752	region=Bengal	1569089
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3029.txt	dli.csl.3029	Revised	RV25	Hooghly	1972	G3	gazetteer	backup	dli.ministry.08795	region=Bengal	2347016
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3074.txt	dli.csl.3074	Revised	RV28	Palamau	1961	G3	gazetteer	backup	dli.ministry.07460	region=Bengal	1681657
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3090.txt	dli.csl.3090	Revised			1968	G3	gazetteer	unselected		Uttar Pradesh District Gazetteers: Mathura	1050567
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3133.txt	dli.csl.3133	Revised	RV17	Mirzapur	1988	G3	gazetteer	backup		region=UP	840016
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3148.txt	dli.csl.3148	Revised	RV31	Shahabad	1966	G3	gazetteer	primary		region=Bengal	2337311
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3150.txt	dli.csl.3150	Revised	RV09	Allahabad	1968	G3	gazetteer	backup	dli.ministry.08718	region=UP	1037226
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3151.txt	dli.csl.3151	Revised	RV29	Puri	1977	G3	gazetteer	primary		region=Bengal	2099878
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3179.txt	dli.csl.3179	Revised	RV14	Gonda	1989	G3	gazetteer	primary		region=UP	699725
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3185.txt	dli.csl.3185	Revised	RV36	Jabalpur	1968	G3	gazetteer	backup	dli.ministry.08426	region=CP	2053513
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3197.txt	dli.csl.3197	Revised	RV39	Akola	1977	G3	gazetteer	primary		region=CP; the genuine Akola volume, found by the coding agent	2428040
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3256.txt	dli.csl.3256	Revised	RV03	Dharwar	1959	G3	gazetteer	primary		region=Bombay	2772082
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3257.txt	dli.csl.3257	Revised	RV35	Amravati	1968	G3	gazetteer	primary		region=CP	2214281
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3277.txt	dli.csl.3277	Revised	RV08	South Kanara	1973	G3	gazetteer	backup	dli.ministry.08397	region=Madras	2327581
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3283.txt	dli.csl.3283	Revised	RV06	Ratnagiri	1962	G3	gazetteer	backup	dli.ministry.08486	region=Bombay	2601988
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3291.txt	dli.csl.3291	Revised	RV07	Madurai	1960	G3	gazetteer	primary		region=Madras	1499205
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3327.txt	dli.csl.3327	Revised	RV34	Nasik	1977	G3	gazetteer	primary		region=Bombay; catalogued on IA as Akola (dli.csl.3327, dli.ministry.08454) but the text is the Nasik District Gazetteer	3207487
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3340.txt	dli.csl.3340	Revised	RV05	Poona	1954	G3	gazetteer	primary		region=Bombay	2525043
+gazetteer-vedanta/revised/data/ia_ocr/dli.csl.3383.txt	dli.csl.3383	Revised	RV01	Ahmadnagar	1976	G3	gazetteer	backup	dli.ministry.08453	region=Bombay	3027879
+gazetteer-vedanta/revised/data/ia_ocr/dli.ernet.11572.txt	dli.ernet.11572	Revised	RV04	Kolhapur	1959	G3	gazetteer	primary		region=Bombay; dli.ministry.08450 is in fact the Wardha gazetteer; DLI dates this item 1886 but text is revised (1950s)	2708497
+gazetteer-vedanta/revised/data/ia_ocr/dli.ernet.15159.txt	dli.ernet.15159	Revised	RV04	Kolhapur	1959	G3	gazetteer	backup	dli.ernet.11572	region=Bombay; dli.ministry.08450 is in fact the Wardha gazetteer; DLI dates this item 1886 but text is revised (1950s)	2404979
+gazetteer-vedanta/revised/data/ia_ocr/dli.ernet.243489.txt	dli.ernet.243489	Revised			1959	G3	gazetteer	unselected		2877 Gazetteer Of Bombay State Dharwar District (1959)	4672313
+gazetteer-vedanta/revised/data/ia_ocr/dli.ernet.244751.txt	dli.ernet.244751	Revised			1959	G3	gazetteer	unselected		4308 Uttar Pradesh District Gazetteers Meerut (1965) Acc-no-60707	1831164
+gazetteer-vedanta/revised/data/ia_ocr/dli.ernet.468353.txt	dli.ernet.468353	Revised			1959	G3	gazetteer	unselected		02877 Gazetteer Of Bombay State Dharwar District (1959)	4672313
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.07458.txt	dli.ministry.07458	Revised	RV27	Monghyr	1960	G3	gazetteer	backup		region=Bengal	1477398
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.07460.txt	dli.ministry.07460	Revised	RV28	Palamau	1961	G3	gazetteer	primary		region=Bengal	1481721
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.07466.txt	dli.ministry.07466	Revised	RV30	Saran	1960	G3	gazetteer	backup	in.ernet.dli.2015.128744	region=Bengal	1486590
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.07467.txt	dli.ministry.07467	Revised	RV31	Shahabad	1966	G3	gazetteer	backup	dli.csl.3148	region=Bengal	2352668
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08156.txt	dli.ministry.08156	Revised	RV05	Poona	1954	G3	gazetteer	backup	dli.csl.3340	region=Bombay	2490280
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08221.txt	dli.ministry.08221	Revised	RV32	Hissar	1987	G3	gazetteer	primary		region=Punjab	667331
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08397.txt	dli.ministry.08397	Revised	RV08	South Kanara	1973	G3	gazetteer	primary		region=Madras	2057767
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08426.txt	dli.ministry.08426	Revised	RV36	Jabalpur	1968	G3	gazetteer	primary		region=CP	1815471
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08428.txt	dli.ministry.08428	Revised	RV38	Raipur	1973	G3	gazetteer	backup	dli.csl.3013	region=CP	1697884
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08434.txt	dli.ministry.08434	Revised	RV07	Madurai	1960	G3	gazetteer	backup	dli.csl.3291	region=Madras	1498390
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08450.txt	dli.ministry.08450	Revised				?	gazetteer	unselected			2185964
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08453.txt	dli.ministry.08453	Revised	RV01	Ahmadnagar	1976	G3	gazetteer	primary		region=Bombay	2647926
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08454.txt	dli.ministry.08454	Revised	RV34	Nasik	1977	G3	gazetteer	backup	dli.csl.3327	region=Bombay; catalogued on IA as Akola (dli.csl.3327, dli.ministry.08454) but the text is the Nasik District Gazetteer	3150213
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08486.txt	dli.ministry.08486	Revised	RV06	Ratnagiri	1962	G3	gazetteer	primary		region=Bombay	2570531
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08520.txt	dli.ministry.08520	Revised	RV02	Bijapur	1959	G3	gazetteer	primary		region=Bombay	1447202
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08718.txt	dli.ministry.08718	Revised	RV09	Allahabad	1968	G3	gazetteer	primary		region=UP	1075749
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08719.txt	dli.ministry.08719	Revised	RV10	Almora	1981	G3	gazetteer	backup	dli.csl.2866	region=UP	744312
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08721.txt	dli.ministry.08721	Revised	RV11	Azamgarh	1989	G3	gazetteer	primary		region=UP	761833
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08725.txt	dli.ministry.08725	Revised	RV12	Bareilly	1965	G3	gazetteer	primary		region=UP	1039463
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08735.txt	dli.ministry.08735	Revised	RV13	Faizabad	1960	G3	gazetteer	backup	dli.csl.3001	region=UP	1054509
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08744.txt	dli.ministry.08744	Revised	RV14	Gonda	1989	G3	gazetteer	backup	dli.csl.3179	region=UP	704323
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08745.txt	dli.ministry.08745	Revised	RV15	Gorakhpur	1987	G3	gazetteer	primary		region=UP	740495
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08761.txt	dli.ministry.08761	Revised			1988	G3	gazetteer	unselected		Uttar Pradesh District Gazetteers: Meerut	133175
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08764.txt	dli.ministry.08764	Revised	RV18	Moradabad	1968	G3	gazetteer	backup	dli.ministry.08765	region=UP	838059
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08765.txt	dli.ministry.08765	Revised	RV18	Moradabad	1968	G3	gazetteer	primary		region=UP	842355
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08775.txt	dli.ministry.08775	Revised	RV19	Saharanpur	1981	G3	gazetteer	primary		region=UP	972524
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08779.txt	dli.ministry.08779	Revised	RV20	Sitapur	1964	G3	gazetteer	primary		region=UP	874149
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.08795.txt	dli.ministry.08795	Revised	RV25	Hooghly	1972	G3	gazetteer	primary		region=Bengal	2320834
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.10265.txt	dli.ministry.10265	Revised	RV24	Gaya	1957	G3	gazetteer	primary		region=Bengal	1036550
+gazetteer-vedanta/revised/data/ia_ocr/dli.ministry.13795.txt	dli.ministry.13795	Revised	RV33	Karnal	1976	G3	gazetteer	primary		region=Punjab	1321761
+gazetteer-vedanta/revised/data/ia_ocr/in.ernet.dli.2015.128744.txt	in.ernet.dli.2015.128744	Revised	RV30	Saran	1960	G3	gazetteer	primary		region=Bengal	1466170
+gazetteer-vedanta/revised/data/ia_ocr/in.ernet.dli.2015.128745.txt	in.ernet.dli.2015.128745	Revised	RV24	Gaya	1957	G3	gazetteer	backup	dli.ministry.10265	region=Bengal	964195
+gazetteer-vedanta/revised/data/ia_ocr/in.ernet.dli.2015.128751.txt	in.ernet.dli.2015.128751	Revised	RV22	Bhagalpur	1962	G3	gazetteer	primary		region=Bengal	1920002
+gazetteer-vedanta/revised/data/ia_ocr/in.ernet.dli.2015.128752.txt	in.ernet.dli.2015.128752	Revised	RV23	Champaran	1960	G3	gazetteer	primary		region=Bengal	1506859
+gazetteer-vedanta/revised/data/ia_ocr/in.ernet.dli.2015.243519.txt	in.ernet.dli.2015.243519	Revised				?	gazetteer	unselected			3986696
+gazetteer-vedanta/revised/data/ia_ocr/in.ernet.dli.2015.243561.txt	in.ernet.dli.2015.243561	Revised	RV02	Bijapur	1959	G3	gazetteer	backup	dli.ministry.08520	region=Bombay	2494345
+gazetteer-vedanta/revised/data/ia_ocr/in.ernet.dli.2015.6537.txt	in.ernet.dli.2015.6537	Revised	RV21	Varanasi	1965	G3	gazetteer	primary		region=UP	1424498
+gazetteer-vedanta/rivals/data/ia_ocr/in.ernet.dli.2015.55932.txt	in.ernet.dli.2015.55932	rivals				?	gazetteer	unselected			426213
+gazetteer-vedanta/rivals/data/ia_ocr/in.ernet.dli.2015.56954.txt	in.ernet.dli.2015.56954	rivals				?	gazetteer	unselected			2072752
+gazetteer-vedanta/rivals/data/ia_ocr/in.ernet.dli.2015.62764.txt	in.ernet.dli.2015.62764	rivals				?	gazetteer	unselected			111788
+gazetteer-vedanta/rivals/data/ia_ocr/in.gov.ignca.30995.txt	in.gov.ignca.30995	rivals				?	gazetteer	unselected			1592781
+gazetteer-vedanta/sringeri/data/ia_ocr/cu31924071131605.txt	cu31924071131605	Mysore/Kanara	SR07	Rice, Mysore and Coorg vol III (Coorg; not used)	1878	G1	gazetteer	primary			1123569
+gazetteer-vedanta/sringeri/data/ia_ocr/dli.csl.3200.txt	dli.csl.3200	Mysore/Kanara	SR02	South Canara Manual vol I (Sturrock)	1894	G2	gazetteer	primary			740072
+gazetteer-vedanta/sringeri/data/ia_ocr/dli.csl.3323.txt	dli.csl.3323	Mysore/Kanara	SR10	Bombay Gazetteer XIV Thana (Places)	1882	G1	gazetteer	primary			1565555
+gazetteer-vedanta/sringeri/data/ia_ocr/dli.csl.3333.txt	dli.csl.3333	Mysore/Kanara			1883	G1	gazetteer	unselected		Gazetteer of the Bombay Presidency Volume XV Part II : Kanara	1271578
+gazetteer-vedanta/sringeri/data/ia_ocr/dli.ministry.08150.txt	dli.ministry.08150	Mysore/Kanara	SR01	Kanara pt 2 (Bombay Gazetteer XV-2)	1883	G1	gazetteer	primary		backup dli.csl.3333	1261902
+gazetteer-vedanta/sringeri/data/ia_ocr/dli.ministry.08447.txt	dli.ministry.08447	Mysore/Kanara			1894	G2	gazetteer	unselected		Madras District Manual: South Canara	644459
+gazetteer-vedanta/sringeri/data/ia_ocr/in.ernet.dli.2015.280859.txt	in.ernet.dli.2015.280859	Mysore/Kanara			1895	G2	gazetteer	unselected		Manual Of North Arcot District Vol.i	875339
+gazetteer-vedanta/sringeri/data/ia_ocr/in.ernet.dli.2015.281781.txt	in.ernet.dli.2015.281781	Mysore/Kanara	SR08	Rice, Mysore and Coorg vol II	1876	G1	gazetteer	primary		backup mysoreandcoorgm00ricegoog	1241547
+gazetteer-vedanta/sringeri/data/ia_ocr/mysoreagazettee02ricegoog.txt	mysoreagazettee02ricegoog	Mysore/Kanara	SR05	Rice, Mysore gazetteer (1897) vol II	1897	G2	gazetteer	primary			1698087
+gazetteer-vedanta/sringeri/data/ia_ocr/mysoreagazettee04ricegoog.txt	mysoreagazettee04ricegoog	Mysore/Kanara	SR06	Rice, Mysore gazetteer (1897) vol II (second scan)	1897	G2	gazetteer	primary			1648385
+gazetteer-vedanta/sringeri/data/ia_ocr/mysoreandcoorgm00ricegoog.txt	mysoreandcoorgm00ricegoog	Mysore/Kanara				?	gazetteer	unselected			1415645
+gazetteer-vedanta/sringeri/data/ia_ocr/wbsl.13909.txt	wbsl.13909	Mysore/Kanara	SR09	Bombay Gazetteer XVIII-3 Poona (Places)	1885	G1	gazetteer	primary			1626006
+gazetteer-vedanta/sringeri/data/ia_ocr/wbsl.16238.txt	wbsl.16238	Mysore/Kanara	SR03	South Canara Manual (other scans)	1894	G2	gazetteer	primary		dli.ministry.08447	645363
