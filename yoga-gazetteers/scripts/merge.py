@@ -26,7 +26,7 @@ def group(fams):
 
 rows, seen = [], set()
 for path in sorted(glob.glob("yoga-gazetteers/results/coded/*.coded.tsv")):
-    for r in csv.DictReader(open(path, encoding="utf-8"), delimiter="\t"):
+    for r in csv.DictReader(open(path, encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE):
         i = (r.get("id") or "").strip()
         if i not in P:
             print("UNKNOWN ID", path, i); continue
@@ -58,10 +58,31 @@ for r in bad[:15]:
     print("  NOT VERBATIM", r["id"], r["quote"][:90])
 
 rows.sort(key=lambda r: r["id"])
+# Unidentified Cornell scans that are other copies of Atkinson volumes already counted
+# (6-word shingle overlap 0.20-0.22 with one volume, <=0.02 with any other; checked 2026-11-05).
+DUP_SCANS = {"cu31924023947736": "AT01", "cu31924023947744": "AT02", "cu31924023947751": "AT11"}
+key = lambda q: re.sub(r"[^a-z]", "", q.lower())[:80]
+first = {}
+for r in rows:
+    r["exclude"] = f"duplicate scan of {DUP_SCANS[r['ident']]}" if r["ident"] in DUP_SCANS else ""
+    r["copy_of"] = ""
+    if r["quote"] and not r["exclude"]:
+        k = key(r["quote"])
+        if k in first:
+            f = first[k]
+            if f["gen"] == r["gen"]:
+                r["exclude"] = f"same passage as {f['id']}"
+            else:
+                r["copy_of"] = f"{f['id']} ({f['vol']} {f['year']})"
+        else:
+            first[k] = r
+print("excluded", sum(bool(r["exclude"]) for r in rows), "; later copies of earlier text",
+      sum(bool(r["copy_of"]) for r in rows))
 with open("yoga-gazetteers/results/coded_all.tsv", "w", encoding="utf-8") as fh:
     w = csv.DictWriter(fh, list(rows[0]), delimiter="\t"); w.writeheader(); w.writerows(rows)
 
 GENS = ["G1", "G2", "G3"]
+rows = [r for r in rows if not r["exclude"]]
 c = collections.Counter((r["group"], r["sense"], r["gen"]) for r in rows)
 with open("yoga-gazetteers/results/sense_by_gen.tsv", "w", encoding="utf-8") as fh:
     fh.write("group\tsense\t" + "\t".join(GENS) + "\n")

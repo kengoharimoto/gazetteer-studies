@@ -1,0 +1,151 @@
+id	sense	sense2	attitude	tags	page	quote	note
+P00387	CASTE		neu			The Kudumi often belongs to the Irula or Jogi caste.	Kudumi sorcerer said to belong to Jogi caste
+P00388	PRACTICE_OTHER		neu			The roof fell in on them, and they were buried alive.	Accidental death of Kurumbas; no yogic sense
+P00389	CASTE		neu			The Jogdas are people of the Jogi caste. Those belonging to the Bhimda family are the peripatetic blacksmiths, called Bailu Kammara.	Lambadi clan Jogdas identified with Jogi caste
+P00390	PRACTICE_OTHER		neu			a chicken or goat is buried alive, the head being allowed to be above ground.	Animal sacrifice on moving camp
+P00391	OTHER		neu				Jogi kolu: cane carried in Matangi/Ellamma legend; no statement about yogis
+P00392	CASTE		neu	order		worship is performed by Yogi Gurukkals, or, it is said, by the Karanavans of certain families who have been initiated by a Yogi Gurukkal.	Yogi Gurukkals as priests of Mukkuvans
+P00393	OTHER		neu				Yoga = village union of Nambutiris, not yogic
+P00394	OTHER		neu				yoga = union of Nambutiri Brahmans, not yogic
+P00395	OTHER		neu				yoga = village body around a Vedic school, not yogic
+P00396	OTHER		neu				yoga = party in a social pastime, not yogic
+P00397	MENDICANT		neu	performer		Pamula (snake people).--A name for snake-charming Koravas, and Jogis, who, in the character of itinerant showmen, exhibit snakes to the public.	Jogis as itinerant snake showmen
+P00398	PRACTICE_OTHER		neu	burial,beggar		A samadhi is erected over the spot where they are buried. This consists of a linga and bull in miniature, which are worshipped	Samadhi tomb of Lingayat mendicants
+P00399	CASTE		neu			Pesala (seeds of Phaseolus Mungo: green gram).--An exogamous sept of Jogi.	Jogi as caste with exogamous septs
+P00400	JUNK		neu				Cross-reference "See Jogi Purusha" only
+P00401	MENDICANT		neu	beggar		Siddaru.--A synonym of Jogi mendicants.	Siddaru synonym of Jogi mendicants
+P00402	MENDICANT		neu	beggar		they are described as being ""mendicants like the Jogis, like whom they itinerate.	Sudugadusiddha compared to Jogis
+P00403	CASTE	MENDICANT	neu	beggar		the name Tottiyan is applied by Tamil-speaking castes to the Jogis, who are beggars and pig breeders, and, like the Tottiyans, speak Telugu.	Jogis called Tottiyan; begging section
+P00404	CASTE		neu			Uluvala (seeds of horse-gram: Dolichos biflorus).--An exogamous sept of Boya and Jogi.	Jogi as caste with exogamous septs
+P00405	CASTE		neu			Vagiti (doorway or court-yard).--An exogamous sept of Jogi.	Jogi as caste with exogamous septs
+P00406	CASTE	MENDICANT	neu	beggar,low_status,magic,healing		the Yogi Gurukkals of North Malabar are a caste which, though low in the social scale, is not regarded as conveying distance pollution.	Yogi Gurukkals: beggar caste, Kali priests, sorcerers and exorcists, schoolmasters
+P00342	MODERN		neu	western		has recently come under the control of the Theosophical Society	School under Theosophical Society; no yoga content
+P00343	MODERN		neu	western		the national High school which was recently acquired by the Theosophical Society	School bought by Theosophical Society; no yoga content
+P00344	PRACTICE_OTHER		neu	burial,sanctity,magic		It is said that he tried to have himself buried alive at Rangasamudram, but the police forbade him.	Holy man's attempted voluntary burial; tomb worshipped; not called yogi
+P00335	ASCETIC		neu		151	to enjoy the society of the Eisliis and OHAP. III. Yogis then living there.	Legendary Rishis and Yogis near Kanjamalai
+P00336	CASTE	MENDICANT	neu	numbers,beggar		The stron^jest numerically are the Andis (7,128), the Pandarams (1,626) and the Jogis (1,422), but all these terms are loosely used	Jogis counted among mendicant castes; writer says terms are loose
+P01562	NAME		neu				Jogi Baire Gauda, a chief
+P01563	NAME		neu				Yoga Nandisvara temple at Nandidroog
+P01564	ASCETIC		neu	magic		A party of seven Lipi jogis, it is said, subsequently came from the Himalayas and obtained a largo treasure from the bed of the tank after killing the seven headed serpent which guarded it.	Legend of Himalayan jogis
+P01565	NAME		neu				Jogi Maradi hill
+P01566	NAME		neu				Jogi math, a hill near Chitaldroog
+P01568	NAME		neu				Jogi math or maradi hill; garbled etymology of Murgi math name
+P01569	JUNK		neu				Place-name index list
+P01570	JUNK		neu				Place-name index list
+P01528	NAME		neu				Jogi Muttana, Coorg general
+P01529	OTHER		neu				Jogis (little boys) as stock characters in a festival play
+P01532	ASCETIC		neu	meditation		Shiv in the attitude of contemplation and Yogis below and elephants and lions above	Yogis as carved figures in a temple doorway
+P01533	ASCETIC	DISCIPLINE	neu	meditation	76	The group at the east end of the north portico is Shiv as the great Yogi.	Shiv as Mahayogi seated cross-legged, compared to Buddha
+P01534	ASCETIC		neu			The Portuguese speak of the ascetics as Yogis and they may have beenBrdhmanic ascetics.	Portuguese call Kanheri ascetics Yogis; writer thinks probably Buddhist monks
+P01535	ASCETIC		neg	political,crime,order		Armed bands of Hhai v and Vaishnav Jogis and GosAis were for long one of the terrors of India.	Armed Shaiv and Vaishnav Jogis as a terror
+P01536	ASCETIC	MENDICANT	neu	political,crime,austerity		Varthema found the Jogi king with 30U0 followers, 200 of whom were sent to attack and kill two Christians	Jogi king and bands; Barbosa compares them to gypsies
+P01537	ASCETIC	MENDICANT	neu	austerity,beggar,political,crime		their bodies and faces were smeared with ashes and they wore a small bom round their necks with which they called and begged for food	Jogis or Kalandars in armed bands; Jogis fight Sanyasis
+P01538	ASCETIC		neu	political,order		the KAnphata Jogis were often in many thousands sought as allies especially in defensive warfare.	Kanphata Jogis as military allies
+P01539	ASCETIC		neu	sanctity		the Portuguese found the caves inhabited by ascetics or Yogis.	Yogis equated with ascetics at Kanheri
+P01540	ASCETIC		neu		151	the yogis whom the Portuguese found at Kanheri were Buddhist monks	Writer identifies Kanheri yogis as Buddhist monks
+P01541	ASCETIC		neu			De Couto further tells how the old converted yogi made the discovery	Converted Kanheri yogi, Buddha legend
+P01542	ASCETIC		neu	sanctity		to whom the Brdhman who went with us, paid great reverence, not speaking of him without a token of worship; whom he called Jogi, or the holy man.	Jogi glossed as holy man (Terry)
+P01543	PRACTICE_OTHER		neu			Asana and Chulkappikuti (?), a cistern and some other things.	Asana in a Buddhist cave inscription; not yogic
+P01544	ASCETIC		neu			Of late years almost all of these caves have been used as dwellings by Jogis and other ascetics.	Jogis as cave-dwelling ascetics
+P01545	ASCETIC		neu	order,sanctity		in which lived a Yogi, very famous among them called Eatemnar, who had with him fifty Jogis, whom the inhabitants of those villages maintained	Yogi and fifty Jogis at Salsette cave; Yogi and Jogi used interchangeably
+P01546	DISCIPLINE		neu	meditation	291	Cellars like this were chiefly used as places of meditation by Konkan.l thAna. 291 followers of tte Yoga system, and it is probable that the ascetic for whom this cave was made belonged to the Yoga sect.	Calls yoga a system and a sect
+P01548	JUNK		neu				Map legend garbage
+P01549	MENDICANT		neu		57	Next to village shopkeepers come the peddlers who are known as Jogis. They generally sell beads, coral, thimbles, needles, bells, glasses, toys	Jogis as itinerant peddlers
+P01550	MENDICANT		neu	beggar		The only person on the island was a Musalmén beggar or Jogi who lived onrice and herbs	Muslim beggar called Jogi
+P01558	ASCETIC		neu	magic		Ibn Batuta landed on the island and saw a Jogi marked with the signs of religious warfare, leaning against the wall ofa temple between two idols.	Anjidiv Jogi per Ibn Batuta
+P01559	MENDICANT		neu	beggar		only a beggar, a Jogi, who lived in a stone grotto and ate food and rice given him by passing ships	Anjidiv beggar Jogi in charge of temple stones
+P01587	ASCETIC		neu			a Yogi, Ganesh, Garud, Hanumén, the marriage preparations of Ganpati	Yogi as a painted figure in a cave
+P01588	DISCIPLINE		neu	meditation		Cellars like this were chiefly used as places of meditation by followers of the Yoga system, and it is probable that the ascetic for whom this cave was made belonged to the Yoga sect.	Calls yoga a system and a sect
+P01589	PRACTICE_OTHER		neu			that the defences could never be completed until the favour of the god of the hill was won by burying alive a man and awoman.	Foundation sacrifice
+P01590	OTHER		neu				Yoginis as carved figures on a dome
+P01591	PRACTICE_OTHER		neu		430	Shendi Buruj under which when it was built a married pair were buried alive	Foundation sacrifice
+P01531	CASTE		neu			It is said that the tribe has three endogamous sections, viz., Goa Kudubi, Are Kudubi and Jogi Kudubi.	Jogi as a section of Kudubis
+P01592	MENDICANT		neu	beggar		the name is a general one and includes religious mendicants from all parts of India	Jogis as mostly Telugu and Malayalam beggars; general name
+P01572	SAINT		neu	learning		The sage named Vijndnes'vara yogi here composed his celebrated bhdshya or commentary on the code called the Yajnavalkya Smriti.	Vijnanesvara as yogi and commentator
+P01573	NAME		neu				Jogi Baire Gauda, a chief
+P01574	NAME		neu				Yoga Nandisvara temple
+P01575	NAME		neu				Jogi Maradi hill
+P01576	NAME		neu				Jogi matti or maradi hill
+P01577	OTHER		neu				asana in Sanskrit book title (Namalinganusasana)
+P01578	SAINT		neu	learning		The sage named Vijndnes'vara yogi here composed his celebrated bhdshya or commentary on the code called the Yajnavalkya Smriti.	Vijnanesvara as yogi and commentator
+P01579	NAME		neu				Jogi Baire Gauda, a chief
+P01580	NAME		neu				Yoga Nandisvara temple
+P01581	NAME		neu				Jogi Maradi hill
+P01582	NAME		neu				Jogi matti or maradi hill
+P01584	OTHER		neu				asana in Sanskrit book title (Namalinganusasana)
+P01080	NAME		neu				Jogi Das, personal name of a legendary Rajput
+P01083	ASCETIC		neu	magic		regular payments are made to jogis and fagirs to avert its bad effect	Jogis paid with fakirs to avert lightning; equates jogis with fakirs
+P01084	PRACTICE_OTHER		neu	burial		who, being suspected of the offence of returning a smile from Jahangir his son, was buried alive.	Anarkali legend; not yogic
+P01085	NAME		neu				Gorakhnath tank, festival site at Peshawar
+P01086	ASCETIC		neu	sanctity,austerity		which is one of the holy places of the jogis of the Hinds, who came from great distances to cut off their hair and shave their beards	Gor Khatri as pilgrimage place of jogis, quoting Babar and Abul Fazl
+P01087	ASCETIC	MENDICANT	neu	order,beggar,magic		They are generally the disciples of the Jogi monastery, situated on the top of Tilld, a hill in Jhelam district.	Rawals as disciples of Tilla Jogi monastery, begging and averting hailstorms
+P01093	ASCETIC		neu			Large numbers of jogis, sanidsis, &e., pass through the district	Jogis as passing renunciants
+P01094	CASTE		neu			The Bhojkis, Gusdins, and Jogis, have’ or had some priestly avocations.	Jogis listed among castes with priestly work
+P01095	CASTE		neu			composed originally, it is said, of a mixed collection of Nais, Brahmans, Réjpits, and Jogis, who all inter- married.	Jogis as one component of the pujari caste
+P01096	CASTE	MENDICANT	neg	beggar,householder		The jogis of the hills are jogis only in name, They live by begging and also engage in agriculture. They observe no tenets to distinguish them from ordinary Hindus.	Hill jogis called jogis only in name; begging cultivators marrying within group
+P01111	NAME		neu				Jogi Tilla, peak in Jhelum
+P01112	ASCETIC		neg	order,sanctity		It is now tended by a sort of corporation ae ot yogis headed by a mahant. They are not a very estimable body;	Tilla yogis under a mahant; writer disparages them though Muhammadans respect them
+P01113	SAINT	ASCETIC	neu	sanctity,order		A mela heldin honour of the Tilla Jogi on Sheoratr. The old jagir attached to this shrine has been abolished since the present Mo- hant was accused of murdering his rival	Fair for the Tilla Jogi; mahant accused of murder
+P01114	ASCETIC		neu	order		The Tilla Jogis and a number of village commu- nities are entitled to pasture cattle and collect ait wood	Tilla Jogis as a corporate body with forest rights
+P01090	OTHER		neu				Yoginis as female demons in Jalandhara legend
+P01091	SAINT		neu	burial		The samadh of a Jogi, nained Jélandharnéth, who is reputed by tradition to have refounded the city, is said to have been destroyed	Tomb of Jogi Jalandharnath
+P01097	ASCETIC		neu	burial		Gosdins and Jogis aro buried sitting up in salt; aud used to be so buried alive before our rule. Their graves are called samadda.	Jogis buried sitting; formerly buried alive
+P01098	ASCETIC		neu	order		The priests are Gosdins or Jogis, gene- rally of the kanphate or ear-pierced class, and they take the offerings.	Kanphate Jogis as Shiv temple priests
+P01099	ASCETIC		neu			Brahmans do not mind being fed at their shrines, but will not take the offerings, which go to Hinds Jogis.	Jogis receive offerings at snake shrines
+P01100	ASCETIC		neu			on the 9th of Bhddon the Jogis take it round the village to the sound of drums, and people salute it and offer chirmds	Jogis carry the fly-flap of Guga's shrine
+P01101	ASCETIC		neu	order		The people circumambulate the tree from left to right (prikammd), pour libations, eat the leaves, and make offerings, which are taken by the anphate Jogis.	Kanphate Jogis take offerings at a tree shrine
+P01102	CASTE	ASCETIC	neu	low_status,performer,magic,order		There is a caste called Jogi, generally Hindu, which is one of the lowest of all castes, and receives the offerings made to the impure gods. They are musicians, and practise witchcraft and divination.	Distinguishes Jogi caste from Kanphate Jogi monks who are not a caste
+P01103	CASTE	ASCETIC	neu	low_status		There are generally a few Jogis—a low caste of devotee who take the offer- ings.to Shiv and to Gaga Pir	Jogis as low caste of devotee
+P01106	PRACTICE_OTHER		neu	burial		he could not have the satisfaction of Leing buried alive, horse and all, unless he uttered the Aalema and became a Musalmdn	Legend of a Rajput's burial in earth; not a yogi
+P01109	SAINT		neu	sanctity		the saint was opposed at Ajudhan by a Hindu Jogi, Eirnéth, whom, howqver, he conquered and subsequently converted	Hindu Jogi Kirnath in Baba Farid legend
+P01116	JUNK		neu				Inverted OCR garbage table
+P01117	JUNK		neu				Inverted OCR garbage table
+P01118	OTHER		neu				hatha = cubit measure
+P01121	OTHER		neu				yoginis as female demons in Jalandhara legend
+P00858	OTHER		neu				hatha = indigenous ber tree
+P00859	SAINT	ASCETIC	neu	order	82	A Hindu fair is also held in Maldiad in honor of Baba Bodh Nath Jogi in February, attended by some 5.000 persons. These Jogis are connected with those of Koh Tilla ill Jhelum district.	Fair for Baba Bodh Nath Jogi
+P00860	NAME		neu				Bhallar-Jogi, village name
+P00861	NAME		neu				Bhallar-jogi, village name
+P00864	ASCETIC		neu	order,numbers,burial,austerity		The Jogis (246^ chiefly in Bhera tahsil) are another body of religious devotees who especially worship Shiv, Bhairo and Devi.	Jogis from Gorakhnath, Tilla monastery, celibate, kanphate, bury dead sitting
+P00865	ASCETIC		neu	order		Both orders burn their dead, abstain from flesh and spirits, and altogether follow the orthodox Hindu religion more closely than the Jogis.	Implies Jogis less orthodox than Bairagis
+P00849	PRACTICE_OTHER		neu	burial		where queens were condemned to be buried alive ou the faintest suspicion of infidelity	Punishment of queens; not yogic
+P00889	SAINT		neu	sanctity		the saint was opposed at Ajudhan by a Hindu Jogi, Birnath, whom, however he conquered and subsequently couverted	Hindu Jogi Birnath in Baba Farid legend
+P00866	ASCETIC		neu	order		the worship of Devi is less common than in Lahore and in the central Punjab, and there are not many Jogi establishments in the district.	Jogi establishments as a Shaiva form of worship
+P00867	OTHER		neu				hatha = a kind of sugarcane
+P00868	OTHER		neu				hatha = cubit measure
+P00875	JUNK		neu				Only running head "The Jogis"; text is on Gosains, called a sect of fakirs
+P00876	ASCETIC		neu	order		Jogis generally trace their descent to one Gorakhndth. In reality he appears to have been a chda of one Mohendra Ndth, Jogi.	Jogis celibate, Kanphatte and Augar sections
+P00877	ASCETIC	MENDICANT	neu	order,beggar,burial		it contains a shiwdla and the graves (samddhs) of several gurus. The Jogfs are pujdris of the shiwdla, while the chelds wander about begging.	Kanphatte Jogi monasteries, 12 panths
+P00878	SAINT		neu	magic		He was miraculously con- ceived by the intervention of Gorakhnath Avho gave his mother some gugal to eat	Gorakhnath in Guga legend
+P00879	OTHER		neu				hatha = plough handle
+P00880	OTHER		neu				hatha = plough handle
+P00845	PRACTICE_OTHER		neu	burial		worship Biba Matfa {lit. the ancestor who was buried alive)	Ancestor worship; not yogic
+P00838	ASCETIC		neu			There are a very few Nirmilas and Nihangs to be found in some villages, where they oocupy the dharmsdlas, and also some jogi faqirs.	Equates jogis with faqirs
+P00881	NAME		neu				Hills of Balnath Jogi, place name
+P00882	ASCETIC		neu	order		The monastery of Jogis on the summit of the isolated peak of Tilla, which rises to a height of over 3,200 feet	Tilla Gorakhnath monastery, called Jogi Tilla
+P00883	ASCETIC	SAINT	neu	order,burial,magic		Pdran is said to have joined the Jogi fraternity on being restored to life by their head, and to have sub- sequently founded a well-known monasteiy in tlie Rohtak Distiict.	Tilla samadhs, Bharthri, Puran Bhagat legend
+P00884	ASCETIC		neu	burial,order		separate from them are a number of masonry tombs, large and small, of past Jogis, for their custom is burial not cremation	Jogis of Tilla buried not cremated
+P00885	ASCETIC		mixed	order	36	The Jog’is of Tilla have at times in their recent history been remarkable less for piety and good beharionr than for the want of these qualities : at the present time, however, the institution is in good repute	Tilla Jogis once ill-behaved, now respected; branches as far as Nepal
+P00886	ASCETIC		neu	austerity,magic,order		this survives chiefly ir. the ti.aditions regaiding the doings of their former representatives and hashttle or no mtln.-nce on their conduct	Garbled; occult power by austerities now only tradition; Jogi order possibly Buddhist
+P00887	SAINT		neu	sanctity		A mela held in honour of the Tilla Jogi on Sheoratri	Fair for the Tilla Jogi
+P00888	ASCETIC		neu	order		The curious nse by the Jogis of Tilla of the Musalman title of “ Fir ” has already bee . noticed	Tilla Jogis use Muslim title Pir
+P00846	SAINT		neu			Jullundur was held by Jalandhar Nath, a Jogi, and his successors.	Jalandhar Nath legends, Jogi city founder
+P00847	PRACTICE_OTHER		neu	burial,magic		who had been buried alive beneath the Avail of Jullundur as the sole means of keeping what was built during the day from falling down at night	Foundation sacrifice; saint converts the Jogi who did it, called nefarious
+P00848	SAINT		neu			The tomb of Imam Nasir-ud-din is said to have been built in the 15th century on the site of the shrine of the Jogi Jalandhara Nath .	Shrine of Jogi Jalandharanath replaced by tomb
+P00844	NAME		neu				Bhallar Jogi, village name
+P00840	ASCETIC	SAINT	neu	magic,order,sanctity		he met a band of Jogis, whose mahant or leader was a N&th. Balak entered into a disputation with this man	Miracle contest between Balak and a Jogi mahant
+P00841	OTHER		neu				Sati-jugi = Satya yuga in a hymn
+P00842	SAINT		neu	magic,sanctity		the jog! Tér4 N&th placed the Dévi’s idol according to the rules set forth in the Hindu Shastras for asthdpan	Jogi/yogi Tera Nath installs Devi image; hill named after him
+P00843	CASTE		neu		7	Other castes found in the State are Koli, Chand], Dumné, CHAP.I, C. Chamér, Mehtar, Jogi, Khatri, Turi, Jat, Kahdr	Jogi listed among castes
+P00980	ASCETIC		neu	order		ABHArANTHi, one of the 12 orders or schools of the Jogis (g. v.).	Jogi orders
+P00981	ASCETIC		neu	order		Adh-nath, one of the 12 orders or schools of the Jogis {q. r.).	Aghori cannibal faqirs cross-referenced to Jogi
+P00982	ASCETIC		neu	order		Aipanthi, a follower of the Aipanth, one of the Jogi orders.	Jogi orders
+P00983	ASCETIC		neu	order		Said to have been founded by the Jogi Kanipa, chiefly recruited from Sanidsis and Jogfs	Bam-margi sect said founded by Jogi
+P00984	NAME		neu				Samandarpal Jogi, king list
+P00985	CASTE		neu			iv. Jogi and v. Janddni. These five septs are closely connected, do not give daughters out- side the group, and usually intermarry.	Jogi as a Bhatti sept
+P00986	CASTE		neg	low_status		the probability is that they are mere Jogis who have obtained a reflected sanctity from the goddesses whose service they have entered	Bhojkis called mere Jogis; Jogi class Bodha Pandits
+P00987	ASTRO		neu				yoga as astrological period
+P00988	MENDICANT		neu	magic,performer		divining evil influences by means of two iron pegs in a cup, in some obscure way, after the manner of the Jogis and Muhammadan Doras	Jogis cited as diviners
+P00989	SAINT		neu	sanctity		The Chdhil affect Jogi Pir, originally Joga, son of Eajpdl, who is said to have been killed, alter fighting with the Mughals even when he had been decapitated.	Jogi Pir as clan hero-deity
+P00990	SAINT		neu	sanctity		Chahil is eaid to have been born of a hill fairy : and Baland Jogi Pir ia worshipped as their yaflicra.	Baland Jogi Pir worshipped
+P00991	CASTE		neu			a Ko^ni, whose descendants form the Dopla got of the Rors. a Jitni, a Gujarf, a Jogin and a Nain.	Jogin as a wife of lower status in a genealogy
