@@ -50,6 +50,14 @@ and census reports, and did that change by the time of the revised state gazette
      - "The Jugis, or Jogis as they prefer to be called … a well educated and enterprising race" (Noakhali, 1911;
        P00015–16). This is the only positive colonial passage on a Jogi caste. The other eight positive colonial
        passages concern Gorakhnāth (a learned author), respected Kānphaṭa hermits, and ancient yogis of the caves.
+   - The census reports show a campaign behind this, older than the literature's dates (`census/README.md`):
+     - 1891: the thread and Brahman-descent legends (Risley);
+     - 1901: objection to the spelling "Jugi" (Gait, Bengal);
+     - 1911: the name "Yogi" formally claimed (O'Malley, Bengal);
+     - 1921: "Yogi" adopted as the tabulated caste name, in Assam only, "to emphasise their ascetic origin" (Lloyd);
+     - 1931: the caste's priests ask to be recorded as Brahmans, and are refused (Porter, Bengal).
+
+     "Yogi" was turned from a mendicant's or weaver's label into a claim to ascetic descent.
    - In the same years the Malabar "Yogi Gurukkals" appear as a low but learned caste of exorcists and
      schoolmasters (Thurston 1909; P00406).
 6. **Yoga as a bodily discipline is almost absent before independence.**
