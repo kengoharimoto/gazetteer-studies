@@ -164,7 +164,7 @@ From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/c
 ## 3. Findings in relation to Bombay and Madras
 
 **Place in the study's verdict (`../SYNTHESIS.md`, "The answer"): Śaṅkara's tradition was regional, not dominant.**
-- **Led:** the eastern Ganges plain is one of the regions where it led as an organised following.
+- **Outnumbered the others:** the eastern Ganges plain is one of the regions where it outnumbered the other traditions.
   - The NWP returns 103,320 Daśanāmīs (1891), the densest in British India.
   - Benares is the one city where Śaṅkara's following is institutionally present at every date.
 - **Not uniformly:**

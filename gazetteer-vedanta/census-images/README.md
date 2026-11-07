@@ -18,7 +18,7 @@ Page images and the downloaded OCR XML are in `pages/` (kept out of git).
 
 The study's verdict (synthesis, "The answer") is that Śaṅkara's tradition was **regional,
 not dominant**. These tables give the numbers behind it.
-- **Where it led:**
+- **Where it outnumbered the others:**
   - the Daśanāmīs are densest in eastern UP and Bihar (NWP 103,320 in 1891; Bengal Atīths 50,042 in 1901);
   - Smārtas are 48% of Tamil Brahmans (1891).
 - **Where it was a minority:**

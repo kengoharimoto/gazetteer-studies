@@ -30,8 +30,8 @@ crosses) show where other traditions held the larger followings.
 ## The answer
 
 As in the synthesis (`SYNTHESIS.md`, "The answer"; published page `SYNTHESIS.html`). **Regional, not dominant.** The
-tradition was present in some form in every region and carried the highest learned prestige, but as an organised
-following it led in only four areas.
+tradition was present in some form in every region and carried the highest learned prestige, but it outnumbered the
+other traditions in only four areas.
 
 1. **Two social forms in two halves of India.** In the south and west: Smārta householders under a seat (a maṭha
    headed by a Śaṅkarācārya). In the north, east and centre: the Daśanāmī orders, which owned land and were turning

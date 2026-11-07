@@ -20,7 +20,7 @@ Mysore government files on Śṛṅgeri and Kudli. Published as a page from `SYN
 ## The answer
 
 **Regional, not dominant.** The tradition was present in some form in every region and carried the highest
-learned prestige, but as an organised following it led in only four areas.
+learned prestige, but it outnumbered the other traditions in only four areas.
 
 1. **Two social forms in two halves of India.** In the south and west: Smārta householders under a seat. In the
    north, east and centre: the Daśanāmī orders, which owned land and were turning into a caste.
@@ -54,7 +54,7 @@ semi-secularised offshoot"; a Raipur fighting akhāṛā had become a married za
 
 | Region | Form | How strong, and the evidence | Who held more |
 |---|---|---|---|
-| **Where it led** | | | |
+| **Where it outnumbered the others** | | | |
 | Kanara and South Canara | Smārta | strongest anywhere, beyond Brahmans: fishermen, potters, carpenters, Marāṭhās under Śṛṅgeri's guru; 32–39% of Kanara's Hindus | Liṅgāyats; Mādhvas of Uḍupi |
 | Tamil country | Smārta | 48% of Tamil Brahmans Smārta against 23% Śrīvaiṣṇava (1891); no seat tied to them | Śrīvaiṣṇavas (Chingleput 60%); non-Brahmin Śaiva maṭhs |
 | Eastern UP and Bihar | Daśanāmī | densest Daśanāmī country: Saran Atīths 26,753 (1901), Gonda 11,478 (1891); Benares institutionally present at every date | Rāmānandī Bairāgīs (Ayodhyā); Nāth Jogīs (Gorakhpur) |

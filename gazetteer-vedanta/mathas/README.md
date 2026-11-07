@@ -182,7 +182,7 @@ regional picture is in the synthesis, "Evidence 3: how many". None of this is co
 
 **Overall verdict of the study** (synthesis, "The answer"): Śaṅkara's tradition was
 **regional, not dominant**. The maṭha evidence is part of why.
-- **Where the seats were strong.** Its seats were richly endowed only where it also led as an organised following:
+- **Where the seats were strong.** Its seats were richly endowed only where it also outnumbered the other traditions:
   Saṅkeśvar and Kudli in the Bombay Karnatak, Śṛṅgeri in Mysore, and the Daśanāmī estates of the Ganges plain.
 - **Where the seats were names.** Elsewhere the four-pīṭha scheme survives mostly as a list (Dvārkā, Jyotirmaṭh,
   Purī). Where the gazetteers compare, the rival houses are as rich or richer (see "Rival maṭhs and orders" above).

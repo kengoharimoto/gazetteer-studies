@@ -113,7 +113,7 @@ houses in the study are in this presidency.
 ## 3. Findings in relation to Bombay
 
 **Place in the study's verdict (`../SYNTHESIS.md`, "The answer"): Śaṅkara's tradition was regional, not dominant.**
-- **Led:** Madras holds two of the regions where it led.
+- **Outnumbered the others:** Madras holds two of the regions where it outnumbered the other traditions.
   - The South Canara coast: Śṛṅgeri's non-Brahmin castes.
   - Tamil Brahmans: 48% Smārta against 23% Aiyaṅgār.
 - **Where the wealth lay:** even here the landed religious wealth belongs to the non-Brahmin Śaiva ādhīnams and the

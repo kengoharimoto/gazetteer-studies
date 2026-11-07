@@ -142,7 +142,7 @@ From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/c
 
 **Place in the study's verdict (`../SYNTHESIS.md`, "The answer"): Śaṅkara's tradition was regional, not dominant.**
 - **Split province:**
-  - Bihar belongs with the eastern Ganges plain, where it led: Saran alone returns 26,753 Atīths (1901).
+  - Bihar belongs with the eastern Ganges plain, where it outnumbered the other traditions: Saran alone returns 26,753 Atīths (1901).
   - Bengal proper and Orissa are minority country. Vaiṣṇavas run to tens of thousands per district against
     Sannyāsīs in the tens; Purī's maṭhs are mostly Vaiṣṇava; Calcutta returns no Sannyāsī heading.
 
