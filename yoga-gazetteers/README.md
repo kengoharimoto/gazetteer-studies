@@ -11,8 +11,9 @@ Matching the synthesis page (`SYNTHESIS.html`). Figures include the regional sup
 revised Rajasthan, Baluchistan).
 
 1. **The officials split "yogi" into two words.** *Yoga* was Patañjali's philosophy, learned and respectable. *Jogi*
-   named living people: a caste, members of the Nāth order, a census heading. The officials kept the two apart when
-   they defined the words, and mixed them when they counted people.
+   named living people: a caste, members of the Nāth order, a census heading. Their definitions trace the Jogi to
+   Patañjali's Yoga and then describe living Jogis as a caste or as mendicants; the census merged Jogis with every
+   other ascetic heading.
 2. **They wrote about Jogis as administrators, not as critics.** Their judgement is neutral in 94% of passages
    (691 of 737). The fakir-showman of the travel books hardly appears even under other words. Contempt is confined to
    the criminal-caste literature and a few quoted authorities. An officer recording castes, land and revenue had
@@ -37,7 +38,7 @@ respectable "yoga" holds, with four refinements:
 - **Frequency.** The district writers' word is **Jogi** (about 11–22 hits per million words); "yoga" occurs 1–2
   times and "yogi" 1.5–2.5 times per million words. Yoga as a philosophy or practice is 4–5% of the colonial
   passages on these words.
-- **Definitions keep the words apart.** Several writers say the living Jogi bears the name of a philosophy he no
+- **Definitions trace the Jogi to Patañjali, then describe someone else.** Several writers say the living Jogi bears the name of a philosophy he no
   longer represents:
   - "The Jogi is, strictly speaking, a Shaiva, and a follower of the Yoga, or philosophical school of Patanjali"
     (Atkinson, NWP Gazetteer V, 1879; P00637). The same entry then describes Jogis as mountebanks and mendicants.
@@ -51,7 +52,7 @@ respectable "yoga" holds, with four refinements:
     OCR "Jopi").
   - Rose's *Glossary* (1911; P01009) has two classes: "the Jogis proper, a regular religious order", and low-caste
     Jogis who are rascally beggars.
-- **Classification mixes them.** Gait: "Yogi or Jogi is a word of much greater ambiguity … used in a very wide sense
+- **Classification blurs the Jogi into the other ascetics.** Gait: "Yogi or Jogi is a word of much greater ambiguity … used in a very wide sense
   of any ascetic" (Bengal 1901, para. 787). The NWP census of 1891: "the words Goshain, Bairagi, Jogi, Saniyasi were
   apparently used by a considerable proportion of the enumerators as interchangeable". The census filed Jogis under
   "Faqir" (at least eight UP district gazetteers of 1903–11; Punjab 1891 "Jogi & Rawal"), merged them with "Nath"
