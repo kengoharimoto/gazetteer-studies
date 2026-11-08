@@ -20,8 +20,8 @@ revised Rajasthan, Baluchistan).
 
 1. **Two spellings, two kinds of people.** *Yoga* was Patañjali's philosophy, learned and respectable, and *Yogi*
    the ascetic of temples, legends and Sanskrit learning. *Jogi* named living people: a caste, members of the Nāth
-   order, a census heading. Their definitions trace the Jogi to Patañjali's Yoga and then describe living Jogis as a
-   caste or as mendicants; the census merged Jogis with every other ascetic heading.
+   order, a census heading. Their definitions explain *Jogi* as a form of *Yogi*, a follower of Patañjali's Yoga, and
+   then describe the living Jogis as a caste or as mendicants; the census merged Jogis with every other ascetic heading.
 2. **They wrote about Jogis as administrators, not as critics.** Their judgement is neutral in 94% of passages
    (691 of 737). The fakir-showman of the travel books hardly appears even under other words. Contempt is confined to
    the criminal-caste literature and a few quoted authorities. An officer recording castes, land and revenue had
