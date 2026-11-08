@@ -5,6 +5,14 @@ and census reports, and did that change by the time of the revised state gazette
 
 **Synthesis page:** `SYNTHESIS.html`, published at https://claude.ai/artifact/SxskLHSxdoBHtVTZ5U9znQ.
 
+**Public repository:** https://github.com/kengoharimoto/gazetteer-studies, with `../gazetteer-vedanta/`. It leaves out
+the raw passage layers, which carry long extracts from the post-independence gazetteers that may still be in
+copyright: `data/*passages.tsv`, `data/batches/`, `data/fakir_batches/`, `data/order_batches/`,
+`data/region_batches/` and `results/kwic.tsv`. The coded results (`results/*coded*`), with their short quotations,
+are included. The scripts rebuild the left-out files from the Internet Archive OCR (`scripts/fetch.py`, then
+`scripts/passages.py` and the other `*_passages.py`). Licence: CC BY 4.0 for the reports, notes and coded data, MIT
+for the scripts (`../LICENSE.md` in the public repository).
+
 ## The answer
 
 Matching the synthesis page (`SYNTHESIS.html`). Figures include the regional supplement (Bombay after 1890, Rajputana,

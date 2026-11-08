@@ -27,6 +27,14 @@ Nanak (Udāsī), Lormi (Bairāgī), Tiruvāvaḍuturai and Dharmapuram (Tamil Ś
 The finder opens with the study's verdict: Śaṅkara's tradition was regional, not dominant. Its rival seats (purple
 crosses) show where other traditions held the larger followings.
 
+**Public repository:** https://github.com/kengoharimoto/gazetteer-studies, with `../yoga-gazetteers/`. It leaves out
+the raw text layers that carry long extracts from the post-independence gazetteers, which may still be in copyright:
+`revised/results/packets/`, `mathas/results/hits.tsv`, `mathas/results/hits_dedup.tsv` and
+`sringeri/results/hits.tsv`. The coded results, with their short quotations, are included. The scripts rebuild the
+left-out files from the Internet Archive OCR (`scripts/fetch_ia_ocr.py`, then `revised/scripts/make_packets.py`,
+`mathas/scripts/collect.py` and `sringeri/scripts/collect_hits.py`). Licence: CC BY 4.0
+for the reports, notes and coded data, MIT for the scripts (`../LICENSE.md` in the public repository).
+
 ## The answer
 
 As in the synthesis (`SYNTHESIS.md`, "The answer"; published page `SYNTHESIS.html`). **Regional, not dominant.** The

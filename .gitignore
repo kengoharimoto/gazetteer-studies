@@ -1,0 +1,37 @@
+# Downloaded Internet Archive OCR and other inputs: re-fetch with the studies' fetch scripts
+/gazetteer-vedanta/data/ia_ocr/
+/gazetteer-vedanta/madras/data/ia_ocr/
+/gazetteer-vedanta/madras/data/probe/
+/gazetteer-vedanta/madras/data/census/*.txt
+/gazetteer-vedanta/madras/data/thurston/
+/gazetteer-vedanta/north/data/ia_ocr/
+/gazetteer-vedanta/north/data/census/*.txt
+/gazetteer-vedanta/bengal/data/ia_ocr/
+/gazetteer-vedanta/punjab/data/ia_ocr/
+/gazetteer-vedanta/cp/data/ia_ocr/
+/gazetteer-vedanta/census-images/pages/
+/gazetteer-vedanta/revised/data/ia_ocr/
+/gazetteer-vedanta/sringeri/data/ia_ocr/
+/gazetteer-vedanta/mathas/data/archives/
+/gazetteer-vedanta/map/ne_50m_admin1.geojson
+/gazetteer-vedanta/map/ne_50m_admin0.geojson
+/gazetteer-vedanta/mathas/data/
+/gazetteer-vedanta/census-images/data/ia_ocr/
+/gazetteer-vedanta/rivals/data/
+/yoga-gazetteers/census/data/ia_ocr/
+/yoga-gazetteers/census/pages/
+/yoga-gazetteers/regions/data/ia_ocr/
+
+# Raw text layers rebuilt by the scripts; not published (post-independence extracts)
+/gazetteer-vedanta/revised/results/packets/
+/gazetteer-vedanta/mathas/results/hits.tsv
+/gazetteer-vedanta/mathas/results/hits_dedup.tsv
+/gazetteer-vedanta/sringeri/results/hits.tsv
+/yoga-gazetteers/data/*passages.tsv
+/yoga-gazetteers/data/*batches/
+/yoga-gazetteers/results/kwic.tsv
+
+*.pdf
+*.pyc
+__pycache__/
+.DS_Store
