@@ -90,6 +90,19 @@ respectable "yoga" holds, with four refinements:
   PR00198), and the shrine in Quetta fort of Pani Nath, "a Hindu Yogi" and disciple of Gorakhnāth, buried alive after
   forty years' contemplation, with a Shivratri fair since 1892 (Quetta-Pishin; PR00202). The Hinglaj volume (Las Bela)
   describes the goddess pilgrimage without naming Jogis.
+- **What the Jogi caste did.** Where the officials meant a caste, it was one people were born into, low in rank,
+  doing ordinary work; its tie to yoga was the name and a claimed descent from ascetics:
+
+  | Region | What the Jogi caste did | In the gazetteers' words |
+  |---|---|---|
+  | Bengal and Assam | Weavers (“Jugi”), ranked below the Tantis; cultivators, lime-burners | "Weaving is the hereditary occupation of two Hindu castes, Tantis and Jugis" (Howrah 1909, P00037) |
+  | United Provinces | Settled cultivators; in some villages, landholders | village lands "passed into the hands of Brahmans, Banias, Sonars and Jogis" (Aligarh 1909, P00584; also Saharanpur 1921, P00537) |
+  | Punjab | Low-caste attendants at minor shrines, musicians, diviners; about half Muslim (1891) | "one of the lowest of all castes, and receives the offerings made to the impure gods" (Karnal 1884, P01102; Rose 1911, P01046) |
+  | Rajputana | Holders of jāgīr villages with the Chāraṇs; makers of gunpowder and blankets; quarrymen | "gunpowder is manufactured here by Jogis" (Bharatpur 1906, PR00091) |
+  | Central Provinces | Sub-castes such as the Bisātī pedlars; a village proprietor | "The proprietor is a Jogi" (Drug 1910, P00122) |
+  | Madras | Telugu Jogis: snake-catchers, pig-keepers, mendicants; Malabar’s Yogi Gurukkals: exorcists and schoolmasters | "people who catch snakes, and keep pigs, and practise mendicancy" (Salem 1883, P00351; Thurston 1909, P00406) |
+  | Bombay | Wandering singers and beggars, in many sub-divisions (Ker-, Kindri-, Mendar-jogi …) | "Jogerus or Jogis, originally Yogis that is meditators, a class of singing beggars" (Dharwar 1884, P00312) |
+
 - **Muslim Jogis.** In the Punjab census of 1891, 36,718 of the 75,469 under "Jogi & Rawal" were Musalmān; the
   glossaries describe Muhammadan Jogis (Rawals).
 - **Bengal and Assam:** a **weaving caste** (Hunter 1875–77, ten districts; Bengal District Gazetteers 1909–12);
