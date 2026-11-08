@@ -19,7 +19,7 @@ Matching the synthesis page (`SYNTHESIS.html`). Figures include the regional sup
 revised Rajasthan, Baluchistan).
 
 1. **Two spellings, two kinds of people.** *Yoga* was Patañjali's philosophy, learned and respectable, and *Yogi*
-   the ascetic of temples, legends and Sanskrit learning. *Jogi* named living people: a caste, members of the Nāth
+   mostly the ascetic of temples, legends and Sanskrit learning. *Jogi* named living people: a caste, members of the Nāth
    order, a census heading. Their definitions explain *Jogi* as a form of *Yogi*, a follower of Patañjali's Yoga, and
    then describe the living Jogis as a caste or as mendicants; the census merged Jogis with every other ascetic heading.
 2. **They wrote about Jogis as administrators, not as critics.** Their judgement is neutral in 94% of passages
@@ -46,11 +46,13 @@ respectable "yoga" holds, with four refinements:
 - **Frequency.** The district writers' word is **Jogi** (about 11–22 hits per million words); "yoga" occurs 1–2
   times and "yogi" 1.5–2.5 times per million words. Yoga as a philosophy or practice is 4–5% of the colonial
   passages on these words.
-- **The spelling "Yogi" names the ascetic of the past, not the living Jogi.** Of the 46 colonial coded passages that
-  use it, 38 refer to an ascetic or holy man of antiquity, legend or iconography (cave-dwellers at Kanheri, Śiva "the
-  great Yogi", saints' legends, Śaiva sects in lists); only one (Bombay 1901, below) defines a Yogi as a follower of
-  Patañjali; four are caste or begging groups. "Jogi is a corruption of Yogi, a term applied originally to the
-  Sanyāsis well advanced in the practice of yogābhyās" (Punjab 1914).
+- **The spelling "Yogi" leans to the past.** It is rare: about 120 hits in the colonial volumes against about 1,270 for
+  "Jogi". Of the 46 colonial coded passages that use it, 25 refer to an ascetic or holy man of antiquity, legend or
+  sculpture (cave-dwellers at Kanheri, seven of them from the Thana volume of 1882; Śiva "the great Yogi"; saints'
+  legends); 13 to living people (Śaiva sects in lists, a corporation of yogis under a mahant, Malabar's Yogi
+  Gurukkals); 8 are definitions or general statements, only one of which (Bombay 1901, below) makes a Yogi a follower
+  of Patañjali. "Jogi is a corruption of Yogi, a term applied originally to the Sanyāsis well advanced in the practice
+  of yogābhyās" (Punjab 1914). Counts by hand from `results/coded_all.tsv`, November 2026.
 - **Definitions trace the Jogi to Patañjali, then describe someone else.** Several writers say the living Jogi bears the name of a philosophy he no
   longer represents:
   - "The Jogi is, strictly speaking, a Shaiva, and a follower of the Yoga, or philosophical school of Patanjali"
