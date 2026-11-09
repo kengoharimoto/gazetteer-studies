@@ -87,8 +87,7 @@ dominant**. This layer supplies most of the "elsewhere".
 
 ## The rival seats
 
-These seats are the clearest evidence for the study's verdict (`../SYNTHESIS.md`, "Overall: dominant everywhere, or
-regional?"): Śaṅkara's tradition was regional, not dominant.
+These seats are the clearest evidence for the study's verdict (`../SYNTHESIS.md`, "The answer"): Śaṅkara's tradition was regional, not dominant.
 - Each seat stands where another tradition held the larger following and, in most cases, the larger estate.
 - The Bombay Karnatak is the one exception (see below).
 

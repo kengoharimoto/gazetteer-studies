@@ -248,6 +248,9 @@ A regional supplement adds 53 volumes (`regions/data/selection.tsv`; OCR gitigno
   self-wounding in Makran; "Hindu Fakirs" on pilgrimage in Kachhi), and none for round three. Batches
   `data/region_batches/*_baluch.tsv`, codes `results/region_coded/*_baluch.coded.tsv`.
 
+In all, 359 volumes: 306 colonial (268 in G1–G2 plus 38 in the supplement) and 53 revised (38 in G3 plus 15 in the
+supplement).
+
 Remaining gaps: Madras G1 and G2 are thin; there is no Hyderabad, Kashmir or Assam gazetteer volume (Assam is
 covered only through the census, in `census/`).
 

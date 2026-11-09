@@ -160,3 +160,10 @@ sect; the Ramakrishna Mission, with Daśanāmī sannyāsa, stands outside the ol
 - "Gosāin" is a trap: in Bengal, Gujarat, Brindaban and the western Punjab it means a Vaiṣṇava guru lineage.
 - Census headings are loose and include householders; no census counts lay followers of a seat.
 - The revised gazetteers changed genre: part of what vanishes after 1954 is a change of interest, not of fact.
+
+## Sources and method
+
+OCR text of about 270 colonial volumes and 37 revised gazetteers from the Internet Archive. Statements about sects,
+orders and maṭhs were coded caste by caste and district by district, each with a verbatim quotation and page; spot
+checks found 29–30 of 30 quotations word for word in each region. Census caste tables were read from page images and
+reconciled with the printed totals. 338 Karnataka State Archives files on Śṛṅgeri and Kudli were coded.

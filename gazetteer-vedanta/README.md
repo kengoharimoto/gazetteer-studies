@@ -98,6 +98,9 @@ Two cautions carried through the study:
 ## Method
 
 1. **Sources.** Scans and OCR come from the Internet Archive.
+   - About 270 colonial volumes in all: 264 volume IDs in the selection tables (3 of the Śṛṅgeri ones duplicate or
+     unused scans), plus Thurston's 7 volumes and the census reports; and 37 usable revised gazetteers (39 selected,
+     Meerut and Nagpur unusable). The 20 Madras manuals were surveyed but not coded.
    - Each region keeps a selection table (`data/selection*.tsv`) with the primary and backup scan of every
      volume.
    - Downloads are done with `scripts/fetch_ia_ocr.py`.
