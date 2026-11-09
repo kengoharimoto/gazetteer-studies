@@ -37,6 +37,8 @@ Provincial totals for the British Districts (persons / males / females):
   - Vaishnava 2,152
   - not sub-divided: 14,489 (derived)
 - Jogi 6,094 (2,925 / 3,169). Náth 5,008 (2,574 / 2,434). Aghori 36. Bramhachári 69.
+- Nánakshāhi 467 (286 / 181), with one sub-division, Udási 314 (194 / 120); read from n165 on 9 Nov 2026, provincial
+  totals only (not in the TSV). Mánbhāu (Mahānubhāva) 630 (346 / 284).
 - Fakir 4,559 (2,253 / 2,306). The religion column gives it as Musalman ("M."). There is no Hindu Fakir row
   for the British Districts.
 
