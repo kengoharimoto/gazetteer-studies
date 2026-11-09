@@ -167,7 +167,9 @@ To look for the historians' yogi under other names, round two coded 1,508 "fakir
 and "sādhu" passages (1,267 relevant; `results/fakir_coded_all.tsv`) and round three 1,074 sannyāsī, gosāīn and
 bairāgī passages (883 relevant; `results/order_coded_all.tsv`), to see whether contempt, the spectacle-ascetic of the
 travel books or the armed ascetic turns up under these words. Judgement was coded from the writer's own wording.
-- **Contempt** is rare in the Jogi passages:
+- **Contempt.** Singleton (2010) has the living yogi despised by Europeans and high-caste Indians in the colonial
+  period; White (2009) has him a sinister figure of power long before. If the officials shared that view, it should
+  show in their own judgements. It is rare in the Jogi passages:
   - Neutral in 94% of colonial passages on yoga, yogis and Jogis; negative in 27 of 737. These come from:
     - the **criminal-caste and vagrancy literature**: Thurston on the Telugu Jogis (1909), the CP gazetteers (1907,
       1909), the Etah police circle (1911);
@@ -182,7 +184,9 @@ travel books or the armed ascetic turns up under these words. Judgement was code
 - **Contempt under the other words is as rare:** negative in 5% of fakir and sādhu passages (66) and 3% of order
   passages (29). The order passages' negatives concern money-lending, lapsed celibacy, the Vallabha Gosains' authority and the
   historical raiders.
-- **The showman: practice is rarely described.** 5% of fakir and sādhu passages (58), 10% of order passages (92). Most are Sufi
+- **The showman.** Singleton (2010) has the living yogi lumped with the fakir and known by his feats; if the
+  officials saw him so, they should describe such feats. Practice is rarely described: 5% of fakir and sādhu passages (58),
+  10% of order passages (92). Most are Sufi
   exercises recorded by the glossaries (dhikr, the forty-day chilla, ecstatic ḥāl, self-wounding for alms; Russell &
   Hira Lal 1916, Rose 1919) or saints' legends (twelve years in the Chenab, fifty-one years on a sandhill). The
   spectacle-ascetic is nearly absent: one bed of thorns (Thurston 1909), hook-swinging only as a practice "stopped by
@@ -201,7 +205,9 @@ travel books or the armed ascetic turns up under these words. Judgement was code
   Patanjali" (Bombay 1901), the Bairāgī's yoga-daṇḍa (Thurston 1909), Dayānanda (UP 1911).
 - **The orders appear as institutions and estates.** In 1891–1935 a fifth of order passages describe married
   householders (Gosain and Bairāgī zamindars, money-lenders, Atīth castes), who "have fallen away from the ideas of
-  self-sacrifice and poverty in which the orders originated" (Bilaspur 1910). **The soldier:** armed ascetics appear in 72 order passages in the past tense and 2 in the
+  self-sacrifice and poverty in which the orders originated" (Bilaspur 1910).
+- **The soldier.** Pinch (2006) has armed ascetics disarmed by the Company and turned mendicant;
+  if so, the officials should speak of them only in the past. Armed ascetics appear in 72 order passages in the past tense and 2 in the
   present: the Hardwar battles of 1760 and 1796, the Sannyāsī raids in Bengal in the 1780s, "Formerly Gosavis took
   service as soldiers" (Satara 1885).
 
