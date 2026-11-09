@@ -3,6 +3,14 @@
 What did "yoga", "yogi" and "Jogi" mean to the people who wrote the colonial district gazetteers, caste glossaries
 and census reports, and did that change by the time of the revised state gazetteers after independence?
 
+The question is set against the historians of modern yoga, who describe a split in the colonial period: a
+respectable "yoga" rebuilt from Patañjali's text by reformers and Western esotericists, above all Vivekananda (De
+Michelis 2004; White 2014), and a living yogi (haṭha yogin, Nāth ascetic, street performer) lumped with the "fakir"
+and despised (Singleton 2010, ch. 2–3). They do not all see the same yogi: for White (2009) he had long been a
+sinister figure of power; Pinch (2006) finds a soldier disarmed by the Company; historians of Bengal find a caste of
+weavers (Ondračka 2022; Bordeaux 2022). The despised fakir rests mainly on travel writing, missionary tracts and
+popular print. References and summaries: `results/literature.md`.
+
 **Synthesis page:** `SYNTHESIS.html`, published at https://claude.ai/artifact/SxskLHSxdoBHtVTZ5U9znQ.
 
 **Public repository:** https://github.com/kengoharimoto/gazetteer-studies, with `../gazetteer-vedanta/`. It leaves out
