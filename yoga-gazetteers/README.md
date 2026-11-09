@@ -195,11 +195,14 @@ ascetic turns up under these words. Judgement was coded from the writer's own wo
   officials saw him so, they should describe such feats. Practice is rarely described: 5% of fakir and sādhu
   passages (58), 10% of order passages (92). Most are Sufi exercises recorded by the glossaries (dhikr, the forty-
   day chilla, ecstatic ḥāl, self-wounding for alms; Russell & Hira Lal 1916, Rose 1919) or saints' legends (twelve
-  years in the Chenab, fifty-one years on a sandhill). The spectacle-ascetic is nearly absent: one bed of thorns
-  (Thurston 1909), hook-swinging only as a practice "stopped by Akbar" (Allahabad 1911). The one detailed account of
-  feats is Adams on Dādūpanthī sādhus, "never requiring to sleep in the recumbent position, others being able to
-  withstand all weathers without clothes, lie on sharp points" (Western Rajputana States, 1899), a medical officer's
-  neutral observation.
+  years in the Chenab, fifty-one years on a sandhill). The spectacle-ascetic is nearly absent. A pattern search of
+  all passages for the classic feats finds eight: arms held raised over the head (Nasik 1883; S00353), standing on
+  one leg by the fire (Rose 1914; P01055) or to beg (CP 1909; S00140), the five fires of the Khaki Bairāgīs (Russell
+  & Hira Lal 1916; S00283), a bed of sharp thorns (Thurston 1909; F00348), "lie on sharp points" (Adams on
+  Dādūpanthī sādhus, Western Rajputana States, 1899; FR00057, a medical officer's neutral observation), a plate of
+  an "Anchorite sitting on iron nails" (Russell & Hira Lal 1916, list of illustrations; F00210) and a saint said to
+  have hung head downwards (CP 1906; F00164, a legend). Hook-swinging appears only as a practice "stopped by Akbar"
+  (Allahabad 1911) and as a festival (revised Bengal gazetteer, 1972).
 - **"Fakir" was not a Muslim word**, so filing Jogis under "Faqir" (section 2) classed them as mendicants. Where a
   religion is stated, Hindu or Sikh ascetics are 29% of "fakir" passages in 1866–1890 (41 against 99 Muslim) and 24%
   in 1891–1935 (92 against 297): "the caste of faqirs called Sattnami" (Oudh 1877), the Udāsī "fakirs" of Guru Ram
