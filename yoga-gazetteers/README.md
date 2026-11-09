@@ -154,9 +154,16 @@ caste of weavers in Bengal (Ondračka 2022; Bordeaux 2022). The officials' recor
 
 No published study has used these sources systematically on this question; Briggs (1938) comes closest.
 
+The historians' "yogi" is a wider category than the officials' word. The historians did not look only for the word:
+they took in whoever they judged to be a yogi or to practise yoga, whatever the source called him. Singleton's yogi
+includes haṭha yogins, Nāth ascetics, wandering mendicants and street performers, many of them called fakirs in his
+sources; Pinch's warrior ascetics are gosāīns, sannyāsīs and nāgās. This study starts from the words "yoga", "yogi"
+and "Jogi" as the officials used them. A fakir on a bed of nails is a yogi for the historians, but not a Jogi in the
+gazetteers unless the writer calls him one. Hence rounds two and three, below.
+
 ### Evidence for the contempt, showman and soldier claims
 
-To test these claims beyond the Jogi passages, round two coded 1,508 "fakir/faqir"
+To look for the historians' yogi under other names, round two coded 1,508 "fakir/faqir"
 and "sādhu" passages (1,267 relevant; `results/fakir_coded_all.tsv`) and round three 1,074 sannyāsī, gosāīn and
 bairāgī passages (883 relevant; `results/order_coded_all.tsv`), to see whether contempt, the spectacle-ascetic of the
 travel books or the armed ascetic turns up under these words. Judgement was coded from the writer's own wording.
