@@ -39,15 +39,15 @@ learned prestige, but it outnumbered the other traditions in only four areas.
 | Where | South and west: Bombay Deccan and Karnatak, Kanara, Madras | North, east and centre: UP, Bihar, Bengal, Punjab, CP |
 | Tie | a caste acknowledges a seat's head as guru, pays dues, takes disputes to him | membership of an order: the ten names, maṭhs and akhāṛās, guru-to-disciple succession |
 | In the texts | "Their spiritual teacher is Shankarāchārya", in caste-by-caste accounts | Gosāins, Atīths, Sannyāsīs: landholders, money-lenders, traders, formerly armed bands |
-| Scale | mostly under 8% of a district's Hindus; Kanara 32–39%; Tamil Brahmans 48% (1891) | UP 103,320 (1891); Bihar Atīths 50,042 (1901); CP Gosains 24,796 (1891); Punjab about 15,000 |
+| Scale | mostly under 8% of a district's Hindus; Kanara 32–39%; Tamil Brahmans 48% (1891) | UP 103,320 (1891); Bengal Atīths 50,042 (1901, nearly all in Bihar); CP Gosains 24,796 (1891); Punjab about 15,000 |
 
 In both forms the allegiance was **jurisdiction and property more than doctrine**. Śṛṅgeri's agents heard caste
 disputes and collected dues in Kanara; the northern orders held villages, grants and banking houses. The orders were
 turning into a caste: Hunter's Atīths are Daśanāmīs "who have not resigned the world"; Rose calls Gosāins "a
 semi-secularised offshoot"; a Raipur fighting akhāṛā had become a married zamindār family by 1909.
 
-> "Till last year (1881) they were followers of the Lingayat guide of Chitaldurg … But the pārupatyagār or agent of
-> the Smārt Jagadguru of Shringeri has persuaded them to acknowledge him as their Teacher." (Konkan Kuṇbīs of
+> "Till last year (1881) they were followers of the Lingayat guide of Chitaldurg … But the pārupatyagār or manager of
+> the Smārt Jagadguru of Shringeri has persuaded them to acknowledge him as their Teacher and to pay a nominal contribution." (Konkan Kuṇbīs of
 > Kanara; Bombay Gazetteer XV pt 1, 1883, p. 218)
 
 ## Evidence 2: where — region by region

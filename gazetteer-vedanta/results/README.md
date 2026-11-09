@@ -117,7 +117,7 @@ From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/c
      Shringeri … whose decision is accepted as final" in caste disputes (Komārpaiks, p. 293).
    - He also collects "tithes from them through his deputies" (Arers).
 2. **The map was changing in the 1880s.** The Konkan Kuṇbīs were "till last year (1881) … followers of the
-   Liṅgāyat guide of Chitaldurg… But the pārupatyagār or agent of the Smārt Jagadguru of Shringeri has
+   Liṅgāyat guide of Chitaldurg… But the pārupatyagār or manager of the Smārt Jagadguru of Shringeri has
    persuaded them to acknowledge him as their Teacher and to pay a nominal contribution" (Kanara, p. 218). This
    is direct evidence of Śṛṅgeri actively recruiting non-Brahmin castes, and it is the strongest datum for the
    "did it change" question.
