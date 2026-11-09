@@ -55,7 +55,7 @@ XY = {  # district: (lat, lon), approximate headquarters
     "Bilaspur": (22.08, 82.15), "Sambalpur": (21.47, 83.97), "Bastar": (19.08, 82.02), "Kanker": (20.27, 81.49),
     "Nandgaon": (21.10, 81.03), "Khairagarh": (21.42, 80.98), "Chhuikhadan": (21.52, 80.99), "Kawardha": (22.01, 81.23),
     "Sakti": (22.03, 82.96), "Raigarh": (21.90, 83.40), "Sarangarh": (21.59, 83.08), "Bamra": (21.62, 84.20),
-    "Rairakhol": (21.07, 84.38), "Sonpur": (20.84, 83.92), "Kalahandi": (19.91, 83.17), "Makrai": (22.07, 77.10),
+    "Rairakhol": (21.07, 84.38), "Sonpur": (20.84, 83.92), "Kalahandi": (19.91, 83.17), "Patna State": (20.71, 83.49), "Makrai": (22.07, 77.10),
     # Punjab
     "Hissar": (29.15, 75.72), "Rohtak": (28.90, 76.61), "Gurgaon": (28.46, 77.03), "Delhi": (28.65, 77.23),
     "Karnal": (29.69, 76.99), "Ambala": (30.38, 76.78), "Simla": (31.10, 77.17), "Kangra": (32.10, 76.27),
@@ -98,7 +98,8 @@ for r in csv.DictReader(open(R + "bengal1901_atith_gosain.tsv"), delimiter="\t")
         pts.append(("dasnami", "Bengal", r["district"], num(r["atith_total"]), "Bengal 1901 Atith"))
 for r in csv.DictReader(open(R + "cp1891_castes.tsv"), delimiter="\t"):
     if r["sex"] == "persons" and not r["district_or_state"].startswith("TOTAL"):
-        pts.append(("dasnami", "CP", r["district_or_state"], num(r["gosain"]) + num(r["sanyasi"]) + num(r["dandigan"]) + num(r["dandi"]),
+        nm = "Patna State" if (r["section"] == "Feudatory" and r["district_or_state"] == "Patna") else r["district_or_state"]  # Bolangir, not Patna in Bihar
+        pts.append(("dasnami", "CP", nm, num(r["gosain"]) + num(r["sanyasi"]) + num(r["dandigan"]) + num(r["dandi"]),
                     "CP 1891 Gosain+Sanyasi+Dandi"))
 for r in csv.DictReader(open(R + "punjab1891_castes.tsv"), delimiter="\t"):
     if not r["district"].startswith("TOTAL"):

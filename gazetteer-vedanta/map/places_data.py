@@ -247,6 +247,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Rairakhol", "", "Rairakhol", "Sambalpur", "Odisha", 21.07, 84.38, "Feudatory state."),
     ("Sonpur", "", "Subarnapur (Sonepur)", "Subarnapur", "Odisha", 20.84, 83.92, "Feudatory state."),
     ("Kalahandi", "", "Kalahandi", "Kalahandi", "Odisha", 19.91, 83.17, "Feudatory state."),
+    ("Patna State", "Patna; Bolangir; Balangir", "Balangir (Bolangir)", "Balangir", "Odisha", 20.71, 83.49, "Feudatory state, capital Bolangir; not Patna in Bihar."),
     ("Makrai", "", "Makrai (Harda)", "Harda", "Madhya Pradesh", 22.07, 77.10, "Feudatory state."),
     ("Akola", "", "Akola", "Akola; Washim", "Maharashtra", 20.70, 77.00, "Berar: village priests 'more frequently Gosains than Brahmans'; a Brahman 'shankaracharya' office at Basim."),
     ("Amraoti", "Amravati", "Amravati", "Amravati", "Maharashtra", 20.93, 77.75, "Berar."),
@@ -472,7 +473,8 @@ def _census_lines():
     for r in csv.DictReader(open(R + "cp1891_castes.tsv", encoding="utf-8"), delimiter="\t"):
         if r["sex"] != "persons" or r["district_or_state"].startswith("TOTAL"): continue
         sd = n(r['sanyasi']) + n(r['dandigan']) + n(r['dandi'])
-        out[r["district_or_state"]] = (f"Census 1891: Gosain {f(n(r['gosain']))}" + (f"; Sanyāsī and Daṇḍī {f(sd)}" if sd else "") +
+        nm = "Patna State" if (r["section"] == "Feudatory" and r["district_or_state"] == "Patna") else r["district_or_state"]
+        out[nm] = (f"Census 1891: Gosain {f(n(r['gosain']))}" + (f"; Sanyāsī and Daṇḍī {f(sd)}" if sd else "") +
                                        f"; Bairāgī {f(n(r['bairagi']))}. Jogī {f(n(r['jogi']))} and Nāth {f(n(r['nath']))} (mostly a caste, not compared).")
     for r in csv.DictReader(open(R + "madras1891_tamil_smarta_vs_aiyangar.tsv", encoding="utf-8"), delimiter="\t"):
         if r["district"].startswith(("#", "Division")): continue
