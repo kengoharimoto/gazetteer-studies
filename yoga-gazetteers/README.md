@@ -59,11 +59,6 @@ revised Rajasthan, Baluchistan).
     OCR "Jopi").
   - Rose's *Glossary* (1911; P01009) has two classes: "the Jogis proper, a regular religious order", and low-caste
     Jogis who are rascally beggars.
-- **When the census counted people, the word blurred.** Gait: "Yogi or Jogi is a word of much greater ambiguity …
-  used in a very wide sense of any ascetic" (Bengal 1901, para. 787). The NWP census of 1891: "the words Goshain, Bairagi, Jogi, Saniyasi
-  were apparently used by a considerable proportion of the enumerators as interchangeable". The census filed Jogis under
-  "Faqir" (at least eight UP district gazetteers of 1903–11; Punjab 1891 "Jogi & Rawal"), merged them with "Nath"
-  (Rajputana 1931), and lists "Sanyasis, Vairagis, Jogis, Atits or Gosais" together (Cutch, 1880).
 - **Yoga as practice** is rare and means meditation or trance: Dayānanda's yoga vidyā (UP07 1911; RUS1 1916), the
   Bairāgī's yoga-daṇḍa (Thurston 1909), prāṇāyāma in the Brahman sandhyā (Thurston 1909), the Radhasoami "practice
   of yoga according to the modified forms taught by the gurus" (Bombay Census 1901). No colonial passage treats
@@ -102,6 +97,13 @@ of the two depends far more on the region than on the date.
   | Madras | Telugu Jogis: snake-catchers, pig-keepers, mendicants; Malabar’s Yogi Gurukkals: exorcists and schoolmasters | "people who catch snakes, and keep pigs, and practise mendicancy" (Salem 1883, P00351; Thurston 1909, P00406) |
   | Bombay | Wandering singers and beggars, in many sub-divisions (Ker-, Kindri-, Mendar-jogi …) | "Jogerus or Jogis, originally Yogis that is meditators, a class of singing beggars" (Dharwar 1884, P00312) |
 
+- **The census headings blurred this.** Gait: "Yogi or Jogi is a word of much greater ambiguity … used in a very
+  wide sense of any ascetic" (Bengal 1901, para. 787). The NWP census of 1891: "the words Goshain, Bairagi, Jogi,
+  Saniyasi were apparently used by a considerable proportion of the enumerators as interchangeable". The census
+  filed Jogis under "Faqir" (at least eight UP district gazetteers of 1903–11; Punjab 1891 "Jogi & Rawal"), merged
+  them with "Nath" (Rajputana 1931), and lists "Sanyasis, Vairagis, Jogis, Atits or Gosais" together (Cutch, 1880).
+  Yet Gait, in the same report (para. 787), says that "used more precisely" the word "indicates a low class of
+  people who make silk thread". The headings put Jogis among the ascetics; the descriptions mostly show a caste.
 - **Muslim Jogis.** In the Punjab census of 1891, 36,718 of the 75,469 under "Jogi & Rawal" were Musalmān; the
   glossaries describe Muhammadan Jogis (Rawals).
 - **Bengal and Assam:** a **weaving caste** (Hunter 1875–77, ten districts; Bengal District Gazetteers 1909–12);
@@ -193,7 +195,7 @@ travel books or the armed ascetic turns up under these words. Judgement was code
   Akbar" (Allahabad 1911). The one detailed account of feats is Adams on Dādūpanthī sādhus, "never requiring to sleep
   in the recumbent position, others being able to withstand all weathers without clothes, lie on sharp points"
   (Western Rajputana States, 1899), a medical officer's neutral observation.
-- **"Fakir" was not a Muslim word**, so filing Jogis under "Faqir" (section 1) classed them as mendicants. Where a religion is stated, Hindu or Sikh ascetics are 29% of "fakir" passages in
+- **"Fakir" was not a Muslim word**, so filing Jogis under "Faqir" (section 2) classed them as mendicants. Where a religion is stated, Hindu or Sikh ascetics are 29% of "fakir" passages in
   1866–1890 (41 against 99 Muslim) and 24% in 1891–1935 (92 against 297): "the caste of faqirs called Sattnami" (Oudh
   1877), the Udāsī "fakirs" of Guru Ram Rai (Dehra Dun 1911). Half of the colonial "fakir" passages name no
   religion. "Sādhu" is rare
