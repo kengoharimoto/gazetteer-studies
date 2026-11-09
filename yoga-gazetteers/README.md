@@ -271,6 +271,12 @@ covered only through the census, in `census/`).
    - writes `results/sense_by_gen.tsv` and `results/tags_by_gen.tsv`.
 6. Check: 20 randomly drawn coded passages were reread against the text, and all 20 codes were acceptable.
 
+**Totals across the three rounds** (with the regional supplement): 4,077 passages coded; 3,996 after duplicate
+scans and repeats are dropped; 3,101 relevant (951 on yoga, yogis and Jogis, of them 737 colonial; 1,267 on fakirs
+and sādhus; 883 on the ascetic orders). "Relevant" leaves out the codes NAME, JUNK, OTHER, ASTRO and PRACTICE_OTHER.
+An earlier total, 3,613, mixed these definitions (all round-one passages, relevant ones for the other rounds, plus all
+55 Baluchistan passages) and was dropped on 2026-11-09.
+
 Passage ids (P00001…) refer to `data/passages.tsv` and `results/coded_all.tsv`, where the full context, volume and
 year are given. Page numbers are given where the OCR shows a folio.
 
