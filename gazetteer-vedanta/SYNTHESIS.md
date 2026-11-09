@@ -75,20 +75,23 @@ allegiance to a seat).
 ## Evidence 3: how many — census numbers and rivals
 
 No census measured allegiance to a seat. The censuses counted the ascetic orders, often in one table (read from
-page images, reconciled with printed totals; `census-images/`).
+page images, reconciled with printed totals; `census-images/`). The table compares the Daśanāmīs only with
+orders of the same kind: renunciants with married, landholding offshoots.
 
-| Census | Daśanāmī | Rival orders in the same table |
+| Census | Daśanāmī | Comparable orders in the same table |
 |---|---|---|
-| NWP and Oudh 1891 | 103,320 | Jogī 78,387; Bairāgī 31,979 |
-| Punjab 1891 (British Territory) | Gosain 9,903; Sanniasi 5,163 | "Jogi & Rawal" 75,469 (36,718 Muslim); Bairāgī 34,102; Udāsī 9,459 |
-| Central Provinces 1891 | Gosain 24,796 | Bairāgī 29,298; Jogī 6,094; Nāth 5,008 |
+| NWP and Oudh 1891 | 103,320 | Bairāgī 31,979 |
+| Punjab 1891 (British Territory) | Gosain 9,903; Sanniasi 5,163 | Bairāgī 34,102; Udāsī 9,459 |
+| Central Provinces 1891 | Gosain 24,796; Sanyāsī 2,449; Daṇḍī 537 | Bairāgī 29,298 |
 | Bengal 1901 | Atīth 50,042 | "Gosain" 29,534, mixed, largely Vaiṣṇava |
 | Tamil Madras 1891 | Smārta 47.6% of Brahmans | Aiyaṅgār 22.7% |
 
-- The Bairāgīs outnumber the Daśanāmīs in the Punjab and the CP. In the whole Punjab province the Udāsīs (15,194)
+- The Bairāgīs outnumber the Daśanāmīs in the Punjab and the CP; only in the NWP and Oudh are the Daśanāmīs ahead,
+  by about three to one. In the whole Punjab province the Udāsīs (15,194)
   exceed the Gosains (13,344).
-- "Jogī" is the largest heading in the north but not a body of Nāth ascetics: about half Muslim in the Punjab, and in
-  the UP described more often as a householder caste (`../yoga-gazetteers/`).
+- The census "Jogī" is left out. It is the largest heading in the north, but mostly a householder caste, not the Nāth
+  order: about half Muslim in the Punjab, and in the UP described more often as a caste (`../yoga-gazetteers/`). The
+  Nāth order cannot be separated from it.
 - The headings are loose and include householders on both sides: "Goshain, Bairagi, Jogi, Saniyasi" were used
   interchangeably (NWP 1891); Azamgarh's 1881 Gosāins and Atīths appear as Jogīs in 1891.
 - The Tamil 48% counts the sub-castes Thurston lists as Smārta; the census row "Smarta" has only 7,021.

@@ -22,7 +22,7 @@ not dominant**. These tables give the numbers behind it.
   - the Daśanāmīs are densest in eastern UP and Bihar (NWP 103,320 in 1891; Bengal Atīths 50,042 in 1901);
   - Smārtas are 48% of Tamil Brahmans (1891).
 - **Where it was a minority:**
-  - Jogīs (91,937) and Bairāgīs (47,561) far outnumber the Gosains and Sanniasis in the Punjab;
+  - Bairāgīs outnumber the Gosains and Sanniasis in the Punjab (34,102 against 15,066, British Territory);
   - Bairāgīs outnumber the Gosāins in the Central Provinces;
   - Bengal proper and Calcutta return almost no Sannyāsīs.
 - **The one presidency-wide Smārta figure** (Bombay 1901, "Shaiv or Smart" nearly 3,000,000) is a broad sect label,
@@ -81,7 +81,8 @@ not dominant**. These tables give the numbers behind it.
    - Gosain 9,903 (British territory): 91% in the Delhi division, Kangra and Simla (Hissar 2,318, Kangra
      1,912, Karnal 1,843).
    - Sanniasi 5,163, in a different belt: central Punjab (Hoshiarpur 825, Jalandhar 570, Amritsar 435).
-   - Both are dwarfed by Jogi & Rawal (75,469) and Bairagi (34,102).
+   - Both together are outnumbered by the Bairagis (34,102). The larger Jogi & Rawal heading (75,469) is mostly a
+     caste, not an order (see "Rival orders" below).
    - The sect table has almost no Śaṅkara labels: Smartak 123, Vedanti 232, Shankar Acharj 15.
 5. **Central Provinces 1891.**
    - Gosain 24,796, sub-divided Giri 9,333, Puri 6,050, Bharthi 1,412.
@@ -101,20 +102,22 @@ not dominant**. These tables give the numbers behind it.
 The tables read for the Daśanāmīs also count their rivals. All figures below are persons, recomputed from the TSVs
 in `results/`. The synthesis's "Evidence 3: how many" uses them.
 
-| province, census | Daśanāmī / Gosāin | rival orders in the same table |
+| province, census | Daśanāmī / Gosāin | comparable orders in the same table |
 |---|---|---|
-| NWP and Oudh, 1891 | Goshain–Dasnami 103,320 (plus 38,477 "unspecified" Goshains) | Jogī 78,387; Bairāgī 31,979; named Vaiṣṇava Goshains only 752 (Gauriya 432, Radhavallabhi 252, Brindabani 38, Gokulastha 30) |
-| Punjab, 1891 (whole province) | Gosain 13,344; Sanniasi 9,799 | Jogī-Rawal 91,937; Bairāgī 47,561; Udāsī 15,194 (all Faqirs 315,305) |
-| Central Provinces, 1891 (British districts) | Gosain 24,796; Sanyasi 2,449 | Bairāgī 29,298 (Ramanandi 7,731, Kabirpanthi 399); Jogī 6,094; Nāth 5,008; Aghori 36. Feudatory States: Bairāgī 6,712 against Gosain 1,038 |
+| NWP and Oudh, 1891 | Goshain–Dasnami 103,320 (plus 38,477 "unspecified" Goshains) | Bairāgī 31,979; named Vaiṣṇava Goshains only 752 (Gauriya 432, Radhavallabhi 252, Brindabani 38, Gokulastha 30) |
+| Punjab, 1891 (whole province) | Gosain 13,344; Sanniasi 9,799 | Bairāgī 47,561; Udāsī 15,194 (all Faqirs 315,305) |
+| Central Provinces, 1891 (British districts) | Gosain 24,796; Sanyasi 2,449; Dandigan 536; Dandi 1 | Bairāgī 29,298 (Ramanandi 7,731, Kabirpanthi 399); Aghori 36. Feudatory States: Bairāgī 6,712 against Gosain 1,038 |
 | Bengal, 1901 | Atīth 50,042 | "Gosain" 29,534: a mixed column, over half in Chota Nagpur, largely Vaiṣṇava gurus |
 | Madras Tamil division, 1891 | Smārta Brahman sub-castes 201,787 (47.6% of Brahmans) | Aiyaṅgār (Śrīvaiṣṇava) 96,127 (22.7%); Mādhva 2,650 |
 
+Not compared, though in the same tables: the Jogī headings (NWP Jogī 78,387; Punjab Jogī-Rawal 91,937, whole
+province; CP Jogī 6,094 and Nāth 5,008).
+
 What this shows:
-- **"Jogī" is the largest of these headings in the north, but it is not a body of Nāth ascetics.** In the Punjab
-  the heading is "Jogi & Rawal": 36,718 of its 75,469 (British Territory) were Musalmán. Hindu Jogīs (38,530)
-  outnumber Hindu Gosains and Sanniasis (14,254) about 2.7 to 1. The whole heading against Gosain and Sanniasi is
-  about 4 to 1. In the NWP the Jogīs come close to the Daśanāmīs, but the district gazetteers describe them more often
-  as a householder caste than as ascetics (`../../yoga-gazetteers/README.md`).
+- **The Jogī headings are left out because they are not a body of Nāth ascetics.** In the Punjab the heading is
+  "Jogi & Rawal": 36,718 of its 75,469 (British Territory) were Musalmán. In the NWP the district gazetteers describe
+  Jogīs more often as a householder caste than as ascetics (`../../yoga-gazetteers/README.md`). The Nāth order cannot be
+  separated from the caste in these tables, so the Daśanāmīs are compared only with the Bairāgīs and Udāsīs.
 - **The Bairāgīs are about a third of the Daśanāmīs in the NWP, and outnumber them in the Punjab and the CP.** In
   the CP Feudatory States they lead by more than six to one.
 - **The Udāsīs exceed the Gosāins in the Punjab.**

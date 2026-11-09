@@ -67,9 +67,10 @@ The synthesis presents five kinds of evidence:
 | 5. Change | three dates: 1866–1890, 1900–1918, 1954–1989 | regional reports; `revised/README.md` |
 
 Two cautions carried through the study:
-- **Census headings are not followings.** "Jogī" is the largest heading in the north, but it is not a body of Nāth
-  ascetics: in the Punjab "Jogī & Rawal" was about half Muslim (36,718 of 75,469 in British Territory, 1891), and in
-  the UP the gazetteers describe Jogīs more often as a householder caste (`../yoga-gazetteers/`). The headings
+- **Census headings are not followings.** The census "Jogī" is left out of every comparison of orders. It is the
+  largest heading in the north, but mostly a householder caste, not the Nāth order: in the Punjab "Jogī & Rawal" was
+  about half Muslim (36,718 of 75,469 in British Territory, 1891), and in the UP the gazetteers describe Jogīs more
+  often as a caste (`../yoga-gazetteers/`). The Daśanāmīs are compared only with the Bairāgīs and Udāsīs. The headings
   include householders on both sides, and enumerators used "Goshain, Bairagi, Jogi, Saniyasi" interchangeably (NWP
   1891).
 - **Rival houses were as rich or richer** where both are described (Tiruvāvaḍuturai Rs 2 lakhs a year against
