@@ -71,7 +71,7 @@ When a gazetteer speaks of living Jogis it means one of two kinds of people: mos
 in rank, doing ordinary work), otherwise an **ascetic**, usually of the Nāth or Kānphaṭa order of Gorakhnāth. Which
 of the two depends far more on the region than on the date.
 
-- **Four kinds.** Each passage that uses *Jogi* or *Jugi* (607) is sorted by what it says the Jogi was:
+- **Four kinds.** Each passage that uses *Jogi* or *Jugi* (606) is sorted by what it says the Jogi was:
   *caste* (birth, rank, occupation), *ascetic* (initiation, ear-rings, monasteries, temple service), *saint or shrine*
   (one holy man, living or legendary, or his shrine and fair), *beggar or performer* (wandering singers,
   snake-catchers, mendicants not tied to an order). Passages that speak of Gorakhnāth or the Kānphaṭas without calling
@@ -113,7 +113,7 @@ of the two depends far more on the region than on the date.
 ### 3. Change: after 1900
 
 - **Within the colonial period the kinds of Jogi change little:** caste 52%, ascetic 31%, saint 7%, beggar 9% in
-  1866–1890 (246 passages); 33/44/13/10% in 1891–1935 (325); 50/33/6/11% in 1954–1989 (36). The rise of "ascetic"
+  1866–1890 (246 passages); 33/44/13/10% in 1891–1935 (325); 51/34/6/9% in 1954–1989 (35). The rise of "ascetic"
   after 1891 comes largely from Rose's Punjab glossary.
 - **The Jugi campaign** (`census/README.md`): the thread and Brahman-descent legends (Risley 1891); objection to the
   spelling "Jugi", popularly derived from "Jungi" (Gait, Bengal 1901); "Most Jugis call themselves Nath" (BG17 1910,
@@ -203,7 +203,7 @@ ascetic turns up under these words. Judgement was coded from the writer's own wo
 - **"Fakir" was not a Muslim word**, so filing Jogis under "Faqir" (section 2) classed them as mendicants. Where a
   religion is stated, Hindu or Sikh ascetics are 29% of "fakir" passages in 1866–1890 (41 against 99 Muslim) and 24%
   in 1891–1935 (92 against 297): "the caste of faqirs called Sattnami" (Oudh 1877), the Udāsī "fakirs" of Guru Ram
-  Rai (Dehra Dun 1911). Half of the colonial "fakir" passages name no religion. "Sādhu" is rare before independence
+  Rai (Dehra Dun 1911). More than two-fifths of the colonial "fakir" passages (427 of 987) name no religion. "Sādhu" is rare before independence
   (113 colonial passages against 987 for "fakir"), except in Rajputana, where the census treats "the ascetic caste
   of Sadhus" as a caste (1911). After 1954 "sādhu" replaces "fakir" for Hindu ascetics.
 - **The orders are seldom connected with yoga:** 45 of 883 passages, almost always through census classification (section 2)
@@ -276,6 +276,11 @@ scans and repeats are dropped; 3,101 relevant (951 on yoga, yogis and Jogis, of 
 and sādhus; 883 on the ascetic orders). "Relevant" leaves out the codes NAME, JUNK, OTHER, ASTRO and PRACTICE_OTHER.
 An earlier total, 3,613, mixed these definitions (all round-one passages, relevant ones for the other rounds, plus all
 55 Baluchistan passages) and was dropped on 2026-11-09.
+
+**The Jogi passages (section 2)** are the kind-coded passages (caste, ascetic, saint or shrine, beggar or performer)
+whose matched terms include Jogi or Jugi but no Yogi spelling, leaving out passages copied from earlier volumes
+(`copy_of`): 606 (246, 325 and 35 by period). The Yogi counts in section 1 (46 colonial passages, 25 of the past)
+were made by hand and are not reproduced by this rule.
 
 Passage ids (P00001…) refer to `data/passages.tsv` and `results/coded_all.tsv`, where the full context, volume and
 year are given. Page numbers are given where the OCR shows a folio.
