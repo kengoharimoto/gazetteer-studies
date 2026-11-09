@@ -24,10 +24,9 @@ revised Rajasthan, Baluchistan).
    Jogis who had nothing to do with it.
 2. **Who the Jogi was depended on the region.** In the east, the south and the Gangetic plain he was a member of a
    caste, low in rank and doing ordinary work: weaving, farming, catching snakes. In the Punjab he was an ascetic of
-   the Nāth order. In Bombay he was often a wandering singer or beggar.
-3. **The officials wrote about him plainly.** They seldom describe ascetic feats or yogic practice, and seldom show
-   contempt (27 of 737 colonial passages are negative). The Jogi was an entry in a list of castes, not a curiosity.
-4. **The change came after 1900.** Within the colonial period the picture changed little. Then the Jugi weavers of
+   the Nāth order. In Bombay he was often a wandering singer or beggar. Where he was a caste, the officials
+   recorded him as they recorded any other caste: by rank and trade.
+3. **The change came after 1900.** Within the colonial period the picture changed little. Then the Jugi weavers of
    Bengal and Assam claimed the names Jogi and Yogi (1901–1931). After independence the revised gazetteers seldom
    mention Jogis, and they treat yoga with respect: as philosophy, through Vivekananda, and from the 1950s as
    exercise.
@@ -60,6 +59,11 @@ revised Rajasthan, Baluchistan).
     OCR "Jopi").
   - Rose's *Glossary* (1911; P01009) has two classes: "the Jogis proper, a regular religious order", and low-caste
     Jogis who are rascally beggars.
+- **When the census counted people, the word blurred.** Gait: "Yogi or Jogi is a word of much greater ambiguity …
+  used in a very wide sense of any ascetic" (Bengal 1901, para. 787). The NWP census of 1891: "the words Goshain, Bairagi, Jogi, Saniyasi
+  were apparently used by a considerable proportion of the enumerators as interchangeable". The census filed Jogis under
+  "Faqir" (at least eight UP district gazetteers of 1903–11; Punjab 1891 "Jogi & Rawal"), merged them with "Nath"
+  (Rajputana 1931), and lists "Sanyasis, Vairagis, Jogis, Atits or Gosais" together (Cutch, 1880).
 - **Yoga as practice** is rare and means meditation or trance: Dayānanda's yoga vidyā (UP07 1911; RUS1 1916), the
   Bairāgī's yoga-daṇḍa (Thurston 1909), prāṇāyāma in the Brahman sandhyā (Thurston 1909), the Radhasoami "practice
   of yoga according to the modified forms taught by the gurus" (Bombay Census 1901). No colonial passage treats
@@ -101,60 +105,10 @@ of the two depends far more on the region than on the date.
 - **Muslim Jogis.** In the Punjab census of 1891, 36,718 of the 75,469 under "Jogi & Rawal" were Musalmān; the
   glossaries describe Muhammadan Jogis (Rawals).
 - **Bengal and Assam:** a **weaving caste** (Hunter 1875–77, ten districts; Bengal District Gazetteers 1909–12);
-  see section 4. Malabar's "Yogi Gurukkals" are a low but learned caste of exorcists and schoolmasters (Thurston
+  see section 3. Malabar's "Yogi Gurukkals" are a low but learned caste of exorcists and schoolmasters (Thurston
   1909; P00406).
 
-### 3. Judgement: how the officials wrote about him
-
-Judgement was coded from the writer's own wording. Besides the Jogi passages, round two coded 1,508 "fakir/faqir"
-and "sādhu" passages (1,267 relevant; `results/fakir_coded_all.tsv`) and round three 1,074 sannyāsī, gosāīn and
-bairāgī passages (883 relevant; `results/order_coded_all.tsv`), to see whether contempt, or the spectacle-ascetic of
-the travel books, turns up under these words instead.
-- **Contempt in the Jogi passages** is rare:
-  - Neutral in 94% of colonial passages on yoga, yogis and Jogis; negative in 27 of 737. These come from:
-    - the **criminal-caste and vagrancy literature**: Thurston on the Telugu Jogis (1909), the CP gazetteers (1907,
-      1909), the Etah police circle (1911);
-    - **Rose's Punjab glossary** (1911–19), on the Rawals and Muhammadan Jogis;
-    - comments on **Nāth institutions**, such as Tilla, "not a very estimable body" (1883; P01112);
-    - **L. D. Barnett**: "the Yoga system in its practical side is largely based upon vulgar ideas of magic and
-      Shamanism, and hence many of its professors have always been vulgar charlatans" (Damoh 1911; P00166), copied
-      unchanged into the revised Amravati gazetteer of 1968 (P01260).
-  - The only positive colonial passage on a Jogi caste is Noakhali's "well educated and enterprising race" (1911;
-    P00016). The other positive colonial passages concern Gorakhnāth as a learned author, respected Kānphaṭa hermits
-    and ancient yogis of the caves.
-- **The other words for ascetics are just as neutral:** negative in 5% of fakir and sādhu passages (66) and 3% of order
-  passages (29). The order passages' negatives concern money-lending, lapsed celibacy, the Vallabha Gosains' authority and the
-  historical raiders.
-- The district record is plain, not hostile: it counts the Jogi, ranks him, and notes his trade.
-- **Practice is rarely described:** 5% of fakir and sādhu passages (58), 10% of order passages (92). Most are Sufi
-  exercises recorded by the glossaries (dhikr, the forty-day chilla, ecstatic ḥāl, self-wounding for alms; Russell &
-  Hira Lal 1916, Rose 1919) or saints' legends (twelve years in the Chenab, fifty-one years on a sandhill). The
-  spectacle-ascetic is nearly absent: one bed of thorns (Thurston 1909), hook-swinging only as a practice "stopped by
-  Akbar" (Allahabad 1911). The one detailed account of feats is Adams on Dādūpanthī sādhus, "never requiring to sleep
-  in the recumbent position, others being able to withstand all weathers without clothes, lie on sharp points"
-  (Western Rajputana States, 1899), a medical officer's neutral observation.
-- **In the census the Jogi was a mendicant.** Gait: "Yogi or Jogi is a word of much greater ambiguity …
-  used in a very wide sense of any ascetic" (Bengal 1901, para. 787). The NWP census of 1891: "the words Goshain, Bairagi, Jogi, Saniyasi
-  were apparently used by a considerable proportion of the enumerators as interchangeable". The census filed Jogis under
-  "Faqir" (at least eight UP district gazetteers of 1903–11; Punjab 1891 "Jogi & Rawal"), merged them with "Nath"
-  (Rajputana 1931), and lists "Sanyasis, Vairagis, Jogis, Atits or Gosais" together (Cutch, 1880).
-- **"Fakir" was not a Muslim word.** Where a religion is stated, Hindu or Sikh ascetics are 29% of "fakir" passages in
-  1866–1890 (41 against 99 Muslim) and 24% in 1891–1935 (92 against 297): "the caste of faqirs called Sattnami" (Oudh
-  1877), the Udāsī "fakirs" of Guru Ram Rai (Dehra Dun 1911). Half of the colonial "fakir" passages name no
-  religion. To file a Jogi under "Faqir" was to class him as a mendicant, not as a showman. "Sādhu" is rare
-  before independence (113 colonial passages against 987 for "fakir"), except in Rajputana, where the census treats "the ascetic caste of Sadhus" as a caste (1911). After 1954 "sādhu" replaces "fakir" for Hindu
-  ascetics.
-- **The orders are seldom connected with yoga:** 45 of 883 passages, almost always through classification (above)
-  or shared seated burial ("Gosains and Jogis are buried sitting up in salt; and used to be so buried alive before
-  our rule", Karnal 1919). Only three link an order to yoga as practice: the Dandis' "Yoga practices as preached by
-  Patanjali" (Bombay 1901), the Bairāgī's yoga-daṇḍa (Thurston 1909), Dayānanda (UP 1911).
-- **The orders appear as institutions and estates.** In 1891–1935 a fifth of order passages describe married
-  householders (Gosain and Bairāgī zamindars, money-lenders, Atīth castes), who "have fallen away from the ideas of
-  self-sacrifice and poverty in which the orders originated" (Bilaspur 1910). Armed ascetics appear in 72 order passages in the past tense and 2 in the
-  present: the Hardwar battles of 1760 and 1796, the Sannyāsī raids in Bengal in the 1780s, "Formerly Gosavis took
-  service as soldiers" (Satara 1885).
-
-### 4. Change: after 1900
+### 3. Change: after 1900
 
 - **Within the colonial period the kinds of Jogi change little:** caste 52%, ascetic 31%, saint 7%, beggar 9% in 1866–1890 (246 passages);
   33/44/13/10% in 1891–1935 (325); 50/33/6/11% in 1954–1989 (36). The rise of "ascetic" after 1891 comes largely
@@ -180,11 +134,13 @@ the travel books, turns up under these words instead.
   "Hath-yogi: a person following Yoga as a means of physical cultures" (1968). The many "physical culture" clubs in
   these volumes are gymnasia, not yoga.
 
-## What this adds to the history of modern yoga
+## The gazetteers and the history of modern yoga
 
 Historians describe a split in the colonial period: a respectable yoga rebuilt from Patañjali's text (De Michelis
 2004; White 2014) and a living yogi lumped with the fakir and despised (Singleton 2010, ch. 2–3). Their evidence is
-mainly travel writing, missionary tracts and the reformers' own books. The officials' records agree in part:
+mainly travel writing, missionary tracts and the reformers' own books. Others see the living yogi differently: a
+sinister figure of power long before colonial rule (White 2009), a soldier disarmed by the Company (Pinch 2006), a
+caste of weavers in Bengal (Ondračka 2022; Bordeaux 2022). The officials' records agree in part:
 - **Respectable yoga was Patañjali's** (De Michelis; White 2014): agrees; the officials draw the line themselves,
   between Yoga and Jogi.
 - **The living yogi was a despised fakir and showman** (Singleton; White 2009): partly; Jogis were filed with fakirs
@@ -197,6 +153,50 @@ mainly travel writing, missionary tracts and the reformers' own books. The offic
   1901, Assam tabulated "Yogi" in 1921, and the 1931 Brahman claim was the priests'.
 
 No published study has used these sources systematically on this question; Briggs (1938) comes closest.
+
+### Evidence for the contempt, showman and soldier claims
+
+To test these claims beyond the Jogi passages, round two coded 1,508 "fakir/faqir"
+and "sādhu" passages (1,267 relevant; `results/fakir_coded_all.tsv`) and round three 1,074 sannyāsī, gosāīn and
+bairāgī passages (883 relevant; `results/order_coded_all.tsv`), to see whether contempt, the spectacle-ascetic of the
+travel books or the armed ascetic turns up under these words. Judgement was coded from the writer's own wording.
+- **Contempt** is rare in the Jogi passages:
+  - Neutral in 94% of colonial passages on yoga, yogis and Jogis; negative in 27 of 737. These come from:
+    - the **criminal-caste and vagrancy literature**: Thurston on the Telugu Jogis (1909), the CP gazetteers (1907,
+      1909), the Etah police circle (1911);
+    - **Rose's Punjab glossary** (1911–19), on the Rawals and Muhammadan Jogis;
+    - comments on **Nāth institutions**, such as Tilla, "not a very estimable body" (1883; P01112);
+    - **L. D. Barnett**: "the Yoga system in its practical side is largely based upon vulgar ideas of magic and
+      Shamanism, and hence many of its professors have always been vulgar charlatans" (Damoh 1911; P00166), copied
+      unchanged into the revised Amravati gazetteer of 1968 (P01260).
+  - The only positive colonial passage on a Jogi caste is Noakhali's "well educated and enterprising race" (1911;
+    P00016). The other positive colonial passages concern Gorakhnāth as a learned author, respected Kānphaṭa hermits
+    and ancient yogis of the caves.
+- **Contempt under the other words is as rare:** negative in 5% of fakir and sādhu passages (66) and 3% of order
+  passages (29). The order passages' negatives concern money-lending, lapsed celibacy, the Vallabha Gosains' authority and the
+  historical raiders.
+- **The showman: practice is rarely described.** 5% of fakir and sādhu passages (58), 10% of order passages (92). Most are Sufi
+  exercises recorded by the glossaries (dhikr, the forty-day chilla, ecstatic ḥāl, self-wounding for alms; Russell &
+  Hira Lal 1916, Rose 1919) or saints' legends (twelve years in the Chenab, fifty-one years on a sandhill). The
+  spectacle-ascetic is nearly absent: one bed of thorns (Thurston 1909), hook-swinging only as a practice "stopped by
+  Akbar" (Allahabad 1911). The one detailed account of feats is Adams on Dādūpanthī sādhus, "never requiring to sleep
+  in the recumbent position, others being able to withstand all weathers without clothes, lie on sharp points"
+  (Western Rajputana States, 1899), a medical officer's neutral observation.
+- **"Fakir" was not a Muslim word**, so filing Jogis under "Faqir" (section 1) classed them as mendicants. Where a religion is stated, Hindu or Sikh ascetics are 29% of "fakir" passages in
+  1866–1890 (41 against 99 Muslim) and 24% in 1891–1935 (92 against 297): "the caste of faqirs called Sattnami" (Oudh
+  1877), the Udāsī "fakirs" of Guru Ram Rai (Dehra Dun 1911). Half of the colonial "fakir" passages name no
+  religion. "Sādhu" is rare
+  before independence (113 colonial passages against 987 for "fakir"), except in Rajputana, where the census treats "the ascetic caste of Sadhus" as a caste (1911). After 1954 "sādhu" replaces "fakir" for Hindu
+  ascetics.
+- **The orders are seldom connected with yoga:** 45 of 883 passages, almost always through classification (above)
+  or shared seated burial ("Gosains and Jogis are buried sitting up in salt; and used to be so buried alive before
+  our rule", Karnal 1919). Only three link an order to yoga as practice: the Dandis' "Yoga practices as preached by
+  Patanjali" (Bombay 1901), the Bairāgī's yoga-daṇḍa (Thurston 1909), Dayānanda (UP 1911).
+- **The orders appear as institutions and estates.** In 1891–1935 a fifth of order passages describe married
+  householders (Gosain and Bairāgī zamindars, money-lenders, Atīth castes), who "have fallen away from the ideas of
+  self-sacrifice and poverty in which the orders originated" (Bilaspur 1910). **The soldier:** armed ascetics appear in 72 order passages in the past tense and 2 in the
+  present: the Hardwar battles of 1760 and 1796, the Sannyāsī raids in Bengal in the 1780s, "Formerly Gosavis took
+  service as soldiers" (Satara 1885).
 
 ## Corpus
 
