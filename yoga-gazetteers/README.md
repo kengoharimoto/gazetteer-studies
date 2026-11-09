@@ -79,17 +79,27 @@ respectable "yoga" holds, with four refinements:
 
 ### 2. Who the Jogi was
 
-- **By period** (passages on Jogis only): caste 50%, ascetic order 31%, saint 11%, beggar 9% in 1866–1890 (266
-  passages); caste 30%, order 42%, saint 19%, beggar 9% in 1891–1935 (356); caste 40%, order 28%, saint 22%, beggar
-  10% in 1954–1989 (50). The rise of "order" after 1891 comes largely from Rose's Punjab glossary.
-- **By region** (1866–1935): mainly a **caste** in Bengal (32 of 43), Madras (22 of 28), the CP (21 of 35) and the
-  UP (103 of 201); mainly a **Nāth ascetic or saint** in the Punjab (161 of 194) and in Mysore and Kanara; as often a
-  **beggar or performer** as anything else in Bombay (21 of 77). Rajputana: Kānphaṭa temple priests at Pushkar,
-  officiants at Bhil death rites, a low burying caste, a "wandering tribe" blamed for smallpox (Adams 1899).
+When a gazetteer speaks of living Jogis it means one of two kinds of people: most often a **caste** (born into, low
+in rank, doing ordinary work), otherwise an **ascetic**, usually of the Nāth or Kānphaṭa order of Gorakhnāth. Which
+of the two depends far more on the region than on the date.
+
+- **Four kinds.** Each passage that uses *Jogi*, *Jugi* or *Kānphaṭa* (615) is sorted by what it says the Jogi was:
+  *caste* (birth, rank, occupation), *ascetic* (initiation, ear-rings, monasteries, temple service), *saint or shrine*
+  (one holy man, living or legendary, or his shrine and fair), *beggar or performer* (wandering singers,
+  snake-catchers, mendicants not tied to an order). Passages that name only Gorakhnāth (54, mostly legends about the
+  saint himself) are not counted: they would inflate "saint".
+- **By region, 1866–1935** (passages: caste / ascetic / saint / beggar): mostly **caste** in Madras (22/2/0/4),
+  Bengal (32/8/1/1), the CP (21/7/4/3) and the UP (102/58/16/8); **caste or beggar** in Bombay and Sind (25/19/3/21);
+  **caste or ascetic** in Rajputana (13/15/1/1); mostly **ascetic** in the Punjab (20/105/38/13; largely Rose's
+  glossary, 1911–19) and Mysore and Kanara (1/8/0/4). Passages, not persons. Rajputana: Kānphaṭa temple priests at
+  Pushkar, officiants at Bhil death rites, a low burying caste, a "wandering tribe" blamed for smallpox (Adams 1899).
   Baluchistan (1906–08): snake-catching Jogis "begging from village to village" in a Brahui ballad (Jhalawan;
   PR00198), and the shrine in Quetta fort of Pani Nath, "a Hindu Yogi" and disciple of Gorakhnāth, buried alive after
   forty years' contemplation, with a Shivratri fair since 1892 (Quetta-Pishin; PR00202). The Hinglaj volume (Las Bela)
   describes the goddess pilgrimage without naming Jogis.
+- **Over time** the change is smaller: caste 51%, ascetic 32%, saint 8%, beggar 9% in 1866–1890 (252 passages);
+  33/44/13/10% in 1891–1935 (325); 47/37/5/11% in 1954–1989 (38). The rise of "ascetic" after 1891 comes largely
+  from Rose's Punjab glossary.
 - **What the Jogi caste did.** Where the officials meant a caste, it was one people were born into, low in rank,
   doing ordinary work; its tie to yoga was the name and a claimed descent from ascetics:
 

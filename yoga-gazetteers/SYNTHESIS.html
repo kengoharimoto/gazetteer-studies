@@ -60,6 +60,8 @@ figcaption{font-family:var(--sans);font-size:14px;line-height:1.5;color:var(--mu
 .legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px;color:var(--fg)}
 .legend span{display:inline-flex;align-items:center;gap:6px}
 .legend i{width:12px;height:12px;border-radius:2px;background:var(--c);display:inline-block}
+.sw{width:12px;height:12px;border-radius:2px;background:var(--c);display:inline-block;vertical-align:-1px;margin-right:6px}
+section h3{margin-top:28px}
 .tablewrap{overflow-x:auto;border:1px solid var(--rule);background:var(--surface)}
 table{border-collapse:collapse;width:100%;font-size:15.5px;min-width:560px}
 th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--rule);vertical-align:top}
@@ -136,39 +138,57 @@ code{font-size:.85em}
 
 <section>
   <div class="step">Evidence 2 · Who the Jogi was</div>
-  <h2>Caste, order, saint or beggar</h2>
-  <p>The chart counts only the passages about Jogis (Jogi, Jugi, Kānphaṭa, Gorakhnāthī), by what each passage says the Jogi was.</p>
-  <figure>
-    <div class="bars" role="img" aria-label="Jogi passages by sense. 1866–1890: caste 50%, ascetic order 30%, saint 11%, beggar 9%. 1891–1935: caste 30%, ascetic order 42%, saint 19%, beggar 9%. 1954–1989: caste 40%, ascetic order 28%, saint 22%, beggar 10%.">
-      <div class="barrow"><div class="bar-label"><b>1866–1890</b>266 passages</div>
-        <div class="bar"><span class="k-caste" style="width:49.6%"></span><span class="k-ascetic" style="width:30.5%"></span><span class="k-saint" style="width:11.3%"></span><span class="k-mend" style="width:8.6%"></span></div></div>
-      <div class="barrow"><div class="bar-label"><b>1891–1935</b>356 passages</div>
-        <div class="bar"><span class="k-caste" style="width:30.1%"></span><span class="k-ascetic" style="width:41.9%"></span><span class="k-saint" style="width:19.1%"></span><span class="k-mend" style="width:9.0%"></span></div></div>
-      <div class="barrow"><div class="bar-label"><b>1954–1989</b>50 passages</div>
-        <div class="bar"><span class="k-caste" style="width:40%"></span><span class="k-ascetic" style="width:28%"></span><span class="k-saint" style="width:22%"></span><span class="k-mend" style="width:10%"></span></div></div>
-    </div>
-    <div class="legend">
-      <span class="k-caste"><i></i>Caste</span><span class="k-ascetic"><i></i>Ascetic order</span><span class="k-saint"><i></i>Saint or shrine</span><span class="k-mend"><i></i>Beggar or performer</span>
-    </div>
-    <figcaption>Share of coded passages on Jogis by sense. The rise of “ascetic order” after 1891 comes largely from the long Jogi articles in Rose’s Punjab glossary (1911–19). After 1954 Jogis are rarely mentioned.</figcaption>
-  </figure>
-  <p>Region matters more than date. Before 1935 the Jogi was mainly a <strong>caste</strong> in Bengal, Madras, the Central Provinces and the UP, and mainly a <strong>Nāth ascetic or a saint</strong> in the Punjab (home of the Tilla monastery) and in Mysore and Kanara. In Bombay he was as often a beggar or performer. In the Punjab census of 1891, about half of the heading “Jogi &amp; Rawal” was Muslim.</p>
+  <h2>A caste or an ascetic, depending on the region</h2>
+  <p>When a gazetteer speaks of living Jogis, it means one of two quite different kinds of people. Most often it means a <strong>caste</strong>: a group one was born into, low in rank, doing ordinary work. Otherwise it means an <strong>ascetic</strong>, usually of the Nāth or Kānphaṭa (“split-ear”) order that traced itself to Gorakhnāth and served temples and monasteries. Which of the two depends far more on <em>where</em> the gazetteer was written than on <em>when</em>.</p>
+
+  <h3>Four kinds of Jogi</h3>
+  <p>Each passage that uses the word Jogi, Jugi or Kānphaṭa was sorted by what it says the Jogi was:</p>
   <div class="tablewrap"><table>
-    <thead><tr><th>Region (1866–1935)</th><th class="num">Caste</th><th class="num">Ascetic order</th><th class="num">Saint</th><th class="num">Beggar</th></tr></thead>
+    <thead><tr><th>Kind</th><th>What the passage describes</th><th>Example</th></tr></thead>
     <tbody>
-      <tr><td>Punjab</td><td class="num">20</td><td class="num">106</td><td class="num">55</td><td class="num">13</td></tr>
-      <tr><td>United Provinces</td><td class="num">103</td><td class="num">64</td><td class="num">26</td><td class="num">8</td></tr>
-      <tr><td>Bombay and Sind</td><td class="num">27</td><td class="num">20</td><td class="num">9</td><td class="num">21</td></tr>
-      <tr><td>Bengal, Bihar, Orissa</td><td class="num">32</td><td class="num">8</td><td class="num">2</td><td class="num">1</td></tr>
-      <tr><td>Central Provinces</td><td class="num">21</td><td class="num">7</td><td class="num">4</td><td class="num">3</td></tr>
-      <tr><td>Rajputana</td><td class="num">13</td><td class="num">15</td><td class="num">2</td><td class="num">1</td></tr>
-      <tr><td>Madras</td><td class="num">22</td><td class="num">2</td><td class="num">0</td><td class="num">4</td></tr>
-      <tr><td>Mysore and Kanara</td><td class="num">1</td><td class="num">8</td><td class="num">0</td><td class="num">4</td></tr>
+      <tr><td><i class="sw k-caste"></i>Caste</td><td>a group defined by birth, rank and occupation</td><td>“Weaving is the hereditary occupation of two Hindu castes, Tantis and Jugis” <span class="src">(Howrah 1909, P00037)</span></td></tr>
+      <tr><td><i class="sw k-ascetic"></i>Ascetic</td><td>a member of an order: initiation, ear-rings, monasteries, temple service</td><td>“The monastery of Jogis on the summit of the isolated peak of Tilla” <span class="src">(Jhelam 1907, P00882)</span></td></tr>
+      <tr><td><i class="sw k-saint"></i>Saint or shrine</td><td>one holy man, living or legendary, or his shrine and fair</td><td>“A Hindu fair is also held … in honor of Baba Bodh Nath Jogi” <span class="src">(Rawalpindi 1895, P00859)</span></td></tr>
+      <tr><td><i class="sw k-mend"></i>Beggar or performer</td><td>wandering singers, snake-catchers, mendicants not tied to an order</td><td>“Bhats, Jogis, Mirasis and Rawals are itinerant musicians and beggars” <span class="src">(Delhi 1913, P00870)</span></td></tr>
     </tbody>
   </table></div>
-  <p class="src">Number of coded passages on Jogis by region and sense. Passages, not persons: one long glossary article counts many times.</p>
-  <h3 style="margin-top:28px">The Jogi on the ground</h3>
-  <p>Where the officials meant a caste, it was one people were born into, low in rank, doing ordinary work. Its tie to yoga was the name and a claimed descent from ascetics.</p>
+  <p class="src">615 passages. Passages that name only Gorakhnāth, mostly legends about the saint himself, are not counted.</p>
+
+  <h3>By region: the main difference</h3>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Region, 1866–1935</th><th>Mostly</th><th class="num">Passages</th><th class="num">Caste</th><th class="num">Ascetic</th><th class="num">Saint</th><th class="num">Beggar</th></tr></thead>
+    <tbody>
+      <tr><td>Madras</td><td>caste</td><td class="num">28</td><td class="num"><b>22</b></td><td class="num">2</td><td class="num">0</td><td class="num">4</td></tr>
+      <tr><td>Bengal, Bihar, Orissa</td><td>caste</td><td class="num">42</td><td class="num"><b>32</b></td><td class="num">8</td><td class="num">1</td><td class="num">1</td></tr>
+      <tr><td>Central Provinces</td><td>caste</td><td class="num">35</td><td class="num"><b>21</b></td><td class="num">7</td><td class="num">4</td><td class="num">3</td></tr>
+      <tr><td>United Provinces</td><td>caste</td><td class="num">184</td><td class="num"><b>102</b></td><td class="num">58</td><td class="num">16</td><td class="num">8</td></tr>
+      <tr><td>Bombay and Sind</td><td>caste or beggar</td><td class="num">68</td><td class="num"><b>25</b></td><td class="num">19</td><td class="num">3</td><td class="num"><b>21</b></td></tr>
+      <tr><td>Rajputana</td><td>caste or ascetic</td><td class="num">30</td><td class="num"><b>13</b></td><td class="num"><b>15</b></td><td class="num">1</td><td class="num">1</td></tr>
+      <tr><td>Punjab</td><td>ascetic</td><td class="num">176</td><td class="num">20</td><td class="num"><b>105</b></td><td class="num">38</td><td class="num">13</td></tr>
+      <tr><td>Mysore and Kanara</td><td>ascetic</td><td class="num">13</td><td class="num">1</td><td class="num"><b>8</b></td><td class="num">0</td><td class="num">4</td></tr>
+    </tbody>
+  </table></div>
+  <p class="src">Number of passages. Passages, not persons: one long glossary article counts many times, and the Punjab figures come largely from Rose’s glossary (1911–19).</p>
+  <p>In the south, the east and the Gangetic plain the Jogi is a caste. In the Punjab, home of the Tilla monastery, he is a Nāth ascetic. Bombay has the most beggars and performers. In the Punjab census of 1891, about half of those counted under “Jogi &amp; Rawal” were Muslim.</p>
+
+  <h3>Over time: a smaller change</h3>
+  <figure>
+    <div class="bars" role="img" aria-label="Jogi passages by kind. 1866–1890: caste 51%, ascetic 32%, saint 8%, beggar 9%. 1891–1935: caste 33%, ascetic 44%, saint 13%, beggar 10%. 1954–1989: caste 47%, ascetic 37%, saint 5%, beggar 11%.">
+      <div class="barrow"><div class="bar-label"><b>1866–1890</b>252 passages</div>
+        <div class="bar"><span class="k-caste" style="width:51.2%"></span><span class="k-ascetic" style="width:31.7%"></span><span class="k-saint" style="width:7.9%"></span><span class="k-mend" style="width:9.1%"></span></div></div>
+      <div class="barrow"><div class="bar-label"><b>1891–1935</b>325 passages</div>
+        <div class="bar"><span class="k-caste" style="width:32.9%"></span><span class="k-ascetic" style="width:43.7%"></span><span class="k-saint" style="width:13.2%"></span><span class="k-mend" style="width:10.2%"></span></div></div>
+      <div class="barrow"><div class="bar-label"><b>1954–1989</b>38 passages</div>
+        <div class="bar"><span class="k-caste" style="width:47.4%"></span><span class="k-ascetic" style="width:36.8%"></span><span class="k-saint" style="width:5.3%"></span><span class="k-mend" style="width:10.5%"></span></div></div>
+    </div>
+    <div class="legend">
+      <span class="k-caste"><i></i>Caste</span><span class="k-ascetic"><i></i>Ascetic</span><span class="k-saint"><i></i>Saint or shrine</span><span class="k-mend"><i></i>Beggar or performer</span>
+    </div>
+    <figcaption>Share of passages by kind. The rise of “ascetic” in 1891–1935 comes largely from one source, Rose’s Punjab glossary. After 1954 Jogis are rarely mentioned.</figcaption>
+  </figure>
+
+  <h3>What the Jogi caste did</h3>
+  <p>Where the officials meant a caste, its tie to yoga was the name and a claimed descent from ascetics. Its members did ordinary work:</p>
   <div class="tablewrap"><table>
     <thead><tr><th>Region</th><th>What the Jogi caste did</th><th>In the gazetteers’ words</th></tr></thead>
     <tbody>
@@ -236,7 +256,7 @@ code{font-size:.85em}
     <tbody>
       <tr><td>Respectable yoga was Patañjali’s; the living yogi was despised</td><td>De Michelis; Singleton; White</td><td><span class="chip ok">Supported, narrowed</span>The officials draw the split themselves, but contempt is confined to a few kinds of text.</td></tr>
       <tr><td>The haṭha yogin was merged with the fakir, mendicant and showman</td><td>Singleton, ch. 2–3</td><td><span class="chip mod">Qualified</span>Jogis were filed under “Faqir”, but the showman is rare. The Jogi is a caste or a Nāth ascetic, depending on region.</td></tr>
-      <tr><td>Colonial “Jogi” meant mainly a caste</td><td>Ondračka; Bordeaux</td><td><span class="chip mod">Regional</span>True for Bengal, Madras, the CP and the UP; not for the Punjab, where Jogis are mainly Nāth ascetics and saints.</td></tr>
+      <tr><td>Colonial “Jogi” meant mainly a caste</td><td>Ondračka; Bordeaux</td><td><span class="chip mod">Regional</span>True for Bengal, Madras, the CP and the UP; not for the Punjab, where Jogis are mainly Nāth ascetics.</td></tr>
       <tr><td>The armed ascetic had dropped out of view by 1900</td><td>Pinch 2006</td><td><span class="chip ok">Supported</span>Among the passages on the orders, 72 speak of armed ascetics in the past tense, 2 in the present.</td></tr>
       <tr><td>Yoga as health and exercise appears only from the 1920s</td><td>Alter; Singleton</td><td><span class="chip ok">Supported</span>Absent from the colonial volumes; first seen in 1954 and 1968.</td></tr>
       <tr><td>The Jugis adopted “Yogi” around 1911 and claimed Brahman status in 1931</td><td>Debnath (unchecked snippet)</td><td><span class="chip mod">Corrected</span>The spelling campaign dates from 1901; Assam tabulated “Yogi” in 1921; the 1931 Brahman claim was the priests’.</td></tr>
