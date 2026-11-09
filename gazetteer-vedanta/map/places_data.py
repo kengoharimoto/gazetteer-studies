@@ -117,7 +117,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Jhansi", "", "Jhansi", "Jhansi", "Uttar Pradesh", 25.45, 78.57, ""),
     ("Jalaun", "Orai", "Jalaun", "Jalaun", "Uttar Pradesh", 26.15, 79.33, ""),
     ("Lalitpur", "", "Lalitpur", "Lalitpur", "Uttar Pradesh", 24.69, 78.42, ""),
-    ("Benares", "Banaras; Kashi; Varanasi", "Varanasi", "Varanasi; Chandauli; Bhadohi", "Uttar Pradesh", 25.32, 83.01, "Nirañjanī, Jūnā and Nirbānī akhāṛās; a Śṛṅgeri branch maṭh appears in a 1935 Mysore file. Rivals: Nevill (1909, pp. 92–93): 'Vedantism … almost exclusively prevails'; Rāmānanda's and Vallabha's influence is strong, 'but … the shrines dedicated to the cult of Shiva greatly predominate'. 1891 census: 4,106 Gosāins (1,899 Daśanāmī), 419 Jogīs, 141 Bairāgīs; 89.4% Hindu, 10.3% Muslim (1901)."),
+    ("Benares", "Banaras; Kashi; Varanasi", "Varanasi", "Varanasi; Chandauli; Bhadohi", "Uttar Pradesh", 25.32, 83.01, "Nirañjanī, Jūnā and Nirbānī akhāṛās; a Śṛṅgeri branch maṭh appears in a 1935 Mysore file. Rivals: Nevill (1909, pp. 92–93): 'Vedantism … almost exclusively prevails'; Rāmānanda's and Vallabha's influence is strong, 'but … the shrines dedicated to the cult of Shiva greatly predominate'. 1891 census: 4,106 Gosāins (1,899 Daśanāmī), 141 Bairāgīs (and 419 Jogīs, mostly a caste, not compared); 89.4% Hindu, 10.3% Muslim (1901)."),
     ("Mirzapur", "", "Mirzapur", "Mirzapur; Sonbhadra", "Uttar Pradesh", 25.15, 82.57, "Mahant Anand Gir's 39 villages; Gosāins owned 44,784 acres."),
     ("Jaunpur", "", "Jaunpur", "Jaunpur", "Uttar Pradesh", 25.75, 82.69, ""),
     ("Ghazipur", "", "Ghazipur", "Ghazipur", "Uttar Pradesh", 25.58, 83.58, ""),
@@ -407,7 +407,7 @@ add("Uḍupi", "Udipi; Udupi", "Udupi", "Udupi", "Karnataka", 13.34, 74.75, "sit
     "Rival centre: seat of the Mādhva maṭhs; Kanara and South Canara Vaiṣṇava Brahmans' guru is 'a Tulu Brahman, who lives in celibacy at the Vaishnav monastery at Udipi'.", "results/; madras/")
 
 # ---------------- Rivals: notes appended to place entries (synthesis, "Evidence 3: how many") ----------------
-_PUNJAB = "Rivals: in the Punjab the Bairāgīs, the Sikh-linked Udāsīs and the Jogīs dominate (the census heading 'Jogī & Rawal' is about half Muslim); Daśanāmīs are thin, none in the west (punjab/README.md)."
+_PUNJAB = "Rivals: in the Punjab the Bairāgīs, the Sikh-linked Udāsīs and the Nāth seats (Tilla, Bohar) dominate; the larger census heading 'Jogī & Rawal' is about half Muslim, mostly a caste, and is not compared. Daśanāmīs are thin, none in the west (punjab/README.md)."
 _GUJ = "Rivals: Gujarat is Vaiṣṇava (Vallabha, Svāminārāyaṇa); the Dvārkā Śaṅkarācārya is referee only for its 'Śaivas'."
 _BENGAL = "Rivals: Bengal proper is a Vaiṣṇava landscape; Sannyāsīs number in the tens per district against tens of thousands of caste-rejecting Vaiṣṇavas (Hunter, 1872)."
 RIVALS = {
@@ -449,7 +449,9 @@ for p in P:
         if "SYNTHESIS.md" not in p["refs"]:
             p["refs"] = (p["refs"] + "; SYNTHESIS.md (Rivals)").strip("; ")
 
-# ---------------- Census counts of the Daśanāmīs and rival orders, by district (census-images/results/) ----------------
+# ---------------- Census counts of the Daśanāmīs and comparable orders, by district (census-images/results/) ----------------
+# The Jogī and Nāth headings are given but marked as not compared: in these tables "Jogi" was mostly a householder
+# caste, not the Nāth order (yoga-gazetteers, section 2; SYNTHESIS.html, Evidence 3).
 def _census_lines():
     import csv, os
     R = "census-images/results/"
@@ -461,15 +463,16 @@ def _census_lines():
     for r in csv.DictReader(open(R + "up1891_ascetics.tsv", encoding="utf-8"), delimiter="\t"):
         t = f"Census 1891: Daśanāmī {f(n(r['goshain_dasnami']))}"
         if n(r["goshain_unspecified"]): t += f" (+ {f(n(r['goshain_unspecified']))} unspecified Goshains)"
-        out[r["district"]] = t + f"; Bairāgī {f(n(r['bairagi']))}; Jogī {f(n(r['jogi']))}."
+        out[r["district"]] = t + f"; Bairāgī {f(n(r['bairagi']))}. Jogī {f(n(r['jogi']))} (mostly a caste, not compared)."
     for r in csv.DictReader(open(R + "punjab1891_castes.tsv", encoding="utf-8"), delimiter="\t"):
         if r["district"].startswith("TOTAL"): continue
-        out[r["district"]] = (f"Census 1891: Gosain {f(n(r['gosain_t']))}; Sanniasi {f(n(r['sanniasi_t']))}; Jogī-Rawal {f(n(r['jogi_rawal_t']))}; "
-                              f"Bairāgī {f(n(r['bairagi_t']))}; Udāsī {f(n(r['udasi_t']))}.")
+        out[r["district"]] = (f"Census 1891: Gosain {f(n(r['gosain_t']))}; Sanniasi {f(n(r['sanniasi_t']))}; "
+                              f"Bairāgī {f(n(r['bairagi_t']))}; Udāsī {f(n(r['udasi_t']))}. Jogī-Rawal {f(n(r['jogi_rawal_t']))} (mostly a caste, not compared).")
     for r in csv.DictReader(open(R + "cp1891_castes.tsv", encoding="utf-8"), delimiter="\t"):
         if r["sex"] != "persons" or r["district_or_state"].startswith("TOTAL"): continue
-        out[r["district_or_state"]] = (f"Census 1891: Gosain {f(n(r['gosain']))}; Bairāgī {f(n(r['bairagi']))}; Jogī {f(n(r['jogi']))}; "
-                                       f"Nāth {f(n(r['nath']))}.")
+        sd = n(r['sanyasi']) + n(r['dandigan']) + n(r['dandi'])
+        out[r["district_or_state"]] = (f"Census 1891: Gosain {f(n(r['gosain']))}" + (f"; Sanyāsī and Daṇḍī {f(sd)}" if sd else "") +
+                                       f"; Bairāgī {f(n(r['bairagi']))}. Jogī {f(n(r['jogi']))} and Nāth {f(n(r['nath']))} (mostly a caste, not compared).")
     for r in csv.DictReader(open(R + "madras1891_tamil_smarta_vs_aiyangar.tsv", encoding="utf-8"), delimiter="\t"):
         if r["district"].startswith(("#", "Division")): continue
         out[r["district"]] = (f"Census 1891, Brahmans: Smārta sub-castes {r['smarta_pct']}%; Aiyaṅgār (Śrīvaiṣṇava) {r['aiyangar_pct']}%; "
@@ -531,9 +534,9 @@ _RIVAL_NAMES = {"Lormi", "Tilla", "Bohar", "Dera Baba Nanak", "Tiruvāvaḍutura
 _RIVAL_ALSO = {"Nandgaon", "Kawardha"}   # districts/states that are also rival seats
 _SEAT_CENSUS = {
     "Lormi": "District census 1891 (Bilaspur): Bairāgī 8,647 (Ramanandi 3,804) against Gosain 2,419.",
-    "Tilla": "District census 1891 (Jhelum): Jogī-Rawal 1,438 against Gosain 10 and Sanniasi 76.",
-    "Bohar": "District census 1891 (Rohtak): Jogī-Rawal 3,717 and Bairāgī 6,317 against Gosain 568.",
-    "Dera Baba Nanak": "District census 1891 (Gurdaspur): only 93 Udāsīs returned, against Jogī-Rawal 5,408, Sanniasi 395, Gosain 2; the seat's following does not show as ascetics.",
+    "Tilla": "District census 1891 (Jhelum): Gosain 10, Sanniasi 76; Jogī-Rawal 1,438 (mostly a caste, not compared: the order's following does not show as a separate heading).",
+    "Bohar": "District census 1891 (Rohtak): Bairāgī 6,317 against Gosain 568; Jogī-Rawal 3,717 (mostly a caste, not compared).",
+    "Dera Baba Nanak": "District census 1891 (Gurdaspur): only 93 Udāsīs returned, against Sanniasi 395 and Gosain 2 (Jogī-Rawal 5,408, mostly a caste, not compared); the seat's following does not show as ascetics.",
 }
 for p in P:
     if p["name"] in _RIVAL_NAMES:
