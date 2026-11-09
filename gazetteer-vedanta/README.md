@@ -16,7 +16,8 @@ its properties (Dharwar, Bijapur, Belgaum, North Kanara, Bellary, Anantapur and 
 with a cross and filtered by the "Kudli estates" chip (`mathas/archives/README.md`).
 Each colonial district entry also carries its census counts of the Daśanāmīs and the comparable orders, from the
 transcribed tables in `census-images/results/`:
-- UP and the CP, 1891: Daśanāmī or Gosain (CP with Sanyāsī and Daṇḍī) against Bairāgī;
+- UP and the CP, 1891: the Daśanāmīs (UP Goshain-Dasnami and Sanniyasi; CP Gosain, Sanyāsī and Daṇḍī) against Bairāgī,
+  and in the UP Udāsī;
 - Punjab, 1891: Gosain and Sanniasi against Bairāgī and Udāsī;
 - in all three, the Jogī (Punjab Jogī-Rawal; CP also Nāth) count is given but marked "mostly a caste, not compared";
 - Bengal, 1901: Atīth and the mixed "Gosain" column;

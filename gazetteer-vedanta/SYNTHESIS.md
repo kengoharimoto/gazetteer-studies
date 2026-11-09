@@ -39,7 +39,7 @@ learned prestige, but it outnumbered the other traditions in only four areas.
 | Where | South and west: Bombay Deccan and Karnatak, Kanara, Madras | North, east and centre: UP, Bihar, Bengal, Punjab, CP |
 | Tie | a caste acknowledges a seat's head as guru, pays dues, takes disputes to him | membership of an order: the ten names, maṭhs and akhāṛās, guru-to-disciple succession |
 | In the texts | "Their spiritual teacher is Shankarāchārya", in caste-by-caste accounts | Gosāins, Atīths, Sannyāsīs: landholders, money-lenders, traders, formerly armed bands |
-| Scale | mostly under 8% of a district's Hindus; Kanara 32–39%; Tamil Brahmans 48% (1891) | UP 103,320 (1891); Bengal Atīths 50,042 (1901, nearly all in Bihar); CP Gosains 24,796 (1891); Punjab about 15,000 |
+| Scale | mostly under 8% of a district's Hindus; Kanara 32–39%; Tamil Brahmans 48% (1891) | UP 107,726 (1891); Bengal Atīths 50,042 (1901, nearly all in Bihar); CP Gosains 24,796 (1891); Punjab about 15,000 |
 
 In both forms the allegiance was **jurisdiction and property more than doctrine**. Śṛṅgeri's agents heard caste
 disputes and collected dues in Kanara; the northern orders held villages, grants and banking houses. The orders were
@@ -80,9 +80,9 @@ orders of the same kind: renunciants with married, landholding offshoots.
 
 | Census | Daśanāmī | Comparable orders in the same table |
 |---|---|---|
-| NWP and Oudh 1891 | 103,320 | Bairāgī 31,979 |
+| NWP and Oudh 1891 | Goshain-Dasnami 103,320; Sanniyasi 4,406 | Bairāgī 31,979; Udāsī 2,809 |
 | Punjab 1891 (British Territory) | Gosain 9,903; Sanniasi 5,163 | Bairāgī 34,102; Udāsī 9,459 |
-| Central Provinces 1891 | Gosain 24,796; Sanyāsī 2,449; Daṇḍī 537 | Bairāgī 29,298 |
+| Central Provinces 1891 | Gosain 24,796; Sanyāsī 2,449; Daṇḍī 537 | Bairāgī 29,298; Udāsī (Nānakshāhī) 467 |
 | Bengal 1901 | Atīth 50,042 | "Gosain" 29,534, mixed, largely Vaiṣṇava |
 | Tamil Madras 1891 | Smārta 47.6% of Brahmans | Aiyaṅgār 22.7% |
 

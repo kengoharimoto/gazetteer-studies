@@ -56,7 +56,7 @@ dominant**. This layer supplies most of the "elsewhere".
      estates of 10,304 acres, three Nāgā akhāṛās, the Daṇḍī satra). The rivals are many but small. The Gosāin
      estates vanish from the 1965 volume.
    - **Ayodhyā:** a Bairāgī town in every layer; Hanumāngaṛhī had 300–400 resident disciples in 1877 and about 200 in
-     1960, but grew richer. The district still returns 5,371 Daśanāmīs (1891). The one explicit Daśanāmī–Bairāgī
+     1960, but grew richer. The district still returns 5,589 Daśanāmīs (1891). The one explicit Daśanāmī–Bairāgī
      conflict in the three cities is the Gosāins' expulsion from Hanumāngaṛhī, told only in 1960.
    - **Mathura:** no Śaṅkara following at any date. There "Gosāin" means a Vaiṣṇava temple lineage.
 4. **Direct conflict with the Śaṅkara side is rare in the texts.**

@@ -19,7 +19,7 @@ Page images and the downloaded OCR XML are in `pages/` (kept out of git).
 The study's verdict (synthesis, "The answer") is that Śaṅkara's tradition was **regional,
 not dominant**. These tables give the numbers behind it.
 - **Where it outnumbered the others:**
-  - the Daśanāmīs are densest in eastern UP and Bihar (NWP 103,320 in 1891; Bengal Atīths 50,042 in 1901);
+  - the Daśanāmīs are densest in eastern UP and Bihar (NWP 107,726 in 1891; Bengal Atīths 50,042 in 1901);
   - Smārtas are 48% of Tamil Brahmans (1891).
 - **Where it was a minority:**
   - Bairāgīs outnumber the Gosains and Sanniasis in the Punjab (34,102 against 15,066, British Territory);
@@ -46,7 +46,10 @@ not dominant**. These tables give the numbers behind it.
 1. **UP 1891: Daśanāmī Goshains were 103,320 (55,347 men + 47,973 women), not 108,320.** The report figure
    used earlier came from its OCR. With unspecified Goshains (38,477) and the few Vaiṣṇava-named ones, all
    Goshains were 142,578.
-   - By district, Daśanāmī persons:
+   - The same table has a separate Sanniyasi column (4,406; p. 53, n94), transcribed on 9 Nov 2026. Counted like the
+     Punjab and the CP (Gosain + Sanyāsī), the NWP Daśanāmīs were **107,726**; Sanniyasis were most numerous in
+     Garhwal (1,077), Gorakhpur (1,069) and Ballia (651). The same page gives Udasi 2,809.
+   - By district, Daśanāmī Goshains:
      - Gonda 11,478
      - Gorakhpur 7,010
      - Fyzabad 5,371
@@ -104,9 +107,9 @@ in `results/`. The synthesis's "Evidence 3: how many" uses them.
 
 | province, census | Daśanāmī / Gosāin | comparable orders in the same table |
 |---|---|---|
-| NWP and Oudh, 1891 | Goshain–Dasnami 103,320 (plus 38,477 "unspecified" Goshains) | Bairāgī 31,979; named Vaiṣṇava Goshains only 752 (Gauriya 432, Radhavallabhi 252, Brindabani 38, Gokulastha 30) |
+| NWP and Oudh, 1891 | Goshain–Dasnami 103,320 and Sanniyasi 4,406 = 107,726 (plus 38,477 "unspecified" Goshains) | Bairāgī 31,979; Udāsī 2,809; named Vaiṣṇava Goshains only 752 (Gauriya 432, Radhavallabhi 252, Brindabani 38, Gokulastha 30) |
 | Punjab, 1891 (whole province) | Gosain 13,344; Sanniasi 9,799 | Bairāgī 47,561; Udāsī 15,194 (all Faqirs 315,305) |
-| Central Provinces, 1891 (British districts) | Gosain 24,796; Sanyasi 2,449; Dandigan 536; Dandi 1 | Bairāgī 29,298 (Ramanandi 7,731, Kabirpanthi 399); Aghori 36. Feudatory States: Bairāgī 6,712 against Gosain 1,038 |
+| Central Provinces, 1891 (British districts) | Gosain 24,796; Sanyasi 2,449; Dandigan 536; Dandi 1 | Bairāgī 29,298 (Ramanandi 7,731, Kabirpanthi 399); Udāsī (Nānakshāhī) 467, of whom 314 returned as Udāsī; Aghori 36. Feudatory States: Bairāgī 6,712 against Gosain 1,038 |
 | Bengal, 1901 | Atīth 50,042 | "Gosain" 29,534: a mixed column, over half in Chota Nagpur, largely Vaiṣṇava gurus |
 | Madras Tamil division, 1891 | Smārta Brahman sub-castes 201,787 (47.6% of Brahmans) | Aiyaṅgār (Śrīvaiṣṇava) 96,127 (22.7%); Mādhva 2,650 |
 
@@ -120,7 +123,7 @@ What this shows:
   separated from the caste in these tables, so the Daśanāmīs are compared only with the Bairāgīs and Udāsīs.
 - **The Bairāgīs are about a third of the Daśanāmīs in the NWP, and outnumber them in the Punjab and the CP.** In
   the CP Feudatory States they lead by more than six to one.
-- **The Udāsīs exceed the Gosāins in the Punjab.**
+- **The Udāsīs exceed the Gosāins in the Punjab** (whole province). Elsewhere they are few: 2,809 in the NWP, 467 in the CP.
 - **The ascetic counts understate the Vaiṣṇava side, which is mostly lay.** The large lay sects appear only where
   the census asked for them, e.g. Bilaspur's 99,260 Kabīrpanthīs (CP report, `../cp/README.md`).
 - **The categories are loose.** The 1891 NWP report warns that "the words Goshain, Bairagi, Jogi, Saniyasi were

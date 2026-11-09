@@ -6,7 +6,7 @@ Writes map/combined_map.png and map/combined_points.tsv.
 
 Two layers, circle AREA proportional to persons (no common denominator exists across the sources):
   ochre  = Daśanāmī persons by district:
-           UP 1891 Goshain-Dasnami; Bengal 1901 Atith; CP 1891 Gosain (all sub-divisions);
+           UP 1891 Goshain-Dasnami + Sanniyasi; Bengal 1901 Atith; CP 1891 Gosain (all sub-divisions) + Sanyasi + Dandi;
            Punjab 1891 Gosain + Sanniasi (Faqir sub-heads); Madras 1891 Sanyasi;
            Bombay 1881 Gosavi, by region only (dashed outline, at regional centres).
   teal   = Smārta persons:
@@ -91,15 +91,15 @@ def num(x):
 
 R = "census-images/results/"
 pts = []  # (layer, region, district, persons, source)
-for r in csv.DictReader(open(R + "up1891_goshain.tsv"), delimiter="\t"):
-    if r["serial"] != "T":
-        pts.append(("dasnami", "UP", r["district"], num(r["dasnami_m"]) + num(r["dasnami_f"]), "UP 1891 Goshain-Dasnami"))
+for r in csv.DictReader(open(R + "up1891_ascetics.tsv"), delimiter="\t"):
+    pts.append(("dasnami", "UP", r["district"], num(r["goshain_dasnami"]) + num(r["sanniyasi"]), "UP 1891 Goshain-Dasnami+Sanniyasi"))
 for r in csv.DictReader(open(R + "bengal1901_atith_gosain.tsv"), delimiter="\t"):
     if r["district"] != "TOTAL":
         pts.append(("dasnami", "Bengal", r["district"], num(r["atith_total"]), "Bengal 1901 Atith"))
 for r in csv.DictReader(open(R + "cp1891_castes.tsv"), delimiter="\t"):
     if r["sex"] == "persons" and not r["district_or_state"].startswith("TOTAL"):
-        pts.append(("dasnami", "CP", r["district_or_state"], num(r["gosain"]), "CP 1891 Gosain"))
+        pts.append(("dasnami", "CP", r["district_or_state"], num(r["gosain"]) + num(r["sanyasi"]) + num(r["dandigan"]) + num(r["dandi"]),
+                    "CP 1891 Gosain+Sanyasi+Dandi"))
 for r in csv.DictReader(open(R + "punjab1891_castes.tsv"), delimiter="\t"):
     if not r["district"].startswith("TOTAL"):
         pts.append(("dasnami", "Punjab", r["district"], num(r["gosain_t"]) + num(r["sanniasi_t"]), "Punjab 1891 Gosain+Sanniasi"))
@@ -260,13 +260,13 @@ ax.annotate("Bombay Gosāvīs 1881\n(by region, dashed)", (75.6, 19.0), xytext=(
 
 ax.annotate("Gujarat", (72.4, 22.6), xytext=(71.2, 23.3), fontsize=7.5, color=MUTED, zorder=6)
 # Inset: census 1891 totals of the Daśanāmīs and rival ascetic orders (census-images/README.md, "Rival orders").
-# Daśanāmī = Goshain-Dasnami (NWP), Gosain + Sanniasi (Punjab, British Territory), Gosain + Sanyasi + Dandigan + Dandi
+# Daśanāmī = Goshain-Dasnami + Sanniyasi (NWP), Gosain + Sanniasi (Punjab, British Territory), Gosain + Sanyasi + Dandigan + Dandi
 # (CP British districts). Only comparable orders (renunciants with married, landholding offshoots): the Jogī and Nāth
 # headings are left out, since in these tables "Jogi" was mostly a householder caste (yoga-gazetteers, section 2).
 RIVAL_TOTALS = [
-    ("NWP & Oudh", [("Daśanāmī", 103320), ("Bairāgī", 31979)]),
+    ("NWP & Oudh", [("Daśanāmī", 107726), ("Bairāgī", 31979), ("Udāsī", 2809)]),
     ("Punjab", [("Daśanāmī", 15066), ("Bairāgī", 34102), ("Udāsī", 9459)]),
-    ("C. Provinces", [("Daśanāmī", 27782), ("Bairāgī", 29298)]),
+    ("C. Provinces", [("Daśanāmī", 27782), ("Bairāgī", 29298), ("Udāsī", 467)]),
 ]
 ins = ax.inset_axes([0.665, 0.035, 0.32, 0.27])
 ins.set_facecolor("white")
@@ -311,10 +311,10 @@ ax.text(0, 1.006, "Regional, not dominant: as an organised following it led only
         "bodies held the larger followings (purple crosses).",
         transform=ax.transAxes, ha="left", va="bottom", fontsize=7.6, color=MUTED, style="italic")
 import textwrap
-FOOT = ("Circle area ∝ persons. Daśanāmī: UP 1891 Goshain-Dasnami, Bengal 1901 Atīth, CP & Punjab 1891 Gosain/Sanniasi, Madras 1891 Sanyāsī; Smārta: Bombay castes asserted Smārta (1880s gazetteers), Tamil Madras 1891 Smārta Brahman sub-castes.\nThe two layers count different things (an order and caste vs a Brahman sect "
+FOOT = ("Circle area ∝ persons. Daśanāmī: UP 1891 Goshain-Dasnami + Sanniyasi, Bengal 1901 Atīth, CP 1891 Gosain + Sanyasi + Dandi, Punjab 1891 Gosain + Sanniasi, Madras 1891 Sanyāsī; Smārta: Bombay castes asserted Smārta (1880s gazetteers), Tamil Madras 1891 Smārta Brahman sub-castes.\nThe two layers count different things (an order and caste vs a Brahman sect "
          "or caste allegiance) and come from different dates; Smārtas are mapped only where the sources allow "
          "(Bombay Presidency, Tamil Madras).\nGujarat, Bengal proper and the western Punjab show near-zero Daśanāmīs. "
-         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909); triangles from the Mysore government files 1891–1945, unlabelled: Gaya, Madura, Tīrthamuttūr, Udagatti (Kudli); × = 30 taluks and states listed by the Kudli maṭh's Agent in 1934 as holding its properties (Hyderabad omitted: none found). Purple crosses: rival centres and seats (rivals/README.md); unlabelled: Gorakhpur (Nāth), Bohar (Nāth), Dera Baba Nanak (Udāsī), Lormi (Bairāgī), Kawardha (Kabīrpanthī), Tiruvāvaḍuturai and Dharmapuram (Tamil Śaiva). Inset: 1891 census totals of comparable orders (Jogī headings left out: mostly a caste); Daśanāmī = Goshain-Dasnami (NWP), Gosain + Sanniasi (Punjab, British Territory), Gosain + Sanyasi + Dandi (CP British districts). "
+         "District positions are approximate headquarters.\nMaṭhas as located by the gazetteers 1876–1910 (Rice's Mysore incl.); Kolhapur shown as Saṅkeśvar's branch (Karvīr Pīṭha only from c. 1909); triangles from the Mysore government files 1891–1945, unlabelled: Gaya, Madura, Tīrthamuttūr, Udagatti (Kudli); × = 30 taluks and states listed by the Kudli maṭh's Agent in 1934 as holding its properties (Hyderabad omitted: none found). Purple crosses: rival centres and seats (rivals/README.md); unlabelled: Gorakhpur (Nāth), Bohar (Nāth), Dera Baba Nanak (Udāsī), Lormi (Bairāgī), Kawardha (Kabīrpanthī), Tiruvāvaḍuturai and Dharmapuram (Tamil Śaiva). Inset: 1891 census totals of comparable orders (Jogī headings left out: mostly a caste); Daśanāmī = Goshain-Dasnami + Sanniyasi (NWP), Gosain + Sanniasi (Punjab, British Territory), Gosain + Sanyasi + Dandi (CP British districts); CP Udāsī = Nānakshāhī. "
          "Sources: gazetteer-vedanta/ (census-images/, results/, sringeri/, mathas/, mathas/archives/, rivals/).")
 FOOT = "\n".join(textwrap.fill(par, 150) for par in FOOT.split("\n"))
 fig.text(0.02, 0.008, FOOT, fontsize=6.6, color=MUTED, va="bottom")

@@ -27,7 +27,7 @@ Provinces, against Bairāgīs, Jogīs and Udāsīs, at two dates.
 
 ## 1. How many: the headcounts
 
-**Province total, 1891:** Goshain Dasnami **103,320**; Goshain unspecified 38,477 in NWP & Oudh, about 0.2% of the
+**Province total, 1891:** Goshain Dasnami **103,320** and Sanniyasi 4,406, so Daśanāmīs **107,726**; Goshain unspecified 38,477 in NWP & Oudh, about 0.2% of the
 population. The Oudh gazetteer (1869) has "upwards of 40,000" Goshains in Oudh alone.
 
 **District table, 1891 (read from page images, `../census-images/results/up1891_goshain.tsv` and
@@ -91,6 +91,8 @@ persons:
 | order | 1891 | where strongest |
 |---|---|---|
 | Goshain–Dasnami | 103,320 | Gonda 11,478; Gorakhpur 7,010; Fyzabad 5,371 |
+| Sanniyasi | 4,406 | Garhwal 1,077; Gorakhpur 1,069; Ballia 651 |
+| Udasi | 2,809 | Dehra Dun 652; Saharanpur 357; Moradabad 270 |
 | Goshain, unspecified | 38,477 | Muttra 17,131 (probably all Braj ascetics: no Bairāgīs or Jogīs returned there) |
 | Goshain, named Vaiṣṇava sub-heads | 752 | Gauriya 432, Radhavallabhi 252 |
 | Jogī | 78,387 | Saharanpur 13,713; Meerut 11,987; Muzaffarnagar 9,229 |
@@ -148,8 +150,8 @@ From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/c
 
 | district | rival seat (tradition) | what the texts give it | Daśanāmī comparison in the same place |
 |---|---|---|---|
-| Fyzabad | Hanumāngaṛhī, Ayodhyā (Nirbānī akhāṛā, Bairāgī) | 300–400 resident disciples (1877), 250 (1905), at most 200 (1960); land in five districts, money-lending | the Gosāins, said to have held Hanumāngaṛhī, were driven out (told only in 1960); 5,371 Daśanāmīs in the district (1891) |
-| Gorakhpur | Gorakhnāth maṭh (Nāth) | "flourishing" on offerings; no villages stated | Ram Ratangir's 36 villages; 7,010 Daśanāmīs (1891) |
+| Fyzabad | Hanumāngaṛhī, Ayodhyā (Nirbānī akhāṛā, Bairāgī) | 300–400 resident disciples (1877), 250 (1905), at most 200 (1960); land in five districts, money-lending | the Gosāins, said to have held Hanumāngaṛhī, were driven out (told only in 1960); 5,589 Daśanāmīs in the district (1891) |
+| Gorakhpur | Gorakhnāth maṭh (Nāth) | "flourishing" on offerings; no villages stated | Ram Ratangir's 36 villages; 8,079 Daśanāmīs (1891) |
 | Saharanpur | Kankhal: Gokul Dās Udāsī | 3,199 acres | Bhola Gir Goshain, 4,024 acres |
 | Dehra Dun | Guru Ram Rai temple (Udāsī) | the largest landholder: Dehra itself and five revenue-free villages | no Daśanāmī estate of that size |
 | Gonda and Unao | Maswasi (Nānakshāhī/Udāsī taluqdar) | 17,215 acres in Gonda; 28 villages in Unao | Itara and Srinagar mahants; Gosāins' 34 villages in 1905 |
@@ -165,7 +167,7 @@ From the coded rivals layer (`../rivals/README.md`; rows in `../rivals/results/c
 
 **Place in the study's verdict (`../SYNTHESIS.md`, "The answer"): Śaṅkara's tradition was regional, not dominant.**
 - **Outnumbered the others:** the eastern Ganges plain is one of the regions where it outnumbered the other traditions.
-  - The NWP returns 103,320 Daśanāmīs (1891), the densest in British India.
+  - The NWP returns 107,726 Daśanāmīs (1891: Goshain-Dasnami 103,320, Sanniyasi 4,406), the densest in British India.
   - Benares is the one city where Śaṅkara's following is institutionally present at every date.
 - **Not uniformly:**
   - The Jogīs (78,387) come close in number.

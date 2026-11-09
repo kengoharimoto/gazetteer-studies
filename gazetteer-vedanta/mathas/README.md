@@ -163,15 +163,15 @@ regional picture is in the synthesis, "Evidence 3: how many". None of this is co
   35,047 in 1933) are richer than the Liṅgāyat maṭhs around them, whose largest stated income is Kaneri's Rs 1,500.
 - **Numbers behind the rivalry (census 1891, persons; `../census-images/README.md`):**
 
-  | province | Daśanāmī / Gosāin | rival orders |
+  | province | Daśanāmī / Gosāin | comparable orders |
   |---|---|---|
-  | NWP and Oudh | 103,320 | Jogī 78,387; Bairāgī 31,979 |
-  | Punjab | Gosain 13,344; Sanniasi 9,799 | Jogī-Rawal 91,937; Bairāgī 47,561; Udāsī 15,194 |
-  | Central Provinces | Gosain 24,796; Sanyasi 2,449 | Bairāgī 29,298; Jogī 6,094; Nāth 5,008 |
+  | NWP and Oudh | Goshain-Dasnami 103,320; Sanniyasi 4,406 | Bairāgī 31,979; Udāsī 2,809 |
+  | Punjab (whole province) | Gosain 13,344; Sanniasi 9,799 | Bairāgī 47,561; Udāsī 15,194 |
+  | Central Provinces | Gosain 24,796; Sanyasi 2,449; Dandigan 536; Dandi 1 | Bairāgī 29,298; Udāsī (Nānakshāhī) 467 |
 
-  - The akhāṛā and maṭh rivalries above are between orders of comparable size. "Jogī" is the largest census heading in the
-    north, but it is not a body of Nāth ascetics: about half Muslim in the Punjab, and in the NWP described more often
-    as a householder caste (`../yoga-gazetteers/`).
+  - The akhāṛā and maṭh rivalries above are between orders of comparable size. The census "Jogī" heading is left out: it
+    is the largest in the north, but mostly a householder caste, not the Nāth order (about half Muslim in the Punjab,
+    and in the NWP described more often as a caste; `../yoga-gazetteers/`).
   - The Bairāgīs outnumber the Daśanāmīs in the Punjab and the CP.
   - These are census headings with loose categories, householders included. In Tamil Madras the comparable figure is the Brahman shares:
     Smārta 47.6%, Aiyaṅgār 22.7%, Mādhva 2,650 persons.

@@ -94,7 +94,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Dehra Dun", "Dehradun", "Dehradun", "Dehradun", "Uttarakhand", 30.32, 78.03, ""),
     ("Saharanpur", "", "Saharanpur", "Saharanpur; Haridwar", "Uttar Pradesh / Uttarakhand", 29.97, 77.55, "Includes Hardwar and Kankhal (Bhola Gir's Gosāins, the Nirañjanī and Nirbānī akhāṛās)."),
     ("Muzaffarnagar", "", "Muzaffarnagar", "Muzaffarnagar; Shamli", "Uttar Pradesh", 29.47, 77.70, ""),
-    ("Meerut", "", "Meerut", "Meerut; Baghpat", "Uttar Pradesh", 28.98, 77.71, "5,326 Gosāins (1872), 5,083 Daśanāmīs (1891)."),
+    ("Meerut", "", "Meerut", "Meerut; Baghpat", "Uttar Pradesh", 28.98, 77.71, "5,326 Gosāins (1872), 5,126 Daśanāmīs (1891)."),
     ("Bulandshahr", "", "Bulandshahr", "Bulandshahr", "Uttar Pradesh", 28.40, 77.85, ""),
     ("Aligarh", "", "Aligarh", "Aligarh; Hathras", "Uttar Pradesh", 27.88, 78.08, ""),
     ("Muttra", "Mathura", "Mathura", "Mathura", "Uttar Pradesh", 27.49, 77.67, " Rivals: Vallabha and Gauḍīya Vaiṣṇava centre. Its 17,131 'Gosains' in 1891 are all unspecified, with no Bairāgīs or Jogīs returned: probably Braj's whole ascetic population (1881: 9,812 Bairāgīs, 3,627 Jogīs; 1901: 18,272 Faqīrs, only 803 Gosāins), not Daśanāmīs."),
@@ -103,7 +103,7 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Mainpuri", "", "Mainpuri", "Mainpuri", "Uttar Pradesh", 27.23, 79.02, ""),
     ("Etawah", "", "Etawah", "Etawah; Auraiya", "Uttar Pradesh", 26.78, 79.02, ""),
     ("Etah", "", "Etah", "Etah; Kasganj", "Uttar Pradesh", 27.56, 78.66, ""),
-    ("Bareilly", "Bareli", "Bareilly", "Bareilly", "Uttar Pradesh", 28.37, 79.43, "6,169 Gosāins (1872), 4,023 Daśanāmīs (1891)."),
+    ("Bareilly", "Bareli", "Bareilly", "Bareilly", "Uttar Pradesh", 28.37, 79.43, "6,169 Gosāins (1872), 4,105 Daśanāmīs (1891)."),
     ("Bijnor", "", "Bijnor", "Bijnor", "Uttar Pradesh", 29.37, 78.14, ""),
     ("Budaun", "Badaun", "Badaun", "Budaun", "Uttar Pradesh", 28.04, 79.12, ""),
     ("Moradabad", "Muradabad", "Moradabad", "Moradabad; Sambhal; Amroha", "Uttar Pradesh", 28.84, 78.77, "Salempur Gosāin maṭh (Ban mahants, 36 villages)."),
@@ -134,8 +134,8 @@ for name, var, modern, dist, state, la, lo, note in [
     ("Sitapur", "", "Sitapur", "Sitapur", "Uttar Pradesh", 27.57, 80.68, "Goshains 'before the abolition of zamindari some of them were zamindars' (revised)."),
     ("Hardoi", "", "Hardoi", "Hardoi", "Uttar Pradesh", 27.40, 80.13, ""),
     ("Kheri", "Lakhimpur", "Lakhimpur Kheri", "Lakhimpur Kheri", "Uttar Pradesh", 27.95, 80.78, ""),
-    ("Fyzabad", "Faizabad", "Ayodhya (district renamed 2018)", "Ayodhya; Ambedkar Nagar", "Uttar Pradesh", 26.78, 82.13, "Ayodhyā dominated by the Bairāgī akhāṛās. Rivals: the gazetteer describes Bairāgī dominance, yet the 1891 census returns 5,371 Daśanāmīs against 2,017 Bairāgīs; enumerators used these words loosely."),
-    ("Gonda", "", "Gonda", "Gonda; Balrampur", "Uttar Pradesh", 27.13, 81.97, "Goshains 'followers of Shankaracharya'; 11,478 Daśanāmīs (1891)."),
+    ("Fyzabad", "Faizabad", "Ayodhya (district renamed 2018)", "Ayodhya; Ambedkar Nagar", "Uttar Pradesh", 26.78, 82.13, "Ayodhyā dominated by the Bairāgī akhāṛās. Rivals: the gazetteer describes Bairāgī dominance, yet the 1891 census returns 5,589 Daśanāmīs against 2,017 Bairāgīs; enumerators used these words loosely."),
+    ("Gonda", "", "Gonda", "Gonda; Balrampur", "Uttar Pradesh", 27.13, 81.97, "Goshains 'followers of Shankaracharya'; 11,491 Daśanāmīs (1891)."),
     ("Bahraich", "", "Bahraich", "Bahraich; Shravasti", "Uttar Pradesh", 27.57, 81.60, ""),
     ("Sultanpur", "", "Sultanpur", "Sultanpur; Amethi", "Uttar Pradesh", 26.26, 82.07, ""),
     ("Partabgarh", "Pratapgarh", "Pratapgarh", "Pratapgarh", "Uttar Pradesh", 25.90, 81.95, ""),
@@ -461,9 +461,10 @@ def _census_lines():
     f = lambda x: f"{x:,}"
     out = {}
     for r in csv.DictReader(open(R + "up1891_ascetics.tsv", encoding="utf-8"), delimiter="\t"):
-        t = f"Census 1891: Daśanāmī {f(n(r['goshain_dasnami']))}"
+        d, sy = n(r['goshain_dasnami']), n(r['sanniyasi'])
+        t = f"Census 1891: Daśanāmī {f(d + sy)}" + (f" (Goshain-Dasnami {f(d)}, Sanniyasi {f(sy)})" if sy else "")
         if n(r["goshain_unspecified"]): t += f" (+ {f(n(r['goshain_unspecified']))} unspecified Goshains)"
-        out[r["district"]] = t + f"; Bairāgī {f(n(r['bairagi']))}. Jogī {f(n(r['jogi']))} (mostly a caste, not compared)."
+        out[r["district"]] = t + f"; Bairāgī {f(n(r['bairagi']))}; Udāsī {f(n(r['udasi']))}. Jogī {f(n(r['jogi']))} (mostly a caste, not compared)."
     for r in csv.DictReader(open(R + "punjab1891_castes.tsv", encoding="utf-8"), delimiter="\t"):
         if r["district"].startswith("TOTAL"): continue
         out[r["district"]] = (f"Census 1891: Gosain {f(n(r['gosain_t']))}; Sanniasi {f(n(r['sanniasi_t']))}; "

@@ -29,8 +29,8 @@ in the north and east, as the Daśanāmī orders: Gosains, Gosavis (Marathi, Ber
   - Also Sanyasi 2,449, Dandigan 536, Bairagi 29,298, Jogi 6,094 and Nath 5,008.
 
 - **Province, 1911 (Russell):** Gosains "a little over 40,000", distributed over all districts. Bairagis about
-  38,000; Jogis about 15,000. This is the same order of magnitude as the United Provinces (103,320 Daśanāmī
-  Goshains in a population five times larger). The Daśanāmīs are relatively denser in the CP than in the UP,
+  38,000; Jogis about 15,000. This is the same order of magnitude as the United Provinces (107,726 Daśanāmīs,
+  Goshains and Sanniyasis, in a population five times larger). The Daśanāmīs are relatively denser in the CP than in the UP,
   and far denser than in the Punjab.
 - **District figures** are rare:
   - Nagpur 6,203 Gosains (Grant, 1866 census).
