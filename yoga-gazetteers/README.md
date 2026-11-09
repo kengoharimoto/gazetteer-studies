@@ -22,14 +22,15 @@ revised Rajasthan, Baluchistan).
 1. **Two words for two things.** *Yoga* meant Patañjali's philosophy, and the rare spelling *Yogi* mostly an
    ascetic of the past. *Jogi* meant living people. The officials knew that Jogi came from Yoga, and then described
    Jogis who had nothing to do with it.
-2. **Who the Jogi was depended on the region.** In the east, the south and the Gangetic plain he was a member of a
-   caste, low in rank and doing ordinary work: weaving, farming, catching snakes. In the Punjab he was an ascetic of
-   the Nāth order. In Bombay he was often a wandering singer or beggar. Where he was a caste, the officials
-   recorded him as they recorded any other caste: by rank and trade.
-3. **The change came after 1900.** Within the colonial period the picture changed little. Then the Jugi weavers of
-   Bengal and Assam claimed the names Jogi and Yogi (1901–1931). After independence the revised gazetteers seldom
-   mention Jogis, and they treat yoga with respect: as philosophy, through Vivekananda, and from the 1950s as
-   exercise.
+2. **Who the Jogi was depended on the region.** In Bengal, Madras, the Central Provinces and the United Provinces he
+   was mostly a member of a caste, low in rank and doing ordinary work: weaving, farming, catching snakes. In the
+   Punjab, and in Mysore and Kanara, he was mostly an ascetic of the Nāth order. In Bombay he was often a wandering
+   singer or beggar. Where he was a caste, the officials recorded him as they recorded any other caste: by rank and
+   trade.
+3. **The change came after 1900.** Within the colonial period the kinds of Jogi changed little. Then the Jugi
+   weavers of Bengal and Assam claimed the names Jogi and Yogi (1901–1931). After independence the revised
+   gazetteers seldom mention Jogis, and they treat yoga with respect: as philosophy, through Vivekananda, and from
+   the 1950s as exercise.
 
 ## Evidence
 
